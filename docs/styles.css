@@ -123,12 +123,10 @@ img {
   flex: 0 0 auto;
 }
 
-.arxiv-mark {
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.86rem;
-  font-weight: 700;
-  line-height: 1;
+.arxiv-logo {
+  width: 2.2rem;
+  height: auto;
+  display: block;
 }
 
 .button:hover,
@@ -136,6 +134,11 @@ img {
 .reveal-button:hover,
 .reveal-button:focus-visible {
   background: #eeeeee;
+}
+
+.reveal-button.show-solution {
+  color: #2f8f46;
+  border-color: #2f8f46;
 }
 
 .examples {
