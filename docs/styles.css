@@ -47,7 +47,7 @@ h1 {
 
 h2 {
   margin-bottom: 0.65rem;
-  font-size: 1.35rem;
+  font-size: 1em;
   line-height: 1.25;
   letter-spacing: 0;
 }
@@ -74,6 +74,7 @@ img {
 }
 
 .authors,
+.affiliations,
 .actions,
 .button,
 .reveal-button {
@@ -81,9 +82,21 @@ img {
 }
 
 .authors {
-  margin-bottom: 1rem;
+  margin-bottom: 0.35rem;
+  color: var(--ink);
+  font-size: 1.08rem;
+}
+
+.affiliations {
+  list-style-position: inside;
+  margin: 0 0 1rem;
+  padding: 0;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.affiliations li {
+  margin: 0.1rem 0;
 }
 
 .actions {
@@ -91,7 +104,11 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   gap: 0.6rem;
-  margin-bottom: 1.25rem;
+  margin-bottom: 2.5rem;
+}
+
+.abstract-label {
+  margin-bottom: 0.35rem;
 }
 
 .button,
