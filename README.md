@@ -21,6 +21,7 @@ This project analyzes speech and behavioral data from a matchstick-arithmetic pr
   - `speech_rate/`: trial-level speech-rate table.
   - `speech_semantics/`: utterance embeddings and semantic-classifier outputs.
   - `reasoning_moves/`: utterance-level reasoning-move annotations.
+  - `stimuli/`: matchstick-arithmetic stimuli and accepted outputs used in the experiment.
 
 - `scripts/`  
   Optional helper scripts for generating transcripts with WhisperX and detecting speech/silence segments with Silero VAD. These scripts are not required to run the included analyses, but may help for researchers interested in applying similar analysis from raw audio recordings.
