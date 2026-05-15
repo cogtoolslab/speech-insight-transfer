@@ -1,18 +1,22 @@
 document.querySelectorAll("[data-example]").forEach((card) => {
   const button = card.querySelector(".reveal-button");
-  const problemImage = card.querySelector(".problem-image");
-  const solutionImage = card.querySelector(".solution-image");
+  const image = card.querySelector(".example-image");
 
-  if (!button || !problemImage || !solutionImage) {
+  if (!button || !image) {
     return;
   }
 
   button.addEventListener("click", () => {
-    const isShowingSolution = button.getAttribute("aria-expanded") === "true";
+    const showingSolution = button.getAttribute("aria-expanded") === "true";
 
-    problemImage.hidden = !isShowingSolution;
-    solutionImage.hidden = isShowingSolution;
-    button.setAttribute("aria-expanded", String(!isShowingSolution));
-    button.textContent = isShowingSolution ? "Show Solution" : "Show Problem";
+    if (showingSolution) {
+      image.setAttribute("src", image.dataset.problem);
+      button.setAttribute("aria-expanded", "false");
+      button.textContent = "Show Solution";
+    } else {
+      image.setAttribute("src", image.dataset.solution);
+      button.setAttribute("aria-expanded", "true");
+      button.textContent = "Show Problem";
+    }
   });
 });
