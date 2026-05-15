@@ -170,6 +170,14 @@ img {
   border: 1px solid var(--line);
 }
 
+.solution-label {
+  margin-bottom: 0.4rem;
+  color: #2f8f46;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
 .reveal-button {
   margin-top: 0;
 }
