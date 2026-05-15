@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_fee3a357342f/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, I think I get it now.I think I understand now.Let's see, so 7 equals 9 plus 3.7 equals 9 plus 3.I have a 7.OK, I think I get it now.I think I understand.Let's see, 1 IV. I see.I plus 1, 2, 3.So 7 equals 4 plus 3.7 equals 4 plus 3.Yeah, I think that works.",
+    "segments": [
+      {
+        "text": " OK, I think I get it now.",
+        "start": 1.735,
+        "end": 4.879
+      },
+      {
+        "text": "I think I understand now.",
+        "start": 4.899,
+        "end": 6.721
+      },
+      {
+        "text": "Let's see, so 7 equals 9 plus 3.",
+        "start": 7.982,
+        "end": 12.447
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 12.467,
+        "end": 19.175
+      },
+      {
+        "text": "I have a 7.",
+        "start": 19.275,
+        "end": 21.338
+      },
+      {
+        "text": "OK, I think I get it now.",
+        "start": 21.358,
+        "end": 22.419
+      },
+      {
+        "text": "I think I understand.",
+        "start": 24.401,
+        "end": 25.663
+      },
+      {
+        "text": "Let's see, 1 IV.",
+        "start": 27.585,
+        "end": 29.447
+      },
+      {
+        "text": " I see.",
+        "start": 30.895,
+        "end": 31.677
+      },
+      {
+        "text": "I plus 1, 2, 3.",
+        "start": 31.697,
+        "end": 37.269
+      },
+      {
+        "text": "So 7 equals 4 plus 3.",
+        "start": 37.85,
+        "end": 42.661
+      },
+      {
+        "text": "7 equals 4 plus 3.",
+        "start": 42.681,
+        "end": 45.427
+      },
+      {
+        "text": "Yeah, I think that works.",
+        "start": 45.447,
+        "end": 46.71
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, I think I get it now. I think I understand now. Let's see, so 7 equals 9 plus 3. 7 equals 9 plus 3. I have a 7. OK, I think I get it now. I think I understand. Let's see, 1 IV. I see. I plus 1, 2, 3. So 7 equals 4 plus 3. 7 equals 4 plus 3. Yeah, I think that works."
+  }
+}

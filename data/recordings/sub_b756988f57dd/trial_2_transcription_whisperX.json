@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_b756988f57dd/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one says 3 equals xi, which is 6 plus 4.No, I'm sorry.3 equals xi, which is 11 plus 9.11 minus. 12 minus 9, I got, I think I got this one.I think I need to change this plus to a minus, moving the vertical matchstick over to the grouping right to the left of it to make that 12 minus 9.And that will give you 3.So, I believe that one is how to do it.So, let's try this here.Okay.1, 2, 3. equals XII minus IX.So, 3 equals 12 minus 9.And I believe that this meets the criteria because the only I that I moved was the vertical, I'm sorry, the only matchstick that I moved was the vertical matchstick removed it from the plus sign, turning that into a minus sign, and I moved it to the xi 11 to make that 12.So, yeah, 3 equals 12 minus 9.I think that's it.",
+    "segments": [
+      {
+        "text": " Okay, so this one says 3 equals xi, which is 6 plus 4.",
+        "start": 2.242,
+        "end": 9.714
+      },
+      {
+        "text": "No, I'm sorry.",
+        "start": 14.121,
+        "end": 14.662
+      },
+      {
+        "text": "3 equals xi, which is 11 plus 9.",
+        "start": 14.682,
+        "end": 22.535
+      },
+      {
+        "text": "11 minus.",
+        "start": 22.555,
+        "end": 28.384
+      },
+      {
+        "text": " 12 minus 9, I got, I think I got this one.",
+        "start": 33.983,
+        "end": 36.167
+      },
+      {
+        "text": "I think I need to change this plus to a minus, moving the vertical matchstick over to the grouping right to the left of it to make that 12 minus 9.",
+        "start": 36.487,
+        "end": 50.851
+      },
+      {
+        "text": "And that will give you 3.",
+        "start": 50.891,
+        "end": 53.476
+      },
+      {
+        "text": "So, I believe that one is how to do it.",
+        "start": 53.636,
+        "end": 56.721
+      },
+      {
+        "text": "So, let's try this here.",
+        "start": 56.741,
+        "end": 57.863
+      },
+      {
+        "text": "Okay.",
+        "start": 57.883,
+        "end": 58.204
+      },
+      {
+        "text": "1, 2, 3.",
+        "start": 58.224,
+        "end": 60.227
+      },
+      {
+        "text": " equals XII minus IX.",
+        "start": 63.785,
+        "end": 77.62
+      },
+      {
+        "text": "So, 3 equals 12 minus 9.",
+        "start": 78.481,
+        "end": 81.645
+      },
+      {
+        "text": "And I believe that this meets the criteria because the only I that I moved was the vertical, I'm sorry, the only matchstick that I moved was the vertical matchstick",
+        "start": 81.805,
+        "end": 92.577
+      },
+      {
+        "text": " removed it from the plus sign, turning that into a minus sign, and I moved it to the xi 11 to make that 12.",
+        "start": 92.81,
+        "end": 100.833
+      },
+      {
+        "text": "So, yeah, 3 equals 12 minus 9.",
+        "start": 101.154,
+        "end": 102.899
+      },
+      {
+        "text": "I think that's it.",
+        "start": 102.919,
+        "end": 103.36
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one says 3 equals xi, which is 6 plus 4. No, I'm sorry. 3 equals xi, which is 11 plus 9. 11 minus. 12 minus 9, I got, I think I got this one. I think I need to change this plus to a minus, moving the vertical matchstick over to the grouping right to the left of it to make that 12 minus 9. And that will give you 3. So, I believe that one is how to do it. So, let's try this here. Okay. 1, 2, 3. equals XII minus IX. So, 3 equals 12 minus 9. And I believe that this meets the criteria because the only I that I moved was the vertical, I'm sorry, the only matchstick that I moved was the vertical matchstick removed it from the plus sign, turning that into a minus sign, and I moved it to the xi 11 to make that 12. So, yeah, 3 equals 12 minus 9. I think that's it."
+  }
+}

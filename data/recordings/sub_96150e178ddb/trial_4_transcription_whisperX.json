@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_96150e178ddb/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, here we go again.Again, we know we're changing the plus to a minus because we start with a nine and we already, so we've got nine, oof.This would be nine equals 13 minus four, same thing.So nine equals 13 minus four.",
+    "segments": [
+      {
+        "text": " Okay, here we go again.",
+        "start": 2.039,
+        "end": 2.96
+      },
+      {
+        "text": "Again, we know we're changing the plus to a minus because we start with a nine and we already, so we've got nine, oof.",
+        "start": 3.241,
+        "end": 10.492
+      },
+      {
+        "text": "This would be nine equals 13 minus four, same thing.",
+        "start": 13.977,
+        "end": 18.704
+      },
+      {
+        "text": "So nine equals 13 minus four.",
+        "start": 18.845,
+        "end": 25.735
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, here we go again. Again, we know we're changing the plus to a minus because we start with a nine and we already, so we've got nine, oof. This would be nine equals 13 minus four, same thing. So nine equals 13 minus four."
+  }
+}

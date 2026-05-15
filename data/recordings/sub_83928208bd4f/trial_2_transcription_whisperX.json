@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_83928208bd4f/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so now we move on to the second puzzle.First we have a four equals seven plus four.Okay, so we can move one stick again.Hmm. four again I'm trying to look at the start of the equation which is a four equals seven plus another four and we somehow need to set that equals to four again so let's see we can move one stick 7 minus 4 would be good.OK, what about if we move the plus, make it a plus, and add that to the V?So it will be 8 minus, OK, I think we have it.I think maybe 8 minus 4 equals 4.OK, so I think I've solved it in my head.IV equals? v i i i minus iv we just moved the from the plus one stick",
+    "segments": [
+      {
+        "text": " Okay, so now we move on to the second puzzle.",
+        "start": 0.031,
+        "end": 2.615
+      },
+      {
+        "text": "First we have a four equals seven plus four.",
+        "start": 2.675,
+        "end": 10.906
+      },
+      {
+        "text": "Okay, so we can move one stick again.",
+        "start": 11.848,
+        "end": 23.324
+      },
+      {
+        "text": "Hmm.",
+        "start": 23.364,
+        "end": 27.81
+      },
+      {
+        "text": " four again I'm trying to look at the start of the equation which is a four equals seven plus another four and we somehow need to set that equals to four again so let's see we can move one stick",
+        "start": 29.832,
+        "end": 58.489
+      },
+      {
+        "text": " 7 minus 4 would be good.",
+        "start": 60.241,
+        "end": 64.066
+      },
+      {
+        "text": "OK, what about if we move the plus, make it a plus, and add that to the V?",
+        "start": 66.089,
+        "end": 70.455
+      },
+      {
+        "text": "So it will be 8 minus, OK, I think we have it.",
+        "start": 70.875,
+        "end": 77.264
+      },
+      {
+        "text": "I think maybe 8 minus 4 equals 4.",
+        "start": 77.284,
+        "end": 83.472
+      },
+      {
+        "text": "OK, so I think I've solved it in my head.",
+        "start": 83.832,
+        "end": 86.516
+      },
+      {
+        "text": "IV equals?",
+        "start": 87.217,
+        "end": 88.999
+      },
+      {
+        "text": " v i i i minus iv we just moved the from the plus one stick",
+        "start": 89.317,
+        "end": 97.875
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so now we move on to the second puzzle. First we have a four equals seven plus four. Okay, so we can move one stick again. Hmm. four again I'm trying to look at the start of the equation which is a four equals seven plus another four and we somehow need to set that equals to four again so let's see we can move one stick 7 minus 4 would be good. OK, what about if we move the plus, make it a plus, and add that to the V? So it will be 8 minus, OK, I think we have it. I think maybe 8 minus 4 equals 4. OK, so I think I've solved it in my head. IV equals? v i i i minus iv we just moved the from the plus one stick"
+  }
+}

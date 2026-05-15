@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_1cd849d418d1/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, eight equals eight plus eight.I'm thinking, I'm thinking, uh, only use one matchstick I have no idea If you add X, no.All right, I'm completely stumped. I'm still here, still confused.Um. I don't know how you do this. This is impossible.This is impossible to move one matchstick and make this work.I think this is impossible.And I'm pissed off and frustrated.How do you make 8 equal 8 plus 8 by moving one matchstick?8 plus 8 is 16. You can't just move one matchstick.I mean, I'm totally cheating.Yeah, I don't know.I give up. I give up.Fuck you, you fucking fuck.",
+    "segments": [
+      {
+        "text": " Okay, eight equals eight plus eight.",
+        "start": 1.145,
+        "end": 4.069
+      },
+      {
+        "text": "I'm thinking, I'm thinking, uh,",
+        "start": 22.997,
+        "end": 27.203
+      },
+      {
+        "text": " only use one matchstick I have no idea",
+        "start": 37.038,
+        "end": 50.929
+      },
+      {
+        "text": " If you add X, no.",
+        "start": 63.835,
+        "end": 68.441
+      },
+      {
+        "text": "All right, I'm completely stumped.",
+        "start": 85.082,
+        "end": 86.704
+      },
+      {
+        "text": " I'm still here, still confused.",
+        "start": 102.04,
+        "end": 106.197
+      },
+      {
+        "text": "Um.",
+        "start": 111.94,
+        "end": 112.0
+      },
+      {
+        "text": " I don't know how you do this.",
+        "start": 130.66,
+        "end": 132.115
+      },
+      {
+        "text": " This is impossible.",
+        "start": 160.006,
+        "end": 160.887
+      },
+      {
+        "text": "This is impossible to move one matchstick and make this work.",
+        "start": 162.289,
+        "end": 165.634
+      },
+      {
+        "text": "I think this is impossible.",
+        "start": 166.595,
+        "end": 167.777
+      },
+      {
+        "text": "And I'm pissed off and frustrated.",
+        "start": 170.04,
+        "end": 172.243
+      },
+      {
+        "text": "How do you make 8 equal 8 plus 8 by moving one matchstick?",
+        "start": 172.303,
+        "end": 179.673
+      },
+      {
+        "text": "8 plus 8 is 16.",
+        "start": 180.514,
+        "end": 181.896
+      },
+      {
+        "text": " You can't just move one matchstick.",
+        "start": 187.985,
+        "end": 190.229
+      },
+      {
+        "text": "I mean, I'm totally cheating.",
+        "start": 200.828,
+        "end": 202.01
+      },
+      {
+        "text": "Yeah, I don't know.",
+        "start": 202.05,
+        "end": 207.72
+      },
+      {
+        "text": "I give up.",
+        "start": 208.621,
+        "end": 209.082
+      },
+      {
+        "text": " I give up.",
+        "start": 222.68,
+        "end": 223.689
+      },
+      {
+        "text": "Fuck you, you fucking fuck.",
+        "start": 225.203,
+        "end": 227.222
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, eight equals eight plus eight. I'm thinking, I'm thinking, uh, only use one matchstick I have no idea If you add X, no. All right, I'm completely stumped. I'm still here, still confused. Um. I don't know how you do this. This is impossible. This is impossible to move one matchstick and make this work. I think this is impossible. And I'm pissed off and frustrated. How do you make 8 equal 8 plus 8 by moving one matchstick? 8 plus 8 is 16. You can't just move one matchstick. I mean, I'm totally cheating. Yeah, I don't know. I give up. I give up. Fuck you, you fucking fuck."
+  }
+}

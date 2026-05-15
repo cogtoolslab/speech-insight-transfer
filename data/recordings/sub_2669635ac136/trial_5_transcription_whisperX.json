@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_2669635ac136/trial_5.wav",
+  "with_timestamps": {
+    "text": " 13 equals 9 minus 4.And that's not true, of course.It seems like I have to either reduce this side to 8 or increase this side by making this a plus.So if nine plus four, that would be 13.But that won't work here because that would require one of these.If I move this one here to make it 11 minus four, that's not 13.If I change this X to a V, that makes it eight equals nine minus four.Obviously not right. I still think I'd have to turn this into a plus somehow, but I don't know how.If I do that stick, it goes 10 plus 4, which is 14.If I do that stick, it's 9 plus, there we go, that's the answer, equals IX. Minus.No, that's not right, shoot.X, yeah.If I move this, turn that into a V, that makes it nine plus five, which is 14.Or if I move this over, that turns it 10 plus four, which is 14. If I move this stick over here, that won't work.I think I need to turn this to a plus.Changing that X into a V or vice versa will just make this side zero.Changing that X into a V just makes it eight.I can't do anything else.Hmm. I don't know.11 minus 4 is 7.10 plus 4 is 14.9 plus 5 is 14. 13, 9, and 4.I need to make that a plus, but I have no stick to do it.I don't know what to do here.I can make this 11 minus 4.That's 7.That won't work. I don't know the answer here in this one.I can't figure it out.Shit.Yep.No idea.",
+    "segments": [
+      {
+        "text": " 13 equals 9 minus 4.",
+        "start": 1.55,
+        "end": 4.013
+      },
+      {
+        "text": "And that's not true, of course.",
+        "start": 5.816,
+        "end": 7.177
+      },
+      {
+        "text": "It seems like I have to either reduce this side to 8",
+        "start": 27.785,
+        "end": 30.949
+      },
+      {
+        "text": " or increase this side by making this a plus.",
+        "start": 33.173,
+        "end": 35.796
+      },
+      {
+        "text": "So if nine plus four, that would be 13.",
+        "start": 36.697,
+        "end": 40.302
+      },
+      {
+        "text": "But that won't work here because that would require one of these.",
+        "start": 42.264,
+        "end": 45.869
+      },
+      {
+        "text": "If I move this one here to make it 11 minus four, that's not 13.",
+        "start": 47.871,
+        "end": 52.978
+      },
+      {
+        "text": "If I change this X to a V, that makes it eight equals nine minus four.",
+        "start": 54.439,
+        "end": 59.986
+      },
+      {
+        "text": "Obviously not right.",
+        "start": 60.467,
+        "end": 61.408
+      },
+      {
+        "text": " I still think I'd have to turn this into a plus somehow, but I don't know how.",
+        "start": 63.818,
+        "end": 75.172
+      },
+      {
+        "text": "If I do that stick, it goes 10 plus 4, which is 14.",
+        "start": 75.212,
+        "end": 83.221
+      },
+      {
+        "text": "If I do that stick, it's 9 plus, there we go, that's the answer, equals IX.",
+        "start": 83.982,
+        "end": 91.952
+      },
+      {
+        "text": " Minus.",
+        "start": 93.704,
+        "end": 94.305
+      },
+      {
+        "text": "No, that's not right, shoot.",
+        "start": 96.608,
+        "end": 106.46
+      },
+      {
+        "text": "X, yeah.",
+        "start": 106.48,
+        "end": 106.781
+      },
+      {
+        "text": "If I move this, turn that into a V, that makes it nine plus five, which is 14.",
+        "start": 108.223,
+        "end": 113.85
+      },
+      {
+        "text": "Or if I move this over, that turns it 10 plus four, which is 14.",
+        "start": 114.03,
+        "end": 123.222
+      },
+      {
+        "text": " If I move this stick over here, that won't work.",
+        "start": 127.927,
+        "end": 131.472
+      },
+      {
+        "text": "I think I need to turn this to a plus.",
+        "start": 131.612,
+        "end": 133.374
+      },
+      {
+        "text": "Changing that X into a V or vice versa will just make this side zero.",
+        "start": 136.478,
+        "end": 140.984
+      },
+      {
+        "text": "Changing that X into a V just makes it eight.",
+        "start": 144.468,
+        "end": 147.091
+      },
+      {
+        "text": "I can't do anything else.",
+        "start": 147.332,
+        "end": 148.413
+      },
+      {
+        "text": "Hmm.",
+        "start": 154.841,
+        "end": 155.402
+      },
+      {
+        "text": " I don't know.",
+        "start": 161.457,
+        "end": 162.038
+      },
+      {
+        "text": "11 minus 4 is 7.",
+        "start": 162.058,
+        "end": 167.524
+      },
+      {
+        "text": "10 plus 4 is 14.",
+        "start": 167.564,
+        "end": 171.829
+      },
+      {
+        "text": "9 plus 5 is 14.",
+        "start": 171.849,
+        "end": 189.81
+      },
+      {
+        "text": " 13, 9, and 4.",
+        "start": 192.895,
+        "end": 194.957
+      },
+      {
+        "text": "I need to make that a plus, but I have no stick to do it.",
+        "start": 197.86,
+        "end": 200.683
+      },
+      {
+        "text": "I don't know what to do here.",
+        "start": 204.608,
+        "end": 205.809
+      },
+      {
+        "text": "I can make this 11 minus 4.",
+        "start": 205.849,
+        "end": 214.158
+      },
+      {
+        "text": "That's 7.",
+        "start": 214.458,
+        "end": 215.459
+      },
+      {
+        "text": "That won't work.",
+        "start": 215.579,
+        "end": 216.22
+      },
+      {
+        "text": " I don't know the answer here in this one.",
+        "start": 228.181,
+        "end": 229.545
+      },
+      {
+        "text": "I can't figure it out.",
+        "start": 229.585,
+        "end": 231.189
+      },
+      {
+        "text": "Shit.",
+        "start": 231.209,
+        "end": 231.49
+      },
+      {
+        "text": "Yep.",
+        "start": 237.345,
+        "end": 237.506
+      },
+      {
+        "text": "No idea.",
+        "start": 238.589,
+        "end": 239.17
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 13 equals 9 minus 4. And that's not true, of course. It seems like I have to either reduce this side to 8 or increase this side by making this a plus. So if nine plus four, that would be 13. But that won't work here because that would require one of these. If I move this one here to make it 11 minus four, that's not 13. If I change this X to a V, that makes it eight equals nine minus four. Obviously not right. I still think I'd have to turn this into a plus somehow, but I don't know how. If I do that stick, it goes 10 plus 4, which is 14. If I do that stick, it's 9 plus, there we go, that's the answer, equals IX. Minus. No, that's not right, shoot. X, yeah. If I move this, turn that into a V, that makes it nine plus five, which is 14. Or if I move this over, that turns it 10 plus four, which is 14. If I move this stick over here, that won't work. I think I need to turn this to a plus. Changing that X into a V or vice versa will just make this side zero. Changing that X into a V just makes it eight. I can't do anything else. Hmm. I don't know. 11 minus 4 is 7. 10 plus 4 is 14. 9 plus 5 is 14. 13, 9, and 4. I need to make that a plus, but I have no stick to do it. I don't know what to do here. I can make this 11 minus 4. That's 7. That won't work. I don't know the answer here in this one. I can't figure it out. Shit. Yep. No idea."
+  }
+}

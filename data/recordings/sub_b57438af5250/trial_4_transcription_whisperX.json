@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_b57438af5250/trial_4.wav",
+  "with_timestamps": {
+    "text": " Damn it, I thought.This is right.Nine.One X. Minus.Five, one, one.Seven minus nine, I can't do that actually, it won't work.",
+    "segments": [
+      {
+        "text": " Damn it, I thought.",
+        "start": 0.368,
+        "end": 3.712
+      },
+      {
+        "text": "This is right.",
+        "start": 6.936,
+        "end": 7.657
+      },
+      {
+        "text": "Nine.",
+        "start": 11.061,
+        "end": 11.442
+      },
+      {
+        "text": "One X. Minus.",
+        "start": 15.307,
+        "end": 22.636
+      },
+      {
+        "text": "Five, one, one.",
+        "start": 22.656,
+        "end": 24.498
+      },
+      {
+        "text": "Seven minus nine, I can't do that actually, it won't work.",
+        "start": 24.638,
+        "end": 28.603
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Damn it, I thought. This is right. Nine. One X. Minus. Five, one, one. Seven minus nine, I can't do that actually, it won't work."
+  }
+}

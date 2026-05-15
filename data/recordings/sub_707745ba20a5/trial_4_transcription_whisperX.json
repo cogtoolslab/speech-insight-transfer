@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_707745ba20a5/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, we have six is equal to six plus one.Okay, again, similar solution.We're gonna move the matchstick from the plus sign to make it a minus sign.So we have VI equals VII minus I. And we'll submit that.",
+    "segments": [
+      {
+        "text": " Okay, we have six is equal to six plus one.",
+        "start": 0.031,
+        "end": 5.223
+      },
+      {
+        "text": "Okay, again, similar solution.",
+        "start": 5.584,
+        "end": 8.23
+      },
+      {
+        "text": "We're gonna move the matchstick from the plus sign to make it a minus sign.",
+        "start": 8.27,
+        "end": 12.861
+      },
+      {
+        "text": "So we have VI equals VII minus I. And we'll submit that.",
+        "start": 12.941,
+        "end": 23.085
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we have six is equal to six plus one. Okay, again, similar solution. We're gonna move the matchstick from the plus sign to make it a minus sign. So we have VI equals VII minus I. And we'll submit that."
+  }
+}

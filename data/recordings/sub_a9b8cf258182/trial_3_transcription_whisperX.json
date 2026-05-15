@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_a9b8cf258182/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so I have three matchsticks on the left is equal to three plus three, which is equal to six.Six is not equal to three.So how can I move these around to get a balanced equation? And I can only use what I have available so I can't add another matchstick to one of these because there isn't a number with four matchsticks with four ones.So I'm just thinking about how I can move this around to get a different value. And I can only use what's here, so I only have one plus sign.And even if I move one over, that's still not going to equal to 2 plus 2, which is 4.Actually, I could. if I add one to this side, but I don't know if I'm allowed to add an additional plus sign to the left side.Let me see if it'll let me do it.Plus one is equal to three. Yeah, because I only have one addition sign.So that's difficult.I don't know how I could do that without adding in another operation. Now if I take one, let me see here.I take one matchstick on the left side and, but I still only have, because I can't change anything.Because adding one matchstick to any of these threes is going to give me an invalid number. So I'm not sure how I can add this without getting an invalid number.And I can't just take one away either.3 plus 3 which is 6 is equal to 3. So yeah, for this one, I'm not sure how to do this one.I don't know any other way to move the mesh.",
+    "segments": [
+      {
+        "text": " Okay, so I have three matchsticks on the left is equal to three plus three, which is equal to six.",
+        "start": 1.972,
+        "end": 11.086
+      },
+      {
+        "text": "Six is not equal to three.",
+        "start": 11.666,
+        "end": 14.07
+      },
+      {
+        "text": "So how can I move these around to get a balanced equation?",
+        "start": 15.552,
+        "end": 20.74
+      },
+      {
+        "text": " And I can only use what I have available so I can't add another matchstick to one of these because there isn't a number with four matchsticks with four ones.",
+        "start": 40.666,
+        "end": 55.164
+      },
+      {
+        "text": "So I'm just thinking about how I can move this around to get a different value.",
+        "start": 57.247,
+        "end": 61.392
+      },
+      {
+        "text": " And I can only use what's here, so I only have one plus sign.",
+        "start": 67.193,
+        "end": 70.879
+      },
+      {
+        "text": "And even if I move one over, that's still not going to equal to 2 plus 2, which is 4.",
+        "start": 79.313,
+        "end": 87.587
+      },
+      {
+        "text": "Actually, I could.",
+        "start": 87.627,
+        "end": 91.193
+      },
+      {
+        "text": " if I add one to this side, but I don't know if I'm allowed to add an additional plus sign to the left side.",
+        "start": 92.506,
+        "end": 103.976
+      },
+      {
+        "text": "Let me see if it'll let me do it.",
+        "start": 105.277,
+        "end": 106.678
+      },
+      {
+        "text": "Plus one is equal to three.",
+        "start": 110.502,
+        "end": 122.412
+      },
+      {
+        "text": " Yeah, because I only have one addition sign.",
+        "start": 124.417,
+        "end": 131.349
+      },
+      {
+        "text": "So that's difficult.",
+        "start": 131.369,
+        "end": 132.311
+      },
+      {
+        "text": "I don't know how I could do that without adding in another operation.",
+        "start": 133.253,
+        "end": 142.83
+      },
+      {
+        "text": " Now if I take one, let me see here.",
+        "start": 154.201,
+        "end": 157.404
+      },
+      {
+        "text": "I take one matchstick on the left side and, but I still only have, because I can't change anything.",
+        "start": 158.806,
+        "end": 171.3
+      },
+      {
+        "text": "Because adding one matchstick to any of these threes is going to give me an invalid number.",
+        "start": 174.883,
+        "end": 179.989
+      },
+      {
+        "text": " So I'm not sure how I can add this without getting an invalid number.",
+        "start": 196.338,
+        "end": 205.331
+      },
+      {
+        "text": "And I can't just take one away either.",
+        "start": 205.391,
+        "end": 214.063
+      },
+      {
+        "text": "3 plus 3 which is 6 is equal to 3.",
+        "start": 214.083,
+        "end": 225.72
+      },
+      {
+        "text": " So yeah, for this one, I'm not sure how to do this one.",
+        "start": 231.269,
+        "end": 233.865
+      },
+      {
+        "text": "I don't know any other way to move the mesh.",
+        "start": 237.667,
+        "end": 239.659
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I have three matchsticks on the left is equal to three plus three, which is equal to six. Six is not equal to three. So how can I move these around to get a balanced equation? And I can only use what I have available so I can't add another matchstick to one of these because there isn't a number with four matchsticks with four ones. So I'm just thinking about how I can move this around to get a different value. And I can only use what's here, so I only have one plus sign. And even if I move one over, that's still not going to equal to 2 plus 2, which is 4. Actually, I could. if I add one to this side, but I don't know if I'm allowed to add an additional plus sign to the left side. Let me see if it'll let me do it. Plus one is equal to three. Yeah, because I only have one addition sign. So that's difficult. I don't know how I could do that without adding in another operation. Now if I take one, let me see here. I take one matchstick on the left side and, but I still only have, because I can't change anything. Because adding one matchstick to any of these threes is going to give me an invalid number. So I'm not sure how I can add this without getting an invalid number. And I can't just take one away either. 3 plus 3 which is 6 is equal to 3. So yeah, for this one, I'm not sure how to do this one. I don't know any other way to move the mesh."
+  }
+}

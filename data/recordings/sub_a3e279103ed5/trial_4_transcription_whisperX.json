@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_a3e279103ed5/trial_4.wav",
+  "with_timestamps": {
+    "text": " all right let's do it again if put the minus where the equals is i would get seven minus three equals four yep same thing that's easy three equals four",
+    "segments": [
+      {
+        "text": " all right let's do it again if put the minus where the equals is i would get seven minus three equals four yep same thing that's easy three equals four",
+        "start": 1.212,
+        "end": 18.259
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " all right let's do it again if put the minus where the equals is i would get seven minus three equals four yep same thing that's easy three equals four"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_5411cf457e21/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, so, all right.So five, five, one is six.So six equals six plus one is seven.Okay, so six plus one is seven.So we need a zero here, right?Plus zero.Or five plus two.Oh, we could do this.V, one. equals the one one minus one, I don't know if that'll",
+    "segments": [
+      {
+        "text": " Okay, so, all right.",
+        "start": 0.217,
+        "end": 4.442
+      },
+      {
+        "text": "So five, five, one is six.",
+        "start": 5.424,
+        "end": 10.009
+      },
+      {
+        "text": "So six equals six plus one is seven.",
+        "start": 10.55,
+        "end": 13.834
+      },
+      {
+        "text": "Okay, so six plus one is seven.",
+        "start": 13.894,
+        "end": 17.278
+      },
+      {
+        "text": "So we need a zero here, right?",
+        "start": 19.401,
+        "end": 21.003
+      },
+      {
+        "text": "Plus zero.",
+        "start": 21.083,
+        "end": 22.125
+      },
+      {
+        "text": "Or five plus two.",
+        "start": 22.145,
+        "end": 25.228
+      },
+      {
+        "text": "Oh, we could do this.",
+        "start": 25.248,
+        "end": 26.77
+      },
+      {
+        "text": "V, one.",
+        "start": 27.611,
+        "end": 28.873
+      },
+      {
+        "text": " equals the one one minus one, I don't know if that'll",
+        "start": 29.782,
+        "end": 50.811
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so, all right. So five, five, one is six. So six equals six plus one is seven. Okay, so six plus one is seven. So we need a zero here, right? Plus zero. Or five plus two. Oh, we could do this. V, one. equals the one one minus one, I don't know if that'll"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_745f9f8c7efd/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 4 equals 4 minus 2.Okay, so 4 equals 4 minus 2.So 4 equals 2.Pretty sure that's not right.So 6, 4 equals 6 minus 2.Hey, wouldn't that be wild if I got one? equals b i minus 2.Let me double check.So 4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " Okay, 4 equals 4 minus 2.",
+        "start": 0.925,
+        "end": 8.133
+      },
+      {
+        "text": "Okay, so 4 equals 4 minus 2.",
+        "start": 10.355,
+        "end": 13.839
+      },
+      {
+        "text": "So 4 equals 2.",
+        "start": 15.881,
+        "end": 18.124
+      },
+      {
+        "text": "Pretty sure that's not right.",
+        "start": 20.366,
+        "end": 21.267
+      },
+      {
+        "text": "So 6, 4 equals 6 minus 2.",
+        "start": 22.329,
+        "end": 26.093
+      },
+      {
+        "text": "Hey, wouldn't that be wild if I got one?",
+        "start": 26.133,
+        "end": 29.076
+      },
+      {
+        "text": " equals b i minus 2.",
+        "start": 30.912,
+        "end": 37.893
+      },
+      {
+        "text": "Let me double check.",
+        "start": 38.956,
+        "end": 39.718
+      },
+      {
+        "text": "So 4 equals 6 minus 2.",
+        "start": 40.641,
+        "end": 45.816
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 4 equals 4 minus 2. Okay, so 4 equals 4 minus 2. So 4 equals 2. Pretty sure that's not right. So 6, 4 equals 6 minus 2. Hey, wouldn't that be wild if I got one? equals b i minus 2. Let me double check. So 4 equals 6 minus 2."
+  }
+}

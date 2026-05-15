@@ -1,0 +1,281 @@
+{
+  "file": "data/recordings/sub_f66303b0a1c5/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so it would be X and 3, that's 13 equals 7 minus 6.No.Okay, really it should be 7 plus 6.So how do I move 1?So, X, 11 equals v11 plus vi.Submit answer.No, that's not right.Okay.13 equals 7 minus 6. Okay.So if I gotta move one, let's see.Seven minus six is one.So if I move one.I can move three over here and say one equals seven minus six.I wonder if that works. You can only move one match stick.Okay?That doesn't work.Okay?It's got to be the plus.I don't understand why that doesn't work.Because there's a plus right there.Alright.So if I only move one, that would be three minus four.It's got to be the plus sign. Let me try it again.x123 equals v11 plus vi.Submit.Nope.Okay, so it's not the plus sign.Okay, it's not the plus sign.So, let me see.8.No, 12 equals.See, that doesn't work. 3 equals 7 minus 6.How about if I check out?Okay, that doesn't work.3 equals the limit of 1.12 equals 7 minus 6.It doesn't work if you only have a limit of 1.I can't figure this out. Let me see.7 minus 4 is 3.Or... 2 minus... It just won't come out to 13.I'd have to move more than one.So if I took off that and go 1, 2, 3 equals... Submit.Nope.Okay.Um.So.1, 2, 3.",
+    "segments": [
+      {
+        "text": " Okay, so it would be X and 3, that's 13 equals 7 minus 6.",
+        "start": 2.022,
+        "end": 10.049
+      },
+      {
+        "text": "No.",
+        "start": 11.33,
+        "end": 13.352
+      },
+      {
+        "text": "Okay, really it should be 7 plus 6.",
+        "start": 13.372,
+        "end": 15.894
+      },
+      {
+        "text": "So how do I move 1?",
+        "start": 18.777,
+        "end": 19.938
+      },
+      {
+        "text": "So, X,",
+        "start": 21.66,
+        "end": 29.987
+      },
+      {
+        "text": " 11 equals v11 plus vi.",
+        "start": 34.237,
+        "end": 41.947
+      },
+      {
+        "text": "Submit answer.",
+        "start": 42.367,
+        "end": 49.376
+      },
+      {
+        "text": "No, that's not right.",
+        "start": 49.917,
+        "end": 50.898
+      },
+      {
+        "text": "Okay.",
+        "start": 52.721,
+        "end": 56.986
+      },
+      {
+        "text": "13 equals 7 minus 6.",
+        "start": 57.006,
+        "end": 62.353
+      },
+      {
+        "text": " Okay.",
+        "start": 65.793,
+        "end": 66.093
+      },
+      {
+        "text": "So if I gotta move one, let's see.",
+        "start": 68.217,
+        "end": 70.641
+      },
+      {
+        "text": "Seven minus six is one.",
+        "start": 72.003,
+        "end": 73.285
+      },
+      {
+        "text": "So if I move one.",
+        "start": 73.305,
+        "end": 76.47
+      },
+      {
+        "text": "I can move three over here and say one equals seven minus six.",
+        "start": 76.49,
+        "end": 91.393
+      },
+      {
+        "text": "I wonder if that works.",
+        "start": 91.413,
+        "end": 92.475
+      },
+      {
+        "text": " You can only move one match stick.",
+        "start": 94.767,
+        "end": 95.948
+      },
+      {
+        "text": "Okay?",
+        "start": 96.149,
+        "end": 96.509
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 96.529,
+        "end": 97.951
+      },
+      {
+        "text": "Okay?",
+        "start": 97.971,
+        "end": 98.812
+      },
+      {
+        "text": "It's got to be the plus.",
+        "start": 100.394,
+        "end": 101.375
+      },
+      {
+        "text": "I don't understand why that doesn't work.",
+        "start": 101.395,
+        "end": 102.677
+      },
+      {
+        "text": "Because there's a plus right there.",
+        "start": 103.317,
+        "end": 104.379
+      },
+      {
+        "text": "Alright.",
+        "start": 108.183,
+        "end": 108.664
+      },
+      {
+        "text": "So if I only move one, that would be three minus four.",
+        "start": 110.826,
+        "end": 120.258
+      },
+      {
+        "text": "It's got to be the plus sign.",
+        "start": 120.318,
+        "end": 124.723
+      },
+      {
+        "text": " Let me try it again.",
+        "start": 128.298,
+        "end": 129.439
+      },
+      {
+        "text": "x123 equals v11 plus vi.",
+        "start": 129.459,
+        "end": 137.706
+      },
+      {
+        "text": "Submit.",
+        "start": 138.667,
+        "end": 139.488
+      },
+      {
+        "text": "Nope.",
+        "start": 139.508,
+        "end": 139.728
+      },
+      {
+        "text": "Okay, so it's not the plus sign.",
+        "start": 139.988,
+        "end": 141.089
+      },
+      {
+        "text": "Okay, it's not the plus sign.",
+        "start": 143.671,
+        "end": 144.692
+      },
+      {
+        "text": "So, let me see.",
+        "start": 145.613,
+        "end": 148.035
+      },
+      {
+        "text": "8.",
+        "start": 148.055,
+        "end": 152.519
+      },
+      {
+        "text": "No, 12 equals.",
+        "start": 154.4,
+        "end": 155.942
+      },
+      {
+        "text": "See, that doesn't work.",
+        "start": 156.822,
+        "end": 157.663
+      },
+      {
+        "text": " 3 equals 7 minus 6.",
+        "start": 159.263,
+        "end": 164.65
+      },
+      {
+        "text": "How about if I check out?",
+        "start": 166.533,
+        "end": 167.414
+      },
+      {
+        "text": "Okay, that doesn't work.",
+        "start": 168.195,
+        "end": 169.697
+      },
+      {
+        "text": "3 equals the limit of 1.",
+        "start": 169.717,
+        "end": 175.385
+      },
+      {
+        "text": "12 equals 7 minus 6.",
+        "start": 175.405,
+        "end": 182.755
+      },
+      {
+        "text": "It doesn't work if you only have a limit of 1.",
+        "start": 183.396,
+        "end": 185.078
+      },
+      {
+        "text": "I can't figure this out.",
+        "start": 185.379,
+        "end": 187.161
+      },
+      {
+        "text": " Let me see.",
+        "start": 188.947,
+        "end": 189.548
+      },
+      {
+        "text": "7 minus 4 is 3.",
+        "start": 189.568,
+        "end": 193.754
+      },
+      {
+        "text": "Or... 2 minus... It just won't come out to 13.",
+        "start": 194.475,
+        "end": 208.817
+      },
+      {
+        "text": "I'd have to move more than one.",
+        "start": 209.598,
+        "end": 210.72
+      },
+      {
+        "text": "So if I took off that and go 1, 2, 3 equals...",
+        "start": 212.803,
+        "end": 216.709
+      },
+      {
+        "text": " Submit.",
+        "start": 219.338,
+        "end": 219.879
+      },
+      {
+        "text": "Nope.",
+        "start": 223.103,
+        "end": 225.647
+      },
+      {
+        "text": "Okay.",
+        "start": 228.351,
+        "end": 231.014
+      },
+      {
+        "text": "Um.",
+        "start": 231.034,
+        "end": 231.215
+      },
+      {
+        "text": "So.",
+        "start": 232.737,
+        "end": 233.137
+      },
+      {
+        "text": "1, 2, 3.",
+        "start": 233.157,
+        "end": 240.688
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so it would be X and 3, that's 13 equals 7 minus 6. No. Okay, really it should be 7 plus 6. So how do I move 1? So, X, 11 equals v11 plus vi. Submit answer. No, that's not right. Okay. 13 equals 7 minus 6. Okay. So if I gotta move one, let's see. Seven minus six is one. So if I move one. I can move three over here and say one equals seven minus six. I wonder if that works. You can only move one match stick. Okay? That doesn't work. Okay? It's got to be the plus. I don't understand why that doesn't work. Because there's a plus right there. Alright. So if I only move one, that would be three minus four. It's got to be the plus sign. Let me try it again. x123 equals v11 plus vi. Submit. Nope. Okay, so it's not the plus sign. Okay, it's not the plus sign. So, let me see. 8. No, 12 equals. See, that doesn't work. 3 equals 7 minus 6. How about if I check out? Okay, that doesn't work. 3 equals the limit of 1. 12 equals 7 minus 6. It doesn't work if you only have a limit of 1. I can't figure this out. Let me see. 7 minus 4 is 3. Or... 2 minus... It just won't come out to 13. I'd have to move more than one. So if I took off that and go 1, 2, 3 equals... Submit. Nope. Okay. Um. So. 1, 2, 3."
+  }
+}

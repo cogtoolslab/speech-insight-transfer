@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_1fd86ec6bf44/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What is the final correct equation?So it's 12 equals 12 plus 12 So then currently it's 12 equals 24 so we would need to If we do 12 minus 12, that equals zero.If we do two x's, that would be 22. so if I do 12 equals 12 equals 12",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 0.031,
+        "end": 3.915
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 4.075,
+        "end": 6.017
+      },
+      {
+        "text": "So it's 12 equals 12 plus 12 So then",
+        "start": 7.398,
+        "end": 27.118
+      },
+      {
+        "text": " currently it's 12 equals 24 so we would need to",
+        "start": 31.402,
+        "end": 50.355
+      },
+      {
+        "text": " If we do 12 minus 12, that equals zero.",
+        "start": 63.245,
+        "end": 74.041
+      },
+      {
+        "text": "If we do two x's, that would be 22.",
+        "start": 81.792,
+        "end": 90.585
+      },
+      {
+        "text": " so if I do 12 equals 12 equals 12",
+        "start": 96.725,
+        "end": 113.468
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What is the final correct equation? So it's 12 equals 12 plus 12 So then currently it's 12 equals 24 so we would need to If we do 12 minus 12, that equals zero. If we do two x's, that would be 22. so if I do 12 equals 12 equals 12"
+  }
+}

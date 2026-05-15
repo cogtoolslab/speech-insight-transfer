@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_e4181714e3b3/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, 7 equals 12 plus 6.12 minus, let's say 12 minus 6.That would have to equal 6, so that doesn't work.11, no, let's see. That's 7 plus 5 equals, no, that doesn't work.7 minus, nope, b. So it's 12 plus 5 is 17.And that doesn't work. So I can make this a, instead of 12, that would be a 7.Nope, because then 7 equals 7.Shoot.What if I put, no, make the v's into an x, so it'd be 12 equals 12 plus 6.Nope. 12.Okay.12.If I make that minus six equals, I need that to only be a six.So then I have other stuff.So 12 plus.So if I make that 11 plus six, How do I get that to be?You can only move one matchstick.So let's say 12 minus 6.And how do I get that to be a 6?What if I did?No.So the plus either has to stay the same, be a minus, because if I make this a minus, I don't have any, if I make the equals minus or a plus, it won't work.I don't have an equal sign anywhere. What if that's a, make my 10 a 5?That doesn't work.If I take a, the 1 and make the 8 equals, nope.12, make that an, no. You can only move one matchstick.So if I do 12 plus 11 is 22, that doesn't work.Let's say 12 minus",
+    "segments": [
+      {
+        "text": " OK, 7 equals 12 plus 6.",
+        "start": 1.685,
+        "end": 10.213
+      },
+      {
+        "text": "12 minus, let's say 12 minus 6.",
+        "start": 10.233,
+        "end": 20.303
+      },
+      {
+        "text": "That would have to equal 6, so that doesn't work.",
+        "start": 22.185,
+        "end": 24.287
+      },
+      {
+        "text": "11, no, let's see.",
+        "start": 28.251,
+        "end": 29.953
+      },
+      {
+        "text": " That's 7 plus 5 equals, no, that doesn't work.",
+        "start": 32.397,
+        "end": 35.923
+      },
+      {
+        "text": "7 minus, nope, b. So it's 12 plus 5 is 17.",
+        "start": 38.548,
+        "end": 49.829
+      },
+      {
+        "text": "And that doesn't work.",
+        "start": 49.849,
+        "end": 54.237
+      },
+      {
+        "text": " So I can make this a, instead of 12, that would be a 7.",
+        "start": 57.794,
+        "end": 62.379
+      },
+      {
+        "text": "Nope, because then 7 equals 7.",
+        "start": 63.881,
+        "end": 66.464
+      },
+      {
+        "text": "Shoot.",
+        "start": 70.649,
+        "end": 70.969
+      },
+      {
+        "text": "What if I put, no, make the v's into an x, so it'd be 12 equals 12 plus 6.",
+        "start": 74.193,
+        "end": 82.482
+      },
+      {
+        "text": "Nope.",
+        "start": 82.903,
+        "end": 83.143
+      },
+      {
+        "text": " 12.",
+        "start": 89.165,
+        "end": 89.886
+      },
+      {
+        "text": "Okay.",
+        "start": 89.926,
+        "end": 91.228
+      },
+      {
+        "text": "12.",
+        "start": 91.428,
+        "end": 91.849
+      },
+      {
+        "text": "If I make that minus six equals, I need that to only be a six.",
+        "start": 91.929,
+        "end": 100.34
+      },
+      {
+        "text": "So then I have other stuff.",
+        "start": 100.441,
+        "end": 102.864
+      },
+      {
+        "text": "So 12 plus.",
+        "start": 104.586,
+        "end": 111.195
+      },
+      {
+        "text": "So if I make that 11 plus six,",
+        "start": 113.539,
+        "end": 118.125
+      },
+      {
+        "text": " How do I get that to be?",
+        "start": 119.692,
+        "end": 121.013
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 122.895,
+        "end": 124.716
+      },
+      {
+        "text": "So let's say 12 minus 6.",
+        "start": 127.979,
+        "end": 132.863
+      },
+      {
+        "text": "And how do I get that to be a 6?",
+        "start": 133.884,
+        "end": 135.826
+      },
+      {
+        "text": "What if I did?",
+        "start": 139.329,
+        "end": 143.592
+      },
+      {
+        "text": "No.",
+        "start": 143.732,
+        "end": 144.013
+      },
+      {
+        "text": "So the plus either has to stay the same,",
+        "start": 146.675,
+        "end": 149.277
+      },
+      {
+        "text": " be a minus, because if I make this a minus, I don't have any, if I make the equals minus or a plus, it won't work.",
+        "start": 150.286,
+        "end": 167.476
+      },
+      {
+        "text": "I don't have an equal sign anywhere.",
+        "start": 172.304,
+        "end": 174.167
+      },
+      {
+        "text": " What if that's a, make my 10 a 5?",
+        "start": 181.252,
+        "end": 184.716
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 185.777,
+        "end": 186.578
+      },
+      {
+        "text": "If I take a, the 1 and make the 8 equals, nope.",
+        "start": 191.444,
+        "end": 199.093
+      },
+      {
+        "text": "12, make that an, no.",
+        "start": 206.821,
+        "end": 210.786
+      },
+      {
+        "text": " You can only move one matchstick.",
+        "start": 213.517,
+        "end": 215.119
+      },
+      {
+        "text": "So if I do 12 plus 11 is 22, that doesn't work.",
+        "start": 221.868,
+        "end": 231.24
+      },
+      {
+        "text": "Let's say 12 minus",
+        "start": 236.366,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 7 equals 12 plus 6. 12 minus, let's say 12 minus 6. That would have to equal 6, so that doesn't work. 11, no, let's see. That's 7 plus 5 equals, no, that doesn't work. 7 minus, nope, b. So it's 12 plus 5 is 17. And that doesn't work. So I can make this a, instead of 12, that would be a 7. Nope, because then 7 equals 7. Shoot. What if I put, no, make the v's into an x, so it'd be 12 equals 12 plus 6. Nope. 12. Okay. 12. If I make that minus six equals, I need that to only be a six. So then I have other stuff. So 12 plus. So if I make that 11 plus six, How do I get that to be? You can only move one matchstick. So let's say 12 minus 6. And how do I get that to be a 6? What if I did? No. So the plus either has to stay the same, be a minus, because if I make this a minus, I don't have any, if I make the equals minus or a plus, it won't work. I don't have an equal sign anywhere. What if that's a, make my 10 a 5? That doesn't work. If I take a, the 1 and make the 8 equals, nope. 12, make that an, no. You can only move one matchstick. So if I do 12 plus 11 is 22, that doesn't work. Let's say 12 minus"
+  }
+}

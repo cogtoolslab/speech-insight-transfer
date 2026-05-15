@@ -1,0 +1,181 @@
+{
+  "file": "data/recordings/sub_0b391805540f/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, so currently it reads VIII, which is 7, equals 9 plus 3.So 9 plus 3 is 12.So if I take away one of these and move it over here, it would be VIII, so that would be 8. So that would be 8 equals, that doesn't work.So if I move the plus, that would be 8 equals 9 minus 3.9 minus 3 is 6.So that doesn't work.10 plus 3 is 13.So that'd be 14.That doesn't work. If I move this over here, it would be 4.So that doesn't work.If I move the x, if I take one of these away, it would be 2.So 3.If I make that, that would be 13. work 12 X I that would give me 11 that's not gonna help me if I make one of these and say 9 minus 4 is 5 That doesn't help.If I move one of these over here, it would be, make that eight.So it would be nine plus two.Nine.I would need to make that six.That doesn't work.If I make So nine, and I'm looking at, there's seven over here.Seven equals, if I take this match and move it over here, that would be nine minus four, which would be five, but I have seven over here. One over here, I don't think that's going to help me.If I move one of these four, so that would be four.That's not going to help me.If I move one of these, if I move the X, that would make it nine. But I can only move one matchstick.So if I move one of these to make it a subtract, it would be 9 minus 3.9 minus 4 would be 5.If I move matchstick and make this a X, that doesn't help. If I make this, that doesn't help.",
+    "segments": [
+      {
+        "text": " All right, so currently it reads VIII, which is 7, equals 9 plus 3.",
+        "start": 0.031,
+        "end": 10.023
+      },
+      {
+        "text": "So 9 plus 3 is 12.",
+        "start": 11.766,
+        "end": 13.187
+      },
+      {
+        "text": "So if I take away one of these and move it over here, it would be VIII, so that would be 8.",
+        "start": 14.709,
+        "end": 28.266
+      },
+      {
+        "text": " So that would be 8 equals, that doesn't work.",
+        "start": 32.887,
+        "end": 38.053
+      },
+      {
+        "text": "So if I move the plus, that would be 8 equals 9 minus 3.",
+        "start": 38.153,
+        "end": 46.021
+      },
+      {
+        "text": "9 minus 3 is 6.",
+        "start": 46.041,
+        "end": 49.365
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 49.465,
+        "end": 52.388
+      },
+      {
+        "text": "10 plus 3 is 13.",
+        "start": 54.491,
+        "end": 57.714
+      },
+      {
+        "text": "So that'd be 14.",
+        "start": 57.734,
+        "end": 59.777
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 59.797,
+        "end": 61.138
+      },
+      {
+        "text": " If I move this over here, it would be 4.",
+        "start": 62.519,
+        "end": 66.463
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 66.483,
+        "end": 69.106
+      },
+      {
+        "text": "If I move the x, if I take one of these away, it would be 2.",
+        "start": 70.708,
+        "end": 81.719
+      },
+      {
+        "text": "So 3.",
+        "start": 81.739,
+        "end": 85.103
+      },
+      {
+        "text": "If I make that, that would be 13.",
+        "start": 86.965,
+        "end": 91.75
+      },
+      {
+        "text": " work 12 X I that would give me 11 that's not gonna help me if I make one of these and say 9 minus 4 is 5",
+        "start": 91.932,
+        "end": 113.451
+      },
+      {
+        "text": " That doesn't help.",
+        "start": 117.413,
+        "end": 118.675
+      },
+      {
+        "text": "If I move one of these over here, it would be, make that eight.",
+        "start": 119.196,
+        "end": 126.668
+      },
+      {
+        "text": "So it would be nine plus two.",
+        "start": 128.39,
+        "end": 131.936
+      },
+      {
+        "text": "Nine.",
+        "start": 131.976,
+        "end": 134.981
+      },
+      {
+        "text": "I would need to make that six.",
+        "start": 135.001,
+        "end": 139.548
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 141.611,
+        "end": 142.613
+      },
+      {
+        "text": "If I make",
+        "start": 144.235,
+        "end": 145.277
+      },
+      {
+        "text": " So nine, and I'm looking at, there's seven over here.",
+        "start": 146.759,
+        "end": 153.029
+      },
+      {
+        "text": "Seven equals, if I take this match and move it over here, that would be nine minus four, which would be five, but I have seven over here.",
+        "start": 153.069,
+        "end": 174.623
+      },
+      {
+        "text": " One over here, I don't think that's going to help me.",
+        "start": 176.543,
+        "end": 179.327
+      },
+      {
+        "text": "If I move one of these four, so that would be four.",
+        "start": 180.308,
+        "end": 188.66
+      },
+      {
+        "text": "That's not going to help me.",
+        "start": 188.7,
+        "end": 191.264
+      },
+      {
+        "text": "If I move one of these, if I move the X, that would make it nine.",
+        "start": 191.324,
+        "end": 204.542
+      },
+      {
+        "text": " But I can only move one matchstick.",
+        "start": 205.653,
+        "end": 208.658
+      },
+      {
+        "text": "So if I move one of these to make it a subtract, it would be 9 minus 3.",
+        "start": 208.678,
+        "end": 215.128
+      },
+      {
+        "text": "9 minus 4 would be 5.",
+        "start": 215.148,
+        "end": 219.175
+      },
+      {
+        "text": "If I move matchstick and make this a X, that doesn't help.",
+        "start": 219.195,
+        "end": 232.656
+      },
+      {
+        "text": " If I make this, that doesn't help.",
+        "start": 233.834,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so currently it reads VIII, which is 7, equals 9 plus 3. So 9 plus 3 is 12. So if I take away one of these and move it over here, it would be VIII, so that would be 8. So that would be 8 equals, that doesn't work. So if I move the plus, that would be 8 equals 9 minus 3. 9 minus 3 is 6. So that doesn't work. 10 plus 3 is 13. So that'd be 14. That doesn't work. If I move this over here, it would be 4. So that doesn't work. If I move the x, if I take one of these away, it would be 2. So 3. If I make that, that would be 13. work 12 X I that would give me 11 that's not gonna help me if I make one of these and say 9 minus 4 is 5 That doesn't help. If I move one of these over here, it would be, make that eight. So it would be nine plus two. Nine. I would need to make that six. That doesn't work. If I make So nine, and I'm looking at, there's seven over here. Seven equals, if I take this match and move it over here, that would be nine minus four, which would be five, but I have seven over here. One over here, I don't think that's going to help me. If I move one of these four, so that would be four. That's not going to help me. If I move one of these, if I move the X, that would make it nine. But I can only move one matchstick. So if I move one of these to make it a subtract, it would be 9 minus 3. 9 minus 4 would be 5. If I move matchstick and make this a X, that doesn't help. If I make this, that doesn't help."
+  }
+}

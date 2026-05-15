@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_9146808bb050/trial_5.wav",
+  "with_timestamps": {
+    "text": " Jesus 9 equals 12 plus 4 that's 16 So if you do We can't move the matchstick on the left that doesn't That doesn't do much Because if you move it from the left to the right, it becomes 11.But it's 16.So, if you do... If you do... This won't work, but I'm just seeing right now. 4 11 plus 4 that's not a number though at the end fuck 1 so that's 9 equals you have to do a minus 9 13 oh i got it 1v equals x111 minus 1v",
+    "segments": [
+      {
+        "text": " Jesus 9 equals 12 plus 4 that's 16 So if you do We can't move the matchstick on the left that doesn't That doesn't do much",
+        "start": 0.976,
+        "end": 25.903
+      },
+      {
+        "text": " Because if you move it from the left to the right, it becomes 11.",
+        "start": 27.048,
+        "end": 32.237
+      },
+      {
+        "text": "But it's 16.",
+        "start": 33.198,
+        "end": 34.941
+      },
+      {
+        "text": "So, if you do... If you do... This won't work, but I'm just seeing right now.",
+        "start": 38.006,
+        "end": 52.971
+      },
+      {
+        "text": " 4 11 plus 4 that's not a number though at the end fuck 1 so that's 9 equals you have to do a minus 9 13 oh i got it 1v equals x111 minus 1v",
+        "start": 55.617,
+        "end": 84.088
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Jesus 9 equals 12 plus 4 that's 16 So if you do We can't move the matchstick on the left that doesn't That doesn't do much Because if you move it from the left to the right, it becomes 11. But it's 16. So, if you do... If you do... This won't work, but I'm just seeing right now. 4 11 plus 4 that's not a number though at the end fuck 1 so that's 9 equals you have to do a minus 9 13 oh i got it 1v equals x111 minus 1v"
+  }
+}

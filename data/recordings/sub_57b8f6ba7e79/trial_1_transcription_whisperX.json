@@ -1,0 +1,221 @@
+{
+  "file": "data/recordings/sub_57b8f6ba7e79/trial_1.wav",
+  "with_timestamps": {
+    "text": " Try and move these buttons.So we have nine minus two equals two.No.So we'd want 10 minus.Okay, wait, I got what I'm doing with that up there.So you would do 10 minus.Maybe 10 minus. So I'm trying to figure out how to do this.Maybe 1 plus 1.That didn't work.You can only move one match.So you want to keep the 10 plus 10 minus 10.Nope.You can only use move one match.I can do 10 minus five, which wouldn't work.Hmm.One, two.I do. Two.I don't know, man.So I'm playing a game where I move one match.And moving that would make something right.And you see two matches equals nine in Roman numerals minus two.But which match do I move to make it two?Oh, man.I'm just trying to think out loud. Hmm.One, ooh, I didn't think about that.So that's one equals, equals nine.One equals nine minus, Oh, man.2.2 equals.I'm going to move that to be a v. Minus. free if I move that.No, dang it.Because it's kind of reshaped.I forget if I can reshape because it'd be two equals.I'm not going to get it.I'm sorry, everyone.I couldn't get this one.",
+    "segments": [
+      {
+        "text": " Try and move these buttons.",
+        "start": 1.752,
+        "end": 3.875
+      },
+      {
+        "text": "So we have nine minus two equals two.",
+        "start": 4.396,
+        "end": 9.423
+      },
+      {
+        "text": "No.",
+        "start": 11.345,
+        "end": 13.008
+      },
+      {
+        "text": "So we'd want 10 minus.",
+        "start": 13.028,
+        "end": 14.73
+      },
+      {
+        "text": "Okay, wait, I got what I'm doing with that up there.",
+        "start": 18.996,
+        "end": 21.379
+      },
+      {
+        "text": "So you would do 10 minus.",
+        "start": 22.06,
+        "end": 23.582
+      },
+      {
+        "text": "Maybe 10 minus.",
+        "start": 25.725,
+        "end": 29.11
+      },
+      {
+        "text": " So I'm trying to figure out how to do this.",
+        "start": 39.434,
+        "end": 41.396
+      },
+      {
+        "text": "Maybe 1 plus 1.",
+        "start": 42.617,
+        "end": 51.246
+      },
+      {
+        "text": "That didn't work.",
+        "start": 52.848,
+        "end": 59.334
+      },
+      {
+        "text": "You can only move one match.",
+        "start": 59.354,
+        "end": 60.636
+      },
+      {
+        "text": "So you want to keep the 10 plus",
+        "start": 62.778,
+        "end": 67.062
+      },
+      {
+        "text": " 10 minus 10.",
+        "start": 71.26,
+        "end": 74.424
+      },
+      {
+        "text": "Nope.",
+        "start": 75.946,
+        "end": 76.227
+      },
+      {
+        "text": "You can only use move one match.",
+        "start": 77.649,
+        "end": 79.531
+      },
+      {
+        "text": "I can do 10 minus five, which wouldn't work.",
+        "start": 83.937,
+        "end": 89.424
+      },
+      {
+        "text": "Hmm.",
+        "start": 89.445,
+        "end": 93.77
+      },
+      {
+        "text": "One, two.",
+        "start": 93.79,
+        "end": 94.431
+      },
+      {
+        "text": "I do.",
+        "start": 99.198,
+        "end": 99.478
+      },
+      {
+        "text": " Two.",
+        "start": 125.8,
+        "end": 126.18
+      },
+      {
+        "text": "I don't know, man.",
+        "start": 126.201,
+        "end": 130.166
+      },
+      {
+        "text": "So I'm playing a game where I move one match.",
+        "start": 132.288,
+        "end": 136.053
+      },
+      {
+        "text": "And moving that would make something right.",
+        "start": 137.835,
+        "end": 141.059
+      },
+      {
+        "text": "And you see two matches equals nine in Roman numerals minus two.",
+        "start": 141.24,
+        "end": 147.768
+      },
+      {
+        "text": "But which match do I move to make it two?",
+        "start": 149.05,
+        "end": 151.272
+      },
+      {
+        "text": "Oh, man.",
+        "start": 153.315,
+        "end": 153.776
+      },
+      {
+        "text": "I'm just trying to think out loud.",
+        "start": 153.996,
+        "end": 155.638
+      },
+      {
+        "text": " Hmm.",
+        "start": 157.39,
+        "end": 170.904
+      },
+      {
+        "text": "One, ooh, I didn't think about that.",
+        "start": 170.924,
+        "end": 172.806
+      },
+      {
+        "text": "So that's one equals, equals nine.",
+        "start": 173.066,
+        "end": 180.013
+      },
+      {
+        "text": "One equals nine minus,",
+        "start": 181.294,
+        "end": 182.976
+      },
+      {
+        "text": " Oh, man.",
+        "start": 190.178,
+        "end": 190.899
+      },
+      {
+        "text": "2.",
+        "start": 190.919,
+        "end": 198.969
+      },
+      {
+        "text": "2 equals.",
+        "start": 198.989,
+        "end": 202.934
+      },
+      {
+        "text": "I'm going to move that to be a v. Minus.",
+        "start": 205.558,
+        "end": 217.553
+      },
+      {
+        "text": " free if I move that.",
+        "start": 222.005,
+        "end": 224.655
+      },
+      {
+        "text": "No, dang it.",
+        "start": 225.258,
+        "end": 225.961
+      },
+      {
+        "text": "Because it's kind of reshaped.",
+        "start": 226.904,
+        "end": 229.715
+      },
+      {
+        "text": "I forget if I can reshape because it'd be two equals.",
+        "start": 229.876,
+        "end": 232.205
+      },
+      {
+        "text": "I'm not going to get it.",
+        "start": 232.888,
+        "end": 233.47
+      },
+      {
+        "text": "I'm sorry, everyone.",
+        "start": 233.792,
+        "end": 234.615
+      },
+      {
+        "text": "I couldn't get this one.",
+        "start": 235.418,
+        "end": 237.988
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Try and move these buttons. So we have nine minus two equals two. No. So we'd want 10 minus. Okay, wait, I got what I'm doing with that up there. So you would do 10 minus. Maybe 10 minus. So I'm trying to figure out how to do this. Maybe 1 plus 1. That didn't work. You can only move one match. So you want to keep the 10 plus 10 minus 10. Nope. You can only use move one match. I can do 10 minus five, which wouldn't work. Hmm. One, two. I do. Two. I don't know, man. So I'm playing a game where I move one match. And moving that would make something right. And you see two matches equals nine in Roman numerals minus two. But which match do I move to make it two? Oh, man. I'm just trying to think out loud. Hmm. One, ooh, I didn't think about that. So that's one equals, equals nine. One equals nine minus, Oh, man. 2. 2 equals. I'm going to move that to be a v. Minus. free if I move that. No, dang it. Because it's kind of reshaped. I forget if I can reshape because it'd be two equals. I'm not going to get it. I'm sorry, everyone. I couldn't get this one."
+  }
+}

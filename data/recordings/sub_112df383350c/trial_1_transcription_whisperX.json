@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_112df383350c/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so you can only move one matchstick to make this equation correct.What is the final correct equation?So it says 4 is equal to 7 plus 4.So I need to move... Oh, that's easy.Wait, what?4 is equal to 7 plus 4.So I'm trying to figure out which match to move on the right side to make it correct. So, use the buttons below to report the correct version of the equation.I can only move one matchstick?Geez, this is hard.How much time do I have left?Oh, I have three minutes left.Okay.So I'm thinking... So there's going to be some quiet, okay?Let's see. God, I suck at this.Okay, so that is 7 plus 4.That's 4 is equal to 7 plus 4.7 minus 4?7 minus 4... Let's see, if I move the 6... 7 plus 4...no.I was thinking about moving the match on the left of the 4 on the far left to make it a 6, but that wouldn't make any sense.I think it has to be subtraction somehow, but that doesn't make sense either because 7 minus 4 doesn't equal to 4. Oh, wait.Okay, so if I move... Okay, this is dumb.So I'm going to move the plus sign, the match on the plus sign, to make it a minus and move it in front of the 7, which will make it an 8.So 8 minus 4 is equal to 4.There, that's it.So I'm going to do... 4 is equal to... 8 minus 4.Is that right?What?That is correct!So 4 is equal to... right?8 minus 4.That should be correct.So I move the match over to make it an 8.",
+    "segments": [
+      {
+        "text": " Okay, so you can only move one matchstick to make this equation correct.",
+        "start": 1.465,
+        "end": 5.471
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 5.611,
+        "end": 7.995
+      },
+      {
+        "text": "So it says 4 is equal to 7 plus 4.",
+        "start": 9.016,
+        "end": 15.205
+      },
+      {
+        "text": "So I need to move... Oh, that's easy.",
+        "start": 16.207,
+        "end": 19.532
+      },
+      {
+        "text": "Wait, what?",
+        "start": 20.193,
+        "end": 20.613
+      },
+      {
+        "text": "4 is equal to 7 plus 4.",
+        "start": 21.575,
+        "end": 25.08
+      },
+      {
+        "text": "So I'm trying to figure out which match to move on the right side to make it correct.",
+        "start": 25.1,
+        "end": 29.987
+      },
+      {
+        "text": " So, use the buttons below to report the correct version of the equation.",
+        "start": 30.76,
+        "end": 34.545
+      },
+      {
+        "text": "I can only move one matchstick?",
+        "start": 39.891,
+        "end": 41.213
+      },
+      {
+        "text": "Geez, this is hard.",
+        "start": 41.233,
+        "end": 42.094
+      },
+      {
+        "text": "How much time do I have left?",
+        "start": 42.134,
+        "end": 44.197
+      },
+      {
+        "text": "Oh, I have three minutes left.",
+        "start": 44.217,
+        "end": 45.178
+      },
+      {
+        "text": "Okay.",
+        "start": 45.218,
+        "end": 45.558
+      },
+      {
+        "text": "So I'm thinking... So there's going to be some quiet, okay?",
+        "start": 47.1,
+        "end": 51.806
+      },
+      {
+        "text": "Let's see.",
+        "start": 54.049,
+        "end": 54.81
+      },
+      {
+        "text": " God, I suck at this.",
+        "start": 55.381,
+        "end": 56.482
+      },
+      {
+        "text": "Okay, so that is 7 plus 4.",
+        "start": 58.004,
+        "end": 61.669
+      },
+      {
+        "text": "That's 4 is equal to 7 plus 4.",
+        "start": 61.709,
+        "end": 65.774
+      },
+      {
+        "text": "7 minus 4?",
+        "start": 65.794,
+        "end": 69.979
+      },
+      {
+        "text": "7 minus 4... Let's see, if I move the 6...",
+        "start": 69.999,
+        "end": 82.755
+      },
+      {
+        "text": " 7 plus 4...no.",
+        "start": 84.136,
+        "end": 85.698
+      },
+      {
+        "text": "I was thinking about moving the match on the left of the 4 on the far left to make it a 6, but that wouldn't make any sense.",
+        "start": 86.359,
+        "end": 94.108
+      },
+      {
+        "text": "I think it has to be subtraction somehow, but that doesn't make sense either because 7 minus 4 doesn't equal to 4.",
+        "start": 95.43,
+        "end": 106.363
+      },
+      {
+        "text": " Oh, wait.",
+        "start": 108.098,
+        "end": 108.639
+      },
+      {
+        "text": "Okay, so if I move... Okay, this is dumb.",
+        "start": 109.5,
+        "end": 112.003
+      },
+      {
+        "text": "So I'm going to move the plus sign, the match on the plus sign, to make it a minus and move it in front of the 7, which will make it an 8.",
+        "start": 112.143,
+        "end": 121.273
+      },
+      {
+        "text": "So 8 minus 4 is equal to 4.",
+        "start": 121.594,
+        "end": 123.035
+      },
+      {
+        "text": "There, that's it.",
+        "start": 123.856,
+        "end": 124.457
+      },
+      {
+        "text": "So I'm going to do... 4 is equal to...",
+        "start": 125.198,
+        "end": 134.629
+      },
+      {
+        "text": " 8 minus 4.",
+        "start": 135.908,
+        "end": 138.372
+      },
+      {
+        "text": "Is that right?",
+        "start": 138.993,
+        "end": 139.394
+      },
+      {
+        "text": "What?",
+        "start": 141.377,
+        "end": 141.717
+      },
+      {
+        "text": "That is correct!",
+        "start": 141.918,
+        "end": 142.699
+      },
+      {
+        "text": "So 4 is equal to... right?",
+        "start": 144.081,
+        "end": 150.632
+      },
+      {
+        "text": "8 minus 4.",
+        "start": 150.652,
+        "end": 155.48
+      },
+      {
+        "text": "That should be correct.",
+        "start": 155.72,
+        "end": 156.601
+      },
+      {
+        "text": "So I move the match over to make it an 8.",
+        "start": 157.202,
+        "end": 160.127
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so you can only move one matchstick to make this equation correct. What is the final correct equation? So it says 4 is equal to 7 plus 4. So I need to move... Oh, that's easy. Wait, what? 4 is equal to 7 plus 4. So I'm trying to figure out which match to move on the right side to make it correct. So, use the buttons below to report the correct version of the equation. I can only move one matchstick? Geez, this is hard. How much time do I have left? Oh, I have three minutes left. Okay. So I'm thinking... So there's going to be some quiet, okay? Let's see. God, I suck at this. Okay, so that is 7 plus 4. That's 4 is equal to 7 plus 4. 7 minus 4? 7 minus 4... Let's see, if I move the 6... 7 plus 4...no. I was thinking about moving the match on the left of the 4 on the far left to make it a 6, but that wouldn't make any sense. I think it has to be subtraction somehow, but that doesn't make sense either because 7 minus 4 doesn't equal to 4. Oh, wait. Okay, so if I move... Okay, this is dumb. So I'm going to move the plus sign, the match on the plus sign, to make it a minus and move it in front of the 7, which will make it an 8. So 8 minus 4 is equal to 4. There, that's it. So I'm going to do... 4 is equal to... 8 minus 4. Is that right? What? That is correct! So 4 is equal to... right? 8 minus 4. That should be correct. So I move the match over to make it an 8."
+  }
+}

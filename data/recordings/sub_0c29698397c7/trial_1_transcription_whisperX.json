@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_0c29698397c7/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay.So, you can only move one matchstick to make this equation correct.What is the final correct equation?2 equals 9 minus 2.So.Oh, can you move the?No, because they're. Horizontal, not vertical.Okay.So you cannot move the equals or the minus sign.So use the buttons below to report the correct version of the equation.Well, you can't.Oh, but that still wouldn't be right.Hmm. Okay.Well, this is already making me feel stupid.Use the buttons below.But you can only move one matchstick.So I can make that a V, but that would make it 4 minus 2.Oh, it's 2.Okay.Yep.Again.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 1.533,
+        "end": 2.354
+      },
+      {
+        "text": "So, you can only move one matchstick to make this equation correct.",
+        "start": 2.534,
+        "end": 6.56
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 6.58,
+        "end": 8.602
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 8.622,
+        "end": 12.247
+      },
+      {
+        "text": "So.",
+        "start": 13.989,
+        "end": 15.351
+      },
+      {
+        "text": "Oh, can you move the?",
+        "start": 17.814,
+        "end": 29.129
+      },
+      {
+        "text": "No, because they're.",
+        "start": 29.85,
+        "end": 31.152
+      },
+      {
+        "text": " Horizontal, not vertical.",
+        "start": 34.422,
+        "end": 36.104
+      },
+      {
+        "text": "Okay.",
+        "start": 36.444,
+        "end": 37.185
+      },
+      {
+        "text": "So you cannot move the equals or the minus sign.",
+        "start": 37.205,
+        "end": 39.807
+      },
+      {
+        "text": "So use the buttons below to report the correct version of the equation.",
+        "start": 39.827,
+        "end": 47.195
+      },
+      {
+        "text": "Well, you can't.",
+        "start": 49.217,
+        "end": 49.858
+      },
+      {
+        "text": "Oh, but that still wouldn't be right.",
+        "start": 52.38,
+        "end": 57.145
+      },
+      {
+        "text": "Hmm.",
+        "start": 60.608,
+        "end": 61.189
+      },
+      {
+        "text": " Okay.",
+        "start": 61.507,
+        "end": 62.608
+      },
+      {
+        "text": "Well, this is already making me feel stupid.",
+        "start": 62.628,
+        "end": 64.671
+      },
+      {
+        "text": "Use the buttons below.",
+        "start": 67.034,
+        "end": 69.117
+      },
+      {
+        "text": "But you can only move one matchstick.",
+        "start": 72.441,
+        "end": 74.965
+      },
+      {
+        "text": "So I can make that a V, but that would make it 4 minus 2.",
+        "start": 75.846,
+        "end": 82.034
+      },
+      {
+        "text": "Oh, it's 2.",
+        "start": 82.054,
+        "end": 83.796
+      },
+      {
+        "text": "Okay.",
+        "start": 84.317,
+        "end": 84.557
+      },
+      {
+        "text": "Yep.",
+        "start": 84.577,
+        "end": 85.419
+      },
+      {
+        "text": "Again.",
+        "start": 85.439,
+        "end": 85.759
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. So, you can only move one matchstick to make this equation correct. What is the final correct equation? 2 equals 9 minus 2. So. Oh, can you move the? No, because they're. Horizontal, not vertical. Okay. So you cannot move the equals or the minus sign. So use the buttons below to report the correct version of the equation. Well, you can't. Oh, but that still wouldn't be right. Hmm. Okay. Well, this is already making me feel stupid. Use the buttons below. But you can only move one matchstick. So I can make that a V, but that would make it 4 minus 2. Oh, it's 2. Okay. Yep. Again."
+  }
+}

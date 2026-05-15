@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_3156a94353ea/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, so now we have 4 equals 4 minus 2.Oh, that's easy.4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " OK, so now we have 4 equals 4 minus 2.",
+        "start": 1.06,
+        "end": 5.376
+      },
+      {
+        "text": "Oh, that's easy.",
+        "start": 5.396,
+        "end": 6.781
+      },
+      {
+        "text": "4 equals 6 minus 2.",
+        "start": 6.842,
+        "end": 10.716
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so now we have 4 equals 4 minus 2. Oh, that's easy. 4 equals 6 minus 2."
+  }
+}

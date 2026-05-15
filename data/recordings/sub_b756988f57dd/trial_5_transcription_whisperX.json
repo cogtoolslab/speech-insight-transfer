@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_b756988f57dd/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, I feel good that I got the last three.The first one I blanked out on.Okay, so IX, 9 equals X11, 12 plus IV, 4.9 equals 12 plus 4.Obviously, that's incorrect.Let me just try the IX.Make it X1, XI.So, that's 11 equals 12 plus 4.No, that's not correct.Let me go then to the numbers on the right.Let's see. IX is 9 equals 12 plus 6.No.IX, which is 9, equals 12 equals 13 minus 4.There we go.So, it basically like most of these, you have to play with the plus minus sign. IX, which is 9, definitely equals, let's see, 12 minus, equals 13 minus 4.So, I'm going to move the plus minus sign, equals 13 minus 4, minus 4, yeah.9 equals 13 minus 4.",
+    "segments": [
+      {
+        "text": " Okay, I feel good that I got the last three.",
+        "start": 1.111,
+        "end": 2.793
+      },
+      {
+        "text": "The first one I blanked out on.",
+        "start": 3.274,
+        "end": 4.796
+      },
+      {
+        "text": "Okay, so IX, 9 equals X11, 12 plus IV, 4.",
+        "start": 6.519,
+        "end": 12.667
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 12.687,
+        "end": 14.309
+      },
+      {
+        "text": "Obviously, that's incorrect.",
+        "start": 14.37,
+        "end": 15.411
+      },
+      {
+        "text": "Let me just try the IX.",
+        "start": 16.332,
+        "end": 17.634
+      },
+      {
+        "text": "Make it X1, XI.",
+        "start": 17.955,
+        "end": 20.098
+      },
+      {
+        "text": "So, that's 11 equals 12 plus 4.",
+        "start": 20.118,
+        "end": 22.821
+      },
+      {
+        "text": "No, that's not correct.",
+        "start": 23.342,
+        "end": 24.484
+      },
+      {
+        "text": "Let me go then to the numbers on the right.",
+        "start": 25.806,
+        "end": 28.229
+      },
+      {
+        "text": "Let's see.",
+        "start": 29.751,
+        "end": 30.392
+      },
+      {
+        "text": " IX is 9 equals 12 plus 6.",
+        "start": 31.216,
+        "end": 39.345
+      },
+      {
+        "text": "No.",
+        "start": 39.445,
+        "end": 39.665
+      },
+      {
+        "text": "IX, which is 9, equals 12 equals 13 minus 4.",
+        "start": 43.349,
+        "end": 54.702
+      },
+      {
+        "text": "There we go.",
+        "start": 54.902,
+        "end": 55.343
+      },
+      {
+        "text": "So, it basically like most of these, you have to play with the plus minus sign.",
+        "start": 55.963,
+        "end": 59.367
+      },
+      {
+        "text": " IX, which is 9, definitely equals, let's see, 12 minus, equals 13 minus 4.",
+        "start": 60.359,
+        "end": 72.168
+      },
+      {
+        "text": "So, I'm going to move the plus minus sign, equals 13 minus 4, minus 4, yeah.",
+        "start": 72.328,
+        "end": 82.673
+      },
+      {
+        "text": "9 equals 13 minus 4.",
+        "start": 82.693,
+        "end": 85.219
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, I feel good that I got the last three. The first one I blanked out on. Okay, so IX, 9 equals X11, 12 plus IV, 4. 9 equals 12 plus 4. Obviously, that's incorrect. Let me just try the IX. Make it X1, XI. So, that's 11 equals 12 plus 4. No, that's not correct. Let me go then to the numbers on the right. Let's see. IX is 9 equals 12 plus 6. No. IX, which is 9, equals 12 equals 13 minus 4. There we go. So, it basically like most of these, you have to play with the plus minus sign. IX, which is 9, definitely equals, let's see, 12 minus, equals 13 minus 4. So, I'm going to move the plus minus sign, equals 13 minus 4, minus 4, yeah. 9 equals 13 minus 4."
+  }
+}

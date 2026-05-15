@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_3.wav",
+  "with_timestamps": {
+    "text": " three equals three like are they all just gonna be",
+    "segments": [
+      {
+        "text": " three equals three like are they all just gonna be",
+        "start": 6.376,
+        "end": 13.467
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " three equals three like are they all just gonna be"
+  }
+}

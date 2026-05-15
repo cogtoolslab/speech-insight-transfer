@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_203aa31de036/trial_3.wav",
+  "with_timestamps": {
+    "text": " okay let's try again this one is 11 oh no i'm sorry 2 equals 11 minus 7 2 equals that's 11 minus 5 6 7 yeah 2 equals 11 minus 7 No, because it's 4.So if I flipped that around, it would be 5, 4, 3.11 minus 3, that wouldn't work.If I flip the first one around, it would be 9 minus 7, which would be true.So let me see if that works.2 equals 9 minus 7, which is true.Let's see if this works.",
+    "segments": [
+      {
+        "text": " okay let's try again this one is 11 oh no i'm sorry 2 equals 11 minus 7 2 equals that's 11 minus 5 6 7 yeah 2 equals 11 minus 7",
+        "start": 3.136,
+        "end": 29.11
+      },
+      {
+        "text": " No, because it's 4.",
+        "start": 30.625,
+        "end": 32.027
+      },
+      {
+        "text": "So if I flipped that around, it would be 5, 4, 3.",
+        "start": 32.608,
+        "end": 35.992
+      },
+      {
+        "text": "11 minus 3, that wouldn't work.",
+        "start": 36.012,
+        "end": 38.295
+      },
+      {
+        "text": "If I flip the first one around, it would be 9 minus 7, which would be true.",
+        "start": 41.119,
+        "end": 54.896
+      },
+      {
+        "text": "So let me see if that works.",
+        "start": 55.437,
+        "end": 56.518
+      },
+      {
+        "text": "2 equals",
+        "start": 56.538,
+        "end": 60.143
+      },
+      {
+        "text": " 9 minus 7, which is true.",
+        "start": 63.025,
+        "end": 71.639
+      },
+      {
+        "text": "Let's see if this works.",
+        "start": 71.719,
+        "end": 72.343
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay let's try again this one is 11 oh no i'm sorry 2 equals 11 minus 7 2 equals that's 11 minus 5 6 7 yeah 2 equals 11 minus 7 No, because it's 4. So if I flipped that around, it would be 5, 4, 3. 11 minus 3, that wouldn't work. If I flip the first one around, it would be 9 minus 7, which would be true. So let me see if that works. 2 equals 9 minus 7, which is true. Let's see if this works."
+  }
+}

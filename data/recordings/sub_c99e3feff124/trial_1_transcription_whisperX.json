@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_c99e3feff124/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so we have seven equals three minus four.No, it's not right.Let's see, can we make it?Seven minus two, we can move. one of the equal match sticks to the minus sign.So it'd be seven minus three equals four.So we need seven minus three equals four.And then we're good to go.That's the incorrect one. That's totally correct.And that worked.Seven minus three equals. I'm moving the one match book from the equal sign over the negative sign.",
+    "segments": [
+      {
+        "text": " Okay, so we have seven equals three minus four.",
+        "start": 0.031,
+        "end": 6.818
+      },
+      {
+        "text": "No, it's not right.",
+        "start": 8.12,
+        "end": 9.622
+      },
+      {
+        "text": "Let's see, can we make it?",
+        "start": 13.926,
+        "end": 15.688
+      },
+      {
+        "text": "Seven minus two, we can move.",
+        "start": 21.495,
+        "end": 23.777
+      },
+      {
+        "text": " one of the equal match sticks to the minus sign.",
+        "start": 24.567,
+        "end": 28.032
+      },
+      {
+        "text": "So it'd be seven minus three equals four.",
+        "start": 28.052,
+        "end": 31.857
+      },
+      {
+        "text": "So we need seven minus three equals four.",
+        "start": 32.297,
+        "end": 44.874
+      },
+      {
+        "text": "And then we're good to go.",
+        "start": 47.918,
+        "end": 48.9
+      },
+      {
+        "text": "That's the incorrect one.",
+        "start": 50.562,
+        "end": 52.144
+      },
+      {
+        "text": " That's totally correct.",
+        "start": 56.107,
+        "end": 57.068
+      },
+      {
+        "text": "And that worked.",
+        "start": 68.121,
+        "end": 68.762
+      },
+      {
+        "text": "Seven minus three equals.",
+        "start": 71.104,
+        "end": 78.553
+      },
+      {
+        "text": " I'm moving the one match book from the equal sign over the negative sign.",
+        "start": 83.798,
+        "end": 89.505
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so we have seven equals three minus four. No, it's not right. Let's see, can we make it? Seven minus two, we can move. one of the equal match sticks to the minus sign. So it'd be seven minus three equals four. So we need seven minus three equals four. And then we're good to go. That's the incorrect one. That's totally correct. And that worked. Seven minus three equals. I'm moving the one match book from the equal sign over the negative sign."
+  }
+}

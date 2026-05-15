@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_c99e3feff124/trial_3.wav",
+  "with_timestamps": {
+    "text": " uh eight equals seven minus six oh this is gonna be another one that's easy because i'll just make it eight minus seven oh no eight minus seven equals six no that wouldn't be right um okay this one's gonna be tricky um So this is 13 is equal to, let's see, I can't make it six plus six, but that's 12.So that'd be 13 equals 12.That's not right.We'll make one match deck. and a match stick on the left.If I take away 13, make it 12.12 equals 8 minus 6, that's only 2.The right hand side is equal to 1 right now.There's no way to make the left hand side equal to 1. 13 minus seven, I can just make this 13 minus seven equals six.13 minus seven equals six.",
+    "segments": [
+      {
+        "text": " uh eight equals seven minus six oh this is gonna be another one that's easy because i'll just make it eight minus seven oh no eight minus seven equals six no that wouldn't be right um okay this one's gonna be tricky um",
+        "start": 1.212,
+        "end": 24.115
+      },
+      {
+        "text": " So this is 13 is equal to, let's see, I can't make it six plus six, but that's 12.",
+        "start": 29.292,
+        "end": 37.468
+      },
+      {
+        "text": "So that'd be 13 equals 12.",
+        "start": 37.528,
+        "end": 39.993
+      },
+      {
+        "text": "That's not right.",
+        "start": 40.073,
+        "end": 40.955
+      },
+      {
+        "text": "We'll make one match deck.",
+        "start": 47.347,
+        "end": 49.191
+      },
+      {
+        "text": " and a match stick on the left.",
+        "start": 67.632,
+        "end": 69.956
+      },
+      {
+        "text": "If I take away 13, make it 12.",
+        "start": 71.518,
+        "end": 73.962
+      },
+      {
+        "text": "12 equals 8 minus 6, that's only 2.",
+        "start": 73.982,
+        "end": 84.84
+      },
+      {
+        "text": "The right hand side is equal to 1 right now.",
+        "start": 84.86,
+        "end": 87.544
+      },
+      {
+        "text": "There's no way to make the left hand side equal to 1.",
+        "start": 87.564,
+        "end": 89.387
+      },
+      {
+        "text": " 13 minus seven, I can just make this 13 minus seven equals six.",
+        "start": 96.657,
+        "end": 103.98
+      },
+      {
+        "text": "13 minus seven equals six.",
+        "start": 104.001,
+        "end": 115.999
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " uh eight equals seven minus six oh this is gonna be another one that's easy because i'll just make it eight minus seven oh no eight minus seven equals six no that wouldn't be right um okay this one's gonna be tricky um So this is 13 is equal to, let's see, I can't make it six plus six, but that's 12. So that'd be 13 equals 12. That's not right. We'll make one match deck. and a match stick on the left. If I take away 13, make it 12. 12 equals 8 minus 6, that's only 2. The right hand side is equal to 1 right now. There's no way to make the left hand side equal to 1. 13 minus seven, I can just make this 13 minus seven equals six. 13 minus seven equals six."
+  }
+}

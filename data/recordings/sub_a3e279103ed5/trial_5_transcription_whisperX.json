@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_a3e279103ed5/trial_5.wav",
+  "with_timestamps": {
+    "text": " Let's do it one more time.We have 6 minus 4 equals 2.Switching the equals and the minus to get the answer.Minus 1.Oops.Minus 4 equals 2.",
+    "segments": [
+      {
+        "text": " Let's do it one more time.",
+        "start": 0.031,
+        "end": 2.717
+      },
+      {
+        "text": "We have 6 minus 4 equals 2.",
+        "start": 2.797,
+        "end": 5.042
+      },
+      {
+        "text": "Switching the equals and the minus to get the answer.",
+        "start": 6.024,
+        "end": 9.031
+      },
+      {
+        "text": "Minus 1.",
+        "start": 12.358,
+        "end": 13.681
+      },
+      {
+        "text": "Oops.",
+        "start": 14.904,
+        "end": 15.124
+      },
+      {
+        "text": "Minus 4 equals 2.",
+        "start": 16.267,
+        "end": 18.732
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's do it one more time. We have 6 minus 4 equals 2. Switching the equals and the minus to get the answer. Minus 1. Oops. Minus 4 equals 2."
+  }
+}

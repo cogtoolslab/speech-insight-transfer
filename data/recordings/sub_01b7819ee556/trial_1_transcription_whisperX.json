@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_01b7819ee556/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, puzzle one of five.You can only move one matchstick to make this equation correct.What is the final correct equation?Okay, so I see three matchsticks on the left.And these two, which means an equal to the right is a nine. minus 4 so 9 minus 4 does not equal 3 so if we could only move match this and can't add or remove any to get this answer correct um If I move the stick to the right, that would make it a 11.And 11 minus 4 is not 3.So maybe if we move the stick on the furthest right, behind that V then it'll be 9 minus 6 which equals 3.So it would be",
+    "segments": [
+      {
+        "text": " All right, puzzle one of five.",
+        "start": 2.309,
+        "end": 4.191
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 4.251,
+        "end": 8.416
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 8.436,
+        "end": 10.759
+      },
+      {
+        "text": "Okay, so I see three matchsticks on the left.",
+        "start": 11.079,
+        "end": 14.223
+      },
+      {
+        "text": "And these two, which means an equal to the right is a nine.",
+        "start": 18.008,
+        "end": 29.481
+      },
+      {
+        "text": " minus 4 so 9 minus 4 does not equal 3 so if we could only move match this and can't add or remove any to get this answer correct um",
+        "start": 31.992,
+        "end": 57.139
+      },
+      {
+        "text": " If I move the stick to the right, that would make it a 11.",
+        "start": 59.296,
+        "end": 67.949
+      },
+      {
+        "text": "And 11 minus 4 is not 3.",
+        "start": 69.251,
+        "end": 71.895
+      },
+      {
+        "text": "So maybe if we move the stick on the furthest right,",
+        "start": 73.658,
+        "end": 88.56
+      },
+      {
+        "text": " behind that V then it'll be 9 minus 6 which equals 3.",
+        "start": 89.705,
+        "end": 95.052
+      },
+      {
+        "text": "So it would be",
+        "start": 96.66,
+        "end": 98.348
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, puzzle one of five. You can only move one matchstick to make this equation correct. What is the final correct equation? Okay, so I see three matchsticks on the left. And these two, which means an equal to the right is a nine. minus 4 so 9 minus 4 does not equal 3 so if we could only move match this and can't add or remove any to get this answer correct um If I move the stick to the right, that would make it a 11. And 11 minus 4 is not 3. So maybe if we move the stick on the furthest right, behind that V then it'll be 9 minus 6 which equals 3. So it would be"
+  }
+}

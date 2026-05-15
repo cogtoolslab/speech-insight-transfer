@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_97a093227203/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, this equation starts out as 6 equals 6 plus 1.Let me see, so 6 equals 6 plus 1, no. Let's see if I changed it to 5 plus 2.That's not right.It equals 7.Let's see.Oh, OK.I've got it.I'm going to change it to 7 minus 1 equals 6.So 6 equals v. And I took one of the match 6 from the plus sign to make the 6 a 7.So now it's a minus 1.So now it's 6 equals 7 minus 1, and that's",
+    "segments": [
+      {
+        "text": " Okay, this equation starts out as 6 equals 6 plus 1.",
+        "start": 1.145,
+        "end": 8.854
+      },
+      {
+        "text": "Let me see, so 6 equals 6 plus 1, no.",
+        "start": 21.589,
+        "end": 26.815
+      },
+      {
+        "text": " Let's see if I changed it to 5 plus 2.",
+        "start": 29.056,
+        "end": 31.721
+      },
+      {
+        "text": "That's not right.",
+        "start": 31.861,
+        "end": 32.883
+      },
+      {
+        "text": "It equals 7.",
+        "start": 32.904,
+        "end": 34.567
+      },
+      {
+        "text": "Let's see.",
+        "start": 34.587,
+        "end": 37.733
+      },
+      {
+        "text": "Oh, OK.",
+        "start": 37.753,
+        "end": 38.094
+      },
+      {
+        "text": "I've got it.",
+        "start": 38.134,
+        "end": 38.615
+      },
+      {
+        "text": "I'm going to change it to 7 minus 1 equals 6.",
+        "start": 38.755,
+        "end": 41.681
+      },
+      {
+        "text": "So 6 equals v. And I took one of the match 6 from the plus sign to make the 6 a 7.",
+        "start": 41.801,
+        "end": 52.281
+      },
+      {
+        "text": "So now it's a minus 1.",
+        "start": 52.341,
+        "end": 55.888
+      },
+      {
+        "text": "So now it's 6 equals 7 minus 1, and that's",
+        "start": 55.908,
+        "end": 58.253
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this equation starts out as 6 equals 6 plus 1. Let me see, so 6 equals 6 plus 1, no. Let's see if I changed it to 5 plus 2. That's not right. It equals 7. Let's see. Oh, OK. I've got it. I'm going to change it to 7 minus 1 equals 6. So 6 equals v. And I took one of the match 6 from the plus sign to make the 6 a 7. So now it's a minus 1. So now it's 6 equals 7 minus 1, and that's"
+  }
+}

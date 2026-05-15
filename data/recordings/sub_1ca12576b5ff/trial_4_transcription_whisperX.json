@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_1ca12576b5ff/trial_4.wav",
+  "with_timestamps": {
+    "text": " so this number 2 equals to 11 minus 7 that is my 2 so we make it 2 2 equals to 9 minus 8 so that comes to the left of x i x minus v i i",
+    "segments": [
+      {
+        "text": " so this number 2 equals to 11 minus 7 that is my 2 so we make it 2 2 equals to 9 minus 8 so that comes to the left of x i x minus v i i",
+        "start": 0.031,
+        "end": 29.717
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " so this number 2 equals to 11 minus 7 that is my 2 so we make it 2 2 equals to 9 minus 8 so that comes to the left of x i x minus v i i"
+  }
+}

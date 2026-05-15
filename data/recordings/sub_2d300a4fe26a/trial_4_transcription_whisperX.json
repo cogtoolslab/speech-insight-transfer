@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_2d300a4fe26a/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright, we're on to the next one.Pretty sure I'm 0 for 3 on these so far, so 3 equals 3 plus 3.Don't understand this again.I could move one up here and that would be 4 equals 3 minus 3.That's not correct.Could move one up here and it would be four equals two plus three, that's five, that's not correct.I'm just not seeing it again.But let's keep going.Four is I'm not able to have a 4 because 4 wouldn't work.Say I did 4 equals 2 plus 3.That's not correct.That's 5 equals 4.That's wrong. And if it's 3 equals 2 plus 4, we're in the same post. I'm just not seeing a solution to this problem anywhere in the problem itself.It just doesn't seem to to make sense.I don't see where I can just move one stick.And it's going to.Make a difference in this equation.It just.Seems like nothing I do is going to. make a difference here.If I could move orientation, I feel like I could do it.But I can't do that.So I'm just I'm not seeing a way to do it.I mean, The only way I can think of to do it is, what if I move this, 3 minus 3, I mean that wouldn't work either, that would be 3 minus No, that's not right.Like if I could move this stick here and make this like, move this stick here and make that a zero, I can make it zero equals three minus three.And that would be correct, but I can't change orientation.And that's kind of mixing them around too.So that doesn't make any sense either. So I'm just not, I'm not seeing solutions on this.Like I don't see matchstick solutions for these questions.Like this is definitely very annoying.",
+    "segments": [
+      {
+        "text": " Alright, we're on to the next one.",
+        "start": 0.031,
+        "end": 2.135
+      },
+      {
+        "text": "Pretty sure I'm 0 for 3 on these so far, so 3 equals 3 plus 3.",
+        "start": 4.319,
+        "end": 8.306
+      },
+      {
+        "text": "Don't understand this again.",
+        "start": 10.17,
+        "end": 11.412
+      },
+      {
+        "text": "I could move one up here and that would be 4 equals 3 minus 3.",
+        "start": 11.432,
+        "end": 18.886
+      },
+      {
+        "text": "That's not correct.",
+        "start": 19.046,
+        "end": 19.807
+      },
+      {
+        "text": "Could move",
+        "start": 22.071,
+        "end": 22.933
+      },
+      {
+        "text": " one up here and it would be four equals two plus three, that's five, that's not correct.",
+        "start": 25.681,
+        "end": 31.908
+      },
+      {
+        "text": "I'm just not seeing it again.",
+        "start": 35.172,
+        "end": 43.142
+      },
+      {
+        "text": "But let's keep going.",
+        "start": 43.222,
+        "end": 46.286
+      },
+      {
+        "text": "Four is",
+        "start": 49.549,
+        "end": 51.672
+      },
+      {
+        "text": " I'm not able to have a 4 because 4 wouldn't work.",
+        "start": 54.773,
+        "end": 59.658
+      },
+      {
+        "text": "Say I did 4 equals 2 plus 3.",
+        "start": 65.004,
+        "end": 70.951
+      },
+      {
+        "text": "That's not correct.",
+        "start": 71.091,
+        "end": 72.012
+      },
+      {
+        "text": "That's 5 equals 4.",
+        "start": 74.434,
+        "end": 76.817
+      },
+      {
+        "text": "That's wrong.",
+        "start": 76.937,
+        "end": 82.283
+      },
+      {
+        "text": " And if it's 3 equals 2 plus 4, we're in the same post.",
+        "start": 87.038,
+        "end": 95.445
+      },
+      {
+        "text": " I'm just not seeing a solution to this problem anywhere in the problem itself.",
+        "start": 109.516,
+        "end": 115.021
+      },
+      {
+        "text": "It just doesn't seem to to make sense.",
+        "start": 115.081,
+        "end": 118.104
+      },
+      {
+        "text": "I don't see where I can just move one stick.",
+        "start": 118.725,
+        "end": 123.53
+      },
+      {
+        "text": "And it's going to.",
+        "start": 126.252,
+        "end": 127.314
+      },
+      {
+        "text": "Make a difference in this equation.",
+        "start": 129.856,
+        "end": 131.938
+      },
+      {
+        "text": "It just.",
+        "start": 133.059,
+        "end": 133.72
+      },
+      {
+        "text": "Seems like nothing I do is going to.",
+        "start": 135.962,
+        "end": 138.004
+      },
+      {
+        "text": " make a difference here.",
+        "start": 139.098,
+        "end": 140.24
+      },
+      {
+        "text": "If I could move orientation, I feel like I could do it.",
+        "start": 140.921,
+        "end": 147.311
+      },
+      {
+        "text": "But I can't do that.",
+        "start": 150.055,
+        "end": 150.996
+      },
+      {
+        "text": "So I'm just I'm not seeing a way to do it.",
+        "start": 155.804,
+        "end": 158.207
+      },
+      {
+        "text": "I mean,",
+        "start": 164.698,
+        "end": 165.038
+      },
+      {
+        "text": " The only way I can think of to do it is, what if I move this, 3 minus 3, I mean that wouldn't work either, that would be 3 minus",
+        "start": 168.578,
+        "end": 188.376
+      },
+      {
+        "text": " No, that's not right.",
+        "start": 193.132,
+        "end": 194.754
+      },
+      {
+        "text": "Like if I could move this stick here and make this like, move this stick here and make that a zero, I can make it zero equals three minus three.",
+        "start": 195.455,
+        "end": 211.017
+      },
+      {
+        "text": "And that would be correct, but I can't change orientation.",
+        "start": 211.057,
+        "end": 213.541
+      },
+      {
+        "text": "And that's kind of mixing them around too.",
+        "start": 216.344,
+        "end": 218.628
+      },
+      {
+        "text": "So that doesn't make any sense either.",
+        "start": 219.949,
+        "end": 221.772
+      },
+      {
+        "text": " So I'm just not, I'm not seeing solutions on this.",
+        "start": 223.085,
+        "end": 225.353
+      },
+      {
+        "text": "Like I don't see matchstick solutions for these questions.",
+        "start": 226.116,
+        "end": 235.891
+      },
+      {
+        "text": "Like this is definitely very annoying.",
+        "start": 235.951,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, we're on to the next one. Pretty sure I'm 0 for 3 on these so far, so 3 equals 3 plus 3. Don't understand this again. I could move one up here and that would be 4 equals 3 minus 3. That's not correct. Could move one up here and it would be four equals two plus three, that's five, that's not correct. I'm just not seeing it again. But let's keep going. Four is I'm not able to have a 4 because 4 wouldn't work. Say I did 4 equals 2 plus 3. That's not correct. That's 5 equals 4. That's wrong. And if it's 3 equals 2 plus 4, we're in the same post. I'm just not seeing a solution to this problem anywhere in the problem itself. It just doesn't seem to to make sense. I don't see where I can just move one stick. And it's going to. Make a difference in this equation. It just. Seems like nothing I do is going to. make a difference here. If I could move orientation, I feel like I could do it. But I can't do that. So I'm just I'm not seeing a way to do it. I mean, The only way I can think of to do it is, what if I move this, 3 minus 3, I mean that wouldn't work either, that would be 3 minus No, that's not right. Like if I could move this stick here and make this like, move this stick here and make that a zero, I can make it zero equals three minus three. And that would be correct, but I can't change orientation. And that's kind of mixing them around too. So that doesn't make any sense either. So I'm just not, I'm not seeing solutions on this. Like I don't see matchstick solutions for these questions. Like this is definitely very annoying."
+  }
+}

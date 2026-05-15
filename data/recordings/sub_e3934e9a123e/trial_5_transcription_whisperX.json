@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e3934e9a123e/trial_5.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 4 equals 4 minus 2.It should be 6 minus 2 divided into vi.",
+    "segments": [
+      {
+        "text": " In this equation, we have 4 equals 4 minus 2.",
+        "start": 0.773,
+        "end": 5.332
+      },
+      {
+        "text": "It should be 6 minus 2 divided into vi.",
+        "start": 5.814,
+        "end": 9.67
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 4 equals 4 minus 2. It should be 6 minus 2 divided into vi."
+  }
+}

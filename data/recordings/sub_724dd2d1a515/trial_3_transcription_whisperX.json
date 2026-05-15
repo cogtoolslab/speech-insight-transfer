@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_724dd2d1a515/trial_3.wav",
+  "with_timestamps": {
+    "text": " Oh, I went over the limit.OK, my bad.That one was difficult.OK, so 9 equals 12 plus 4.So 12 plus 4 is equal to 16. Wow, I am really bad at these puzzles.Let's see here.I want to say nine equals 12 plus four, nine equals 12.So if we take Can I remove the plus and make it 12 minus 4 equals 8?12 minus 4 equals 8.But it would still be 9.I'm one off.Or we maybe move this to 13. No, that won't work either.It's got to be something to increase this.12.So if I do 19?No.12 plus 4.No.Oh my gosh.What is this?Um. Let's see here.We got a lesser number on the left side, and we got this huge number on the right side, 12 plus 4, 16.9.Let's see.You can only move one match just to make this equation correct. Gosh, I want to say you can change it from plus to minus.Let's see, 5, no, 6, so 9 equals 4.Can we make that a 5 or 8?No.I want to say it's a negative, 12 minus, 4 equals 8.So let me maybe try doing that.I'll try maybe moving that to the left side.Let's see.12 minus 4.All right.So that's not correct. So it's, that's just hard.9 equals 12 plus 4.Can't move this one over.So 11 equals 12 plus 4. I really wish it would help me solve this.Wow.I can't do can't equals.Hmm.",
+    "segments": [
+      {
+        "text": " Oh, I went over the limit.",
+        "start": 0.318,
+        "end": 1.981
+      },
+      {
+        "text": "OK, my bad.",
+        "start": 2.001,
+        "end": 2.902
+      },
+      {
+        "text": "That one was difficult.",
+        "start": 2.962,
+        "end": 4.044
+      },
+      {
+        "text": "OK, so 9 equals 12 plus 4.",
+        "start": 4.545,
+        "end": 8.612
+      },
+      {
+        "text": "So 12 plus 4 is equal to 16.",
+        "start": 10.435,
+        "end": 23.457
+      },
+      {
+        "text": " Wow, I am really bad at these puzzles.",
+        "start": 25.597,
+        "end": 29.14
+      },
+      {
+        "text": "Let's see here.",
+        "start": 34.525,
+        "end": 35.486
+      },
+      {
+        "text": "I want to say nine equals 12 plus four, nine equals 12.",
+        "start": 35.506,
+        "end": 51.682
+      },
+      {
+        "text": "So if we take",
+        "start": 51.702,
+        "end": 53.123
+      },
+      {
+        "text": " Can I remove the plus and make it 12 minus 4 equals 8?",
+        "start": 54.402,
+        "end": 65.415
+      },
+      {
+        "text": "12 minus 4 equals 8.",
+        "start": 65.435,
+        "end": 74.785
+      },
+      {
+        "text": "But it would still be 9.",
+        "start": 75.586,
+        "end": 76.747
+      },
+      {
+        "text": "I'm one off.",
+        "start": 76.807,
+        "end": 77.508
+      },
+      {
+        "text": "Or we maybe move this to 13.",
+        "start": 78.429,
+        "end": 80.832
+      },
+      {
+        "text": " No, that won't work either.",
+        "start": 83.14,
+        "end": 84.642
+      },
+      {
+        "text": "It's got to be something to increase this.",
+        "start": 84.683,
+        "end": 90.592
+      },
+      {
+        "text": "12.",
+        "start": 90.612,
+        "end": 93.998
+      },
+      {
+        "text": "So if I do 19?",
+        "start": 94.058,
+        "end": 95.28
+      },
+      {
+        "text": "No.",
+        "start": 97.323,
+        "end": 97.644
+      },
+      {
+        "text": "12 plus 4.",
+        "start": 99.046,
+        "end": 100.849
+      },
+      {
+        "text": "No.",
+        "start": 102.231,
+        "end": 102.612
+      },
+      {
+        "text": "Oh my gosh.",
+        "start": 104.054,
+        "end": 104.916
+      },
+      {
+        "text": "What is this?",
+        "start": 105.256,
+        "end": 106.278
+      },
+      {
+        "text": "Um.",
+        "start": 109.023,
+        "end": 109.283
+      },
+      {
+        "text": " Let's see here.",
+        "start": 112.351,
+        "end": 113.352
+      },
+      {
+        "text": "We got a lesser number on the left side, and we got this huge number on the right side, 12 plus 4, 16.",
+        "start": 113.392,
+        "end": 124.244
+      },
+      {
+        "text": "9.",
+        "start": 124.264,
+        "end": 124.764
+      },
+      {
+        "text": "Let's see.",
+        "start": 124.784,
+        "end": 128.648
+      },
+      {
+        "text": "You can only move one match just to make this equation correct.",
+        "start": 133.413,
+        "end": 136.857
+      },
+      {
+        "text": " Gosh, I want to say you can change it from plus to minus.",
+        "start": 139.351,
+        "end": 142.776
+      },
+      {
+        "text": "Let's see, 5, no, 6, so 9 equals 4.",
+        "start": 145.5,
+        "end": 156.655
+      },
+      {
+        "text": "Can we make that a 5 or 8?",
+        "start": 157.036,
+        "end": 160.04
+      },
+      {
+        "text": "No.",
+        "start": 162.403,
+        "end": 162.804
+      },
+      {
+        "text": "I want to say it's a negative, 12 minus,",
+        "start": 163.344,
+        "end": 167.35
+      },
+      {
+        "text": " 4 equals 8.",
+        "start": 167.684,
+        "end": 169.567
+      },
+      {
+        "text": "So let me maybe try doing that.",
+        "start": 173.514,
+        "end": 178.882
+      },
+      {
+        "text": "I'll try maybe moving that to the left side.",
+        "start": 179.063,
+        "end": 181.747
+      },
+      {
+        "text": "Let's see.",
+        "start": 181.767,
+        "end": 186.515
+      },
+      {
+        "text": "12 minus 4.",
+        "start": 186.535,
+        "end": 190.381
+      },
+      {
+        "text": "All right.",
+        "start": 192.665,
+        "end": 193.006
+      },
+      {
+        "text": "So that's not correct.",
+        "start": 193.026,
+        "end": 194.468
+      },
+      {
+        "text": " So it's, that's just hard.",
+        "start": 197.114,
+        "end": 206.649
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 206.669,
+        "end": 211.577
+      },
+      {
+        "text": "Can't move this one over.",
+        "start": 215.844,
+        "end": 219.89
+      },
+      {
+        "text": "So 11 equals 12 plus 4.",
+        "start": 219.97,
+        "end": 224.978
+      },
+      {
+        "text": " I really wish it would help me solve this.",
+        "start": 226.797,
+        "end": 229.885
+      },
+      {
+        "text": "Wow.",
+        "start": 232.933,
+        "end": 233.355
+      },
+      {
+        "text": "I can't do can't equals.",
+        "start": 236.303,
+        "end": 238.368
+      },
+      {
+        "text": "Hmm.",
+        "start": 240.895,
+        "end": 240.975
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh, I went over the limit. OK, my bad. That one was difficult. OK, so 9 equals 12 plus 4. So 12 plus 4 is equal to 16. Wow, I am really bad at these puzzles. Let's see here. I want to say nine equals 12 plus four, nine equals 12. So if we take Can I remove the plus and make it 12 minus 4 equals 8? 12 minus 4 equals 8. But it would still be 9. I'm one off. Or we maybe move this to 13. No, that won't work either. It's got to be something to increase this. 12. So if I do 19? No. 12 plus 4. No. Oh my gosh. What is this? Um. Let's see here. We got a lesser number on the left side, and we got this huge number on the right side, 12 plus 4, 16. 9. Let's see. You can only move one match just to make this equation correct. Gosh, I want to say you can change it from plus to minus. Let's see, 5, no, 6, so 9 equals 4. Can we make that a 5 or 8? No. I want to say it's a negative, 12 minus, 4 equals 8. So let me maybe try doing that. I'll try maybe moving that to the left side. Let's see. 12 minus 4. All right. So that's not correct. So it's, that's just hard. 9 equals 12 plus 4. Can't move this one over. So 11 equals 12 plus 4. I really wish it would help me solve this. Wow. I can't do can't equals. Hmm."
+  }
+}

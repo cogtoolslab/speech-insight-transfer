@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_2dba0fd1be9e/trial_4.wav",
+  "with_timestamps": {
+    "text": " IV equals 4.Equals VI minus II.",
+    "segments": [
+      {
+        "text": " IV equals 4.",
+        "start": 0.031,
+        "end": 8.941
+      },
+      {
+        "text": "Equals VI minus II.",
+        "start": 9.041,
+        "end": 24.958
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " IV equals 4. Equals VI minus II."
+  }
+}

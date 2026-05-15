@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_1050042e659b/trial_3.wav",
+  "with_timestamps": {
+    "text": " So 8 minus 9 minus 4.So what if we did 8 plus... What?Oh my god, this is so hard.So 8 equals 9 minus 4 plus 4.Oh my god.So if we move this one... Okay, hold on.I'm thinking through it, guys.I'm sorry. We have 8 on the left side, so what if we did 7, oh my god this is so hard.So what if we did 8 plus 9 equals, oh my god, so 13 equals 9 plus 4.Okay I was doing it wrong.Okay the numbers were wrong.So this is 13 not 8 because the x is a 10.So we did 13 minus 9 equals 4.",
+    "segments": [
+      {
+        "text": " So 8 minus 9 minus 4.",
+        "start": 1.162,
+        "end": 5.008
+      },
+      {
+        "text": "So what if we did 8 plus... What?",
+        "start": 6.41,
+        "end": 12.238
+      },
+      {
+        "text": "Oh my god, this is so hard.",
+        "start": 12.258,
+        "end": 13.38
+      },
+      {
+        "text": "So 8 equals 9 minus 4 plus 4.",
+        "start": 14.882,
+        "end": 17.746
+      },
+      {
+        "text": "Oh my god.",
+        "start": 18.768,
+        "end": 19.348
+      },
+      {
+        "text": "So if we move this one... Okay, hold on.",
+        "start": 19.889,
+        "end": 27.641
+      },
+      {
+        "text": "I'm thinking through it, guys.",
+        "start": 27.661,
+        "end": 28.602
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 28.662,
+        "end": 29.363
+      },
+      {
+        "text": " We have 8 on the left side, so what if we did 7, oh my god this is so hard.",
+        "start": 29.647,
+        "end": 34.495
+      },
+      {
+        "text": "So what if we did 8 plus 9 equals, oh my god, so 13 equals",
+        "start": 38.542,
+        "end": 52.245
+      },
+      {
+        "text": " 9 plus 4.",
+        "start": 53.407,
+        "end": 54.91
+      },
+      {
+        "text": "Okay I was doing it wrong.",
+        "start": 54.93,
+        "end": 56.292
+      },
+      {
+        "text": "Okay the numbers were wrong.",
+        "start": 56.312,
+        "end": 57.694
+      },
+      {
+        "text": "So this is 13 not 8 because the x is a 10.",
+        "start": 58.095,
+        "end": 60.9
+      },
+      {
+        "text": "So we did 13 minus 9 equals 4.",
+        "start": 61.0,
+        "end": 74.503
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 8 minus 9 minus 4. So what if we did 8 plus... What? Oh my god, this is so hard. So 8 equals 9 minus 4 plus 4. Oh my god. So if we move this one... Okay, hold on. I'm thinking through it, guys. I'm sorry. We have 8 on the left side, so what if we did 7, oh my god this is so hard. So what if we did 8 plus 9 equals, oh my god, so 13 equals 9 plus 4. Okay I was doing it wrong. Okay the numbers were wrong. So this is 13 not 8 because the x is a 10. So we did 13 minus 9 equals 4."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_30c67a672db1/trial_5.wav",
+  "with_timestamps": {
+    "text": " I'm just not having any luck with this.3 equals 9 minus 4.9 minus 4 is 5.5.3.3 equals 11. Minus 4.Nope.7 equals.Nope.Minus 4.12 equals.Let's see. VII equals 7.If I put the V there, 7 equals 9 minus 1.It doesn't.11X, X11, 13. 12 equals no.4 equals 10 minus 4.Nope.1, 2, 3, 4 equals x minus iv.That does not work.4. Nope.That is not correct.Well, we've moved that.4 equals 9 minus 1.That's not true.4. 12 equals 1.It doesn't equal 1 minus 4.That's wrong, too.3 equals 9.3 equals 11 minus 6. Oh, you made it look so simple in the beginning.I didn't get one correct.Oh my gosh.20.That was the last one.Okay.Six.Nine minus four.Nine minus four is five.Two, 12. I V7 equals 9 minus 5, 7 V8.",
+    "segments": [
+      {
+        "text": " I'm just not having any luck with this.",
+        "start": 0.031,
+        "end": 2.775
+      },
+      {
+        "text": "3 equals 9 minus 4.",
+        "start": 3.496,
+        "end": 7.12
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 7.14,
+        "end": 10.505
+      },
+      {
+        "text": "5.",
+        "start": 10.525,
+        "end": 10.565
+      },
+      {
+        "text": "3.",
+        "start": 10.585,
+        "end": 11.767
+      },
+      {
+        "text": "3 equals 11.",
+        "start": 11.787,
+        "end": 25.785
+      },
+      {
+        "text": " Minus 4.",
+        "start": 28.567,
+        "end": 30.088
+      },
+      {
+        "text": "Nope.",
+        "start": 31.089,
+        "end": 35.374
+      },
+      {
+        "text": "7 equals.",
+        "start": 35.394,
+        "end": 37.836
+      },
+      {
+        "text": "Nope.",
+        "start": 40.198,
+        "end": 40.478
+      },
+      {
+        "text": "Minus 4.",
+        "start": 43.601,
+        "end": 43.782
+      },
+      {
+        "text": "12 equals.",
+        "start": 43.802,
+        "end": 45.563
+      },
+      {
+        "text": "Let's see.",
+        "start": 53.791,
+        "end": 54.692
+      },
+      {
+        "text": " VII equals 7.",
+        "start": 59.431,
+        "end": 62.133
+      },
+      {
+        "text": "If I put the V there, 7 equals 9 minus 1.",
+        "start": 63.535,
+        "end": 73.744
+      },
+      {
+        "text": "It doesn't.",
+        "start": 74.144,
+        "end": 74.765
+      },
+      {
+        "text": "11X, X11, 13.",
+        "start": 74.785,
+        "end": 88.037
+      },
+      {
+        "text": " 12 equals no.",
+        "start": 92.995,
+        "end": 101.649
+      },
+      {
+        "text": "4 equals 10 minus 4.",
+        "start": 101.669,
+        "end": 105.495
+      },
+      {
+        "text": "Nope.",
+        "start": 105.856,
+        "end": 106.256
+      },
+      {
+        "text": "1, 2, 3, 4 equals x minus iv.",
+        "start": 109.021,
+        "end": 115.832
+      },
+      {
+        "text": "That does not work.",
+        "start": 115.952,
+        "end": 117.174
+      },
+      {
+        "text": "4.",
+        "start": 117.194,
+        "end": 120.319
+      },
+      {
+        "text": " Nope.",
+        "start": 124.72,
+        "end": 129.066
+      },
+      {
+        "text": "That is not correct.",
+        "start": 129.086,
+        "end": 130.228
+      },
+      {
+        "text": "Well, we've moved that.",
+        "start": 136.397,
+        "end": 137.639
+      },
+      {
+        "text": "4 equals 9 minus 1.",
+        "start": 137.659,
+        "end": 147.172
+      },
+      {
+        "text": "That's not true.",
+        "start": 147.493,
+        "end": 148.354
+      },
+      {
+        "text": "4.",
+        "start": 148.374,
+        "end": 152.5
+      },
+      {
+        "text": " 12 equals 1.",
+        "start": 155.99,
+        "end": 160.495
+      },
+      {
+        "text": "It doesn't equal 1 minus 4.",
+        "start": 160.515,
+        "end": 163.758
+      },
+      {
+        "text": "That's wrong, too.",
+        "start": 163.858,
+        "end": 164.959
+      },
+      {
+        "text": "3 equals 9.",
+        "start": 164.979,
+        "end": 172.307
+      },
+      {
+        "text": "3 equals 11 minus 6.",
+        "start": 172.327,
+        "end": 183.178
+      },
+      {
+        "text": " Oh, you made it look so simple in the beginning.",
+        "start": 186.415,
+        "end": 190.921
+      },
+      {
+        "text": "I didn't get one correct.",
+        "start": 190.981,
+        "end": 194.066
+      },
+      {
+        "text": "Oh my gosh.",
+        "start": 194.326,
+        "end": 195.067
+      },
+      {
+        "text": "20.",
+        "start": 195.087,
+        "end": 197.05
+      },
+      {
+        "text": "That was the last one.",
+        "start": 197.07,
+        "end": 200.275
+      },
+      {
+        "text": "Okay.",
+        "start": 200.475,
+        "end": 200.855
+      },
+      {
+        "text": "Six.",
+        "start": 203.159,
+        "end": 203.519
+      },
+      {
+        "text": "Nine minus four.",
+        "start": 206.123,
+        "end": 207.805
+      },
+      {
+        "text": "Nine minus four is five.",
+        "start": 208.246,
+        "end": 210.089
+      },
+      {
+        "text": "Two, 12.",
+        "start": 210.129,
+        "end": 215.376
+      },
+      {
+        "text": " I V7 equals 9 minus 5, 7 V8.",
+        "start": 216.79,
+        "end": 233.044
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm just not having any luck with this. 3 equals 9 minus 4. 9 minus 4 is 5. 5. 3. 3 equals 11. Minus 4. Nope. 7 equals. Nope. Minus 4. 12 equals. Let's see. VII equals 7. If I put the V there, 7 equals 9 minus 1. It doesn't. 11X, X11, 13. 12 equals no. 4 equals 10 minus 4. Nope. 1, 2, 3, 4 equals x minus iv. That does not work. 4. Nope. That is not correct. Well, we've moved that. 4 equals 9 minus 1. That's not true. 4. 12 equals 1. It doesn't equal 1 minus 4. That's wrong, too. 3 equals 9. 3 equals 11 minus 6. Oh, you made it look so simple in the beginning. I didn't get one correct. Oh my gosh. 20. That was the last one. Okay. Six. Nine minus four. Nine minus four is five. Two, 12. I V7 equals 9 minus 5, 7 V8."
+  }
+}

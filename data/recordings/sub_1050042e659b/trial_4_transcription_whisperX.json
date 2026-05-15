@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_1050042e659b/trial_4.wav",
+  "with_timestamps": {
+    "text": " so 13 minus or 13 equals 8 minus 6 so what if we did 13 minus 7 yeah that's it so x111 is 13 minus 7 equals 6 which is",
+    "segments": [
+      {
+        "text": " so 13 minus or 13 equals 8 minus 6 so what if we did 13 minus 7 yeah that's it so x111 is 13 minus 7 equals 6 which is",
+        "start": 1.01,
+        "end": 23.187
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " so 13 minus or 13 equals 8 minus 6 so what if we did 13 minus 7 yeah that's it so x111 is 13 minus 7 equals 6 which is"
+  }
+}

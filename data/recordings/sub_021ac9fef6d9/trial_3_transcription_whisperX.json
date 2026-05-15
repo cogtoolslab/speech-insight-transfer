@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_021ac9fef6d9/trial_3.wav",
+  "with_timestamps": {
+    "text": " okay so we have 10 11 12 so it's 13 equals 7 minus 6 so it's not adding a matchstick it's moving a matchstick So if this becomes 7 minus 6 is 1.Can't have any of that there.So if I move a matchstick, I make this 11.This is 13.I make this 11. 11 no that would be 12 minus 6 that doesn't equal up either move a matchstick make this one 9 move a matchstick so if I were to make this one so that's 13 7 minus 6 is 1.7, let's see.OK, so if I make that 6 plus 7 plus 6, I need to make that a plus.That would equal 13.Move a matchstick. What if I took out a matchstick?Then when you move a matchstick, so 7 minus 5, you can't, that has to be a plus to equal, so 7 minus 6 is 1.I need to go 7 plus 6. equal 13 so X 1 1 1 equals 7 plus 6 that doesn't move the matchstick though it adds a matchstick so X 111 equals 7.I just did this.7.The matchstick I'm moving is that one.But I need it not to be a minus sign, I need it to be a plus sign.Plus 6. That's not moving a matchstick.That's adding a matchstick.So 12.What if I made this 12, so 8 minus 6?No, because you can't have the minus sign.No matter what, if this remains a minus sign, I need a smaller number over here.All right, so if I did 12. I move a matchstick, that would be 6, 6.I still need to plus it.Does it make any sense?If I move a matchstick, this needs to be like a higher number here.",
+    "segments": [
+      {
+        "text": " okay so we have 10 11 12 so it's 13 equals 7 minus 6 so it's not adding a matchstick it's moving a matchstick",
+        "start": 0.031,
+        "end": 21.415
+      },
+      {
+        "text": " So if this becomes 7 minus 6 is 1.",
+        "start": 24.466,
+        "end": 31.139
+      },
+      {
+        "text": "Can't have any of that there.",
+        "start": 32.341,
+        "end": 34.606
+      },
+      {
+        "text": "So if I move a matchstick, I make this 11.",
+        "start": 34.666,
+        "end": 38.714
+      },
+      {
+        "text": "This is 13.",
+        "start": 39.455,
+        "end": 41.199
+      },
+      {
+        "text": "I make this 11.",
+        "start": 41.219,
+        "end": 44.044
+      },
+      {
+        "text": " 11 no that would be 12 minus 6 that doesn't equal up either move a matchstick make this one 9 move a matchstick so if I were to make this one so that's 13",
+        "start": 46.64,
+        "end": 72.715
+      },
+      {
+        "text": " 7 minus 6 is 1.",
+        "start": 74.247,
+        "end": 76.55
+      },
+      {
+        "text": "7, let's see.",
+        "start": 76.57,
+        "end": 80.816
+      },
+      {
+        "text": "OK, so if I make that 6 plus 7 plus 6, I need to make that a plus.",
+        "start": 80.836,
+        "end": 98.158
+      },
+      {
+        "text": "That would equal 13.",
+        "start": 98.198,
+        "end": 99.46
+      },
+      {
+        "text": "Move a matchstick.",
+        "start": 100.201,
+        "end": 101.723
+      },
+      {
+        "text": " What if I took out a matchstick?",
+        "start": 102.833,
+        "end": 104.616
+      },
+      {
+        "text": "Then when you move a matchstick, so 7 minus 5, you can't, that has to be a plus to equal, so 7 minus 6 is 1.",
+        "start": 105.377,
+        "end": 121.903
+      },
+      {
+        "text": "I need to go 7 plus 6.",
+        "start": 121.923,
+        "end": 128.233
+      },
+      {
+        "text": " equal 13 so X 1 1 1 equals 7 plus 6 that doesn't move the matchstick though it adds a matchstick so X",
+        "start": 128.838,
+        "end": 156.094
+      },
+      {
+        "text": " 111 equals 7.",
+        "start": 158.251,
+        "end": 161.875
+      },
+      {
+        "text": "I just did this.",
+        "start": 162.495,
+        "end": 166.059
+      },
+      {
+        "text": "7.",
+        "start": 166.079,
+        "end": 166.64
+      },
+      {
+        "text": "The matchstick I'm moving is that one.",
+        "start": 166.68,
+        "end": 174.267
+      },
+      {
+        "text": "But I need it not to be a minus sign, I need it to be a plus sign.",
+        "start": 180.213,
+        "end": 183.577
+      },
+      {
+        "text": "Plus 6.",
+        "start": 183.637,
+        "end": 184.798
+      },
+      {
+        "text": " That's not moving a matchstick.",
+        "start": 190.803,
+        "end": 194.486
+      },
+      {
+        "text": "That's adding a matchstick.",
+        "start": 194.506,
+        "end": 196.228
+      },
+      {
+        "text": "So 12.",
+        "start": 198.15,
+        "end": 198.951
+      },
+      {
+        "text": "What if I made this 12, so 8 minus 6?",
+        "start": 199.031,
+        "end": 202.754
+      },
+      {
+        "text": "No, because you can't have the minus sign.",
+        "start": 203.335,
+        "end": 206.238
+      },
+      {
+        "text": "No matter what, if this remains a minus sign, I need a smaller number over here.",
+        "start": 206.298,
+        "end": 213.164
+      },
+      {
+        "text": "All right, so if I did 12.",
+        "start": 213.184,
+        "end": 219.51
+      },
+      {
+        "text": " I move a matchstick, that would be 6, 6.",
+        "start": 223.321,
+        "end": 226.391
+      },
+      {
+        "text": "I still need to plus it.",
+        "start": 226.713,
+        "end": 228.037
+      },
+      {
+        "text": "Does it make any sense?",
+        "start": 229.402,
+        "end": 230.626
+      },
+      {
+        "text": "If I move a matchstick, this needs to be like a higher number here.",
+        "start": 231.007,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay so we have 10 11 12 so it's 13 equals 7 minus 6 so it's not adding a matchstick it's moving a matchstick So if this becomes 7 minus 6 is 1. Can't have any of that there. So if I move a matchstick, I make this 11. This is 13. I make this 11. 11 no that would be 12 minus 6 that doesn't equal up either move a matchstick make this one 9 move a matchstick so if I were to make this one so that's 13 7 minus 6 is 1. 7, let's see. OK, so if I make that 6 plus 7 plus 6, I need to make that a plus. That would equal 13. Move a matchstick. What if I took out a matchstick? Then when you move a matchstick, so 7 minus 5, you can't, that has to be a plus to equal, so 7 minus 6 is 1. I need to go 7 plus 6. equal 13 so X 1 1 1 equals 7 plus 6 that doesn't move the matchstick though it adds a matchstick so X 111 equals 7. I just did this. 7. The matchstick I'm moving is that one. But I need it not to be a minus sign, I need it to be a plus sign. Plus 6. That's not moving a matchstick. That's adding a matchstick. So 12. What if I made this 12, so 8 minus 6? No, because you can't have the minus sign. No matter what, if this remains a minus sign, I need a smaller number over here. All right, so if I did 12. I move a matchstick, that would be 6, 6. I still need to plus it. Does it make any sense? If I move a matchstick, this needs to be like a higher number here."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_79d834729395/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay.So I'm just following the, pattern and placing it into incorrect.Oh, brother.Oh, I see.I see what I did wrong here.So it's 13 equals nine. okay minus four um let's see nine nine um Nine minus four.So five and, oh brother, 13 equals five.Wait, okay, I think I got it.Okay, I got it.One equals Five.Oh, brother.What am I doing wrong here?X one minus 13 equals nine minus four, nine, eight, seven, six, nine, eight, seven, six, five.What the hell am I doing wrong here?I don't understand.Equals 9 minus quarter.Oh brother.Alright, I quit. I'm not quite sure what I'm so confused about here.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.892,
+        "end": 1.413
+      },
+      {
+        "text": "So I'm just following the,",
+        "start": 23.187,
+        "end": 25.431
+      },
+      {
+        "text": " pattern and placing it into incorrect.",
+        "start": 27.335,
+        "end": 34.143
+      },
+      {
+        "text": "Oh, brother.",
+        "start": 40.33,
+        "end": 40.871
+      },
+      {
+        "text": "Oh, I see.",
+        "start": 44.555,
+        "end": 45.436
+      },
+      {
+        "text": "I see what I did wrong here.",
+        "start": 46.217,
+        "end": 47.598
+      },
+      {
+        "text": "So it's 13 equals nine.",
+        "start": 49.14,
+        "end": 56.008
+      },
+      {
+        "text": " okay minus four um let's see nine nine um",
+        "start": 60.089,
+        "end": 88.594
+      },
+      {
+        "text": " Nine minus four.",
+        "start": 91.561,
+        "end": 93.823
+      },
+      {
+        "text": "So five and, oh brother, 13 equals five.",
+        "start": 98.387,
+        "end": 108.117
+      },
+      {
+        "text": "Wait, okay, I think I got it.",
+        "start": 108.317,
+        "end": 109.918
+      },
+      {
+        "text": "Okay, I got it.",
+        "start": 109.938,
+        "end": 111.52
+      },
+      {
+        "text": "One equals",
+        "start": 116.545,
+        "end": 119.087
+      },
+      {
+        "text": " Five.",
+        "start": 121.143,
+        "end": 121.804
+      },
+      {
+        "text": "Oh, brother.",
+        "start": 124.707,
+        "end": 125.588
+      },
+      {
+        "text": "What am I doing wrong here?",
+        "start": 128.792,
+        "end": 130.153
+      },
+      {
+        "text": "X one minus 13 equals nine minus",
+        "start": 133.898,
+        "end": 147.133
+      },
+      {
+        "text": " four, nine, eight, seven, six, nine, eight, seven, six, five.",
+        "start": 149.51,
+        "end": 154.578
+      },
+      {
+        "text": "What the hell am I doing wrong here?",
+        "start": 155.76,
+        "end": 157.563
+      },
+      {
+        "text": "I don't understand.",
+        "start": 167.578,
+        "end": 168.74
+      },
+      {
+        "text": "Equals",
+        "start": 173.527,
+        "end": 174.589
+      },
+      {
+        "text": " 9 minus quarter.",
+        "start": 178.012,
+        "end": 189.368
+      },
+      {
+        "text": "Oh brother.",
+        "start": 196.979,
+        "end": 198.081
+      },
+      {
+        "text": "Alright, I quit.",
+        "start": 198.101,
+        "end": 202.467
+      },
+      {
+        "text": " I'm not quite sure what I'm so confused about here.",
+        "start": 205.197,
+        "end": 226.412
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. So I'm just following the, pattern and placing it into incorrect. Oh, brother. Oh, I see. I see what I did wrong here. So it's 13 equals nine. okay minus four um let's see nine nine um Nine minus four. So five and, oh brother, 13 equals five. Wait, okay, I think I got it. Okay, I got it. One equals Five. Oh, brother. What am I doing wrong here? X one minus 13 equals nine minus four, nine, eight, seven, six, nine, eight, seven, six, five. What the hell am I doing wrong here? I don't understand. Equals 9 minus quarter. Oh brother. Alright, I quit. I'm not quite sure what I'm so confused about here."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_9b26cf0dfff5/trial_2.wav",
+  "with_timestamps": {
+    "text": " So that's 2 equals 11 plus 9.Huh.So that's definitely not correct.11 plus 9 equals 20.So what can be moved? 11 minus 9 would be 2.So that would be incorrect.We can only move one matchstick. I'm trying to think what can be switched.I can only move one matchstick.So can I move the symbol? Not sure.So let's see.Let me just try and see if I can replace the plus with a minus.I'm not sure if I can do that.Three equals. equals I'm going to try and add move the one match stick from the initial three and change the plus to a minus so I'm not sure if I can do that so it would be 12 or let's see Or I can move one of the matchsticks from the 11 to the opposite side, and that would be 3 equals 10 minus 8, which is incorrect. equals x1.Yes, I'm trying to say what I'm thinking out loud, but I'm trying to think rather than talk as well.x1. So, I don't know how I can...",
+    "segments": [
+      {
+        "text": " So that's 2 equals 11 plus 9.",
+        "start": 2.225,
+        "end": 13.616
+      },
+      {
+        "text": "Huh.",
+        "start": 14.757,
+        "end": 16.058
+      },
+      {
+        "text": "So that's definitely not correct.",
+        "start": 16.078,
+        "end": 17.74
+      },
+      {
+        "text": "11 plus 9 equals 20.",
+        "start": 17.76,
+        "end": 26.248
+      },
+      {
+        "text": "So what can be moved?",
+        "start": 28.03,
+        "end": 29.211
+      },
+      {
+        "text": " 11 minus 9 would be 2.",
+        "start": 30.794,
+        "end": 34.329
+      },
+      {
+        "text": "So that would be incorrect.",
+        "start": 34.53,
+        "end": 37.362
+      },
+      {
+        "text": "We can only move one matchstick.",
+        "start": 37.422,
+        "end": 41.057
+      },
+      {
+        "text": " I'm trying to think what can be switched.",
+        "start": 57.473,
+        "end": 61.966
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 63.631,
+        "end": 67.422
+      },
+      {
+        "text": "So can I move the symbol?",
+        "start": 67.442,
+        "end": 72.276
+      },
+      {
+        "text": " Not sure.",
+        "start": 86.87,
+        "end": 87.591
+      },
+      {
+        "text": "So let's see.",
+        "start": 87.631,
+        "end": 98.389
+      },
+      {
+        "text": "Let me just try and see if I can replace the plus with a minus.",
+        "start": 100.172,
+        "end": 103.878
+      },
+      {
+        "text": "I'm not sure if I can do that.",
+        "start": 103.918,
+        "end": 105.561
+      },
+      {
+        "text": "Three equals.",
+        "start": 111.39,
+        "end": 113.113
+      },
+      {
+        "text": " equals I'm going to try and add move the one match stick from the initial three and change the plus to a minus so I'm not sure if I can do that so it would be 12 or let's see",
+        "start": 125.193,
+        "end": 147.083
+      },
+      {
+        "text": " Or I can move one of the matchsticks from the 11 to the opposite side, and that would be 3 equals 10 minus 8, which is incorrect.",
+        "start": 158.032,
+        "end": 184.748
+      },
+      {
+        "text": " equals x1.",
+        "start": 189.217,
+        "end": 195.568
+      },
+      {
+        "text": "Yes, I'm trying to say what I'm thinking out loud, but I'm trying to think rather than talk as well.",
+        "start": 195.608,
+        "end": 209.872
+      },
+      {
+        "text": "x1.",
+        "start": 213.378,
+        "end": 214.279
+      },
+      {
+        "text": " So, I don't know how I can...",
+        "start": 235.353,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So that's 2 equals 11 plus 9. Huh. So that's definitely not correct. 11 plus 9 equals 20. So what can be moved? 11 minus 9 would be 2. So that would be incorrect. We can only move one matchstick. I'm trying to think what can be switched. I can only move one matchstick. So can I move the symbol? Not sure. So let's see. Let me just try and see if I can replace the plus with a minus. I'm not sure if I can do that. Three equals. equals I'm going to try and add move the one match stick from the initial three and change the plus to a minus so I'm not sure if I can do that so it would be 12 or let's see Or I can move one of the matchsticks from the 11 to the opposite side, and that would be 3 equals 10 minus 8, which is incorrect. equals x1. Yes, I'm trying to say what I'm thinking out loud, but I'm trying to think rather than talk as well. x1. So, I don't know how I can..."
+  }
+}

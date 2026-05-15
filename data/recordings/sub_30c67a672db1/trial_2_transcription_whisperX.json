@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_30c67a672db1/trial_2.wav",
+  "with_timestamps": {
+    "text": " Oh, gosh, I just don't know how to make that 6 without with the straight up and down.Vi equals 1, 2, 3. Oh, we're on a new one now.OK.I was still on the old one.Let's do this.OK.10 equals 7 minus 3.No.7 minus 3 equals 4.So. How do I do this?Let's see.7 minus 3.10 equals.Can we do this?Nope, we can't do that.10 equals v. No, that's 12.That's 7 minus 3.7 minus 3.10 equals 7 minus 3.This is tougher than it seems.7 minus 3 is 4.4 is IV. 9, 1x would be 9.9 equals, nope, 4 is IV.So. X is 10.Let's see.10.10 is X.7 minus 3 is 4.How can we make this equal?10.How about 9?9 equals 10. 7 minus 2.Nope.9 equals 7 minus 2.Nope.I don't know.7.X is 10.7 minus 3 is 4, which is IV.Let's see. I'm never going to get this.1x is 9 equals vi6 minus nope.1, 2, 3, nope.That's 9 equals. No, that's not moving it, is it?",
+    "segments": [
+      {
+        "text": " Oh, gosh, I just don't know how to make that 6 without with the straight up and down.",
+        "start": 1.887,
+        "end": 11.769
+      },
+      {
+        "text": "Vi equals 1, 2, 3.",
+        "start": 13.233,
+        "end": 21.01
+      },
+      {
+        "text": " Oh, we're on a new one now.",
+        "start": 22.711,
+        "end": 24.113
+      },
+      {
+        "text": "OK.",
+        "start": 24.473,
+        "end": 24.873
+      },
+      {
+        "text": "I was still on the old one.",
+        "start": 25.354,
+        "end": 26.555
+      },
+      {
+        "text": "Let's do this.",
+        "start": 27.416,
+        "end": 28.157
+      },
+      {
+        "text": "OK.",
+        "start": 28.417,
+        "end": 28.878
+      },
+      {
+        "text": "10 equals 7 minus 3.",
+        "start": 29.138,
+        "end": 33.703
+      },
+      {
+        "text": "No.",
+        "start": 36.946,
+        "end": 37.287
+      },
+      {
+        "text": "7 minus 3 equals 4.",
+        "start": 37.307,
+        "end": 44.234
+      },
+      {
+        "text": "So.",
+        "start": 47.117,
+        "end": 47.638
+      },
+      {
+        "text": " How do I do this?",
+        "start": 52.023,
+        "end": 53.245
+      },
+      {
+        "text": "Let's see.",
+        "start": 55.508,
+        "end": 57.21
+      },
+      {
+        "text": "7 minus 3.",
+        "start": 57.23,
+        "end": 58.252
+      },
+      {
+        "text": "10 equals.",
+        "start": 58.512,
+        "end": 62.898
+      },
+      {
+        "text": "Can we do this?",
+        "start": 66.543,
+        "end": 67.464
+      },
+      {
+        "text": "Nope, we can't do that.",
+        "start": 68.346,
+        "end": 69.687
+      },
+      {
+        "text": "10 equals v.",
+        "start": 69.707,
+        "end": 80.983
+      },
+      {
+        "text": " No, that's 12.",
+        "start": 82.853,
+        "end": 84.135
+      },
+      {
+        "text": "That's 7 minus 3.",
+        "start": 85.276,
+        "end": 89.843
+      },
+      {
+        "text": "7 minus 3.",
+        "start": 89.863,
+        "end": 93.027
+      },
+      {
+        "text": "10 equals 7 minus 3.",
+        "start": 93.047,
+        "end": 97.213
+      },
+      {
+        "text": "This is tougher than it seems.",
+        "start": 97.293,
+        "end": 99.076
+      },
+      {
+        "text": "7 minus 3 is 4.",
+        "start": 99.096,
+        "end": 108.709
+      },
+      {
+        "text": "4 is IV.",
+        "start": 108.729,
+        "end": 112.675
+      },
+      {
+        "text": " 9, 1x would be 9.",
+        "start": 114.477,
+        "end": 119.985
+      },
+      {
+        "text": "9 equals, nope, 4 is IV.",
+        "start": 120.005,
+        "end": 140.093
+      },
+      {
+        "text": "So.",
+        "start": 141.294,
+        "end": 141.835
+      },
+      {
+        "text": " X is 10.",
+        "start": 145.325,
+        "end": 146.406
+      },
+      {
+        "text": "Let's see.",
+        "start": 154.617,
+        "end": 158.202
+      },
+      {
+        "text": "10.",
+        "start": 158.222,
+        "end": 158.282
+      },
+      {
+        "text": "10 is X.",
+        "start": 159.924,
+        "end": 160.825
+      },
+      {
+        "text": "7 minus 3 is 4.",
+        "start": 162.467,
+        "end": 164.47
+      },
+      {
+        "text": "How can we make this equal?",
+        "start": 165.451,
+        "end": 167.173
+      },
+      {
+        "text": "10.",
+        "start": 169.076,
+        "end": 169.957
+      },
+      {
+        "text": "How about 9?",
+        "start": 170.598,
+        "end": 171.039
+      },
+      {
+        "text": "9 equals 10.",
+        "start": 171.119,
+        "end": 175.264
+      },
+      {
+        "text": " 7 minus 2.",
+        "start": 177.742,
+        "end": 182.869
+      },
+      {
+        "text": "Nope.",
+        "start": 183.05,
+        "end": 185.313
+      },
+      {
+        "text": "9 equals 7 minus 2.",
+        "start": 185.333,
+        "end": 189.86
+      },
+      {
+        "text": "Nope.",
+        "start": 190.541,
+        "end": 195.147
+      },
+      {
+        "text": "I don't know.",
+        "start": 195.167,
+        "end": 196.269
+      },
+      {
+        "text": "7.",
+        "start": 196.289,
+        "end": 196.329
+      },
+      {
+        "text": "X is 10.",
+        "start": 196.349,
+        "end": 197.03
+      },
+      {
+        "text": "7 minus 3 is 4, which is IV.",
+        "start": 197.05,
+        "end": 204.281
+      },
+      {
+        "text": "Let's see.",
+        "start": 205.583,
+        "end": 207.225
+      },
+      {
+        "text": " I'm never going to get this.",
+        "start": 207.83,
+        "end": 209.172
+      },
+      {
+        "text": "1x is 9 equals vi6 minus nope.",
+        "start": 209.192,
+        "end": 231.7
+      },
+      {
+        "text": "1, 2, 3, nope.",
+        "start": 231.72,
+        "end": 233.642
+      },
+      {
+        "text": "That's 9 equals.",
+        "start": 233.662,
+        "end": 235.204
+      },
+      {
+        "text": " No, that's not moving it, is it?",
+        "start": 236.652,
+        "end": 239.237
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh, gosh, I just don't know how to make that 6 without with the straight up and down. Vi equals 1, 2, 3. Oh, we're on a new one now. OK. I was still on the old one. Let's do this. OK. 10 equals 7 minus 3. No. 7 minus 3 equals 4. So. How do I do this? Let's see. 7 minus 3. 10 equals. Can we do this? Nope, we can't do that. 10 equals v. No, that's 12. That's 7 minus 3. 7 minus 3. 10 equals 7 minus 3. This is tougher than it seems. 7 minus 3 is 4. 4 is IV. 9, 1x would be 9. 9 equals, nope, 4 is IV. So. X is 10. Let's see. 10. 10 is X. 7 minus 3 is 4. How can we make this equal? 10. How about 9? 9 equals 10. 7 minus 2. Nope. 9 equals 7 minus 2. Nope. I don't know. 7. X is 10. 7 minus 3 is 4, which is IV. Let's see. I'm never going to get this. 1x is 9 equals vi6 minus nope. 1, 2, 3, nope. That's 9 equals. No, that's not moving it, is it?"
+  }
+}

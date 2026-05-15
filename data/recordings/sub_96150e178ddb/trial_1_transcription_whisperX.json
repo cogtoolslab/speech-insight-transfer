@@ -1,0 +1,181 @@
+{
+  "file": "data/recordings/sub_96150e178ddb/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I've got 7 equals 12 plus 6.That's not going to be 8.I could do 8 equals 12 minus 4 and that's what I do.So I'll take that one right there and I'll put it right there.Oh, okay.So 8 equals 12 minus 4.All right.Oh, that's 6.Sorry.I don't even know what I'm doing here.So we want to do a minus.So 5, 6, 7 equals 12 minus 6 and that's not it.Um, wow.I feel like I definitely want to move this matchstick here.Can make this a minus.So I get 12 minus six is six. Or I could just move one of these.Oh, no.You're going to move one.That's what it's got to be.Holy jeez.Just like that. This is crazy.Okay.So, so let me just write this down.Seven equals 12 plus six, right?I got to move one of those.I know I got to make it a minus. All right, which means I have to move this match to here, and I can make it 7 equals 13 minus 6.That was easy.Sorry.7 equals 13 minus 6.",
+    "segments": [
+      {
+        "text": " Okay, so I've got 7 equals 12 plus 6.",
+        "start": 2.123,
+        "end": 10.814
+      },
+      {
+        "text": "That's not going to be 8.",
+        "start": 12.736,
+        "end": 14.659
+      },
+      {
+        "text": "I could do 8 equals 12 minus 4 and that's what I do.",
+        "start": 15.3,
+        "end": 22.509
+      },
+      {
+        "text": "So I'll take that one right there and I'll put it right there.",
+        "start": 22.529,
+        "end": 25.192
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 25.933,
+        "end": 27.115
+      },
+      {
+        "text": "So 8",
+        "start": 28.717,
+        "end": 30.679
+      },
+      {
+        "text": " equals 12 minus 4.",
+        "start": 32.549,
+        "end": 38.298
+      },
+      {
+        "text": "All right.",
+        "start": 38.318,
+        "end": 44.609
+      },
+      {
+        "text": "Oh, that's 6.",
+        "start": 44.629,
+        "end": 45.45
+      },
+      {
+        "text": "Sorry.",
+        "start": 45.991,
+        "end": 46.331
+      },
+      {
+        "text": "I don't even know what I'm doing here.",
+        "start": 46.351,
+        "end": 47.734
+      },
+      {
+        "text": "So we want to do a minus.",
+        "start": 47.754,
+        "end": 52.401
+      },
+      {
+        "text": "So 5, 6, 7 equals",
+        "start": 52.622,
+        "end": 55.907
+      },
+      {
+        "text": " 12 minus 6 and that's not it.",
+        "start": 61.034,
+        "end": 64.099
+      },
+      {
+        "text": "Um, wow.",
+        "start": 67.725,
+        "end": 70.249
+      },
+      {
+        "text": "I feel like I definitely want to move this matchstick here.",
+        "start": 76.199,
+        "end": 78.743
+      },
+      {
+        "text": "Can make this a minus.",
+        "start": 81.488,
+        "end": 82.71
+      },
+      {
+        "text": "So I get 12 minus six is six.",
+        "start": 82.73,
+        "end": 86.957
+      },
+      {
+        "text": " Or I could just move one of these.",
+        "start": 89.705,
+        "end": 90.926
+      },
+      {
+        "text": "Oh, no.",
+        "start": 90.946,
+        "end": 91.887
+      },
+      {
+        "text": "You're going to move one.",
+        "start": 91.907,
+        "end": 92.849
+      },
+      {
+        "text": "That's what it's got to be.",
+        "start": 97.354,
+        "end": 98.175
+      },
+      {
+        "text": "Holy jeez.",
+        "start": 108.246,
+        "end": 109.227
+      },
+      {
+        "text": "Just like that.",
+        "start": 109.267,
+        "end": 116.455
+      },
+      {
+        "text": " This is crazy.",
+        "start": 121.953,
+        "end": 122.594
+      },
+      {
+        "text": "Okay.",
+        "start": 122.714,
+        "end": 123.014
+      },
+      {
+        "text": "So, so let me just write this down.",
+        "start": 123.515,
+        "end": 128.96
+      },
+      {
+        "text": "Seven equals 12 plus six, right?",
+        "start": 133.965,
+        "end": 141.613
+      },
+      {
+        "text": "I got to move one of those.",
+        "start": 142.153,
+        "end": 143.034
+      },
+      {
+        "text": "I know I got to make it a minus.",
+        "start": 143.054,
+        "end": 150.762
+      },
+      {
+        "text": " All right, which means I have to move this match to here, and I can make it 7 equals 13 minus 6.",
+        "start": 153.188,
+        "end": 161.051
+      },
+      {
+        "text": "That was easy.",
+        "start": 161.713,
+        "end": 162.675
+      },
+      {
+        "text": "Sorry.",
+        "start": 162.796,
+        "end": 163.618
+      },
+      {
+        "text": "7 equals 13 minus 6.",
+        "start": 163.638,
+        "end": 170.117
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I've got 7 equals 12 plus 6. That's not going to be 8. I could do 8 equals 12 minus 4 and that's what I do. So I'll take that one right there and I'll put it right there. Oh, okay. So 8 equals 12 minus 4. All right. Oh, that's 6. Sorry. I don't even know what I'm doing here. So we want to do a minus. So 5, 6, 7 equals 12 minus 6 and that's not it. Um, wow. I feel like I definitely want to move this matchstick here. Can make this a minus. So I get 12 minus six is six. Or I could just move one of these. Oh, no. You're going to move one. That's what it's got to be. Holy jeez. Just like that. This is crazy. Okay. So, so let me just write this down. Seven equals 12 plus six, right? I got to move one of those. I know I got to make it a minus. All right, which means I have to move this match to here, and I can make it 7 equals 13 minus 6. That was easy. Sorry. 7 equals 13 minus 6."
+  }
+}

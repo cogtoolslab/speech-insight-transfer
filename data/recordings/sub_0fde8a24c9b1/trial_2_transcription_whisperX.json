@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_0fde8a24c9b1/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, I can only move one matchstick to make this equation correct.3 equals 11 minus 3.Okay. Let's go with 3 equals.Let's go 9.9 minus 3 is 6, so that's not going to work. Okay, maybe... You can only move one matchstick.I can't replace it. I think the time constraints, which is, you know, there's a generous amount of time, but for some reason I'm just getting completely flustered by having to think about doing this in a time, in a set amount of time.11. Maybe if I changed this so it said 2 equals. Can I swap them out?So it's like the equal sign gets swapped out for the, the subtraction symbol.Why is this so like just racking my brain right now?Um, let's get rid of the 11.So we just get three equals three.How do we account for 11? 11 minus 3 is 8.How do we get that?How do we switch?If I... I can only move one matchstick.3 equals Even if I did it the other way, if I did IX, it would still, minus three would still make it six.",
+    "segments": [
+      {
+        "text": " All right, I can only move one matchstick to make this equation correct.",
+        "start": 3.305,
+        "end": 7.674
+      },
+      {
+        "text": "3 equals 11 minus 3.",
+        "start": 7.694,
+        "end": 12.443
+      },
+      {
+        "text": "Okay.",
+        "start": 23.826,
+        "end": 25.549
+      },
+      {
+        "text": " Let's go with 3 equals.",
+        "start": 34.034,
+        "end": 39.182
+      },
+      {
+        "text": "Let's go 9.",
+        "start": 51.5,
+        "end": 52.242
+      },
+      {
+        "text": "9 minus 3 is 6, so that's not going to work.",
+        "start": 52.262,
+        "end": 60.514
+      },
+      {
+        "text": " Okay, maybe... You can only move one matchstick.",
+        "start": 65.81,
+        "end": 82.815
+      },
+      {
+        "text": "I can't replace it.",
+        "start": 84.218,
+        "end": 85.219
+      },
+      {
+        "text": " I think the time constraints, which is, you know, there's a generous amount of time, but for some reason I'm just getting completely flustered by having to think about doing this in a time, in a set amount of time.",
+        "start": 94.767,
+        "end": 109.83
+      },
+      {
+        "text": "11.",
+        "start": 109.85,
+        "end": 122.53
+      },
+      {
+        "text": " Maybe if I changed this so it said 2 equals.",
+        "start": 131.858,
+        "end": 139.32
+      },
+      {
+        "text": " Can I swap them out?",
+        "start": 165.777,
+        "end": 166.919
+      },
+      {
+        "text": "So it's like the equal sign gets swapped out for the, the subtraction symbol.",
+        "start": 166.959,
+        "end": 174.308
+      },
+      {
+        "text": "Why is this so like just racking my brain right now?",
+        "start": 176.411,
+        "end": 180.497
+      },
+      {
+        "text": "Um, let's get rid of the 11.",
+        "start": 183.521,
+        "end": 186.665
+      },
+      {
+        "text": "So we just get three equals three.",
+        "start": 186.705,
+        "end": 189.549
+      },
+      {
+        "text": "How do we account for 11?",
+        "start": 190.79,
+        "end": 192.072
+      },
+      {
+        "text": " 11 minus 3 is 8.",
+        "start": 196.793,
+        "end": 198.976
+      },
+      {
+        "text": "How do we get that?",
+        "start": 201.199,
+        "end": 202.06
+      },
+      {
+        "text": "How do we switch?",
+        "start": 202.26,
+        "end": 202.881
+      },
+      {
+        "text": "If I... I can only move one matchstick.",
+        "start": 203.041,
+        "end": 218.682
+      },
+      {
+        "text": "3 equals",
+        "start": 218.702,
+        "end": 225.13
+      },
+      {
+        "text": " Even if I did it the other way, if I did IX, it would still, minus three would still make it six.",
+        "start": 230.662,
+        "end": 238.512
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, I can only move one matchstick to make this equation correct. 3 equals 11 minus 3. Okay. Let's go with 3 equals. Let's go 9. 9 minus 3 is 6, so that's not going to work. Okay, maybe... You can only move one matchstick. I can't replace it. I think the time constraints, which is, you know, there's a generous amount of time, but for some reason I'm just getting completely flustered by having to think about doing this in a time, in a set amount of time. 11. Maybe if I changed this so it said 2 equals. Can I swap them out? So it's like the equal sign gets swapped out for the, the subtraction symbol. Why is this so like just racking my brain right now? Um, let's get rid of the 11. So we just get three equals three. How do we account for 11? 11 minus 3 is 8. How do we get that? How do we switch? If I... I can only move one matchstick. 3 equals Even if I did it the other way, if I did IX, it would still, minus three would still make it six."
+  }
+}

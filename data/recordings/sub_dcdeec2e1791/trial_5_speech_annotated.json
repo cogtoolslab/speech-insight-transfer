@@ -1,0 +1,20 @@
+{
+  "file": "data/recordings/sub_dcdeec2e1791/trial_5_fixed.wav",
+  "participant_id": "sub_dcdeec2e1791",
+  "trial_number": 5,
+  "speech_segments": [
+    {
+      "start": 0.066,
+      "end": 3.198,
+      "duration": 3.132,
+      "lexical": true
+    }
+  ],
+  "silence_segments": [
+    {
+      "start": 3.198,
+      "end": 10.42,
+      "duration": 7.222
+    }
+  ]
+}

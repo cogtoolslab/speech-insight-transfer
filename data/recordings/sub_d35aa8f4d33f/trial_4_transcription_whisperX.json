@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_d35aa8f4d33f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Let's see.Can I get this one right?Let's see.This is 9.OK.This is 9, 9.That's 18.OK.So 1x equals I9. Oh, I see.If I switch.This is nice. So why is that wrong?Let's see.1x equals.That's equal.Yeah.Let's see.Minus 11.Hm. This is 9, and this is 9.So let's see.So if I do 1 equals 1.That ain't right either.Oh my goodness.1 x. Minus 1x minus 1x minus that's 9 minus 1x equals. What is this?20, 20, 20.This is 18, right?Yeah, it's 18.So.Yeah, I don't know what these answers are. Equals, equals, equals, equals.Because you can't put numbers.Equals.Let's see, 1x equals. Yeah.1x equals.",
+    "segments": [
+      {
+        "text": " Let's see.",
+        "start": 2.495,
+        "end": 3.396
+      },
+      {
+        "text": "Can I get this one right?",
+        "start": 3.436,
+        "end": 4.718
+      },
+      {
+        "text": "Let's see.",
+        "start": 4.738,
+        "end": 5.239
+      },
+      {
+        "text": "This is 9.",
+        "start": 6.26,
+        "end": 7.963
+      },
+      {
+        "text": "OK.",
+        "start": 7.983,
+        "end": 8.043
+      },
+      {
+        "text": "This is 9, 9.",
+        "start": 12.309,
+        "end": 17.537
+      },
+      {
+        "text": "That's 18.",
+        "start": 17.557,
+        "end": 17.978
+      },
+      {
+        "text": "OK.",
+        "start": 21.543,
+        "end": 22.584
+      },
+      {
+        "text": "So 1x equals I9.",
+        "start": 23.305,
+        "end": 27.912
+      },
+      {
+        "text": " Oh, I see.",
+        "start": 32.228,
+        "end": 37.77
+      },
+      {
+        "text": "If I switch.",
+        "start": 39.075,
+        "end": 39.698
+      },
+      {
+        "text": "This is nice.",
+        "start": 40.822,
+        "end": 41.766
+      },
+      {
+        "text": " So why is that wrong?",
+        "start": 58.908,
+        "end": 62.493
+      },
+      {
+        "text": "Let's see.",
+        "start": 62.513,
+        "end": 63.895
+      },
+      {
+        "text": "1x equals.",
+        "start": 63.915,
+        "end": 65.838
+      },
+      {
+        "text": "That's equal.",
+        "start": 68.021,
+        "end": 68.842
+      },
+      {
+        "text": "Yeah.",
+        "start": 69.583,
+        "end": 69.803
+      },
+      {
+        "text": "Let's see.",
+        "start": 73.248,
+        "end": 75.932
+      },
+      {
+        "text": "Minus 11.",
+        "start": 75.952,
+        "end": 79.837
+      },
+      {
+        "text": "Hm.",
+        "start": 85.345,
+        "end": 85.405
+      },
+      {
+        "text": " This is 9, and this is 9.",
+        "start": 87.173,
+        "end": 91.139
+      },
+      {
+        "text": "So let's see.",
+        "start": 91.159,
+        "end": 92.881
+      },
+      {
+        "text": "So if I do 1 equals 1.",
+        "start": 94.223,
+        "end": 103.256
+      },
+      {
+        "text": "That ain't right either.",
+        "start": 110.266,
+        "end": 111.107
+      },
+      {
+        "text": "Oh my goodness.",
+        "start": 111.788,
+        "end": 113.57
+      },
+      {
+        "text": "1 x.",
+        "start": 113.59,
+        "end": 114.852
+      },
+      {
+        "text": " Minus 1x minus 1x minus that's 9 minus 1x equals.",
+        "start": 117.481,
+        "end": 141.042
+      },
+      {
+        "text": " What is this?",
+        "start": 143.013,
+        "end": 145.116
+      },
+      {
+        "text": "20, 20, 20.",
+        "start": 145.136,
+        "end": 146.278
+      },
+      {
+        "text": "This is 18, right?",
+        "start": 146.959,
+        "end": 148.081
+      },
+      {
+        "text": "Yeah, it's 18.",
+        "start": 148.481,
+        "end": 149.984
+      },
+      {
+        "text": "So.",
+        "start": 151.626,
+        "end": 152.047
+      },
+      {
+        "text": "Yeah, I don't know what these answers are.",
+        "start": 163.144,
+        "end": 164.987
+      },
+      {
+        "text": " Equals, equals, equals, equals.",
+        "start": 175.733,
+        "end": 179.799
+      },
+      {
+        "text": "Because you can't put numbers.",
+        "start": 179.819,
+        "end": 181.161
+      },
+      {
+        "text": "Equals.",
+        "start": 182.022,
+        "end": 182.643
+      },
+      {
+        "text": "Let's see, 1x equals.",
+        "start": 196.983,
+        "end": 200.087
+      },
+      {
+        "text": " Yeah.",
+        "start": 209.433,
+        "end": 209.895
+      },
+      {
+        "text": "1x equals.",
+        "start": 217.211,
+        "end": 218.397
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's see. Can I get this one right? Let's see. This is 9. OK. This is 9, 9. That's 18. OK. So 1x equals I9. Oh, I see. If I switch. This is nice. So why is that wrong? Let's see. 1x equals. That's equal. Yeah. Let's see. Minus 11. Hm. This is 9, and this is 9. So let's see. So if I do 1 equals 1. That ain't right either. Oh my goodness. 1 x. Minus 1x minus 1x minus that's 9 minus 1x equals. What is this? 20, 20, 20. This is 18, right? Yeah, it's 18. So. Yeah, I don't know what these answers are. Equals, equals, equals, equals. Because you can't put numbers. Equals. Let's see, 1x equals. Yeah. 1x equals."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_5411cf457e21/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, nine equals plus nine.So 18.Nine equals nine plus nine.Okay, so equals nine plus nine. We need to make this zero for some reason, but okay.Okay, unless we move this.10, 10.Okay, X plus, if we move this, no.Wait.We can move this X, so one. No.So x10 equals 12 minus 2.Right?Instead we move this one and we add 1, 1 and then minus 2.I don't know if that's right.No.Okay. So, okay, nine, nine, okay, nine, nine, nine.I feel like I'm reading this wrong, but it's not wrong.Nine equals nine plus nine.Nine equals nine plus nine.What would make that true?Nine equals nine. Oh maybe we could just do this 1 X equals 1 X equals change the plus sign to 1 X.",
+    "segments": [
+      {
+        "text": " Okay, nine equals plus nine.",
+        "start": 1.094,
+        "end": 9.687
+      },
+      {
+        "text": "So 18.",
+        "start": 10.208,
+        "end": 11.249
+      },
+      {
+        "text": "Nine equals nine plus nine.",
+        "start": 11.29,
+        "end": 18.801
+      },
+      {
+        "text": "Okay, so equals nine plus nine.",
+        "start": 18.841,
+        "end": 26.072
+      },
+      {
+        "text": " We need to make this zero for some reason, but okay.",
+        "start": 28.297,
+        "end": 31.461
+      },
+      {
+        "text": "Okay, unless we move this.",
+        "start": 31.742,
+        "end": 33.504
+      },
+      {
+        "text": "10, 10.",
+        "start": 33.524,
+        "end": 38.33
+      },
+      {
+        "text": "Okay, X plus, if we move this, no.",
+        "start": 38.35,
+        "end": 45.7
+      },
+      {
+        "text": "Wait.",
+        "start": 48.744,
+        "end": 49.064
+      },
+      {
+        "text": "We can move this X, so one.",
+        "start": 51.007,
+        "end": 57.375
+      },
+      {
+        "text": " No.",
+        "start": 60.055,
+        "end": 61.637
+      },
+      {
+        "text": "So x10 equals 12 minus 2.",
+        "start": 63.158,
+        "end": 73.928
+      },
+      {
+        "text": "Right?",
+        "start": 76.131,
+        "end": 76.431
+      },
+      {
+        "text": "Instead we move this one and we add 1, 1 and then minus 2.",
+        "start": 77.011,
+        "end": 85.78
+      },
+      {
+        "text": "I don't know if that's right.",
+        "start": 85.8,
+        "end": 87.261
+      },
+      {
+        "text": "No.",
+        "start": 87.622,
+        "end": 88.783
+      },
+      {
+        "text": "Okay.",
+        "start": 88.803,
+        "end": 89.083
+      },
+      {
+        "text": " So, okay, nine, nine, okay, nine, nine, nine.",
+        "start": 90.734,
+        "end": 100.569
+      },
+      {
+        "text": "I feel like I'm reading this wrong, but it's not wrong.",
+        "start": 102.192,
+        "end": 103.915
+      },
+      {
+        "text": "Nine equals nine plus nine.",
+        "start": 104.335,
+        "end": 106.959
+      },
+      {
+        "text": "Nine equals nine plus nine.",
+        "start": 108.021,
+        "end": 110.585
+      },
+      {
+        "text": "What would make that true?",
+        "start": 111.486,
+        "end": 112.829
+      },
+      {
+        "text": "Nine equals nine.",
+        "start": 112.929,
+        "end": 116.995
+      },
+      {
+        "text": " Oh maybe we could just do this 1 X equals 1 X equals change the plus sign to 1 X.",
+        "start": 118.477,
+        "end": 131.322
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, nine equals plus nine. So 18. Nine equals nine plus nine. Okay, so equals nine plus nine. We need to make this zero for some reason, but okay. Okay, unless we move this. 10, 10. Okay, X plus, if we move this, no. Wait. We can move this X, so one. No. So x10 equals 12 minus 2. Right? Instead we move this one and we add 1, 1 and then minus 2. I don't know if that's right. No. Okay. So, okay, nine, nine, okay, nine, nine, nine. I feel like I'm reading this wrong, but it's not wrong. Nine equals nine plus nine. Nine equals nine plus nine. What would make that true? Nine equals nine. Oh maybe we could just do this 1 X equals 1 X equals change the plus sign to 1 X."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_2bb26305655f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay.7 equals 12 plus 6.Okay.Well, 12 minus 6 is 6, but... I can't do that.11 plus 6 is 17. 12 plus 6 is 18. 12 minus 6. Seven plus six is 12, but I'd have to move two. So I can't just move a 1 and make it that because that wouldn't balance the equation.So I'd have to move one of the 1's from the V or the X. But then I would have to make it I would have to move it onto itself, which wouldn't do anything.I have no idea.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 1.162,
+        "end": 1.523
+      },
+      {
+        "text": "7 equals 12 plus 6.",
+        "start": 2.345,
+        "end": 5.311
+      },
+      {
+        "text": "Okay.",
+        "start": 6.954,
+        "end": 9.841
+      },
+      {
+        "text": "Well, 12 minus 6 is 6, but...",
+        "start": 12.667,
+        "end": 19.862
+      },
+      {
+        "text": " I can't do that.",
+        "start": 28.111,
+        "end": 29.474
+      },
+      {
+        "text": "11 plus 6 is 17.",
+        "start": 29.494,
+        "end": 44.584
+      },
+      {
+        "text": " 12 plus 6 is 18.",
+        "start": 58.958,
+        "end": 72.698
+      },
+      {
+        "text": " 12 minus 6.",
+        "start": 94.345,
+        "end": 102.381
+      },
+      {
+        "text": " Seven plus six is 12, but I'd have to move two.",
+        "start": 124.602,
+        "end": 143.185
+      },
+      {
+        "text": " So I can't just move a 1 and make it that because that wouldn't balance the equation.",
+        "start": 157.373,
+        "end": 167.451
+      },
+      {
+        "text": "So I'd have to move one of the 1's from the V or the X. But then I would have to make it",
+        "start": 167.511,
+        "end": 181.255
+      },
+      {
+        "text": " I would have to move it onto itself, which wouldn't do anything.",
+        "start": 187.394,
+        "end": 194.266
+      },
+      {
+        "text": "I have no idea.",
+        "start": 194.286,
+        "end": 204.424
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. 7 equals 12 plus 6. Okay. Well, 12 minus 6 is 6, but... I can't do that. 11 plus 6 is 17. 12 plus 6 is 18. 12 minus 6. Seven plus six is 12, but I'd have to move two. So I can't just move a 1 and make it that because that wouldn't balance the equation. So I'd have to move one of the 1's from the V or the X. But then I would have to make it I would have to move it onto itself, which wouldn't do anything. I have no idea."
+  }
+}

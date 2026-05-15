@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_61d7e217ebbc/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, 6 equals 6 plus 1.So we can't make the 6 of 4.We can't take it away.6 equals 4 plus 1. 6 equals 6 plus 0.I mean, if I took that, I can't take the matchstick away, though.So let's see.What am I going to do here?So what I need to do, 6 equals 6 plus 1. 6 equals 4 plus 1.No.6 equals 5 plus 2.6 minus.But I can only move 1.4 equals.No. Six equals six minus one.No, that's not right.Six equals six.This one is really tricky.So what are we gonna do here?Let's think about this one. We can move one matchstick to make this correct.So seven doesn't equal six.It doesn't equal four. Oh boy, let's see.Six equals.Only got a minute left.What are we going to do here?Six equals.Five, no. 6 equals 4 plus 1.6 equals 5 plus 2.6 minus 6.6 equals 6 equals now. I can only change one, 6 minus 6.No.It wouldn't be 7 equals 5 plus 1.",
+    "segments": [
+      {
+        "text": " OK, 6 equals 6 plus 1.",
+        "start": 0.74,
+        "end": 5.526
+      },
+      {
+        "text": "So we can't make the 6 of 4.",
+        "start": 11.153,
+        "end": 13.876
+      },
+      {
+        "text": "We can't take it away.",
+        "start": 15.098,
+        "end": 16.6
+      },
+      {
+        "text": "6 equals 4 plus 1.",
+        "start": 16.62,
+        "end": 25.971
+      },
+      {
+        "text": " 6 equals 6 plus 0.",
+        "start": 42.826,
+        "end": 47.072
+      },
+      {
+        "text": "I mean, if I took that, I can't take the matchstick away, though.",
+        "start": 47.092,
+        "end": 50.317
+      },
+      {
+        "text": "So let's see.",
+        "start": 51.779,
+        "end": 61.213
+      },
+      {
+        "text": "What am I going to do here?",
+        "start": 61.553,
+        "end": 62.635
+      },
+      {
+        "text": "So what I need to do, 6 equals 6 plus 1.",
+        "start": 62.775,
+        "end": 67.382
+      },
+      {
+        "text": " 6 equals 4 plus 1.",
+        "start": 68.898,
+        "end": 71.721
+      },
+      {
+        "text": "No.",
+        "start": 71.821,
+        "end": 72.082
+      },
+      {
+        "text": "6 equals 5 plus 2.",
+        "start": 72.102,
+        "end": 76.707
+      },
+      {
+        "text": "6 minus.",
+        "start": 76.727,
+        "end": 78.609
+      },
+      {
+        "text": "But I can only move 1.",
+        "start": 80.731,
+        "end": 82.333
+      },
+      {
+        "text": "4 equals.",
+        "start": 82.353,
+        "end": 94.467
+      },
+      {
+        "text": "No.",
+        "start": 95.168,
+        "end": 95.428
+      },
+      {
+        "text": " Six equals six minus one.",
+        "start": 101.045,
+        "end": 103.067
+      },
+      {
+        "text": "No, that's not right.",
+        "start": 103.127,
+        "end": 104.088
+      },
+      {
+        "text": "Six equals six.",
+        "start": 105.069,
+        "end": 106.63
+      },
+      {
+        "text": "This one is really tricky.",
+        "start": 115.399,
+        "end": 118.422
+      },
+      {
+        "text": "So what are we gonna do here?",
+        "start": 125.409,
+        "end": 127.211
+      },
+      {
+        "text": "Let's think about this one.",
+        "start": 128.272,
+        "end": 129.533
+      },
+      {
+        "text": " We can move one matchstick to make this correct.",
+        "start": 130.171,
+        "end": 133.498
+      },
+      {
+        "text": "So seven doesn't equal six.",
+        "start": 139.95,
+        "end": 141.634
+      },
+      {
+        "text": "It doesn't equal four.",
+        "start": 144.239,
+        "end": 145.902
+      },
+      {
+        "text": " Oh boy, let's see.",
+        "start": 163.465,
+        "end": 165.227
+      },
+      {
+        "text": "Six equals.",
+        "start": 165.808,
+        "end": 167.03
+      },
+      {
+        "text": "Only got a minute left.",
+        "start": 173.378,
+        "end": 174.48
+      },
+      {
+        "text": "What are we going to do here?",
+        "start": 174.64,
+        "end": 175.621
+      },
+      {
+        "text": "Six equals.",
+        "start": 175.842,
+        "end": 176.883
+      },
+      {
+        "text": "Five, no.",
+        "start": 190.601,
+        "end": 191.903
+      },
+      {
+        "text": " 6 equals 4 plus 1.",
+        "start": 193.469,
+        "end": 196.172
+      },
+      {
+        "text": "6 equals 5 plus 2.",
+        "start": 196.192,
+        "end": 199.975
+      },
+      {
+        "text": "6 minus 6.",
+        "start": 199.995,
+        "end": 206.942
+      },
+      {
+        "text": "6 equals 6 equals now.",
+        "start": 206.962,
+        "end": 219.814
+      },
+      {
+        "text": " I can only change one, 6 minus 6.",
+        "start": 225.38,
+        "end": 228.29
+      },
+      {
+        "text": "No.",
+        "start": 228.43,
+        "end": 228.751
+      },
+      {
+        "text": "It wouldn't be 7 equals 5 plus 1.",
+        "start": 235.593,
+        "end": 237.921
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 6 equals 6 plus 1. So we can't make the 6 of 4. We can't take it away. 6 equals 4 plus 1. 6 equals 6 plus 0. I mean, if I took that, I can't take the matchstick away, though. So let's see. What am I going to do here? So what I need to do, 6 equals 6 plus 1. 6 equals 4 plus 1. No. 6 equals 5 plus 2. 6 minus. But I can only move 1. 4 equals. No. Six equals six minus one. No, that's not right. Six equals six. This one is really tricky. So what are we gonna do here? Let's think about this one. We can move one matchstick to make this correct. So seven doesn't equal six. It doesn't equal four. Oh boy, let's see. Six equals. Only got a minute left. What are we going to do here? Six equals. Five, no. 6 equals 4 plus 1. 6 equals 5 plus 2. 6 minus 6. 6 equals 6 equals now. I can only change one, 6 minus 6. No. It wouldn't be 7 equals 5 plus 1."
+  }
+}

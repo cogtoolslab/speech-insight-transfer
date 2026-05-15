@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_a40b19e951cc/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so this says nine equals 12 plus four.So that's not right.So let's see if I move.What is this?16. So 11 equals, 11 equals, That's not right.If I move... How can this even work?I don't... Oh, wait a second.So maybe minus.So eight equals... 12 minus four.How is that wrong?What am I doing wrong here?Oh, because it's, I move, wait, what?Equals 12 minus 4.8 equals 10, 11, 12 minus 4.What? So I'm taking the matchstick from the plus sign and I'm moving it to the left of the first one.So that would be eight equals 12.So this is now minus minus four. Well, I am stumped.Eight equals.What am I doing wrong here?That's eight, nine, eight. Maybe that's not eight.No, it's not eight.Eight would be this.Seven, eight.I was putting 18, I think.Oh, man.",
+    "segments": [
+      {
+        "text": " All right, so this says nine equals 12 plus four.",
+        "start": 1.769,
+        "end": 7.055
+      },
+      {
+        "text": "So that's not right.",
+        "start": 7.576,
+        "end": 8.878
+      },
+      {
+        "text": "So let's see if I move.",
+        "start": 11.741,
+        "end": 13.804
+      },
+      {
+        "text": "What is this?",
+        "start": 17.068,
+        "end": 17.648
+      },
+      {
+        "text": "16.",
+        "start": 20.512,
+        "end": 28.722
+      },
+      {
+        "text": " So 11 equals, 11 equals,",
+        "start": 34.186,
+        "end": 61.392
+      },
+      {
+        "text": " That's not right.",
+        "start": 66.772,
+        "end": 67.793
+      },
+      {
+        "text": "If I move... How can this even work?",
+        "start": 70.477,
+        "end": 78.066
+      },
+      {
+        "text": "I don't... Oh, wait a second.",
+        "start": 78.086,
+        "end": 80.709
+      },
+      {
+        "text": "So maybe minus.",
+        "start": 80.769,
+        "end": 83.312
+      },
+      {
+        "text": "So eight equals...",
+        "start": 83.412,
+        "end": 90.501
+      },
+      {
+        "text": " 12 minus four.",
+        "start": 96.505,
+        "end": 100.47
+      },
+      {
+        "text": "How is that wrong?",
+        "start": 104.676,
+        "end": 105.658
+      },
+      {
+        "text": "What am I doing wrong here?",
+        "start": 106.259,
+        "end": 107.32
+      },
+      {
+        "text": "Oh, because it's, I move, wait, what?",
+        "start": 112.247,
+        "end": 114.21
+      },
+      {
+        "text": "Equals",
+        "start": 122.461,
+        "end": 123.222
+      },
+      {
+        "text": " 12 minus 4.",
+        "start": 127.37,
+        "end": 134.684
+      },
+      {
+        "text": "8 equals 10, 11, 12 minus 4.",
+        "start": 134.704,
+        "end": 141.016
+      },
+      {
+        "text": "What?",
+        "start": 142.74,
+        "end": 143.421
+      },
+      {
+        "text": " So I'm taking the matchstick from the plus sign and I'm moving it to the left of the first one.",
+        "start": 156.462,
+        "end": 165.035
+      },
+      {
+        "text": "So that would be eight equals 12.",
+        "start": 165.155,
+        "end": 174.069
+      },
+      {
+        "text": "So this is now minus minus four.",
+        "start": 175.771,
+        "end": 180.158
+      },
+      {
+        "text": " Well, I am stumped.",
+        "start": 186.989,
+        "end": 188.211
+      },
+      {
+        "text": "Eight equals.",
+        "start": 198.684,
+        "end": 200.186
+      },
+      {
+        "text": "What am I doing wrong here?",
+        "start": 205.333,
+        "end": 206.714
+      },
+      {
+        "text": "That's eight, nine, eight.",
+        "start": 210.9,
+        "end": 216.507
+      },
+      {
+        "text": " Maybe that's not eight.",
+        "start": 218.242,
+        "end": 219.364
+      },
+      {
+        "text": "No, it's not eight.",
+        "start": 219.444,
+        "end": 220.466
+      },
+      {
+        "text": "Eight would be this.",
+        "start": 223.771,
+        "end": 224.893
+      },
+      {
+        "text": "Seven, eight.",
+        "start": 226.235,
+        "end": 227.017
+      },
+      {
+        "text": "I was putting 18, I think.",
+        "start": 230.663,
+        "end": 232.426
+      },
+      {
+        "text": "Oh, man.",
+        "start": 233.868,
+        "end": 234.85
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so this says nine equals 12 plus four. So that's not right. So let's see if I move. What is this? 16. So 11 equals, 11 equals, That's not right. If I move... How can this even work? I don't... Oh, wait a second. So maybe minus. So eight equals... 12 minus four. How is that wrong? What am I doing wrong here? Oh, because it's, I move, wait, what? Equals 12 minus 4. 8 equals 10, 11, 12 minus 4. What? So I'm taking the matchstick from the plus sign and I'm moving it to the left of the first one. So that would be eight equals 12. So this is now minus minus four. Well, I am stumped. Eight equals. What am I doing wrong here? That's eight, nine, eight. Maybe that's not eight. No, it's not eight. Eight would be this. Seven, eight. I was putting 18, I think. Oh, man."
+  }
+}

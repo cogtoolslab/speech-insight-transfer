@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_fdb029ec5a9d/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one is 6 equals... I just have to write it down.6 equals 4 minus 2.So that's obviously just a plus.So I'll do 6 equals 4 plus 2.Oh! What?6 equals 4 plus 2.I don't know why it doesn't work.Okay.Um, so I guess I'll just do 6 minus 4 equals 2.",
+    "segments": [
+      {
+        "text": " Okay, so this one is 6 equals... I just have to write it down.",
+        "start": 1.465,
+        "end": 9.773
+      },
+      {
+        "text": "6 equals 4 minus 2.",
+        "start": 9.793,
+        "end": 15.72
+      },
+      {
+        "text": "So that's obviously just a plus.",
+        "start": 18.482,
+        "end": 20.404
+      },
+      {
+        "text": "So I'll do 6 equals 4 plus 2.",
+        "start": 20.925,
+        "end": 28.933
+      },
+      {
+        "text": "Oh!",
+        "start": 30.755,
+        "end": 30.915
+      },
+      {
+        "text": " What?",
+        "start": 33.308,
+        "end": 33.768
+      },
+      {
+        "text": "6 equals 4 plus 2.",
+        "start": 37.973,
+        "end": 45.641
+      },
+      {
+        "text": "I don't know why it doesn't work.",
+        "start": 45.661,
+        "end": 49.445
+      },
+      {
+        "text": "Okay.",
+        "start": 49.725,
+        "end": 50.045
+      },
+      {
+        "text": "Um, so I guess I'll just do 6 minus 4 equals 2.",
+        "start": 52.067,
+        "end": 62.438
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one is 6 equals... I just have to write it down. 6 equals 4 minus 2. So that's obviously just a plus. So I'll do 6 equals 4 plus 2. Oh! What? 6 equals 4 plus 2. I don't know why it doesn't work. Okay. Um, so I guess I'll just do 6 minus 4 equals 2."
+  }
+}

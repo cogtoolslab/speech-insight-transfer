@@ -1,0 +1,166 @@
+{
+  "file": "data/recordings/sub_db1a7a0e869f/trial_2.wav",
+  "with_timestamps": {
+    "text": " Great.Let's see.3 equals 11 plus 9.I could only move one matchstick. The X's have too much sticks, so that won't work.So, that wouldn't work.So, 9 plus 9 is not equal to 11, obviously.Okay, X, oh, okay, let's see. 1, so that's 11 minus 9 would equal 2.Let's see, 2, 2 equals... let's see, 9 is just that 1 minus... Oh, I thought I had it, okay.11 minus 1x would be two, so.I mean, I swear, that's the only one that makes any sense. So 3, move that over there, that'd be 4.X1 is 11 minus 1.X is 2.Oh no, this is frustrating.Okay.3 equals... So 2X is... 8.Okay, okay, okay.Let's see.1, 2, 3 equals x1 minus... You can only have, you can only move one.I did that.He moved one from the plus, it'd be 2x, it'd be 8.3 equals 3, because it'd be 11 minus 8 if you move that one matchstick. I don't understand.1 1 1 equals x 1 minus x. I don't understand.That wouldn't make sense.3 equals 3.",
+    "segments": [
+      {
+        "text": " Great.",
+        "start": 1.364,
+        "end": 2.827
+      },
+      {
+        "text": "Let's see.",
+        "start": 5.112,
+        "end": 5.413
+      },
+      {
+        "text": "3 equals 11 plus 9.",
+        "start": 5.433,
+        "end": 12.048
+      },
+      {
+        "text": "I could only move one matchstick.",
+        "start": 12.068,
+        "end": 19.103
+      },
+      {
+        "text": " The X's have too much sticks, so that won't work.",
+        "start": 29.309,
+        "end": 32.113
+      },
+      {
+        "text": "So, that wouldn't work.",
+        "start": 40.124,
+        "end": 41.586
+      },
+      {
+        "text": "So, 9 plus 9 is not equal to 11, obviously.",
+        "start": 41.606,
+        "end": 46.914
+      },
+      {
+        "text": "Okay, X, oh, okay, let's see.",
+        "start": 54.524,
+        "end": 57.088
+      },
+      {
+        "text": " 1, so that's 11 minus 9 would equal 2.",
+        "start": 58.402,
+        "end": 63.71
+      },
+      {
+        "text": "Let's see, 2, 2 equals... let's see, 9 is just that 1 minus...",
+        "start": 70.66,
+        "end": 85.101
+      },
+      {
+        "text": " Oh, I thought I had it, okay.",
+        "start": 89.738,
+        "end": 96.265
+      },
+      {
+        "text": "11 minus 1x would be two, so.",
+        "start": 97.526,
+        "end": 100.57
+      },
+      {
+        "text": "I mean, I swear, that's the only one that makes any sense.",
+        "start": 100.81,
+        "end": 114.565
+      },
+      {
+        "text": " So 3, move that over there, that'd be 4.",
+        "start": 120.012,
+        "end": 123.276
+      },
+      {
+        "text": "X1 is 11 minus 1.",
+        "start": 125.018,
+        "end": 129.002
+      },
+      {
+        "text": "X is 2.",
+        "start": 130.243,
+        "end": 130.804
+      },
+      {
+        "text": "Oh no, this is frustrating.",
+        "start": 130.824,
+        "end": 140.695
+      },
+      {
+        "text": "Okay.",
+        "start": 140.795,
+        "end": 142.918
+      },
+      {
+        "text": "3 equals... So 2X is...",
+        "start": 142.938,
+        "end": 149.445
+      },
+      {
+        "text": " 8.",
+        "start": 149.898,
+        "end": 150.359
+      },
+      {
+        "text": "Okay, okay, okay.",
+        "start": 157.294,
+        "end": 158.456
+      },
+      {
+        "text": "Let's see.",
+        "start": 158.476,
+        "end": 158.837
+      },
+      {
+        "text": "1, 2, 3 equals x1 minus...",
+        "start": 160.821,
+        "end": 169.459
+      },
+      {
+        "text": " You can only have, you can only move one.",
+        "start": 178.822,
+        "end": 184.469
+      },
+      {
+        "text": "I did that.",
+        "start": 184.829,
+        "end": 185.61
+      },
+      {
+        "text": "He moved one from the plus, it'd be 2x, it'd be 8.",
+        "start": 187.612,
+        "end": 194.861
+      },
+      {
+        "text": "3 equals 3, because it'd be 11 minus 8 if you move that one matchstick.",
+        "start": 194.881,
+        "end": 205.673
+      },
+      {
+        "text": " I don't understand.",
+        "start": 208.066,
+        "end": 209.087
+      },
+      {
+        "text": "1 1 1 equals x 1 minus x. I don't understand.",
+        "start": 212.432,
+        "end": 230.919
+      },
+      {
+        "text": "That wouldn't make sense.",
+        "start": 231.139,
+        "end": 232.321
+      },
+      {
+        "text": "3 equals 3.",
+        "start": 232.341,
+        "end": 236.166
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Great. Let's see. 3 equals 11 plus 9. I could only move one matchstick. The X's have too much sticks, so that won't work. So, that wouldn't work. So, 9 plus 9 is not equal to 11, obviously. Okay, X, oh, okay, let's see. 1, so that's 11 minus 9 would equal 2. Let's see, 2, 2 equals... let's see, 9 is just that 1 minus... Oh, I thought I had it, okay. 11 minus 1x would be two, so. I mean, I swear, that's the only one that makes any sense. So 3, move that over there, that'd be 4. X1 is 11 minus 1. X is 2. Oh no, this is frustrating. Okay. 3 equals... So 2X is... 8. Okay, okay, okay. Let's see. 1, 2, 3 equals x1 minus... You can only have, you can only move one. I did that. He moved one from the plus, it'd be 2x, it'd be 8. 3 equals 3, because it'd be 11 minus 8 if you move that one matchstick. I don't understand. 1 1 1 equals x 1 minus x. I don't understand. That wouldn't make sense. 3 equals 3."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_dedb795332fb/trial_4.wav",
+  "with_timestamps": {
+    "text": " Lovely.7 equals 9 plus 3.OK.6 equals 9 minus 3. Seven equals nine.What about eight equals nine.There's still be plus two. Minus one.Seven equals nine.Hmm. I don't know.I don't know how to do this.Obviously, not done well thus far.7 equals... Um... Hm.Could you turn that to 12? 12 equals 9 plus 3.",
+    "segments": [
+      {
+        "text": " Lovely.",
+        "start": 1.28,
+        "end": 1.861
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 1.881,
+        "end": 6.548
+      },
+      {
+        "text": "OK.",
+        "start": 12.156,
+        "end": 12.517
+      },
+      {
+        "text": "6 equals 9 minus 3.",
+        "start": 19.888,
+        "end": 30.223
+      },
+      {
+        "text": " Seven equals nine.",
+        "start": 36.177,
+        "end": 43.426
+      },
+      {
+        "text": "What about eight equals nine.",
+        "start": 43.486,
+        "end": 60.248
+      },
+      {
+        "text": "There's still be plus two.",
+        "start": 60.288,
+        "end": 63.973
+      },
+      {
+        "text": " Minus one.",
+        "start": 69.32,
+        "end": 70.622
+      },
+      {
+        "text": "Seven equals nine.",
+        "start": 82.215,
+        "end": 85.439
+      },
+      {
+        "text": "Hmm.",
+        "start": 85.499,
+        "end": 92.948
+      },
+      {
+        "text": " I don't know.",
+        "start": 116.755,
+        "end": 117.276
+      },
+      {
+        "text": "I don't know how to do this.",
+        "start": 117.816,
+        "end": 118.617
+      },
+      {
+        "text": "Obviously, not done well thus far.",
+        "start": 119.498,
+        "end": 123.743
+      },
+      {
+        "text": "7 equals... Um... Hm.",
+        "start": 123.763,
+        "end": 143.206
+      },
+      {
+        "text": "Could you turn that to 12?",
+        "start": 143.226,
+        "end": 145.328
+      },
+      {
+        "text": " 12 equals 9 plus 3.",
+        "start": 146.557,
+        "end": 154.778
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Lovely. 7 equals 9 plus 3. OK. 6 equals 9 minus 3. Seven equals nine. What about eight equals nine. There's still be plus two. Minus one. Seven equals nine. Hmm. I don't know. I don't know how to do this. Obviously, not done well thus far. 7 equals... Um... Hm. Could you turn that to 12? 12 equals 9 plus 3."
+  }
+}

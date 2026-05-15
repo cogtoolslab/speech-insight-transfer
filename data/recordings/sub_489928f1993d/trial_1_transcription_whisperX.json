@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_489928f1993d/trial_1.wav",
+  "with_timestamps": {
+    "text": " 4 equals 7 plus 4.OK, 4.OK, that's 7.And that's 4.That's 11.So that's 4 equals, right, All right, that's 7 plus 4.That's 11.6 equals.All right, what if I move that?11 equals.No, that's not it. Okay, so what if I moved the 5, what if it said 6?4 equals, no that can't be right.So I'd have to move one of these, because these are the larger numbers.Because that's a small number and these are larger numbers, so this is just not going to work.Alright, what if I moved this?No, that's not going to work.It's not going to work, okay. Move this here, maybe?No.Move the 5.Well, that's not working.OK, so that's 7.Plus 4 is 11.6 equals, oh, I've got to do 4.4 plus 2, but I can only, 4 plus 2. That's not going to work, because if I put that at the end, that's four.What if I move that?Five equals... No, that's not going to work.Wait a minute.Okay, so that's seven, and that's four.Six equals... 6 equals It would have to be 5 plus 1.Well.There's too many to move 5 plus 1 I would have to move 1 2 3 that's not oh wait a minute.What if I put this know what I can only move one I didn't make any sense I need to move the whole thing Only one All right, what if it was 4 minus 7 equals 11?OK, there is 4.What if I use that?Move that.It would be minus 7.Oh no, that won't work at all.All right, 6 equals 7. minus four.No, oh, but that's not six, that's four.That's it, that's it.Okay, so that number's four equals, move this one.But it's not moving.",
+    "segments": [
+      {
+        "text": " 4 equals 7 plus 4.",
+        "start": 9.65,
+        "end": 16.197
+      },
+      {
+        "text": "OK, 4.",
+        "start": 23.986,
+        "end": 24.426
+      },
+      {
+        "text": "OK, that's 7.",
+        "start": 24.907,
+        "end": 25.668
+      },
+      {
+        "text": "And that's 4.",
+        "start": 28.13,
+        "end": 28.751
+      },
+      {
+        "text": "That's 11.",
+        "start": 28.851,
+        "end": 29.552
+      },
+      {
+        "text": "So that's 4 equals, right,",
+        "start": 29.572,
+        "end": 35.218
+      },
+      {
+        "text": " All right, that's 7 plus 4.",
+        "start": 42.623,
+        "end": 45.749
+      },
+      {
+        "text": "That's 11.",
+        "start": 45.829,
+        "end": 46.59
+      },
+      {
+        "text": "6 equals.",
+        "start": 46.61,
+        "end": 51.299
+      },
+      {
+        "text": "All right, what if I move that?",
+        "start": 55.707,
+        "end": 59.154
+      },
+      {
+        "text": "11 equals.",
+        "start": 59.174,
+        "end": 62.44
+      },
+      {
+        "text": "No, that's not it.",
+        "start": 62.64,
+        "end": 63.602
+      },
+      {
+        "text": " Okay, so what if I moved the 5, what if it said 6?",
+        "start": 69.64,
+        "end": 75.245
+      },
+      {
+        "text": "4 equals, no that can't be right.",
+        "start": 75.265,
+        "end": 80.57
+      },
+      {
+        "text": "So I'd have to move one of these, because these are the larger numbers.",
+        "start": 82.732,
+        "end": 85.455
+      },
+      {
+        "text": "Because that's a small number and these are larger numbers, so this is just not going to work.",
+        "start": 86.355,
+        "end": 89.398
+      },
+      {
+        "text": "Alright, what if I moved this?",
+        "start": 89.518,
+        "end": 92.061
+      },
+      {
+        "text": "No, that's not going to work.",
+        "start": 93.722,
+        "end": 97.566
+      },
+      {
+        "text": "It's not going to work, okay.",
+        "start": 97.586,
+        "end": 98.787
+      },
+      {
+        "text": " Move this here, maybe?",
+        "start": 100.589,
+        "end": 101.591
+      },
+      {
+        "text": "No.",
+        "start": 102.732,
+        "end": 105.957
+      },
+      {
+        "text": "Move the 5.",
+        "start": 105.977,
+        "end": 106.498
+      },
+      {
+        "text": "Well, that's not working.",
+        "start": 106.518,
+        "end": 108.702
+      },
+      {
+        "text": "OK, so that's 7.",
+        "start": 110.785,
+        "end": 112.728
+      },
+      {
+        "text": "Plus 4 is 11.",
+        "start": 114.551,
+        "end": 115.873
+      },
+      {
+        "text": "6 equals, oh, I've got to do 4.",
+        "start": 115.893,
+        "end": 122.924
+      },
+      {
+        "text": "4 plus 2, but I can only, 4 plus 2.",
+        "start": 122.944,
+        "end": 126.85
+      },
+      {
+        "text": " That's not going to work, because if I put that at the end, that's four.",
+        "start": 128.011,
+        "end": 134.5
+      },
+      {
+        "text": "What if I move that?",
+        "start": 135.742,
+        "end": 136.624
+      },
+      {
+        "text": "Five equals... No, that's not going to work.",
+        "start": 137.345,
+        "end": 141.871
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 146.538,
+        "end": 147.039
+      },
+      {
+        "text": "Okay, so that's seven, and that's four.",
+        "start": 147.6,
+        "end": 150.644
+      },
+      {
+        "text": "Six equals...",
+        "start": 155.551,
+        "end": 156.853
+      },
+      {
+        "text": " 6 equals It would have to be 5 plus 1.",
+        "start": 157.508,
+        "end": 161.573
+      },
+      {
+        "text": "Well.",
+        "start": 161.593,
+        "end": 161.873
+      },
+      {
+        "text": "There's too many to move 5 plus 1 I would have to move 1 2 3 that's not oh wait a minute.",
+        "start": 161.894,
+        "end": 169.944
+      },
+      {
+        "text": "What if I put this know what I can only move one I didn't make any sense I need to move the whole thing Only one",
+        "start": 170.705,
+        "end": 180.597
+      },
+      {
+        "text": " All right, what if it was 4 minus 7 equals 11?",
+        "start": 186.247,
+        "end": 194.518
+      },
+      {
+        "text": "OK, there is 4.",
+        "start": 196.761,
+        "end": 198.503
+      },
+      {
+        "text": "What if I use that?",
+        "start": 199.264,
+        "end": 200.165
+      },
+      {
+        "text": "Move that.",
+        "start": 200.325,
+        "end": 200.766
+      },
+      {
+        "text": "It would be minus 7.",
+        "start": 201.347,
+        "end": 203.349
+      },
+      {
+        "text": "Oh no, that won't work at all.",
+        "start": 204.491,
+        "end": 206.233
+      },
+      {
+        "text": "All right, 6 equals 7.",
+        "start": 206.293,
+        "end": 214.043
+      },
+      {
+        "text": " minus four.",
+        "start": 215.322,
+        "end": 216.404
+      },
+      {
+        "text": "No, oh, but that's not six, that's four.",
+        "start": 216.644,
+        "end": 218.928
+      },
+      {
+        "text": "That's it, that's it.",
+        "start": 219.408,
+        "end": 220.811
+      },
+      {
+        "text": "Okay, so that number's four equals, move this one.",
+        "start": 220.831,
+        "end": 229.805
+      },
+      {
+        "text": "But it's not moving.",
+        "start": 234.633,
+        "end": 235.474
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 7 plus 4. OK, 4. OK, that's 7. And that's 4. That's 11. So that's 4 equals, right, All right, that's 7 plus 4. That's 11. 6 equals. All right, what if I move that? 11 equals. No, that's not it. Okay, so what if I moved the 5, what if it said 6? 4 equals, no that can't be right. So I'd have to move one of these, because these are the larger numbers. Because that's a small number and these are larger numbers, so this is just not going to work. Alright, what if I moved this? No, that's not going to work. It's not going to work, okay. Move this here, maybe? No. Move the 5. Well, that's not working. OK, so that's 7. Plus 4 is 11. 6 equals, oh, I've got to do 4. 4 plus 2, but I can only, 4 plus 2. That's not going to work, because if I put that at the end, that's four. What if I move that? Five equals... No, that's not going to work. Wait a minute. Okay, so that's seven, and that's four. Six equals... 6 equals It would have to be 5 plus 1. Well. There's too many to move 5 plus 1 I would have to move 1 2 3 that's not oh wait a minute. What if I put this know what I can only move one I didn't make any sense I need to move the whole thing Only one All right, what if it was 4 minus 7 equals 11? OK, there is 4. What if I use that? Move that. It would be minus 7. Oh no, that won't work at all. All right, 6 equals 7. minus four. No, oh, but that's not six, that's four. That's it, that's it. Okay, so that number's four equals, move this one. But it's not moving."
+  }
+}

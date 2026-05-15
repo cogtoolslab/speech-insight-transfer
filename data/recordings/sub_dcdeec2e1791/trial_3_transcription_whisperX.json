@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_dcdeec2e1791/trial_3.wav",
+  "with_timestamps": {
+    "text": " So, we got 13 equals 9 plus 4.Okay.So, in this case, the way you can do it is you can just say, no, but you can't, or minus 4, and that's not correct.So, okay.13. Oh, same thing.Just go to that automatically.13 minus 9.",
+    "segments": [
+      {
+        "text": " So, we got 13 equals 9 plus 4.",
+        "start": 0.031,
+        "end": 5.257
+      },
+      {
+        "text": "Okay.",
+        "start": 8.2,
+        "end": 8.441
+      },
+      {
+        "text": "So, in this case, the way you can do it is you can just say, no, but you can't, or minus 4, and that's not correct.",
+        "start": 8.461,
+        "end": 20.134
+      },
+      {
+        "text": "So, okay.",
+        "start": 20.154,
+        "end": 27.823
+      },
+      {
+        "text": "13.",
+        "start": 27.843,
+        "end": 28.063
+      },
+      {
+        "text": " Oh, same thing.",
+        "start": 33.325,
+        "end": 35.713
+      },
+      {
+        "text": "Just go to that automatically.",
+        "start": 35.733,
+        "end": 37.197
+      },
+      {
+        "text": "13 minus 9.",
+        "start": 37.619,
+        "end": 41.732
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So, we got 13 equals 9 plus 4. Okay. So, in this case, the way you can do it is you can just say, no, but you can't, or minus 4, and that's not correct. So, okay. 13. Oh, same thing. Just go to that automatically. 13 minus 9."
+  }
+}

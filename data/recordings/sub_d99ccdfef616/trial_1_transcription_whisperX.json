@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_d99ccdfef616/trial_1.wav",
+  "with_timestamps": {
+    "text": " Alright, so we have 3 equals 4, or 9 minus 4.So 9 minus 4 is 5.So what would we have to do?9 minus 4 is 5. jeez louise we could make not this into a five but that would be requiring moving a matchstick so we can't do that um it could be nine minus six so it would have to be one one equals 1x minus v1.",
+    "segments": [
+      {
+        "text": " Alright, so we have 3 equals 4, or 9 minus 4.",
+        "start": 1.077,
+        "end": 11.231
+      },
+      {
+        "text": "So 9 minus 4 is 5.",
+        "start": 13.314,
+        "end": 15.958
+      },
+      {
+        "text": "So what would we have to do?",
+        "start": 15.978,
+        "end": 18.962
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 18.982,
+        "end": 26.393
+      },
+      {
+        "text": " jeez louise we could make not this into a five but that would be requiring moving a matchstick so we can't do that um it could be nine minus six so it would have to be one one equals",
+        "start": 33.241,
+        "end": 58.928
+      },
+      {
+        "text": " 1x minus v1.",
+        "start": 60.14,
+        "end": 65.796
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so we have 3 equals 4, or 9 minus 4. So 9 minus 4 is 5. So what would we have to do? 9 minus 4 is 5. jeez louise we could make not this into a five but that would be requiring moving a matchstick so we can't do that um it could be nine minus six so it would have to be one one equals 1x minus v1."
+  }
+}

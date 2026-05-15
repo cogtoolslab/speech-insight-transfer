@@ -1,0 +1,246 @@
+{
+  "file": "data/recordings/sub_30c67a672db1/trial_1.wav",
+  "with_timestamps": {
+    "text": " 3 equals 3 plus 3.Of course, that's not right.3 plus 3 equals 6.Oh my goodness.Let's see.6 is VI.So you can't move the straight ones. Oh, this is interesting.1 match 6.6 equals 3 plus 3.Can we move that one?Did I do it wrong?VI is 6.Is it 6? That's not the same thing.Shoot.3 plus 3.OK, so.Hm. Report the correct version of the equation.It's 6 equals 3 plus 3.Yes, I am saying out loud what I'm thinking.6 equals 3 plus 3.But how do we change that if I can only move one matchstick?And how do I do this?Let's see.Nope. B, nope.I equals. 1, 2, 3 plus 1, 2, 3.Is that the correct answer?Am I able to move that?I don't think I'm able to move it.I don't think that is going to be the correct answer, but let's try it.That's incorrect.Of course it is. Okay, so how can I move 1?It's 6 equals 3 plus 3, when you can't just move that.Okay, 6 is VI.So, I can only move 1.Okay, 1. 2, 3.4.Nope, I can't do that.How can I make a 6?I don't know how to make a 6. and it's probably very simple.",
+    "segments": [
+      {
+        "text": " 3 equals 3 plus 3.",
+        "start": 1.87,
+        "end": 4.934
+      },
+      {
+        "text": "Of course, that's not right.",
+        "start": 4.954,
+        "end": 6.897
+      },
+      {
+        "text": "3 plus 3 equals 6.",
+        "start": 6.917,
+        "end": 12.666
+      },
+      {
+        "text": "Oh my goodness.",
+        "start": 13.987,
+        "end": 14.769
+      },
+      {
+        "text": "Let's see.",
+        "start": 14.929,
+        "end": 15.61
+      },
+      {
+        "text": "6 is VI.",
+        "start": 15.63,
+        "end": 24.302
+      },
+      {
+        "text": "So you can't move the straight ones.",
+        "start": 27.327,
+        "end": 29.65
+      },
+      {
+        "text": " Oh, this is interesting.",
+        "start": 32.532,
+        "end": 36.617
+      },
+      {
+        "text": "1 match 6.",
+        "start": 36.637,
+        "end": 40.401
+      },
+      {
+        "text": "6 equals 3 plus 3.",
+        "start": 40.721,
+        "end": 48.771
+      },
+      {
+        "text": "Can we move that one?",
+        "start": 50.012,
+        "end": 51.474
+      },
+      {
+        "text": "Did I do it wrong?",
+        "start": 51.534,
+        "end": 54.057
+      },
+      {
+        "text": "VI is 6.",
+        "start": 56.359,
+        "end": 57.621
+      },
+      {
+        "text": "Is it 6?",
+        "start": 58.442,
+        "end": 59.603
+      },
+      {
+        "text": " That's not the same thing.",
+        "start": 61.321,
+        "end": 62.923
+      },
+      {
+        "text": "Shoot.",
+        "start": 62.983,
+        "end": 70.831
+      },
+      {
+        "text": "3 plus 3.",
+        "start": 72.593,
+        "end": 73.494
+      },
+      {
+        "text": "OK, so.",
+        "start": 74.275,
+        "end": 75.356
+      },
+      {
+        "text": "Hm.",
+        "start": 84.366,
+        "end": 84.426
+      },
+      {
+        "text": " Report the correct version of the equation.",
+        "start": 95.932,
+        "end": 98.556
+      },
+      {
+        "text": "It's 6 equals 3 plus 3.",
+        "start": 100.538,
+        "end": 103.843
+      },
+      {
+        "text": "Yes, I am saying out loud what I'm thinking.",
+        "start": 104.484,
+        "end": 107.508
+      },
+      {
+        "text": "6 equals 3 plus 3.",
+        "start": 107.528,
+        "end": 110.031
+      },
+      {
+        "text": "But how do we change that if I can only move one matchstick?",
+        "start": 110.091,
+        "end": 115.719
+      },
+      {
+        "text": "And how do I do this?",
+        "start": 117.181,
+        "end": 118.683
+      },
+      {
+        "text": "Let's see.",
+        "start": 123.51,
+        "end": 124.291
+      },
+      {
+        "text": "Nope.",
+        "start": 124.311,
+        "end": 125.753
+      },
+      {
+        "text": " B, nope.",
+        "start": 127.488,
+        "end": 131.3
+      },
+      {
+        "text": "I equals.",
+        "start": 133.126,
+        "end": 139.506
+      },
+      {
+        "text": " 1, 2, 3 plus 1, 2, 3.",
+        "start": 144.599,
+        "end": 149.908
+      },
+      {
+        "text": "Is that the correct answer?",
+        "start": 151.231,
+        "end": 152.773
+      },
+      {
+        "text": "Am I able to move that?",
+        "start": 154.096,
+        "end": 155.739
+      },
+      {
+        "text": "I don't think I'm able to move it.",
+        "start": 155.899,
+        "end": 157.582
+      },
+      {
+        "text": "I don't think that is going to be the correct answer, but let's try it.",
+        "start": 157.602,
+        "end": 165.997
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 167.319,
+        "end": 168.12
+      },
+      {
+        "text": "Of course it is.",
+        "start": 168.2,
+        "end": 169.122
+      },
+      {
+        "text": " Okay, so how can I move 1?",
+        "start": 174.653,
+        "end": 178.438
+      },
+      {
+        "text": "It's 6 equals 3 plus 3, when you can't just move that.",
+        "start": 178.458,
+        "end": 184.826
+      },
+      {
+        "text": "Okay, 6 is VI.",
+        "start": 187.129,
+        "end": 190.173
+      },
+      {
+        "text": "So, I can only move 1.",
+        "start": 194.458,
+        "end": 197.442
+      },
+      {
+        "text": "Okay, 1.",
+        "start": 197.522,
+        "end": 199.885
+      },
+      {
+        "text": " 2, 3.",
+        "start": 209.062,
+        "end": 209.402
+      },
+      {
+        "text": "4.",
+        "start": 209.422,
+        "end": 210.083
+      },
+      {
+        "text": "Nope, I can't do that.",
+        "start": 213.828,
+        "end": 220.477
+      },
+      {
+        "text": "How can I make a 6?",
+        "start": 223.34,
+        "end": 224.802
+      },
+      {
+        "text": "I don't know how to make a 6.",
+        "start": 232.472,
+        "end": 234.715
+      },
+      {
+        "text": " and it's probably very simple.",
+        "start": 236.872,
+        "end": 239.22
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 3 plus 3. Of course, that's not right. 3 plus 3 equals 6. Oh my goodness. Let's see. 6 is VI. So you can't move the straight ones. Oh, this is interesting. 1 match 6. 6 equals 3 plus 3. Can we move that one? Did I do it wrong? VI is 6. Is it 6? That's not the same thing. Shoot. 3 plus 3. OK, so. Hm. Report the correct version of the equation. It's 6 equals 3 plus 3. Yes, I am saying out loud what I'm thinking. 6 equals 3 plus 3. But how do we change that if I can only move one matchstick? And how do I do this? Let's see. Nope. B, nope. I equals. 1, 2, 3 plus 1, 2, 3. Is that the correct answer? Am I able to move that? I don't think I'm able to move it. I don't think that is going to be the correct answer, but let's try it. That's incorrect. Of course it is. Okay, so how can I move 1? It's 6 equals 3 plus 3, when you can't just move that. Okay, 6 is VI. So, I can only move 1. Okay, 1. 2, 3. 4. Nope, I can't do that. How can I make a 6? I don't know how to make a 6. and it's probably very simple."
+  }
+}

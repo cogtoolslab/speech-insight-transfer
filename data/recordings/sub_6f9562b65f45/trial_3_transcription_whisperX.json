@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_6f9562b65f45/trial_3.wav",
+  "with_timestamps": {
+    "text": " This is 2.2 equals 9 minus 2. Two equals nine minus two.Nine minus two is what?Seven.And I can only move one matchstick.Nine plus two is 11. Ouch.Yeah, these equations don't make sense. Two, you can only move one matchstick.Like, do I need to listen to these fucking instructions again?Cause I'm fucking lost.You can only move one matchstick.Hmm.Hmm. But.It's either 9 or 11. 9 minus 1 equals 3.This don't make sense. I can't just, this is frustrating because it doesn't make fucking sense, logically.Five, they gave me 10 and five.",
+    "segments": [
+      {
+        "text": " This is 2.",
+        "start": 2.731,
+        "end": 3.74
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 3.76,
+        "end": 7.594
+      },
+      {
+        "text": " Two equals nine minus two.",
+        "start": 33.764,
+        "end": 44.843
+      },
+      {
+        "text": "Nine minus two is what?",
+        "start": 44.883,
+        "end": 48.529
+      },
+      {
+        "text": "Seven.",
+        "start": 48.549,
+        "end": 49.01
+      },
+      {
+        "text": "And I can only move one matchstick.",
+        "start": 52.956,
+        "end": 54.919
+      },
+      {
+        "text": "Nine plus two is 11.",
+        "start": 57.384,
+        "end": 60.008
+      },
+      {
+        "text": " Ouch.",
+        "start": 68.797,
+        "end": 83.451
+      },
+      {
+        "text": "Yeah, these equations don't make sense.",
+        "start": 93.721,
+        "end": 96.424
+      },
+      {
+        "text": " Two, you can only move one matchstick.",
+        "start": 97.687,
+        "end": 101.032
+      },
+      {
+        "text": "Like, do I need to listen to these fucking instructions again?",
+        "start": 101.132,
+        "end": 104.637
+      },
+      {
+        "text": "Cause I'm fucking lost.",
+        "start": 106.739,
+        "end": 108.141
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 114.41,
+        "end": 116.773
+      },
+      {
+        "text": "Hmm.",
+        "start": 117.715,
+        "end": 117.795
+      },
+      {
+        "text": "Hmm.",
+        "start": 125.926,
+        "end": 126.006
+      },
+      {
+        "text": " But.",
+        "start": 132.888,
+        "end": 133.67
+      },
+      {
+        "text": "It's either 9 or 11.",
+        "start": 149.785,
+        "end": 152.01
+      },
+      {
+        "text": " 9 minus 1 equals 3.",
+        "start": 172.257,
+        "end": 186.64
+      },
+      {
+        "text": "This don't make sense.",
+        "start": 192.329,
+        "end": 197.117
+      },
+      {
+        "text": " I can't just, this is frustrating because it doesn't make fucking sense, logically.",
+        "start": 215.39,
+        "end": 233.16
+      },
+      {
+        "text": "Five, they gave me 10 and five.",
+        "start": 233.2,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This is 2. 2 equals 9 minus 2. Two equals nine minus two. Nine minus two is what? Seven. And I can only move one matchstick. Nine plus two is 11. Ouch. Yeah, these equations don't make sense. Two, you can only move one matchstick. Like, do I need to listen to these fucking instructions again? Cause I'm fucking lost. You can only move one matchstick. Hmm. Hmm. But. It's either 9 or 11. 9 minus 1 equals 3. This don't make sense. I can't just, this is frustrating because it doesn't make fucking sense, logically. Five, they gave me 10 and five."
+  }
+}

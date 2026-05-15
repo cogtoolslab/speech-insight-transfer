@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_021ac9fef6d9/trial_4.wav",
+  "with_timestamps": {
+    "text": " 10 equals 7 minus 3.10.So it needs to be 7 plus 3.So that needs to be a bigger number.So 10 minus 3, that would equal 7, not 10.So if I make this, this is 7. so that would be 12 minus I did that be 12 minus 3 is 9 so if I move a matchstick here let's see 7 minus 3 what is 7 minus 3 that is 4 see I still need to add a matchstick they don't move So even if I made the 10 a 5, this would still be 7 minus 3, which is 4, and that's a 5.So if I made this 9 minus 7, no.OK, I'm going to put this in x. equals V 1 1 plus 1 2 3 and that does equal but that's not moving the matchstick that's adding a matchstick to the minus sign to make it a plus sign and that would give the equation correct and make it correct but if we made that 10 no I can't change that so if I'd made this 12 minus 3 I made that in 12 what if I made that 15 no okay so 7 minus So I have to make that 11.That would make that 9.Nope.So that would make that, if I 10, 11 minus 7, that's still 4.That's still not a correct answer.So 7 minus 3. 7 plus 3 that's the problem.I need a plus sign right here so 6 even if I did a matchstick and Put it there took it away from there.That's 6 minus 3 10 12 minus 3 put the matchstick over here 6 minus 4 is 2 and I can't see where I would change this.Let's see.8 minus 2.I need to make these bigger.7.Let's see.9.Let's see.That would be 4.4, put a matchstick over here. No, it's not working.X.",
+    "segments": [
+      {
+        "text": " 10 equals 7 minus 3.",
+        "start": 2.022,
+        "end": 6.006
+      },
+      {
+        "text": "10.",
+        "start": 6.026,
+        "end": 9.67
+      },
+      {
+        "text": "So it needs to be 7 plus 3.",
+        "start": 9.69,
+        "end": 11.813
+      },
+      {
+        "text": "So that needs to be a bigger number.",
+        "start": 11.853,
+        "end": 13.775
+      },
+      {
+        "text": "So 10 minus 3, that would equal 7, not 10.",
+        "start": 13.795,
+        "end": 22.684
+      },
+      {
+        "text": "So if I make this, this is 7.",
+        "start": 26.609,
+        "end": 30.713
+      },
+      {
+        "text": " so that would be 12 minus I did that be 12 minus 3 is 9 so if I move a matchstick here let's see 7 minus 3 what is 7 minus 3 that is 4 see I still need to add a matchstick they don't move",
+        "start": 35.688,
+        "end": 63.737
+      },
+      {
+        "text": " So even if I made the 10 a 5, this would still be 7 minus 3, which is 4, and that's a 5.",
+        "start": 65.084,
+        "end": 77.483
+      },
+      {
+        "text": "So if I made this 9 minus 7, no.",
+        "start": 78.825,
+        "end": 86.076
+      },
+      {
+        "text": "OK, I'm going to put this in x.",
+        "start": 86.397,
+        "end": 88.56
+      },
+      {
+        "text": " equals V 1 1 plus 1 2 3 and that does equal but that's not moving the matchstick that's adding a matchstick to the minus sign to make it a plus sign and that would give the equation correct and",
+        "start": 89.975,
+        "end": 117.501
+      },
+      {
+        "text": " make it correct but if we made that 10 no I can't change that so if I'd made this 12 minus 3 I made that in 12 what if I made that 15 no okay so 7 minus",
+        "start": 117.818,
+        "end": 142.088
+      },
+      {
+        "text": " So I have to make that 11.",
+        "start": 147.67,
+        "end": 149.713
+      },
+      {
+        "text": "That would make that 9.",
+        "start": 149.753,
+        "end": 152.457
+      },
+      {
+        "text": "Nope.",
+        "start": 152.597,
+        "end": 153.078
+      },
+      {
+        "text": "So that would make that, if I 10, 11 minus 7, that's still 4.",
+        "start": 153.118,
+        "end": 160.969
+      },
+      {
+        "text": "That's still not a correct answer.",
+        "start": 160.989,
+        "end": 162.812
+      },
+      {
+        "text": "So 7 minus 3.",
+        "start": 162.872,
+        "end": 173.948
+      },
+      {
+        "text": " 7 plus 3 that's the problem.",
+        "start": 176.83,
+        "end": 179.793
+      },
+      {
+        "text": "I need a plus sign right here so 6 even if I did a matchstick and Put it there took it away from there.",
+        "start": 179.893,
+        "end": 188.843
+      },
+      {
+        "text": "That's 6 minus 3 10 12 minus 3 put the matchstick over here 6 minus 4 is 2 and",
+        "start": 188.903,
+        "end": 204.88
+      },
+      {
+        "text": " I can't see where I would change this.",
+        "start": 207.796,
+        "end": 210.921
+      },
+      {
+        "text": "Let's see.",
+        "start": 212.804,
+        "end": 213.305
+      },
+      {
+        "text": "8 minus 2.",
+        "start": 213.325,
+        "end": 217.732
+      },
+      {
+        "text": "I need to make these bigger.",
+        "start": 217.752,
+        "end": 220.516
+      },
+      {
+        "text": "7.",
+        "start": 220.536,
+        "end": 220.576
+      },
+      {
+        "text": "Let's see.",
+        "start": 221.438,
+        "end": 226.065
+      },
+      {
+        "text": "9.",
+        "start": 226.085,
+        "end": 226.125
+      },
+      {
+        "text": "Let's see.",
+        "start": 226.886,
+        "end": 227.387
+      },
+      {
+        "text": "That would be 4.",
+        "start": 227.447,
+        "end": 228.669
+      },
+      {
+        "text": "4, put a matchstick over here.",
+        "start": 228.689,
+        "end": 235.44
+      },
+      {
+        "text": " No, it's not working.",
+        "start": 237.226,
+        "end": 238.413
+      },
+      {
+        "text": "X.",
+        "start": 239.538,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 10 equals 7 minus 3. 10. So it needs to be 7 plus 3. So that needs to be a bigger number. So 10 minus 3, that would equal 7, not 10. So if I make this, this is 7. so that would be 12 minus I did that be 12 minus 3 is 9 so if I move a matchstick here let's see 7 minus 3 what is 7 minus 3 that is 4 see I still need to add a matchstick they don't move So even if I made the 10 a 5, this would still be 7 minus 3, which is 4, and that's a 5. So if I made this 9 minus 7, no. OK, I'm going to put this in x. equals V 1 1 plus 1 2 3 and that does equal but that's not moving the matchstick that's adding a matchstick to the minus sign to make it a plus sign and that would give the equation correct and make it correct but if we made that 10 no I can't change that so if I'd made this 12 minus 3 I made that in 12 what if I made that 15 no okay so 7 minus So I have to make that 11. That would make that 9. Nope. So that would make that, if I 10, 11 minus 7, that's still 4. That's still not a correct answer. So 7 minus 3. 7 plus 3 that's the problem. I need a plus sign right here so 6 even if I did a matchstick and Put it there took it away from there. That's 6 minus 3 10 12 minus 3 put the matchstick over here 6 minus 4 is 2 and I can't see where I would change this. Let's see. 8 minus 2. I need to make these bigger. 7. Let's see. 9. Let's see. That would be 4. 4, put a matchstick over here. No, it's not working. X."
+  }
+}

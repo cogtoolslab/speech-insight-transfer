@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_79d834729395/trial_4.wav",
+  "with_timestamps": {
+    "text": " I'm assuming there's more than one equation and I have to figure out the correct one but So I'm going to go here.",
+    "segments": [
+      {
+        "text": " I'm assuming there's more than one equation and I have to figure out the correct one but",
+        "start": 11.843,
+        "end": 25.482
+      },
+      {
+        "text": " So I'm going to go here.",
+        "start": 37.983,
+        "end": 44.415
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm assuming there's more than one equation and I have to figure out the correct one but So I'm going to go here."
+  }
+}

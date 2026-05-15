@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_71fc70db9a34/trial_3.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 4 equals 11 minus 2.I want to turn that into a 9, so we'll turn the b into an x on the left side of the equation.",
+    "segments": [
+      {
+        "text": " In this equation, we have 4 equals 11 minus 2.",
+        "start": 0.031,
+        "end": 4.723
+      },
+      {
+        "text": "I want to turn that into a 9, so we'll turn the b into an x on the left side of the equation.",
+        "start": 4.743,
+        "end": 10.598
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 4 equals 11 minus 2. I want to turn that into a 9, so we'll turn the b into an x on the left side of the equation."
+  }
+}

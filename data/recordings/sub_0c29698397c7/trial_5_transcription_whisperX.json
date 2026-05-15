@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_0c29698397c7/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay.4 equals 11 minus 2.Hmm.Yeah.So you just make the x a v. So 4iv, 4 equals vi, which is 6 minus 1, 2.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.689,
+        "end": 1.31
+      },
+      {
+        "text": "4 equals 11 minus 2.",
+        "start": 2.111,
+        "end": 4.995
+      },
+      {
+        "text": "Hmm.",
+        "start": 7.218,
+        "end": 7.859
+      },
+      {
+        "text": "Yeah.",
+        "start": 8.741,
+        "end": 9.061
+      },
+      {
+        "text": "So you just make the x a v. So 4iv, 4 equals vi, which is 6 minus 1, 2.",
+        "start": 9.081,
+        "end": 23.001
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. 4 equals 11 minus 2. Hmm. Yeah. So you just make the x a v. So 4iv, 4 equals vi, which is 6 minus 1, 2."
+  }
+}

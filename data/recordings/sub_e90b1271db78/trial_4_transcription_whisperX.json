@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_e90b1271db78/trial_4.wav",
+  "with_timestamps": {
+    "text": " 3 equals 11 minus 3.11 minus 3 is 8.11 minus 3 is 8. 11 minus 3 is 8, so that would be 11.OK, so we can turn this to 11, because 11 minus 3 is 8.So 8 minus 3. 11 minus 3 equals 8.So 11 minus 3 equals 8.So if we could turn this into 8, but we can't because that can only be 6.So 11 minus 6, that would be 5 still, though. 10, 11 minus 3 equals 8.I don't know.This one's really hard. I thought that I had it for a second, but now I can't figure it out again.3 plus 3 is 6, so that would be 5.So if I could change one of these to 5 maybe?No, that doesn't make sense either.So if I turn that, that would still be plus.So maybe 11 minus, no, because I would have to change 2.I can't just change one of these. Maybe 11 minus 9.And then take that.Oh, you can't do that.I could turn that into 11 minus 9.11 minus 2 is 8. This one I'm really stumped on.I can't figure it out at all.So it's 11 minus 3 equals 3.And I just need to change one of these sticks, but I can't really figure out a way without changing two of them.11 minus 3 is 8. they could turn the 3 on the left hand side into a 6 but it still wouldn't the math wouldn't work maybe if I x 10 plus no that would be 10 plus 3 would be 13 so that wouldn't work either 6 equals 11 minus 9.",
+    "segments": [
+      {
+        "text": " 3 equals 11 minus 3.",
+        "start": 0.858,
+        "end": 7.267
+      },
+      {
+        "text": "11 minus 3 is 8.",
+        "start": 7.287,
+        "end": 11.753
+      },
+      {
+        "text": "11 minus 3 is 8.",
+        "start": 11.773,
+        "end": 27.996
+      },
+      {
+        "text": " 11 minus 3 is 8, so that would be 11.",
+        "start": 32.549,
+        "end": 43.827
+      },
+      {
+        "text": "OK, so we can turn this to 11, because 11 minus 3 is 8.",
+        "start": 44.047,
+        "end": 50.457
+      },
+      {
+        "text": "So 8 minus 3.",
+        "start": 51.098,
+        "end": 57.949
+      },
+      {
+        "text": " 11 minus 3 equals 8.",
+        "start": 60.578,
+        "end": 63.521
+      },
+      {
+        "text": "So 11 minus 3 equals 8.",
+        "start": 68.487,
+        "end": 71.91
+      },
+      {
+        "text": "So if we could turn this into 8, but we can't because that can only be 6.",
+        "start": 74.693,
+        "end": 80.439
+      },
+      {
+        "text": "So 11 minus 6, that would be 5 still, though.",
+        "start": 80.499,
+        "end": 86.586
+      },
+      {
+        "text": " 10, 11 minus 3 equals 8.",
+        "start": 95.408,
+        "end": 108.835
+      },
+      {
+        "text": "I don't know.",
+        "start": 113.424,
+        "end": 113.885
+      },
+      {
+        "text": "This one's really hard.",
+        "start": 113.905,
+        "end": 115.729
+      },
+      {
+        "text": " I thought that I had it for a second, but now I can't figure it out again.",
+        "start": 117.818,
+        "end": 121.103
+      },
+      {
+        "text": "3 plus 3 is 6, so that would be 5.",
+        "start": 121.123,
+        "end": 126.33
+      },
+      {
+        "text": "So if I could change one of these to 5 maybe?",
+        "start": 126.39,
+        "end": 128.373
+      },
+      {
+        "text": "No, that doesn't make sense either.",
+        "start": 128.554,
+        "end": 129.735
+      },
+      {
+        "text": "So if I turn that, that would still be plus.",
+        "start": 131.197,
+        "end": 135.323
+      },
+      {
+        "text": "So maybe 11 minus, no, because I would have to change 2.",
+        "start": 138.047,
+        "end": 141.032
+      },
+      {
+        "text": "I can't just change one of these.",
+        "start": 141.372,
+        "end": 143.455
+      },
+      {
+        "text": " Maybe 11 minus 9.",
+        "start": 148.379,
+        "end": 152.845
+      },
+      {
+        "text": "And then take that.",
+        "start": 153.947,
+        "end": 154.768
+      },
+      {
+        "text": "Oh, you can't do that.",
+        "start": 155.389,
+        "end": 156.37
+      },
+      {
+        "text": "I could turn that into 11 minus 9.",
+        "start": 159.455,
+        "end": 161.498
+      },
+      {
+        "text": "11 minus 2 is 8.",
+        "start": 161.558,
+        "end": 174.977
+      },
+      {
+        "text": " This one I'm really stumped on.",
+        "start": 176.932,
+        "end": 178.435
+      },
+      {
+        "text": "I can't figure it out at all.",
+        "start": 178.515,
+        "end": 179.877
+      },
+      {
+        "text": "So it's 11 minus 3 equals 3.",
+        "start": 184.325,
+        "end": 187.13
+      },
+      {
+        "text": "And I just need to change one of these sticks, but I can't really figure out a way without changing two of them.",
+        "start": 187.19,
+        "end": 193.26
+      },
+      {
+        "text": "11 minus 3 is 8.",
+        "start": 193.28,
+        "end": 196.746
+      },
+      {
+        "text": " they could turn the 3 on the left hand side into a 6 but it still wouldn't the math wouldn't work maybe if I x 10 plus no that would be 10 plus 3 would be 13 so that wouldn't work either",
+        "start": 202.919,
+        "end": 226.615
+      },
+      {
+        "text": " 6 equals 11 minus 9.",
+        "start": 234.104,
+        "end": 238.883
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 11 minus 3. 11 minus 3 is 8. 11 minus 3 is 8. 11 minus 3 is 8, so that would be 11. OK, so we can turn this to 11, because 11 minus 3 is 8. So 8 minus 3. 11 minus 3 equals 8. So 11 minus 3 equals 8. So if we could turn this into 8, but we can't because that can only be 6. So 11 minus 6, that would be 5 still, though. 10, 11 minus 3 equals 8. I don't know. This one's really hard. I thought that I had it for a second, but now I can't figure it out again. 3 plus 3 is 6, so that would be 5. So if I could change one of these to 5 maybe? No, that doesn't make sense either. So if I turn that, that would still be plus. So maybe 11 minus, no, because I would have to change 2. I can't just change one of these. Maybe 11 minus 9. And then take that. Oh, you can't do that. I could turn that into 11 minus 9. 11 minus 2 is 8. This one I'm really stumped on. I can't figure it out at all. So it's 11 minus 3 equals 3. And I just need to change one of these sticks, but I can't really figure out a way without changing two of them. 11 minus 3 is 8. they could turn the 3 on the left hand side into a 6 but it still wouldn't the math wouldn't work maybe if I x 10 plus no that would be 10 plus 3 would be 13 so that wouldn't work either 6 equals 11 minus 9."
+  }
+}

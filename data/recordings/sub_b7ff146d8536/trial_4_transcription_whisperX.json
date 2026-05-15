@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_b7ff146d8536/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, let's see here.8 equals 9 plus 3.Now if we take the line out and make it minus 8 equals 9 minus 3, that's not going to work. Now what if we move this over here?Seven plus four.There we go.Okay, I finally got my first one.So it's going to be seven equals.I'm going to take that stick out here and make it into a four.So then that would be here, here. 7 and plus 1, 2, 3.Is that right?7 plus 4 plus 3 is 7.",
+    "segments": [
+      {
+        "text": " All right, let's see here.",
+        "start": 1.921,
+        "end": 3.503
+      },
+      {
+        "text": "8 equals 9 plus 3.",
+        "start": 3.523,
+        "end": 10.01
+      },
+      {
+        "text": "Now if we take the line out and make it minus 8 equals 9 minus 3, that's not going to work.",
+        "start": 14.736,
+        "end": 30.173
+      },
+      {
+        "text": " Now what if we move this over here?",
+        "start": 35.333,
+        "end": 37.997
+      },
+      {
+        "text": "Seven plus four.",
+        "start": 39.399,
+        "end": 44.628
+      },
+      {
+        "text": "There we go.",
+        "start": 44.668,
+        "end": 45.889
+      },
+      {
+        "text": "Okay, I finally got my first one.",
+        "start": 45.91,
+        "end": 47.151
+      },
+      {
+        "text": "So it's going to be seven equals.",
+        "start": 48.093,
+        "end": 52.4
+      },
+      {
+        "text": "I'm going to take that stick out here and make it into a four.",
+        "start": 53.361,
+        "end": 58.83
+      },
+      {
+        "text": "So then that would be here, here.",
+        "start": 58.85,
+        "end": 62.235
+      },
+      {
+        "text": " 7 and plus 1, 2, 3.",
+        "start": 63.987,
+        "end": 69.298
+      },
+      {
+        "text": "Is that right?",
+        "start": 69.318,
+        "end": 70.083
+      },
+      {
+        "text": "7 plus 4 plus 3 is 7.",
+        "start": 70.103,
+        "end": 74.368
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see here. 8 equals 9 plus 3. Now if we take the line out and make it minus 8 equals 9 minus 3, that's not going to work. Now what if we move this over here? Seven plus four. There we go. Okay, I finally got my first one. So it's going to be seven equals. I'm going to take that stick out here and make it into a four. So then that would be here, here. 7 and plus 1, 2, 3. Is that right? 7 plus 4 plus 3 is 7."
+  }
+}

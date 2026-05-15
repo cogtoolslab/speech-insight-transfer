@@ -1,0 +1,13 @@
+{
+  "file": "data/recordings/sub_1d8556f9017f/trial_2_fixed.wav",
+  "participant_id": "sub_1d8556f9017f",
+  "trial_number": 2,
+  "speech_segments": [],
+  "silence_segments": [
+    {
+      "start": 0.0,
+      "end": 239.74,
+      "duration": 239.74
+    }
+  ]
+}

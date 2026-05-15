@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_0e1dca66af8d/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, so 9 equals 9 plus 9.I can't make it times.If I do this, if I move, so if I make it a 10, 10 equals 9. plus 1.And that doesn't work.Let's see.If you make this 11 equals, oh, maybe this might be it.4 plus 5.No. Let's see, 9 equals 4 plus 5.That's too many.I'm talking 10 equals 5 plus 5, but that's Be remotely close.10.What if I do 11?What if I do 10 equals 5 plus 5?But you can't do that.What if I do 12 equals 12 equals? 9 plus 3.And I don't think that works.What if I do, OK, I've tried 9, I've tried 11.What if I do, you can't do 2, you can't minus it.OK, 10. equals 5 plus 5.10 equals 6 plus 4.How does that not work?10 equals 9 plus 1. I am speaking aloud to the best of my ability.OK.11 equals 9 plus 2.I'm not getting any of these right, am I?9 equals 5 plus 2. Does that do it?Nope.OK, 10 equals 5 plus 5.I mean, that doesn't, I'm not moving, I'm moving way too many.10, 11 equals 6 plus 5.That's way too many.",
+    "segments": [
+      {
+        "text": " OK, so 9 equals 9 plus 9.",
+        "start": 1.212,
+        "end": 12.563
+      },
+      {
+        "text": "I can't make it times.",
+        "start": 14.305,
+        "end": 15.426
+      },
+      {
+        "text": "If I do this, if I move, so if I make it a 10, 10 equals 9.",
+        "start": 15.786,
+        "end": 30.561
+      },
+      {
+        "text": " plus 1.",
+        "start": 33.173,
+        "end": 36.398
+      },
+      {
+        "text": "And that doesn't work.",
+        "start": 37.04,
+        "end": 38.282
+      },
+      {
+        "text": "Let's see.",
+        "start": 41.126,
+        "end": 42.168
+      },
+      {
+        "text": "If you make this 11 equals, oh, maybe this might be it.",
+        "start": 42.208,
+        "end": 49.12
+      },
+      {
+        "text": "4 plus 5.",
+        "start": 49.14,
+        "end": 56.833
+      },
+      {
+        "text": "No.",
+        "start": 57.895,
+        "end": 58.135
+      },
+      {
+        "text": " Let's see, 9 equals 4 plus 5.",
+        "start": 61.675,
+        "end": 74.452
+      },
+      {
+        "text": "That's too many.",
+        "start": 75.433,
+        "end": 76.194
+      },
+      {
+        "text": "I'm talking 10 equals 5 plus 5, but that's",
+        "start": 78.538,
+        "end": 91.615
+      },
+      {
+        "text": " Be remotely close.",
+        "start": 92.86,
+        "end": 96.404
+      },
+      {
+        "text": "10.",
+        "start": 96.424,
+        "end": 96.484
+      },
+      {
+        "text": "What if I do 11?",
+        "start": 98.586,
+        "end": 99.247
+      },
+      {
+        "text": "What if I do 10 equals 5 plus 5?",
+        "start": 99.908,
+        "end": 107.076
+      },
+      {
+        "text": "But you can't do that.",
+        "start": 107.116,
+        "end": 108.297
+      },
+      {
+        "text": "What if I do 12 equals 12 equals?",
+        "start": 113.363,
+        "end": 122.513
+      },
+      {
+        "text": " 9 plus 3.",
+        "start": 123.016,
+        "end": 129.024
+      },
+      {
+        "text": "And I don't think that works.",
+        "start": 130.767,
+        "end": 131.928
+      },
+      {
+        "text": "What if I do, OK, I've tried 9, I've tried 11.",
+        "start": 133.631,
+        "end": 140.52
+      },
+      {
+        "text": "What if I do, you can't do 2, you can't minus it.",
+        "start": 142.242,
+        "end": 149.693
+      },
+      {
+        "text": "OK, 10.",
+        "start": 149.753,
+        "end": 152.196
+      },
+      {
+        "text": " equals 5 plus 5.",
+        "start": 152.395,
+        "end": 155.138
+      },
+      {
+        "text": "10 equals 6 plus 4.",
+        "start": 155.158,
+        "end": 163.628
+      },
+      {
+        "text": "How does that not work?",
+        "start": 166.051,
+        "end": 167.292
+      },
+      {
+        "text": "10 equals 9 plus 1.",
+        "start": 167.312,
+        "end": 182.25
+      },
+      {
+        "text": " I am speaking aloud to the best of my ability.",
+        "start": 183.108,
+        "end": 187.112
+      },
+      {
+        "text": "OK.",
+        "start": 187.733,
+        "end": 188.134
+      },
+      {
+        "text": "11 equals 9 plus 2.",
+        "start": 188.154,
+        "end": 199.466
+      },
+      {
+        "text": "I'm not getting any of these right, am I?",
+        "start": 199.486,
+        "end": 206.153
+      },
+      {
+        "text": "9 equals 5 plus 2.",
+        "start": 206.173,
+        "end": 212.22
+      },
+      {
+        "text": " Does that do it?",
+        "start": 214.158,
+        "end": 218.269
+      },
+      {
+        "text": "Nope.",
+        "start": 218.289,
+        "end": 220.234
+      },
+      {
+        "text": "OK, 10 equals 5 plus 5.",
+        "start": 220.254,
+        "end": 225.99
+      },
+      {
+        "text": "I mean, that doesn't, I'm not moving, I'm moving way too many.",
+        "start": 226.05,
+        "end": 229.259
+      },
+      {
+        "text": "10, 11 equals 6 plus 5.",
+        "start": 229.279,
+        "end": 238.383
+      },
+      {
+        "text": "That's way too many.",
+        "start": 238.504,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so 9 equals 9 plus 9. I can't make it times. If I do this, if I move, so if I make it a 10, 10 equals 9. plus 1. And that doesn't work. Let's see. If you make this 11 equals, oh, maybe this might be it. 4 plus 5. No. Let's see, 9 equals 4 plus 5. That's too many. I'm talking 10 equals 5 plus 5, but that's Be remotely close. 10. What if I do 11? What if I do 10 equals 5 plus 5? But you can't do that. What if I do 12 equals 12 equals? 9 plus 3. And I don't think that works. What if I do, OK, I've tried 9, I've tried 11. What if I do, you can't do 2, you can't minus it. OK, 10. equals 5 plus 5. 10 equals 6 plus 4. How does that not work? 10 equals 9 plus 1. I am speaking aloud to the best of my ability. OK. 11 equals 9 plus 2. I'm not getting any of these right, am I? 9 equals 5 plus 2. Does that do it? Nope. OK, 10 equals 5 plus 5. I mean, that doesn't, I'm not moving, I'm moving way too many. 10, 11 equals 6 plus 5. That's way too many."
+  }
+}

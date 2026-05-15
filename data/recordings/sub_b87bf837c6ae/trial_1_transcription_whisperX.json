@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_b87bf837c6ae/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I can only move one matchstick.So this is nine, five. So basically, 13 equals 9 minus 4.Hm. So 13 equals 9 minus 4, basically.Hmm. 5 equals 9 minus 4.9 equals 5 minus 4.Is that correct? Okay.13 equals 9 minus 4.13 equals 9 minus 4, but that doesn't make sense. I have to find a way.Ah.Searching equals 9 plus.Ah, now I got it. 13 equals 9 plus 1.Huh. That's interesting.I can't really figure out what's happening.I'm not sure because I got it incorrect.",
+    "segments": [
+      {
+        "text": " Okay, so I can only move one matchstick.",
+        "start": 0.773,
+        "end": 4.542
+      },
+      {
+        "text": "So this is nine, five.",
+        "start": 7.108,
+        "end": 16.892
+      },
+      {
+        "text": " So basically, 13 equals 9 minus 4.",
+        "start": 29.191,
+        "end": 40.772
+      },
+      {
+        "text": "Hm.",
+        "start": 48.726,
+        "end": 48.786
+      },
+      {
+        "text": " So 13 equals 9 minus 4, basically.",
+        "start": 62.435,
+        "end": 77.221
+      },
+      {
+        "text": "Hmm.",
+        "start": 81.509,
+        "end": 82.671
+      },
+      {
+        "text": " 5 equals 9 minus 4.",
+        "start": 93.215,
+        "end": 101.71
+      },
+      {
+        "text": "9 equals 5 minus 4.",
+        "start": 101.73,
+        "end": 110.987
+      },
+      {
+        "text": "Is that correct?",
+        "start": 111.007,
+        "end": 111.848
+      },
+      {
+        "text": " Okay.",
+        "start": 123.91,
+        "end": 129.055
+      },
+      {
+        "text": "13 equals 9 minus 4.",
+        "start": 137.264,
+        "end": 143.67
+      },
+      {
+        "text": "13 equals 9 minus 4, but that doesn't make sense.",
+        "start": 143.69,
+        "end": 150.998
+      },
+      {
+        "text": " I have to find a way.",
+        "start": 158.42,
+        "end": 163.246
+      },
+      {
+        "text": "Ah.",
+        "start": 166.491,
+        "end": 166.611
+      },
+      {
+        "text": "Searching equals 9 plus.",
+        "start": 175.002,
+        "end": 180.529
+      },
+      {
+        "text": "Ah, now I got it.",
+        "start": 182.352,
+        "end": 183.313
+      },
+      {
+        "text": " 13 equals 9 plus 1.",
+        "start": 188.086,
+        "end": 216.913
+      },
+      {
+        "text": "Huh.",
+        "start": 216.933,
+        "end": 217.013
+      },
+      {
+        "text": " That's interesting.",
+        "start": 224.452,
+        "end": 225.155
+      },
+      {
+        "text": "I can't really figure out what's happening.",
+        "start": 225.235,
+        "end": 228.307
+      },
+      {
+        "text": "I'm not sure because I got it incorrect.",
+        "start": 234.511,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I can only move one matchstick. So this is nine, five. So basically, 13 equals 9 minus 4. Hm. So 13 equals 9 minus 4, basically. Hmm. 5 equals 9 minus 4. 9 equals 5 minus 4. Is that correct? Okay. 13 equals 9 minus 4. 13 equals 9 minus 4, but that doesn't make sense. I have to find a way. Ah. Searching equals 9 plus. Ah, now I got it. 13 equals 9 plus 1. Huh. That's interesting. I can't really figure out what's happening. I'm not sure because I got it incorrect."
+  }
+}

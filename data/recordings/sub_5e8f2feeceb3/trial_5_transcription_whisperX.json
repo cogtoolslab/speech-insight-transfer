@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_5e8f2feeceb3/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, let's see, x, one, two, three equals, okay, I'm gonna change, I'll leave that, let's see, 11, 10, it's 13 equals, And, okay, I'm going to make that 9, so I'm going to change out the minus and make it into a plus.Equals 9 plus 4.And that might do it.I'm going to try again. He calms. Okay, 13 equals nine plus four.It's not letting me do that, so. 9 minus 4 equals 5.I'm going to try one other thing.Change the x into a v and make it an 8. 8 equals 9 minus... I'm wrong again.",
+    "segments": [
+      {
+        "text": " Okay, let's see, x, one, two, three equals, okay, I'm gonna change, I'll leave that, let's see, 11, 10, it's 13 equals,",
+        "start": 22.947,
+        "end": 45.563
+      },
+      {
+        "text": " And, okay, I'm going to make that 9, so I'm going to change out the minus and make it into a plus.",
+        "start": 50.588,
+        "end": 56.236
+      },
+      {
+        "text": "Equals 9 plus 4.",
+        "start": 59.401,
+        "end": 65.63
+      },
+      {
+        "text": "And that might do it.",
+        "start": 70.677,
+        "end": 71.799
+      },
+      {
+        "text": "I'm going to try again.",
+        "start": 77.447,
+        "end": 78.368
+      },
+      {
+        "text": " He calms.",
+        "start": 85.79,
+        "end": 87.075
+      },
+      {
+        "text": " Okay, 13 equals nine plus four.",
+        "start": 114.764,
+        "end": 120.338
+      },
+      {
+        "text": "It's not letting me do that, so.",
+        "start": 124.408,
+        "end": 126.613
+      },
+      {
+        "text": " 9 minus 4 equals 5.",
+        "start": 174.012,
+        "end": 178.398
+      },
+      {
+        "text": "I'm going to try one other thing.",
+        "start": 184.126,
+        "end": 186.228
+      },
+      {
+        "text": "Change the x into a v and make it an 8.",
+        "start": 189.192,
+        "end": 197.944
+      },
+      {
+        "text": " 8 equals 9 minus... I'm wrong again.",
+        "start": 204.944,
+        "end": 232.757
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let's see, x, one, two, three equals, okay, I'm gonna change, I'll leave that, let's see, 11, 10, it's 13 equals, And, okay, I'm going to make that 9, so I'm going to change out the minus and make it into a plus. Equals 9 plus 4. And that might do it. I'm going to try again. He calms. Okay, 13 equals nine plus four. It's not letting me do that, so. 9 minus 4 equals 5. I'm going to try one other thing. Change the x into a v and make it an 8. 8 equals 9 minus... I'm wrong again."
+  }
+}

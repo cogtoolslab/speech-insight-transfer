@@ -1,0 +1,276 @@
+{
+  "file": "data/recordings/sub_eb19178b58f7/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay.We've got 4 equals 4 minus 2.All right.So if I take the 5, 1.If I take the 5, that would be 1.And then that would be 7 or it could be 3.Yep.Okay. that and then I have 4 here just as usual and then I have, oops, minus 3, right?How do I do the 3?Am I allowed to do that?No, I'm not allowed.Okay, 1.Okay, so I have 4. What if I made 4 equals 4 minus 2?I need that to be a 2.But how do I make that a 2?Or I need this to be made into 4.So if I add up, if I do 1, nope. Something has to go to the equal sign over the equal sign.So if I do, that would be 3 equals 4 minus 1.Yep, got it.Oh, I can't do that.That's what I just did.No, I didn't.Hold on. 3 equals 4 minus 1.Am I allowed?Nope, not allowed.Okay.4.Oh my god, am I stupid?Wait, no.4.So if I move the subtraction, 4 minus 4 does not equal 2.So if I do, Hold on.Nope.5.So if I have a 5 over here and I carry over the... This is 4 minus 3.Nope.What about... What about... Hold the phone.1 minus 4.Nope.Nope, nope, nope.4 equals 1 minus 7.Nope.4 equals 6 minus 2.Got it.Got it.4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 1.297,
+        "end": 1.677
+      },
+      {
+        "text": "We've got 4 equals 4 minus 2.",
+        "start": 1.697,
+        "end": 6.383
+      },
+      {
+        "text": "All right.",
+        "start": 6.403,
+        "end": 7.685
+      },
+      {
+        "text": "So if I take the 5, 1.",
+        "start": 9.127,
+        "end": 11.95
+      },
+      {
+        "text": "If I take the 5, that would be 1.",
+        "start": 12.951,
+        "end": 17.417
+      },
+      {
+        "text": "And then that would be 7 or it could be 3.",
+        "start": 17.437,
+        "end": 26.688
+      },
+      {
+        "text": "Yep.",
+        "start": 27.529,
+        "end": 27.689
+      },
+      {
+        "text": "Okay.",
+        "start": 28.931,
+        "end": 29.852
+      },
+      {
+        "text": " that and then I have 4 here just as usual and then I have, oops, minus 3, right?",
+        "start": 31.537,
+        "end": 42.671
+      },
+      {
+        "text": "How do I do the 3?",
+        "start": 51.782,
+        "end": 52.623
+      },
+      {
+        "text": "Am I allowed to do that?",
+        "start": 54.385,
+        "end": 55.126
+      },
+      {
+        "text": "No, I'm not allowed.",
+        "start": 55.226,
+        "end": 56.507
+      },
+      {
+        "text": "Okay, 1.",
+        "start": 56.527,
+        "end": 58.189
+      },
+      {
+        "text": "Okay, so I have 4.",
+        "start": 58.89,
+        "end": 60.312
+      },
+      {
+        "text": " What if I made 4 equals 4 minus 2?",
+        "start": 63.329,
+        "end": 72.359
+      },
+      {
+        "text": "I need that to be a 2.",
+        "start": 72.44,
+        "end": 73.581
+      },
+      {
+        "text": "But how do I make that a 2?",
+        "start": 75.543,
+        "end": 76.945
+      },
+      {
+        "text": "Or I need this to be made into 4.",
+        "start": 77.365,
+        "end": 83.292
+      },
+      {
+        "text": "So if I add up, if I do 1, nope.",
+        "start": 85.815,
+        "end": 90.18
+      },
+      {
+        "text": " Something has to go to the equal sign over the equal sign.",
+        "start": 97.214,
+        "end": 100.799
+      },
+      {
+        "text": "So if I do, that would be 3 equals 4 minus 1.",
+        "start": 105.286,
+        "end": 112.917
+      },
+      {
+        "text": "Yep, got it.",
+        "start": 113.858,
+        "end": 119.667
+      },
+      {
+        "text": "Oh, I can't do that.",
+        "start": 119.687,
+        "end": 120.348
+      },
+      {
+        "text": "That's what I just did.",
+        "start": 120.448,
+        "end": 121.209
+      },
+      {
+        "text": "No, I didn't.",
+        "start": 121.81,
+        "end": 122.351
+      },
+      {
+        "text": "Hold on.",
+        "start": 122.952,
+        "end": 123.272
+      },
+      {
+        "text": " 3 equals 4 minus 1.",
+        "start": 124.788,
+        "end": 132.478
+      },
+      {
+        "text": "Am I allowed?",
+        "start": 133.159,
+        "end": 133.54
+      },
+      {
+        "text": "Nope, not allowed.",
+        "start": 133.9,
+        "end": 134.581
+      },
+      {
+        "text": "Okay.",
+        "start": 134.822,
+        "end": 137.465
+      },
+      {
+        "text": "4.",
+        "start": 137.485,
+        "end": 137.525
+      },
+      {
+        "text": "Oh my god, am I stupid?",
+        "start": 139.848,
+        "end": 140.85
+      },
+      {
+        "text": "Wait, no.",
+        "start": 141.891,
+        "end": 144.775
+      },
+      {
+        "text": "4.",
+        "start": 144.795,
+        "end": 144.835
+      },
+      {
+        "text": "So if I move the subtraction, 4 minus 4 does not equal 2.",
+        "start": 146.657,
+        "end": 151.083
+      },
+      {
+        "text": "So if I do,",
+        "start": 152.225,
+        "end": 153.006
+      },
+      {
+        "text": " Hold on.",
+        "start": 155.686,
+        "end": 156.928
+      },
+      {
+        "text": "Nope.",
+        "start": 159.513,
+        "end": 162.938
+      },
+      {
+        "text": "5.",
+        "start": 162.958,
+        "end": 162.998
+      },
+      {
+        "text": "So if I have a 5 over here and I carry over the... This is 4 minus 3.",
+        "start": 164.781,
+        "end": 173.196
+      },
+      {
+        "text": "Nope.",
+        "start": 173.376,
+        "end": 175.48
+      },
+      {
+        "text": "What about... What about...",
+        "start": 175.5,
+        "end": 180.428
+      },
+      {
+        "text": " Hold the phone.",
+        "start": 189.065,
+        "end": 190.467
+      },
+      {
+        "text": "1 minus 4.",
+        "start": 190.487,
+        "end": 196.413
+      },
+      {
+        "text": "Nope.",
+        "start": 199.697,
+        "end": 199.917
+      },
+      {
+        "text": "Nope, nope, nope.",
+        "start": 199.937,
+        "end": 201.199
+      },
+      {
+        "text": "4 equals 1 minus 7.",
+        "start": 201.219,
+        "end": 206.165
+      },
+      {
+        "text": "Nope.",
+        "start": 206.525,
+        "end": 208.427
+      },
+      {
+        "text": "4 equals",
+        "start": 208.447,
+        "end": 210.87
+      },
+      {
+        "text": " 6 minus 2.",
+        "start": 215.98,
+        "end": 218.35
+      },
+      {
+        "text": "Got it.",
+        "start": 218.832,
+        "end": 219.113
+      },
+      {
+        "text": "Got it.",
+        "start": 219.535,
+        "end": 219.796
+      },
+      {
+        "text": "4 equals 6 minus 2.",
+        "start": 219.816,
+        "end": 229.095
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. We've got 4 equals 4 minus 2. All right. So if I take the 5, 1. If I take the 5, that would be 1. And then that would be 7 or it could be 3. Yep. Okay. that and then I have 4 here just as usual and then I have, oops, minus 3, right? How do I do the 3? Am I allowed to do that? No, I'm not allowed. Okay, 1. Okay, so I have 4. What if I made 4 equals 4 minus 2? I need that to be a 2. But how do I make that a 2? Or I need this to be made into 4. So if I add up, if I do 1, nope. Something has to go to the equal sign over the equal sign. So if I do, that would be 3 equals 4 minus 1. Yep, got it. Oh, I can't do that. That's what I just did. No, I didn't. Hold on. 3 equals 4 minus 1. Am I allowed? Nope, not allowed. Okay. 4. Oh my god, am I stupid? Wait, no. 4. So if I move the subtraction, 4 minus 4 does not equal 2. So if I do, Hold on. Nope. 5. So if I have a 5 over here and I carry over the... This is 4 minus 3. Nope. What about... What about... Hold the phone. 1 minus 4. Nope. Nope, nope, nope. 4 equals 1 minus 7. Nope. 4 equals 6 minus 2. Got it. Got it. 4 equals 6 minus 2."
+  }
+}

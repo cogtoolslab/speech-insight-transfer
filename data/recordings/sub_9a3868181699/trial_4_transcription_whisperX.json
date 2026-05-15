@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_9a3868181699/trial_4.wav",
+  "with_timestamps": {
+    "text": " Let's solve this one carefully.The given puzzle is 8 8 plus V A, which reads as 8 8 plus 8, equals 16, incorrect.To fix it by moving one matchstick, take one vertical matchstick from the last V A 8, and move it to change the plus sign into equalses.That gives V A equals V I equals C. But that doesn't balance.",
+    "segments": [
+      {
+        "text": " Let's solve this one carefully.",
+        "start": 218.765,
+        "end": 220.069
+      },
+      {
+        "text": "The given puzzle is 8 8 plus V A, which reads as 8 8 plus 8, equals 16, incorrect.",
+        "start": 220.41,
+        "end": 226.828
+      },
+      {
+        "text": "To fix it by moving one matchstick, take one vertical matchstick from the last V A 8, and move it to change the plus sign into equalses.",
+        "start": 227.71,
+        "end": 234.751
+      },
+      {
+        "text": "That gives V A equals V I equals C. But that doesn't balance.",
+        "start": 235.412,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's solve this one carefully. The given puzzle is 8 8 plus V A, which reads as 8 8 plus 8, equals 16, incorrect. To fix it by moving one matchstick, take one vertical matchstick from the last V A 8, and move it to change the plus sign into equalses. That gives V A equals V I equals C. But that doesn't balance."
+  }
+}

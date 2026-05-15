@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_a40b19e951cc/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct.What is the final correct equation?It says two equals nine minus two.So, Hmm.I'm so dumb.How can I make this work?So I can only move one matchstick.Nine minus two. Two equals nine minus two, nine minus two, two does not equal seven.So, How do I make 2 equal 7 or move a matchstick so that 2 is different than 7 in the... I don't see how to make this work. Two equals... Two equals... Or three, or... Wait a second, 11 minus nine equals two.So 11 minus nine equals, is that it?I think that's it.That's incorrect.How is that incorrect? Because it's not 11 Yeah, I remember I'm just don't have anything to verbalize Two.It's giving me flashbacks to high school.Two minus nine.That's not it.Um.",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick to make this equation correct.",
+        "start": 1.583,
+        "end": 5.552
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 5.632,
+        "end": 7.837
+      },
+      {
+        "text": "It says two equals nine minus two.",
+        "start": 7.897,
+        "end": 12.066
+      },
+      {
+        "text": "So,",
+        "start": 12.106,
+        "end": 21.347
+      },
+      {
+        "text": " Hmm.",
+        "start": 32.819,
+        "end": 38.568
+      },
+      {
+        "text": "I'm so dumb.",
+        "start": 38.628,
+        "end": 39.469
+      },
+      {
+        "text": "How can I make this work?",
+        "start": 44.136,
+        "end": 56.094
+      },
+      {
+        "text": "So I can only move one matchstick.",
+        "start": 56.114,
+        "end": 58.177
+      },
+      {
+        "text": "Nine minus two.",
+        "start": 59.139,
+        "end": 60.801
+      },
+      {
+        "text": " Two equals nine minus two, nine minus two, two does not equal seven.",
+        "start": 63.11,
+        "end": 83.818
+      },
+      {
+        "text": "So,",
+        "start": 86.321,
+        "end": 87.042
+      },
+      {
+        "text": " How do I make 2 equal 7 or move a matchstick so that 2 is different than 7 in the... I don't see how to make this work.",
+        "start": 88.827,
+        "end": 107.798
+      },
+      {
+        "text": " Two equals... Two equals... Or three, or...",
+        "start": 118.527,
+        "end": 141.868
+      },
+      {
+        "text": " Wait a second, 11 minus nine equals two.",
+        "start": 146.388,
+        "end": 152.613
+      },
+      {
+        "text": "So 11 minus nine equals, is that it?",
+        "start": 152.653,
+        "end": 168.007
+      },
+      {
+        "text": "I think that's it.",
+        "start": 168.767,
+        "end": 169.528
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 170.849,
+        "end": 171.71
+      },
+      {
+        "text": "How is that incorrect?",
+        "start": 173.631,
+        "end": 175.433
+      },
+      {
+        "text": " Because it's not 11 Yeah, I remember I'm just don't have anything to verbalize",
+        "start": 175.97,
+        "end": 205.977
+      },
+      {
+        "text": " Two.",
+        "start": 209.163,
+        "end": 209.844
+      },
+      {
+        "text": "It's giving me flashbacks to high school.",
+        "start": 214.11,
+        "end": 216.213
+      },
+      {
+        "text": "Two minus nine.",
+        "start": 222.122,
+        "end": 227.47
+      },
+      {
+        "text": "That's not it.",
+        "start": 231.976,
+        "end": 232.758
+      },
+      {
+        "text": "Um.",
+        "start": 235.842,
+        "end": 236.503
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct. What is the final correct equation? It says two equals nine minus two. So, Hmm. I'm so dumb. How can I make this work? So I can only move one matchstick. Nine minus two. Two equals nine minus two, nine minus two, two does not equal seven. So, How do I make 2 equal 7 or move a matchstick so that 2 is different than 7 in the... I don't see how to make this work. Two equals... Two equals... Or three, or... Wait a second, 11 minus nine equals two. So 11 minus nine equals, is that it? I think that's it. That's incorrect. How is that incorrect? Because it's not 11 Yeah, I remember I'm just don't have anything to verbalize Two. It's giving me flashbacks to high school. Two minus nine. That's not it. Um."
+  }
+}

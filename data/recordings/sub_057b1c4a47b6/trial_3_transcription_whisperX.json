@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_057b1c4a47b6/trial_3.wav",
+  "with_timestamps": {
+    "text": " This equation says 8 equals 2 plus 4.Let's make this correct.8 equals 2 plus 4.If we made 2 plus 4. 6 would make it 8, so 8 would equal 2 plus 6.Let's see, try that again.8 equals 2 plus 6. Um, let's see, that says it's wrong, but 6, 7, 8, 5, 6, 7, 8, 2 plus, well I'm not quite sure why this isn't working, because 1, 2, 3, maybe I didn't have enough on my equation to make this work properly.Nope, it still says that's wrong. 8 equals 2 plus 4.That is 4, that is 2, that is 6.Moving only one matchstick.How do I make 8 equals 2 plus 4?If I move that over, that is 6.6, 7, 8.Why I'm not sure this is not... That's 5678 equals 2 plus 5678.",
+    "segments": [
+      {
+        "text": " This equation says 8 equals 2 plus 4.",
+        "start": 1.651,
+        "end": 6.758
+      },
+      {
+        "text": "Let's make this correct.",
+        "start": 8.501,
+        "end": 11.585
+      },
+      {
+        "text": "8 equals 2 plus 4.",
+        "start": 11.606,
+        "end": 15.651
+      },
+      {
+        "text": "If we made 2 plus 4.",
+        "start": 19.237,
+        "end": 27.709
+      },
+      {
+        "text": " 6 would make it 8, so 8 would equal 2 plus 6.",
+        "start": 29.191,
+        "end": 36.8
+      },
+      {
+        "text": "Let's see, try that again.",
+        "start": 38.422,
+        "end": 49.615
+      },
+      {
+        "text": "8 equals 2 plus 6.",
+        "start": 49.635,
+        "end": 55.722
+      },
+      {
+        "text": " Um, let's see, that says it's wrong, but 6, 7, 8, 5, 6, 7, 8, 2 plus, well I'm not quite sure why this isn't working, because 1, 2, 3, maybe I didn't have enough on my equation to make this work properly.",
+        "start": 62.536,
+        "end": 87.78
+      },
+      {
+        "text": "Nope, it still says that's wrong.",
+        "start": 87.8,
+        "end": 91.564
+      },
+      {
+        "text": " 8 equals 2 plus 4.",
+        "start": 94.109,
+        "end": 97.272
+      },
+      {
+        "text": "That is 4, that is 2, that is 6.",
+        "start": 100.275,
+        "end": 102.957
+      },
+      {
+        "text": "Moving only one matchstick.",
+        "start": 104.559,
+        "end": 106.141
+      },
+      {
+        "text": "How do I make 8 equals 2 plus 4?",
+        "start": 107.502,
+        "end": 110.925
+      },
+      {
+        "text": "If I move that over, that is 6.",
+        "start": 115.069,
+        "end": 116.971
+      },
+      {
+        "text": "6, 7, 8.",
+        "start": 116.991,
+        "end": 118.733
+      },
+      {
+        "text": "Why I'm not sure this is not...",
+        "start": 121.155,
+        "end": 123.357
+      },
+      {
+        "text": " That's 5678 equals 2 plus 5678.",
+        "start": 124.619,
+        "end": 135.0
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This equation says 8 equals 2 plus 4. Let's make this correct. 8 equals 2 plus 4. If we made 2 plus 4. 6 would make it 8, so 8 would equal 2 plus 6. Let's see, try that again. 8 equals 2 plus 6. Um, let's see, that says it's wrong, but 6, 7, 8, 5, 6, 7, 8, 2 plus, well I'm not quite sure why this isn't working, because 1, 2, 3, maybe I didn't have enough on my equation to make this work properly. Nope, it still says that's wrong. 8 equals 2 plus 4. That is 4, that is 2, that is 6. Moving only one matchstick. How do I make 8 equals 2 plus 4? If I move that over, that is 6. 6, 7, 8. Why I'm not sure this is not... That's 5678 equals 2 plus 5678."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_879938aeb461/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so for this one we have 3 equals 9 minus 4.9 minus 4 is 5.And we can only move one of these. Okay, so this one's going to be pretty simple.It's going to be 3 equals, and we're going to stick with 9, and then minus, and we're going to move the matchstick from the left side to the right side, so it's going to be minus 6, which equals 9 minus 6 equals 3.",
+    "segments": [
+      {
+        "text": " Okay, so for this one we have 3 equals 9 minus 4.",
+        "start": 1.263,
+        "end": 10.576
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 10.596,
+        "end": 15.122
+      },
+      {
+        "text": "And we can only move one of these.",
+        "start": 22.532,
+        "end": 25.296
+      },
+      {
+        "text": " Okay, so this one's going to be pretty simple.",
+        "start": 27.892,
+        "end": 29.696
+      },
+      {
+        "text": "It's going to be 3 equals, and we're going to stick with 9, and then minus, and we're going to move the matchstick from the left side to the right side, so it's going to be minus 6, which equals 9 minus 6 equals 3.",
+        "start": 29.797,
+        "end": 50.305
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so for this one we have 3 equals 9 minus 4. 9 minus 4 is 5. And we can only move one of these. Okay, so this one's going to be pretty simple. It's going to be 3 equals, and we're going to stick with 9, and then minus, and we're going to move the matchstick from the left side to the right side, so it's going to be minus 6, which equals 9 minus 6 equals 3."
+  }
+}

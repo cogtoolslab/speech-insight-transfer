@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_3156a94353ea/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, we have 8 equal 2 plus 4.No, that will be 2 plus 6.So easy.We move the last domestic from the last one to change from 4 to 6.So 8 equal 2 plus 6.",
+    "segments": [
+      {
+        "text": " OK, we have 8 equal 2 plus 4.",
+        "start": 0.065,
+        "end": 7.438
+      },
+      {
+        "text": "No, that will be 2 plus 6.",
+        "start": 7.798,
+        "end": 10.363
+      },
+      {
+        "text": "So easy.",
+        "start": 10.403,
+        "end": 10.964
+      },
+      {
+        "text": "We move the last domestic from the last one to change from 4 to 6.",
+        "start": 11.004,
+        "end": 16.934
+      },
+      {
+        "text": "So 8 equal 2 plus 6.",
+        "start": 17.655,
+        "end": 24.587
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, we have 8 equal 2 plus 4. No, that will be 2 plus 6. So easy. We move the last domestic from the last one to change from 4 to 6. So 8 equal 2 plus 6."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_3a291c7f542d/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so I got 3 on this side equals 3 equals 9 plus, I mean 11 plus 9, so that cannot be correct.Yeah, I don't understand how I can solve this.This is really confusing. Let's see.There's 20 on this side, there's three on this side.Let's see.Yeah, I just don't see how that can work out. Yeah, so I just don't understand how to do this.Oh, I guess maybe I can do it like this.Iii equals xi minus ix.So, Okay, I equals xii minus.No, no, that's not right. x i i minus i x",
+    "segments": [
+      {
+        "text": " All right, so I got 3 on this side equals 3 equals 9 plus, I mean 11 plus 9, so that cannot be correct.",
+        "start": 0.031,
+        "end": 12.769
+      },
+      {
+        "text": "Yeah, I don't understand how I can solve this.",
+        "start": 19.819,
+        "end": 24.105
+      },
+      {
+        "text": "This is really confusing.",
+        "start": 24.125,
+        "end": 26.528
+      },
+      {
+        "text": " Let's see.",
+        "start": 30.119,
+        "end": 30.66
+      },
+      {
+        "text": "There's 20 on this side, there's three on this side.",
+        "start": 35.104,
+        "end": 37.506
+      },
+      {
+        "text": "Let's see.",
+        "start": 44.192,
+        "end": 44.633
+      },
+      {
+        "text": "Yeah, I just don't see how that can work out.",
+        "start": 46.775,
+        "end": 59.046
+      },
+      {
+        "text": " Yeah, so I just don't understand how to do this.",
+        "start": 61.439,
+        "end": 65.204
+      },
+      {
+        "text": "Oh, I guess maybe I can do it like this.",
+        "start": 69.289,
+        "end": 71.352
+      },
+      {
+        "text": "Iii equals xi minus ix.",
+        "start": 72.093,
+        "end": 87.814
+      },
+      {
+        "text": "So,",
+        "start": 87.834,
+        "end": 90.417
+      },
+      {
+        "text": " Okay, I equals xii minus.",
+        "start": 95.324,
+        "end": 108.7
+      },
+      {
+        "text": "No, no, that's not right.",
+        "start": 118.512,
+        "end": 123.778
+      },
+      {
+        "text": " x i i minus i x",
+        "start": 124.872,
+        "end": 132.57
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so I got 3 on this side equals 3 equals 9 plus, I mean 11 plus 9, so that cannot be correct. Yeah, I don't understand how I can solve this. This is really confusing. Let's see. There's 20 on this side, there's three on this side. Let's see. Yeah, I just don't see how that can work out. Yeah, so I just don't understand how to do this. Oh, I guess maybe I can do it like this. Iii equals xi minus ix. So, Okay, I equals xii minus. No, no, that's not right. x i i minus i x"
+  }
+}

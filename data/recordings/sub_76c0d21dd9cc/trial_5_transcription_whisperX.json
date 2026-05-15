@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 equals 6 minus 7 No, it's 11 minus 7 9 minus 7 2 equals 9 minus Bye.",
+    "segments": [
+      {
+        "text": " 2 equals 6 minus 7 No, it's 11 minus 7 9 minus 7 2 equals 9 minus",
+        "start": 0.031,
+        "end": 28.165
+      },
+      {
+        "text": " Bye.",
+        "start": 30.727,
+        "end": 31.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 6 minus 7 No, it's 11 minus 7 9 minus 7 2 equals 9 minus Bye."
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_f92c6abd9e8a/trial_5.wav",
+  "with_timestamps": {
+    "text": " Last one, let's see if we can get this one.11 equals 4 plus 2.Is that right?4 plus 2 is 6.If I do 1x equals 1v plus 11.What am I doing? 4 plus 2 is 6.If I do 1X is 6.Why isn't that working for me?1X equals V1 plus 2.That's not right.1X was 9.So 5, 6. 6 plus 2 is 9.Oh, it's 8.OK, what's 1x?1x is, OK, that was 1, 9, right?Or is it 11?10?Oh, it's because you got to subtract it.OK, so that's 9.And then 1v is? 4 plus, oh, I didn't have the 1.1v plus 2.Come on, let me get 1 right.Okay.4 plus 2 is 6.Got it.This is stands right now.X1 is 11.Turn it around.It would be 9.So that wouldn't work. That would stay the same.If I did V1 plus 2, that wouldn't work either, because that would be 6 instead of 4.So 4 plus 2 is 8.I can't make this 8, though.I don't know what I'm doing wrong. Can I do plus one equals one V plus 11?No, that doesn't make any sense either.Can I do... Can I do equal... No, that doesn't make sense either.I'm sorry.I guess I'm not a very good test person here because I'm not getting it.X equals 1V plus 2 is not right.Okay.So we did X1 equal V1 plus 2 is not right either. So if I can move one matchstick, you can't move it away, you just move it.What if I did x1 equals, you can't do one, you can't make that one x, can you?",
+    "segments": [
+      {
+        "text": " Last one, let's see if we can get this one.",
+        "start": 0.25,
+        "end": 2.753
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 2.773,
+        "end": 8.72
+      },
+      {
+        "text": "Is that right?",
+        "start": 11.483,
+        "end": 11.984
+      },
+      {
+        "text": "4 plus 2 is 6.",
+        "start": 12.004,
+        "end": 14.407
+      },
+      {
+        "text": "If I do 1x equals 1v plus 11.",
+        "start": 16.329,
+        "end": 26.201
+      },
+      {
+        "text": "What am I doing?",
+        "start": 27.483,
+        "end": 29.565
+      },
+      {
+        "text": " 4 plus 2 is 6.",
+        "start": 32.026,
+        "end": 34.029
+      },
+      {
+        "text": "If I do 1X is 6.",
+        "start": 35.791,
+        "end": 41.659
+      },
+      {
+        "text": "Why isn't that working for me?",
+        "start": 42.761,
+        "end": 43.922
+      },
+      {
+        "text": "1X equals V1 plus 2.",
+        "start": 43.942,
+        "end": 50.892
+      },
+      {
+        "text": "That's not right.",
+        "start": 51.733,
+        "end": 52.775
+      },
+      {
+        "text": "1X was 9.",
+        "start": 52.795,
+        "end": 55.578
+      },
+      {
+        "text": "So 5, 6.",
+        "start": 55.598,
+        "end": 59.704
+      },
+      {
+        "text": " 6 plus 2 is 9.",
+        "start": 60.19,
+        "end": 61.953
+      },
+      {
+        "text": "Oh, it's 8.",
+        "start": 61.993,
+        "end": 63.675
+      },
+      {
+        "text": "OK, what's 1x?",
+        "start": 66.74,
+        "end": 67.762
+      },
+      {
+        "text": "1x is, OK, that was 1, 9, right?",
+        "start": 67.782,
+        "end": 72.99
+      },
+      {
+        "text": "Or is it 11?",
+        "start": 74.111,
+        "end": 74.913
+      },
+      {
+        "text": "10?",
+        "start": 74.933,
+        "end": 78.678
+      },
+      {
+        "text": "Oh, it's because you got to subtract it.",
+        "start": 78.959,
+        "end": 80.661
+      },
+      {
+        "text": "OK, so that's 9.",
+        "start": 80.701,
+        "end": 82.965
+      },
+      {
+        "text": "And then 1v is?",
+        "start": 84.627,
+        "end": 86.991
+      },
+      {
+        "text": " 4 plus, oh, I didn't have the 1.",
+        "start": 88.962,
+        "end": 94.468
+      },
+      {
+        "text": "1v plus 2.",
+        "start": 94.488,
+        "end": 97.992
+      },
+      {
+        "text": "Come on, let me get 1 right.",
+        "start": 98.193,
+        "end": 99.374
+      },
+      {
+        "text": "Okay.",
+        "start": 103.018,
+        "end": 103.299
+      },
+      {
+        "text": "4 plus 2 is 6.",
+        "start": 103.319,
+        "end": 104.8
+      },
+      {
+        "text": "Got it.",
+        "start": 106.642,
+        "end": 107.063
+      },
+      {
+        "text": "This is stands right now.",
+        "start": 108.585,
+        "end": 109.946
+      },
+      {
+        "text": "X1 is 11.",
+        "start": 110.167,
+        "end": 111.188
+      },
+      {
+        "text": "Turn it around.",
+        "start": 111.568,
+        "end": 112.349
+      },
+      {
+        "text": "It would be 9.",
+        "start": 112.389,
+        "end": 114.331
+      },
+      {
+        "text": "So that wouldn't work.",
+        "start": 114.872,
+        "end": 117.535
+      },
+      {
+        "text": " That would stay the same.",
+        "start": 117.953,
+        "end": 119.115
+      },
+      {
+        "text": "If I did V1 plus 2, that wouldn't work either, because that would be 6 instead of 4.",
+        "start": 119.776,
+        "end": 130.937
+      },
+      {
+        "text": "So 4 plus 2 is 8.",
+        "start": 132.54,
+        "end": 134.424
+      },
+      {
+        "text": "I can't make this 8, though.",
+        "start": 135.325,
+        "end": 136.969
+      },
+      {
+        "text": "I don't know what I'm doing wrong.",
+        "start": 137.79,
+        "end": 141.497
+      },
+      {
+        "text": " Can I do plus one equals one V plus 11?",
+        "start": 145.747,
+        "end": 154.702
+      },
+      {
+        "text": "No, that doesn't make any sense either.",
+        "start": 154.722,
+        "end": 156.866
+      },
+      {
+        "text": "Can I do... Can I do equal...",
+        "start": 156.926,
+        "end": 169.527
+      },
+      {
+        "text": " No, that doesn't make sense either.",
+        "start": 172.493,
+        "end": 174.336
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 174.356,
+        "end": 178.942
+      },
+      {
+        "text": "I guess I'm not a very good test person here because I'm not getting it.",
+        "start": 178.982,
+        "end": 184.87
+      },
+      {
+        "text": "X equals 1V plus 2 is not right.",
+        "start": 186.673,
+        "end": 193.102
+      },
+      {
+        "text": "Okay.",
+        "start": 193.443,
+        "end": 194.224
+      },
+      {
+        "text": "So we did X1 equal V1 plus 2 is not right either.",
+        "start": 194.244,
+        "end": 200.813
+      },
+      {
+        "text": " So if I can move one matchstick, you can't move it away, you just move it.",
+        "start": 202.767,
+        "end": 209.364
+      },
+      {
+        "text": "What if I did x1 equals, you can't do one, you can't make that one x, can you?",
+        "start": 211.81,
+        "end": 219.73
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Last one, let's see if we can get this one. 11 equals 4 plus 2. Is that right? 4 plus 2 is 6. If I do 1x equals 1v plus 11. What am I doing? 4 plus 2 is 6. If I do 1X is 6. Why isn't that working for me? 1X equals V1 plus 2. That's not right. 1X was 9. So 5, 6. 6 plus 2 is 9. Oh, it's 8. OK, what's 1x? 1x is, OK, that was 1, 9, right? Or is it 11? 10? Oh, it's because you got to subtract it. OK, so that's 9. And then 1v is? 4 plus, oh, I didn't have the 1. 1v plus 2. Come on, let me get 1 right. Okay. 4 plus 2 is 6. Got it. This is stands right now. X1 is 11. Turn it around. It would be 9. So that wouldn't work. That would stay the same. If I did V1 plus 2, that wouldn't work either, because that would be 6 instead of 4. So 4 plus 2 is 8. I can't make this 8, though. I don't know what I'm doing wrong. Can I do plus one equals one V plus 11? No, that doesn't make any sense either. Can I do... Can I do equal... No, that doesn't make sense either. I'm sorry. I guess I'm not a very good test person here because I'm not getting it. X equals 1V plus 2 is not right. Okay. So we did X1 equal V1 plus 2 is not right either. So if I can move one matchstick, you can't move it away, you just move it. What if I did x1 equals, you can't do one, you can't make that one x, can you?"
+  }
+}

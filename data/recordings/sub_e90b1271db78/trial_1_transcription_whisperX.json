@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_e90b1271db78/trial_1.wav",
+  "with_timestamps": {
+    "text": " 4 equals 11 minus 2.So that's not right.11 minus 2 is 9.If we put the 1 in front of the 5, that could be 6. 4 equals 11 minus 2.Oh, just change.Yeah, change the V to an X. OK.So that's one X. That's 9 equals 11 minus 2.",
+    "segments": [
+      {
+        "text": " 4 equals 11 minus 2.",
+        "start": 5.363,
+        "end": 10.049
+      },
+      {
+        "text": "So that's not right.",
+        "start": 12.493,
+        "end": 13.914
+      },
+      {
+        "text": "11 minus 2 is 9.",
+        "start": 13.934,
+        "end": 16.818
+      },
+      {
+        "text": "If we put the 1 in front of the 5, that could be 6.",
+        "start": 20.684,
+        "end": 29.295
+      },
+      {
+        "text": " 4 equals 11 minus 2.",
+        "start": 35.063,
+        "end": 40.552
+      },
+      {
+        "text": "Oh, just change.",
+        "start": 40.572,
+        "end": 44.92
+      },
+      {
+        "text": "Yeah, change the V to an X. OK.",
+        "start": 48.085,
+        "end": 49.988
+      },
+      {
+        "text": "So that's one X. That's 9 equals 11 minus 2.",
+        "start": 52.392,
+        "end": 60.025
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 11 minus 2. So that's not right. 11 minus 2 is 9. If we put the 1 in front of the 5, that could be 6. 4 equals 11 minus 2. Oh, just change. Yeah, change the V to an X. OK. So that's one X. That's 9 equals 11 minus 2."
+  }
+}

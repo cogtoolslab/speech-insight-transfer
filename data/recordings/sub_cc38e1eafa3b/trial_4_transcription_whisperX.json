@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_cc38e1eafa3b/trial_4.wav",
+  "with_timestamps": {
+    "text": " okay this one says 3 equals 9 minus 4 that's wrong so we want um 9 minus 4 is 5 so then we want um let's see uh 9 minus four it's five how do we get five where are we um nine minus four so we can move this to that side let's see here one two three four um 3 equals 8 minus 9 minus 5, 9 minus 6.Let's see.10 minus 7. Would work.The A equals 10.Minus.Seven.It's incorrect.Oh, that stinks.OK. Let's try this.3 equals 8 minus, Nine minus four.Uh. Um, I don't know how to do this.I move one.Um, 2 equals 9.",
+    "segments": [
+      {
+        "text": " okay this one says 3 equals 9 minus 4 that's wrong so we want um 9 minus 4 is 5 so then we want um let's see uh 9",
+        "start": 1.347,
+        "end": 30.679
+      },
+      {
+        "text": " minus four it's five how do we get five where are we um nine minus four so we can move this to that side let's see here one two three four um",
+        "start": 34.962,
+        "end": 61.898
+      },
+      {
+        "text": " 3 equals 8 minus 9 minus 5, 9 minus 6.",
+        "start": 70.4,
+        "end": 82.938
+      },
+      {
+        "text": "Let's see.",
+        "start": 88.046,
+        "end": 88.587
+      },
+      {
+        "text": "10 minus 7.",
+        "start": 88.607,
+        "end": 97.74
+      },
+      {
+        "text": " Would work.",
+        "start": 100.96,
+        "end": 101.661
+      },
+      {
+        "text": "The A equals 10.",
+        "start": 106.966,
+        "end": 109.009
+      },
+      {
+        "text": "Minus.",
+        "start": 111.812,
+        "end": 112.452
+      },
+      {
+        "text": "Seven.",
+        "start": 123.124,
+        "end": 123.704
+      },
+      {
+        "text": "It's incorrect.",
+        "start": 125.166,
+        "end": 126.207
+      },
+      {
+        "text": "Oh, that stinks.",
+        "start": 126.827,
+        "end": 127.688
+      },
+      {
+        "text": "OK.",
+        "start": 128.85,
+        "end": 130.191
+      },
+      {
+        "text": " Let's try this.",
+        "start": 131.437,
+        "end": 142.612
+      },
+      {
+        "text": "3 equals 8 minus,",
+        "start": 142.632,
+        "end": 159.655
+      },
+      {
+        "text": " Nine minus four.",
+        "start": 166.132,
+        "end": 167.474
+      },
+      {
+        "text": "Uh.",
+        "start": 167.534,
+        "end": 184.461
+      },
+      {
+        "text": " Um, I don't know how to do this.",
+        "start": 195.832,
+        "end": 207.933
+      },
+      {
+        "text": "I move one.",
+        "start": 210.557,
+        "end": 217.789
+      },
+      {
+        "text": "Um,",
+        "start": 219.031,
+        "end": 219.392
+      },
+      {
+        "text": " 2 equals 9.",
+        "start": 226.46,
+        "end": 231.846
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay this one says 3 equals 9 minus 4 that's wrong so we want um 9 minus 4 is 5 so then we want um let's see uh 9 minus four it's five how do we get five where are we um nine minus four so we can move this to that side let's see here one two three four um 3 equals 8 minus 9 minus 5, 9 minus 6. Let's see. 10 minus 7. Would work. The A equals 10. Minus. Seven. It's incorrect. Oh, that stinks. OK. Let's try this. 3 equals 8 minus, Nine minus four. Uh. Um, I don't know how to do this. I move one. Um, 2 equals 9."
+  }
+}

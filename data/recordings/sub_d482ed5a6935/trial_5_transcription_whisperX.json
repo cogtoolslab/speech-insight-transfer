@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_d482ed5a6935/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, I got one.I'm so happy about that.Let's see here.So we've got four equals four minus two.Obviously that's not true.How can I make this work?What could I do?I think I know what to do.No, so close.I had a thought of moving one over and making that a plus, but that's not quite right. So we've got four, actually, hold on, I think I got it.How about five equals, oh no, that's not gonna work.I was thinking about moving that eye over to this side, but I can't do that because I can't put the eye right there. Nevermind.So hold on.4 equals 4 minus 2.Obviously that's not true.4 equals... 4 does equal 6 minus 2 though.Hang on.4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " All right, I got one.",
+        "start": 0.773,
+        "end": 2.175
+      },
+      {
+        "text": "I'm so happy about that.",
+        "start": 2.215,
+        "end": 3.616
+      },
+      {
+        "text": "Let's see here.",
+        "start": 5.138,
+        "end": 5.699
+      },
+      {
+        "text": "So we've got four equals four minus two.",
+        "start": 6.3,
+        "end": 8.843
+      },
+      {
+        "text": "Obviously that's not true.",
+        "start": 8.883,
+        "end": 10.425
+      },
+      {
+        "text": "How can I make this work?",
+        "start": 10.465,
+        "end": 14.69
+      },
+      {
+        "text": "What could I do?",
+        "start": 17.013,
+        "end": 18.054
+      },
+      {
+        "text": "I think I know what to do.",
+        "start": 18.074,
+        "end": 23.561
+      },
+      {
+        "text": "No, so close.",
+        "start": 23.821,
+        "end": 25.203
+      },
+      {
+        "text": "I had a thought of moving one over and making that a plus, but that's not quite right.",
+        "start": 25.743,
+        "end": 29.548
+      },
+      {
+        "text": " So we've got four, actually, hold on, I think I got it.",
+        "start": 30.794,
+        "end": 37.663
+      },
+      {
+        "text": "How about five equals, oh no, that's not gonna work.",
+        "start": 38.323,
+        "end": 44.692
+      },
+      {
+        "text": "I was thinking about moving that eye over to this side, but I can't do that because I can't put the eye right there.",
+        "start": 45.172,
+        "end": 53.022
+      },
+      {
+        "text": " Nevermind.",
+        "start": 54.807,
+        "end": 56.029
+      },
+      {
+        "text": "So hold on.",
+        "start": 56.089,
+        "end": 56.67
+      },
+      {
+        "text": "4 equals 4 minus 2.",
+        "start": 56.69,
+        "end": 59.275
+      },
+      {
+        "text": "Obviously that's not true.",
+        "start": 59.375,
+        "end": 60.598
+      },
+      {
+        "text": "4 equals... 4 does equal 6 minus 2 though.",
+        "start": 60.618,
+        "end": 66.448
+      },
+      {
+        "text": "Hang on.",
+        "start": 67.11,
+        "end": 68.612
+      },
+      {
+        "text": "4 equals 6 minus 2.",
+        "start": 68.632,
+        "end": 74.503
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, I got one. I'm so happy about that. Let's see here. So we've got four equals four minus two. Obviously that's not true. How can I make this work? What could I do? I think I know what to do. No, so close. I had a thought of moving one over and making that a plus, but that's not quite right. So we've got four, actually, hold on, I think I got it. How about five equals, oh no, that's not gonna work. I was thinking about moving that eye over to this side, but I can't do that because I can't put the eye right there. Nevermind. So hold on. 4 equals 4 minus 2. Obviously that's not true. 4 equals... 4 does equal 6 minus 2 though. Hang on. 4 equals 6 minus 2."
+  }
+}

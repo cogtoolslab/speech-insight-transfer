@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_2669635ac136/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, this one is three equals nine minus four.Three does not equal five.So our options here are to move this one.If we move this one, that makes it three equals.Okay, I put that there.Three. If I move this one here and make that a nine, that makes it zero, so that won't work.So, to get nine minus, oh, I see here, this one's easy.Three equals nine minus, We're going to move this one to the other side of the eye.",
+    "segments": [
+      {
+        "text": " Okay, this one is three equals nine minus four.",
+        "start": 1.82,
+        "end": 5.224
+      },
+      {
+        "text": "Three does not equal five.",
+        "start": 6.145,
+        "end": 7.406
+      },
+      {
+        "text": "So our options here are to move this one.",
+        "start": 11.691,
+        "end": 16.136
+      },
+      {
+        "text": "If we move this one, that makes it three equals.",
+        "start": 19.679,
+        "end": 21.902
+      },
+      {
+        "text": "Okay, I put that there.",
+        "start": 22.543,
+        "end": 25.506
+      },
+      {
+        "text": "Three.",
+        "start": 29.47,
+        "end": 30.291
+      },
+      {
+        "text": " If I move this one here and make that a nine, that makes it zero, so that won't work.",
+        "start": 33.292,
+        "end": 43.422
+      },
+      {
+        "text": "So, to get nine minus, oh, I see here, this one's easy.",
+        "start": 51.089,
+        "end": 56.335
+      },
+      {
+        "text": "Three equals nine minus,",
+        "start": 57.336,
+        "end": 62.961
+      },
+      {
+        "text": " We're going to move this one to the other side of the eye.",
+        "start": 63.245,
+        "end": 65.998
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this one is three equals nine minus four. Three does not equal five. So our options here are to move this one. If we move this one, that makes it three equals. Okay, I put that there. Three. If I move this one here and make that a nine, that makes it zero, so that won't work. So, to get nine minus, oh, I see here, this one's easy. Three equals nine minus, We're going to move this one to the other side of the eye."
+  }
+}

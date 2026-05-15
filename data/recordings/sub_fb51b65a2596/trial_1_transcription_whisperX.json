@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_fb51b65a2596/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so it says 11 equals 4 plus 2.That's obviously not right.So 4 plus 2 would equal 6.So all we have to do is move that one to make it a, all right, so use the buttons below.Okay, so it would be 5 equals, and then that would be 4 No, no, no, not 5.Back, it would be 6 equals 4 plus 2.So 5 plus 1 equals 4iv plus ii.Answer.",
+    "segments": [
+      {
+        "text": " Okay, so it says 11 equals 4 plus 2.",
+        "start": 3.305,
+        "end": 9.473
+      },
+      {
+        "text": "That's obviously not right.",
+        "start": 9.953,
+        "end": 10.975
+      },
+      {
+        "text": "So 4 plus 2 would equal 6.",
+        "start": 11.956,
+        "end": 13.798
+      },
+      {
+        "text": "So all we have to do is move that one to make it a, all right, so use the buttons below.",
+        "start": 15.48,
+        "end": 22.609
+      },
+      {
+        "text": "Okay, so it would be 5 equals, and then that would be 4",
+        "start": 24.191,
+        "end": 33.042
+      },
+      {
+        "text": " No, no, no, not 5.",
+        "start": 33.983,
+        "end": 35.084
+      },
+      {
+        "text": "Back, it would be 6 equals 4 plus 2.",
+        "start": 36.106,
+        "end": 38.689
+      },
+      {
+        "text": "So 5 plus 1 equals 4iv plus ii.",
+        "start": 39.731,
+        "end": 50.425
+      },
+      {
+        "text": "Answer.",
+        "start": 52.688,
+        "end": 52.988
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so it says 11 equals 4 plus 2. That's obviously not right. So 4 plus 2 would equal 6. So all we have to do is move that one to make it a, all right, so use the buttons below. Okay, so it would be 5 equals, and then that would be 4 No, no, no, not 5. Back, it would be 6 equals 4 plus 2. So 5 plus 1 equals 4iv plus ii. Answer."
+  }
+}

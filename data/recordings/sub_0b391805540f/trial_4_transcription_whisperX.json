@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_0b391805540f/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, so currently it reads 8 equals 2 plus 4.So 2 plus 4 is 6.So 2 plus 4, if I do 1. move over here, that would be three plus five, that would be eight, wait, VII is eight.So if I do that over here, so I think if I move one over, so VII equals one plus, wait, no, one, two, three, plus V.",
+    "segments": [
+      {
+        "text": " All right, so currently it reads 8 equals 2 plus 4.",
+        "start": 0.807,
+        "end": 7.68
+      },
+      {
+        "text": "So 2 plus 4 is 6.",
+        "start": 8.421,
+        "end": 10.004
+      },
+      {
+        "text": "So 2 plus 4, if I do 1.",
+        "start": 13.951,
+        "end": 19.862
+      },
+      {
+        "text": " move over here, that would be three plus five, that would be eight, wait, VII is eight.",
+        "start": 24.398,
+        "end": 31.327
+      },
+      {
+        "text": "So if I do that over here, so I think if I move one over, so VII equals one plus, wait, no, one, two, three, plus V.",
+        "start": 31.968,
+        "end": 53.055
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so currently it reads 8 equals 2 plus 4. So 2 plus 4 is 6. So 2 plus 4, if I do 1. move over here, that would be three plus five, that would be eight, wait, VII is eight. So if I do that over here, so I think if I move one over, so VII equals one plus, wait, no, one, two, three, plus V."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_c7dc2eb080c3/trial_1.wav",
+  "with_timestamps": {
+    "text": " okay so eight equals two plus four so it'd be two plus six equals 1.So 7 equals 2 plus 5.8 equals. hmm what the fuck okay iv plus iv which is four plus four okay you can only move one matchstick to make this equation correct what is the final correct so eight well we could do seven equals 3 plus 4.",
+    "segments": [
+      {
+        "text": " okay so eight equals two plus four so it'd be two plus six equals",
+        "start": 1.465,
+        "end": 26.376
+      },
+      {
+        "text": " 1.",
+        "start": 31.283,
+        "end": 36.25
+      },
+      {
+        "text": "So 7 equals 2 plus 5.",
+        "start": 39.034,
+        "end": 47.647
+      },
+      {
+        "text": "8 equals.",
+        "start": 47.667,
+        "end": 56.38
+      },
+      {
+        "text": " hmm what the fuck okay iv plus iv which is four plus four okay you can only move one matchstick to make this equation correct what is the final correct so eight well we could do seven equals",
+        "start": 63.278,
+        "end": 90.855
+      },
+      {
+        "text": " 3 plus 4.",
+        "start": 94.514,
+        "end": 99.58
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay so eight equals two plus four so it'd be two plus six equals 1. So 7 equals 2 plus 5. 8 equals. hmm what the fuck okay iv plus iv which is four plus four okay you can only move one matchstick to make this equation correct what is the final correct so eight well we could do seven equals 3 plus 4."
+  }
+}

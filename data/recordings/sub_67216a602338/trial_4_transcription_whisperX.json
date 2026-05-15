@@ -1,0 +1,341 @@
+{
+  "file": "data/recordings/sub_67216a602338/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 13, 13, 13, to make the equation correct.13, 13, 13.So we want to equal 13.21, let's say we make that a V, 21 minus 13, that would be 13. Oh, no, no, no.This is not 13.It's 8.8, 8, and 8.Why did I say 13?X is 10.OK.8, 8, and 8.So what if we made one of these an X on the right side of the equal sign?All right.So we got 8 and 8.That's 8. What is 16?16 would be moving more than one matchstick.All right.So what do we do here?8, 8, and 8.Okay.Let's say we're doing, making that first one, Uh, let's see here.I'm going to make this 16, er, 13 rather.But that's still moving more than one.That's more than one.That's incorrect.I knew it was incorrect.Okay.8, 8, and 8.This is really bugging me.This is one of those times I really wish I could figure out how to cheat.I don't know how to cheat.Not with this. I'm sure there's probably something online, but I honestly, I just don't know what it is.So, okay.So, uh, let's try this.I'm just spitballing here.I'm just letting you know.Now I'm just going to spitball and see what I come up with.So we're going to, that's not right. X goes before V. Uh, again, spit balling.So forgive me.That's not right.I knew.Yeah, I know.All right.So we're going to try eight equals.The thing is moving a match stick won't work because four is, is IV, not four Is.Hmm. Wouldn't that be great though?Cause that would be the a solution.It just wouldn't be the correct solution.Okay.That's not correct either.I would still leave over two, um, match sticks.Okay.So wait a minute.X I that still leaves a, That still leaves a matchstick left over.VIII equals.That's still moving more than one matchstick.Yeah, this is really frustrating.I wish I knew more.The sad part is I did stuff like this in school.",
+    "segments": [
+      {
+        "text": " Okay, 13, 13, 13, to make the equation correct.",
+        "start": 0.858,
+        "end": 8.806
+      },
+      {
+        "text": "13, 13, 13.",
+        "start": 8.826,
+        "end": 10.368
+      },
+      {
+        "text": "So we want to equal 13.",
+        "start": 13.711,
+        "end": 14.572
+      },
+      {
+        "text": "21, let's say we make that a V, 21 minus 13, that would be 13.",
+        "start": 14.592,
+        "end": 28.266
+      },
+      {
+        "text": " Oh, no, no, no.",
+        "start": 31.402,
+        "end": 31.963
+      },
+      {
+        "text": "This is not 13.",
+        "start": 32.043,
+        "end": 32.783
+      },
+      {
+        "text": "It's 8.",
+        "start": 32.863,
+        "end": 33.264
+      },
+      {
+        "text": "8, 8, and 8.",
+        "start": 33.284,
+        "end": 34.164
+      },
+      {
+        "text": "Why did I say 13?",
+        "start": 35.085,
+        "end": 36.166
+      },
+      {
+        "text": "X is 10.",
+        "start": 36.567,
+        "end": 37.568
+      },
+      {
+        "text": "OK.",
+        "start": 38.008,
+        "end": 38.428
+      },
+      {
+        "text": "8, 8, and 8.",
+        "start": 39.629,
+        "end": 40.39
+      },
+      {
+        "text": "So what if we made one of these an X on the right side of the equal sign?",
+        "start": 47.577,
+        "end": 54.403
+      },
+      {
+        "text": "All right.",
+        "start": 56.124,
+        "end": 56.505
+      },
+      {
+        "text": "So we got 8 and 8.",
+        "start": 56.525,
+        "end": 57.866
+      },
+      {
+        "text": "That's 8.",
+        "start": 58.086,
+        "end": 59.147
+      },
+      {
+        "text": " What is 16?",
+        "start": 60.359,
+        "end": 61.02
+      },
+      {
+        "text": "16 would be moving more than one matchstick.",
+        "start": 61.04,
+        "end": 68.089
+      },
+      {
+        "text": "All right.",
+        "start": 68.109,
+        "end": 68.41
+      },
+      {
+        "text": "So what do we do here?",
+        "start": 68.57,
+        "end": 70.793
+      },
+      {
+        "text": "8, 8, and 8.",
+        "start": 74.017,
+        "end": 74.978
+      },
+      {
+        "text": "Okay.",
+        "start": 81.387,
+        "end": 81.567
+      },
+      {
+        "text": "Let's say we're doing, making that first one,",
+        "start": 81.587,
+        "end": 85.472
+      },
+      {
+        "text": " Uh, let's see here.",
+        "start": 92.455,
+        "end": 93.576
+      },
+      {
+        "text": "I'm going to make this 16, er, 13 rather.",
+        "start": 93.596,
+        "end": 95.919
+      },
+      {
+        "text": "But that's still moving more than one.",
+        "start": 95.979,
+        "end": 99.283
+      },
+      {
+        "text": "That's more than one.",
+        "start": 105.83,
+        "end": 106.691
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 106.751,
+        "end": 107.772
+      },
+      {
+        "text": "I knew it was incorrect.",
+        "start": 107.912,
+        "end": 109.974
+      },
+      {
+        "text": "Okay.",
+        "start": 109.994,
+        "end": 110.435
+      },
+      {
+        "text": "8, 8, and 8.",
+        "start": 111.756,
+        "end": 113.698
+      },
+      {
+        "text": "This is really bugging me.",
+        "start": 113.718,
+        "end": 115.14
+      },
+      {
+        "text": "This is one of those times I really wish I could figure out how to cheat.",
+        "start": 116.862,
+        "end": 119.905
+      },
+      {
+        "text": "I don't know how to cheat.",
+        "start": 120.366,
+        "end": 121.207
+      },
+      {
+        "text": "Not with this.",
+        "start": 121.607,
+        "end": 122.428
+      },
+      {
+        "text": " I'm sure there's probably something online, but I honestly, I just don't know what it is.",
+        "start": 123.117,
+        "end": 127.343
+      },
+      {
+        "text": "So, okay.",
+        "start": 129.726,
+        "end": 132.69
+      },
+      {
+        "text": "So, uh, let's try this.",
+        "start": 133.23,
+        "end": 135.233
+      },
+      {
+        "text": "I'm just spitballing here.",
+        "start": 136.174,
+        "end": 137.316
+      },
+      {
+        "text": "I'm just letting you know.",
+        "start": 137.356,
+        "end": 138.537
+      },
+      {
+        "text": "Now I'm just going to spitball and see what I come up with.",
+        "start": 138.597,
+        "end": 142.502
+      },
+      {
+        "text": "So we're going to, that's not right.",
+        "start": 143.564,
+        "end": 150.593
+      },
+      {
+        "text": " X goes before V. Uh, again, spit balling.",
+        "start": 152.902,
+        "end": 159.329
+      },
+      {
+        "text": "So forgive me.",
+        "start": 159.37,
+        "end": 159.99
+      },
+      {
+        "text": "That's not right.",
+        "start": 161.953,
+        "end": 162.593
+      },
+      {
+        "text": "I knew.",
+        "start": 162.693,
+        "end": 163.014
+      },
+      {
+        "text": "Yeah, I know.",
+        "start": 163.494,
+        "end": 164.015
+      },
+      {
+        "text": "All right.",
+        "start": 164.856,
+        "end": 165.156
+      },
+      {
+        "text": "So we're going to try eight equals.",
+        "start": 165.176,
+        "end": 169.101
+      },
+      {
+        "text": "The thing is moving a match stick won't work because four is, is IV, not four Is.",
+        "start": 171.063,
+        "end": 178.211
+      },
+      {
+        "text": "Hmm.",
+        "start": 181.175,
+        "end": 181.255
+      },
+      {
+        "text": " Wouldn't that be great though?",
+        "start": 183.125,
+        "end": 184.146
+      },
+      {
+        "text": "Cause that would be the a solution.",
+        "start": 184.687,
+        "end": 186.309
+      },
+      {
+        "text": "It just wouldn't be the correct solution.",
+        "start": 186.329,
+        "end": 187.53
+      },
+      {
+        "text": "Okay.",
+        "start": 191.815,
+        "end": 192.076
+      },
+      {
+        "text": "That's not correct either.",
+        "start": 192.096,
+        "end": 193.077
+      },
+      {
+        "text": "I would still leave over two, um, match sticks.",
+        "start": 193.097,
+        "end": 197.602
+      },
+      {
+        "text": "Okay.",
+        "start": 201.346,
+        "end": 201.967
+      },
+      {
+        "text": "So wait a minute.",
+        "start": 202.187,
+        "end": 205.852
+      },
+      {
+        "text": "X I that still leaves a,",
+        "start": 206.072,
+        "end": 209.436
+      },
+      {
+        "text": " That still leaves a matchstick left over.",
+        "start": 211.103,
+        "end": 213.406
+      },
+      {
+        "text": "VIII equals.",
+        "start": 216.35,
+        "end": 219.033
+      },
+      {
+        "text": "That's still moving more than one matchstick.",
+        "start": 224.079,
+        "end": 225.621
+      },
+      {
+        "text": "Yeah, this is really frustrating.",
+        "start": 229.886,
+        "end": 231.248
+      },
+      {
+        "text": "I wish I knew more.",
+        "start": 232.61,
+        "end": 233.451
+      },
+      {
+        "text": "The sad part is I did stuff like this in school.",
+        "start": 233.471,
+        "end": 238.377
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 13, 13, 13, to make the equation correct. 13, 13, 13. So we want to equal 13. 21, let's say we make that a V, 21 minus 13, that would be 13. Oh, no, no, no. This is not 13. It's 8. 8, 8, and 8. Why did I say 13? X is 10. OK. 8, 8, and 8. So what if we made one of these an X on the right side of the equal sign? All right. So we got 8 and 8. That's 8. What is 16? 16 would be moving more than one matchstick. All right. So what do we do here? 8, 8, and 8. Okay. Let's say we're doing, making that first one, Uh, let's see here. I'm going to make this 16, er, 13 rather. But that's still moving more than one. That's more than one. That's incorrect. I knew it was incorrect. Okay. 8, 8, and 8. This is really bugging me. This is one of those times I really wish I could figure out how to cheat. I don't know how to cheat. Not with this. I'm sure there's probably something online, but I honestly, I just don't know what it is. So, okay. So, uh, let's try this. I'm just spitballing here. I'm just letting you know. Now I'm just going to spitball and see what I come up with. So we're going to, that's not right. X goes before V. Uh, again, spit balling. So forgive me. That's not right. I knew. Yeah, I know. All right. So we're going to try eight equals. The thing is moving a match stick won't work because four is, is IV, not four Is. Hmm. Wouldn't that be great though? Cause that would be the a solution. It just wouldn't be the correct solution. Okay. That's not correct either. I would still leave over two, um, match sticks. Okay. So wait a minute. X I that still leaves a, That still leaves a matchstick left over. VIII equals. That's still moving more than one matchstick. Yeah, this is really frustrating. I wish I knew more. The sad part is I did stuff like this in school."
+  }
+}

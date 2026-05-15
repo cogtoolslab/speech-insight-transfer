@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_5816418a5209/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I see 4, I'm going to write this down, 4 equals 11 minus 2, which is incorrect.4 actually equals 6 minus 2, so I think I could say, Okay, but i'm not given for well let's see four equals six.minus two and i'm only changing one of the things I think that's how you do it.",
+    "segments": [
+      {
+        "text": " Okay, so I see 4, I'm going to write this down, 4 equals 11 minus 2, which is incorrect.",
+        "start": 0.976,
+        "end": 11.498
+      },
+      {
+        "text": "4 actually equals 6 minus 2, so I think I could say,",
+        "start": 11.518,
+        "end": 20.537
+      },
+      {
+        "text": " Okay, but i'm not given for well let's see four equals six.",
+        "start": 22.323,
+        "end": 32.124
+      },
+      {
+        "text": "minus two and i'm only changing one of the things I think that's how you do it.",
+        "start": 35.511,
+        "end": 41.884
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I see 4, I'm going to write this down, 4 equals 11 minus 2, which is incorrect. 4 actually equals 6 minus 2, so I think I could say, Okay, but i'm not given for well let's see four equals six. minus two and i'm only changing one of the things I think that's how you do it."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_057b1c4a47b6/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright, this equation is 4 equals 4 minus 2.Now, 4 minus 2 is 2, so that wouldn't work, but if we made 4 into 6, 6 minus 2 would be 4.So if we said 4 equals 6 minus 2, that should",
+    "segments": [
+      {
+        "text": " Alright, this equation is 4 equals 4 minus 2.",
+        "start": 0.031,
+        "end": 6.603
+      },
+      {
+        "text": "Now, 4 minus 2 is 2, so that wouldn't work, but if we made 4 into 6, 6 minus 2 would be 4.",
+        "start": 8.587,
+        "end": 21.651
+      },
+      {
+        "text": "So if we said 4 equals 6 minus 2, that should",
+        "start": 22.633,
+        "end": 29.245
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, this equation is 4 equals 4 minus 2. Now, 4 minus 2 is 2, so that wouldn't work, but if we made 4 into 6, 6 minus 2 would be 4. So if we said 4 equals 6 minus 2, that should"
+  }
+}

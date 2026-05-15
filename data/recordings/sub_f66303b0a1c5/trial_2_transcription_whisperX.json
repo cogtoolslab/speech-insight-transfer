@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_f66303b0a1c5/trial_2.wav",
+  "with_timestamps": {
+    "text": " Puzzle number two.13 equals nine minus four, which is five.Okay.So, 13 equals 11 minus four.No.Or I could say nine minus six is three, but I'd still have to move the X from the other side to get 3, which means I'd have to move two matchsticks.So, 13 equals 1 minus 4.That's not right either.It's just not going to work. without moving more than 1.3 equals 9 minus 4.That's 5.So, let's see.If I move this over, this is 6.9 minus 6.I still have to move the 10 over here to 3.3 equals 9 minus 6. That'd be 2.Can I move 2 at the same time?1, 2, 3 equals Ix minus Vi.Submit.Nope.Okay.Um, I don't know.I'll try to do the plus sign.Does it work?And 10 equals 9 minus 4. 11 minus 4 is 7.9 minus 6 is 3.Let's see.X and 1 would be 11.I have to move more than 1.Or I can move it over here. and say, I wonder how that works.Let's see, if I make one of the ones over here, 11x would be 8, and that's 12.So that doesn't work.Or if I put it over here, 1x1, what is that?I wonder. X1 is 11.6, 8, 6, doesn't work.Two of those over here, two matchsticks on the V would be 3, I guess.9 minus 3 is 6.8 equals 9 minus 3. 8 equals 6, which is a right.If I put it over here, DII is 7.9 minus 7 is 2.That's 12 equals 9 minus 7 is 2.That doesn't work either.",
+    "segments": [
+      {
+        "text": " Puzzle number two.",
+        "start": 1.583,
+        "end": 2.284
+      },
+      {
+        "text": "13 equals nine minus four, which is five.",
+        "start": 3.065,
+        "end": 7.711
+      },
+      {
+        "text": "Okay.",
+        "start": 10.134,
+        "end": 10.455
+      },
+      {
+        "text": "So, 13 equals 11 minus four.",
+        "start": 11.717,
+        "end": 19.487
+      },
+      {
+        "text": "No.",
+        "start": 23.452,
+        "end": 27.978
+      },
+      {
+        "text": "Or I could say nine minus six is three,",
+        "start": 27.998,
+        "end": 31.523
+      },
+      {
+        "text": " but I'd still have to move the X from the other side to get 3, which means I'd have to move two matchsticks.",
+        "start": 32.077,
+        "end": 39.327
+      },
+      {
+        "text": "So, 13 equals 1 minus 4.",
+        "start": 42.17,
+        "end": 50.682
+      },
+      {
+        "text": "That's not right either.",
+        "start": 55.428,
+        "end": 56.209
+      },
+      {
+        "text": "It's just not going to work.",
+        "start": 57.491,
+        "end": 59.333
+      },
+      {
+        "text": " without moving more than 1.",
+        "start": 61.355,
+        "end": 62.476
+      },
+      {
+        "text": "3 equals 9 minus 4.",
+        "start": 62.636,
+        "end": 70.005
+      },
+      {
+        "text": "That's 5.",
+        "start": 70.566,
+        "end": 71.086
+      },
+      {
+        "text": "So, let's see.",
+        "start": 73.789,
+        "end": 78.415
+      },
+      {
+        "text": "If I move this over, this is 6.",
+        "start": 78.435,
+        "end": 80.117
+      },
+      {
+        "text": "9 minus 6.",
+        "start": 80.137,
+        "end": 83.621
+      },
+      {
+        "text": "I still have to move the 10 over here to 3.",
+        "start": 84.422,
+        "end": 86.724
+      },
+      {
+        "text": "3 equals 9 minus 6.",
+        "start": 87.245,
+        "end": 90.028
+      },
+      {
+        "text": " That'd be 2.",
+        "start": 91.038,
+        "end": 92.22
+      },
+      {
+        "text": "Can I move 2 at the same time?",
+        "start": 92.38,
+        "end": 93.662
+      },
+      {
+        "text": "1, 2, 3 equals Ix minus Vi.",
+        "start": 93.762,
+        "end": 100.852
+      },
+      {
+        "text": "Submit.",
+        "start": 102.554,
+        "end": 103.536
+      },
+      {
+        "text": "Nope.",
+        "start": 103.556,
+        "end": 104.417
+      },
+      {
+        "text": "Okay.",
+        "start": 104.457,
+        "end": 104.737
+      },
+      {
+        "text": "Um, I don't know.",
+        "start": 106.44,
+        "end": 108.082
+      },
+      {
+        "text": "I'll try to do the plus sign.",
+        "start": 108.102,
+        "end": 111.507
+      },
+      {
+        "text": "Does it work?",
+        "start": 111.547,
+        "end": 112.088
+      },
+      {
+        "text": "And 10 equals 9 minus 4.",
+        "start": 114.251,
+        "end": 120.96
+      },
+      {
+        "text": " 11 minus 4 is 7.",
+        "start": 121.48,
+        "end": 124.865
+      },
+      {
+        "text": "9 minus 6 is 3.",
+        "start": 124.905,
+        "end": 131.393
+      },
+      {
+        "text": "Let's see.",
+        "start": 137.882,
+        "end": 140.746
+      },
+      {
+        "text": "X and 1 would be 11.",
+        "start": 140.986,
+        "end": 142.869
+      },
+      {
+        "text": "I have to move more than 1.",
+        "start": 142.889,
+        "end": 146.013
+      },
+      {
+        "text": "Or I can move it over here.",
+        "start": 146.173,
+        "end": 150.559
+      },
+      {
+        "text": " and say, I wonder how that works.",
+        "start": 153.323,
+        "end": 160.93
+      },
+      {
+        "text": "Let's see, if I make one of the ones over here, 11x would be 8, and that's 12.",
+        "start": 162.091,
+        "end": 172.401
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 172.421,
+        "end": 174.043
+      },
+      {
+        "text": "Or if I put it over here, 1x1, what is that?",
+        "start": 175.344,
+        "end": 180.049
+      },
+      {
+        "text": "I wonder.",
+        "start": 180.669,
+        "end": 181.39
+      },
+      {
+        "text": " X1 is 11.",
+        "start": 190.415,
+        "end": 191.056
+      },
+      {
+        "text": "6, 8, 6, doesn't work.",
+        "start": 191.076,
+        "end": 198.807
+      },
+      {
+        "text": "Two of those over here, two matchsticks on the V would be 3, I guess.",
+        "start": 200.931,
+        "end": 209.744
+      },
+      {
+        "text": "9 minus 3 is 6.",
+        "start": 209.764,
+        "end": 217.235
+      },
+      {
+        "text": "8 equals 9 minus 3.",
+        "start": 217.255,
+        "end": 219.358
+      },
+      {
+        "text": " 8 equals 6, which is a right.",
+        "start": 219.575,
+        "end": 221.298
+      },
+      {
+        "text": "If I put it over here, DII is 7.",
+        "start": 223.502,
+        "end": 231.417
+      },
+      {
+        "text": "9 minus 7 is 2.",
+        "start": 231.437,
+        "end": 236.206
+      },
+      {
+        "text": "That's 12 equals 9 minus 7 is 2.",
+        "start": 237.148,
+        "end": 240.454
+      },
+      {
+        "text": "That doesn't work either.",
+        "start": 240.474,
+        "end": 241.195
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle number two. 13 equals nine minus four, which is five. Okay. So, 13 equals 11 minus four. No. Or I could say nine minus six is three, but I'd still have to move the X from the other side to get 3, which means I'd have to move two matchsticks. So, 13 equals 1 minus 4. That's not right either. It's just not going to work. without moving more than 1. 3 equals 9 minus 4. That's 5. So, let's see. If I move this over, this is 6. 9 minus 6. I still have to move the 10 over here to 3. 3 equals 9 minus 6. That'd be 2. Can I move 2 at the same time? 1, 2, 3 equals Ix minus Vi. Submit. Nope. Okay. Um, I don't know. I'll try to do the plus sign. Does it work? And 10 equals 9 minus 4. 11 minus 4 is 7. 9 minus 6 is 3. Let's see. X and 1 would be 11. I have to move more than 1. Or I can move it over here. and say, I wonder how that works. Let's see, if I make one of the ones over here, 11x would be 8, and that's 12. So that doesn't work. Or if I put it over here, 1x1, what is that? I wonder. X1 is 11. 6, 8, 6, doesn't work. Two of those over here, two matchsticks on the V would be 3, I guess. 9 minus 3 is 6. 8 equals 9 minus 3. 8 equals 6, which is a right. If I put it over here, DII is 7. 9 minus 7 is 2. That's 12 equals 9 minus 7 is 2. That doesn't work either."
+  }
+}

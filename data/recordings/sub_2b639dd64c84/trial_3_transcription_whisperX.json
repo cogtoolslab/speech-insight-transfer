@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_2b639dd64c84/trial_3.wav",
+  "with_timestamps": {
+    "text": " 7 6 plus 5 equals 11 6 plus 10 equals 16. hmm 10 plus 6 wait 12 Plus 5.No, that's not it.12 plus 2 plus 5. equals 7.Nope.2 plus 6. Nope.2.5 plus 2 equals 7.Nope. 10 plus 5?No, 6.10 plus... Maybe 10 plus... Good night, have a good night",
+    "segments": [
+      {
+        "text": " 7 6 plus 5 equals",
+        "start": 7.22,
+        "end": 35.337
+      },
+      {
+        "text": " 11 6 plus 10 equals 16.",
+        "start": 38.067,
+        "end": 60.784
+      },
+      {
+        "text": " hmm 10 plus 6 wait 12",
+        "start": 70.754,
+        "end": 97.47
+      },
+      {
+        "text": " Plus 5.",
+        "start": 102.631,
+        "end": 107.816
+      },
+      {
+        "text": "No, that's not it.",
+        "start": 107.916,
+        "end": 115.382
+      },
+      {
+        "text": "12 plus 2 plus 5.",
+        "start": 116.644,
+        "end": 132.638
+      },
+      {
+        "text": " equals 7.",
+        "start": 142.591,
+        "end": 143.412
+      },
+      {
+        "text": "Nope.",
+        "start": 143.452,
+        "end": 160.49
+      },
+      {
+        "text": "2 plus 6.",
+        "start": 160.51,
+        "end": 167.518
+      },
+      {
+        "text": " Nope.",
+        "start": 174.687,
+        "end": 180.035
+      },
+      {
+        "text": "2.",
+        "start": 180.055,
+        "end": 180.095
+      },
+      {
+        "text": "5 plus 2 equals 7.",
+        "start": 180.115,
+        "end": 200.105
+      },
+      {
+        "text": "Nope.",
+        "start": 200.205,
+        "end": 202.669
+      },
+      {
+        "text": " 10 plus 5?",
+        "start": 211.205,
+        "end": 217.576
+      },
+      {
+        "text": "No, 6.",
+        "start": 217.596,
+        "end": 217.716
+      },
+      {
+        "text": "10 plus... Maybe 10 plus...",
+        "start": 220.641,
+        "end": 234.124
+      },
+      {
+        "text": " Good night, have a good night",
+        "start": 239.858,
+        "end": 243.439
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 6 plus 5 equals 11 6 plus 10 equals 16. hmm 10 plus 6 wait 12 Plus 5. No, that's not it. 12 plus 2 plus 5. equals 7. Nope. 2 plus 6. Nope. 2. 5 plus 2 equals 7. Nope. 10 plus 5? No, 6. 10 plus... Maybe 10 plus... Good night, have a good night"
+  }
+}

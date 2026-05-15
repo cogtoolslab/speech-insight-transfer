@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_a40b19e951cc/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, 10 equals 7 minus 3.7 minus 3 is 4. Six plus three is nine.Um, huh. Nine equals Five plus three is eight I'm wait six plus three six nine.No. 11... One matchstick. I just don't see how to make these work.Five plus, five plus, no, six plus, Three, nine equals.If X equals.So 10 equals. 7 minus 3, 5, 6, 7. 10 minus 7 equals 3.5.",
+    "segments": [
+      {
+        "text": " All right, 10 equals 7 minus 3.",
+        "start": 1.904,
+        "end": 6.15
+      },
+      {
+        "text": "7 minus 3 is 4.",
+        "start": 6.17,
+        "end": 23.153
+      },
+      {
+        "text": " Six plus three is nine.",
+        "start": 29.427,
+        "end": 33.691
+      },
+      {
+        "text": "Um, huh.",
+        "start": 49.488,
+        "end": 53.292
+      },
+      {
+        "text": " Nine equals Five plus three is eight I'm wait six plus three six nine.",
+        "start": 58.402,
+        "end": 86.702
+      },
+      {
+        "text": "No.",
+        "start": 87.343,
+        "end": 87.784
+      },
+      {
+        "text": " 11... One matchstick.",
+        "start": 93.586,
+        "end": 116.607
+      },
+      {
+        "text": " I just don't see how to make these work.",
+        "start": 124.518,
+        "end": 126.32
+      },
+      {
+        "text": "Five plus, five plus, no, six plus,",
+        "start": 137.191,
+        "end": 151.605
+      },
+      {
+        "text": " Three, nine equals.",
+        "start": 153.965,
+        "end": 155.889
+      },
+      {
+        "text": "If X equals.",
+        "start": 155.929,
+        "end": 164.487
+      },
+      {
+        "text": "So 10 equals.",
+        "start": 166.712,
+        "end": 169.257
+      },
+      {
+        "text": " 7 minus 3, 5, 6, 7.",
+        "start": 182.028,
+        "end": 208.002
+      },
+      {
+        "text": " 10 minus 7 equals 3.",
+        "start": 222.663,
+        "end": 234.274
+      },
+      {
+        "text": "5.",
+        "start": 234.394,
+        "end": 237.482
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, 10 equals 7 minus 3. 7 minus 3 is 4. Six plus three is nine. Um, huh. Nine equals Five plus three is eight I'm wait six plus three six nine. No. 11... One matchstick. I just don't see how to make these work. Five plus, five plus, no, six plus, Three, nine equals. If X equals. So 10 equals. 7 minus 3, 5, 6, 7. 10 minus 7 equals 3. 5."
+  }
+}

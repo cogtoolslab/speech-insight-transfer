@@ -1,0 +1,321 @@
+{
+  "file": "data/recordings/sub_489928f1993d/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, so I need 7 equals.If it's going to be 7, then it's got to be 5 plus 2, or 4 plus 3, or OK, no, yeah, that's 7. So it's going to be 4 plus 3, 5 plus 2.Oh, oh, no.But then where does this go?So that's, what if that's not 7?All right.7.So that's 12 plus 6 is 18.That's not right. Move the 10?No, that's not going to work.So that would be 22.Nope.What if I moved the X there?So 12.OK, first one I'm going to do X. OK, so there's 10.So what if I make that 12? So that would be 7 plus 4 is 11.7.All right.All right, that's not right.So 10, do it backwards.6 plus 12 is 18.But that's not right. Let's try it forward.5, 7.Oh, for God's sakes.All right.Which ones?OK.So 10.So these would have to equal 10.So that's 4.No, that's not going to work. 10.Where would I put that, though?Let's see.Shit.These buttons blow.All right, that's not going to work.Wait a minute, 7?No, that's not going to work either.All right. but I can only move one, but I would have to move two to do it that way.Alright, that's... but that's six.So it's gotta be one, I can't move both of them.So if I put the X there, it's not gonna work.I can only move one, All right, I can only move one.Look at it again.So that would be eight.That's not it.Oh!Oh!Oh!That one!That's it!That's it!So move that!But where would I put it?It would be",
+    "segments": [
+      {
+        "text": " All right, so I need 7 equals.",
+        "start": 0.031,
+        "end": 13.249
+      },
+      {
+        "text": "If it's going to be 7, then it's got to be 5 plus 2, or 4 plus 3, or OK, no, yeah, that's 7.",
+        "start": 13.749,
+        "end": 29.43
+      },
+      {
+        "text": " So it's going to be 4 plus 3, 5 plus 2.",
+        "start": 29.984,
+        "end": 32.486
+      },
+      {
+        "text": "Oh, oh, no.",
+        "start": 32.507,
+        "end": 35.63
+      },
+      {
+        "text": "But then where does this go?",
+        "start": 35.97,
+        "end": 37.051
+      },
+      {
+        "text": "So that's, what if that's not 7?",
+        "start": 39.774,
+        "end": 41.415
+      },
+      {
+        "text": "All right.",
+        "start": 41.435,
+        "end": 46.621
+      },
+      {
+        "text": "7.",
+        "start": 46.641,
+        "end": 49.203
+      },
+      {
+        "text": "So that's 12 plus 6 is 18.",
+        "start": 51.485,
+        "end": 55.409
+      },
+      {
+        "text": "That's not right.",
+        "start": 58.272,
+        "end": 59.113
+      },
+      {
+        "text": " Move the 10?",
+        "start": 60.916,
+        "end": 64.78
+      },
+      {
+        "text": "No, that's not going to work.",
+        "start": 64.82,
+        "end": 66.622
+      },
+      {
+        "text": "So that would be 22.",
+        "start": 66.642,
+        "end": 67.443
+      },
+      {
+        "text": "Nope.",
+        "start": 67.463,
+        "end": 68.063
+      },
+      {
+        "text": "What if I moved the X there?",
+        "start": 73.188,
+        "end": 78.794
+      },
+      {
+        "text": "So 12.",
+        "start": 79.254,
+        "end": 79.955
+      },
+      {
+        "text": "OK, first one I'm going to do X. OK, so there's 10.",
+        "start": 80.716,
+        "end": 84.52
+      },
+      {
+        "text": "So what if I make that 12?",
+        "start": 85.2,
+        "end": 86.822
+      },
+      {
+        "text": " So that would be 7 plus 4 is 11.",
+        "start": 91.443,
+        "end": 99.011
+      },
+      {
+        "text": "7.",
+        "start": 99.032,
+        "end": 103.216
+      },
+      {
+        "text": "All right.",
+        "start": 103.236,
+        "end": 104.558
+      },
+      {
+        "text": "All right, that's not right.",
+        "start": 104.618,
+        "end": 110.765
+      },
+      {
+        "text": "So 10, do it backwards.",
+        "start": 113.328,
+        "end": 114.509
+      },
+      {
+        "text": "6 plus 12 is 18.",
+        "start": 114.529,
+        "end": 118.113
+      },
+      {
+        "text": "But that's not right.",
+        "start": 119.054,
+        "end": 120.015
+      },
+      {
+        "text": " Let's try it forward.",
+        "start": 121.16,
+        "end": 122.041
+      },
+      {
+        "text": "5, 7.",
+        "start": 122.061,
+        "end": 124.584
+      },
+      {
+        "text": "Oh, for God's sakes.",
+        "start": 126.366,
+        "end": 127.627
+      },
+      {
+        "text": "All right.",
+        "start": 128.889,
+        "end": 129.229
+      },
+      {
+        "text": "Which ones?",
+        "start": 132.973,
+        "end": 133.514
+      },
+      {
+        "text": "OK.",
+        "start": 137.859,
+        "end": 138.199
+      },
+      {
+        "text": "So 10.",
+        "start": 140.081,
+        "end": 140.682
+      },
+      {
+        "text": "So these would have to equal 10.",
+        "start": 143.726,
+        "end": 145.107
+      },
+      {
+        "text": "So that's 4.",
+        "start": 145.127,
+        "end": 146.589
+      },
+      {
+        "text": "No, that's not going to work.",
+        "start": 148.391,
+        "end": 149.412
+      },
+      {
+        "text": " 10.",
+        "start": 152.615,
+        "end": 152.996
+      },
+      {
+        "text": "Where would I put that, though?",
+        "start": 154.959,
+        "end": 156.02
+      },
+      {
+        "text": "Let's see.",
+        "start": 159.426,
+        "end": 159.886
+      },
+      {
+        "text": "Shit.",
+        "start": 159.926,
+        "end": 162.571
+      },
+      {
+        "text": "These buttons blow.",
+        "start": 164.233,
+        "end": 165.435
+      },
+      {
+        "text": "All right, that's not going to work.",
+        "start": 165.455,
+        "end": 167.518
+      },
+      {
+        "text": "Wait a minute, 7?",
+        "start": 169.481,
+        "end": 169.962
+      },
+      {
+        "text": "No, that's not going to work either.",
+        "start": 170.263,
+        "end": 171.605
+      },
+      {
+        "text": "All right.",
+        "start": 175.952,
+        "end": 176.833
+      },
+      {
+        "text": " but I can only move one, but I would have to move two to do it that way.",
+        "start": 181.319,
+        "end": 186.105
+      },
+      {
+        "text": "Alright, that's... but that's six.",
+        "start": 188.548,
+        "end": 191.031
+      },
+      {
+        "text": "So it's gotta be one, I can't move both of them.",
+        "start": 196.457,
+        "end": 198.299
+      },
+      {
+        "text": "So if I put the X there, it's not gonna work.",
+        "start": 200.502,
+        "end": 207.891
+      },
+      {
+        "text": "I can only move one,",
+        "start": 208.892,
+        "end": 209.993
+      },
+      {
+        "text": " All right, I can only move one.",
+        "start": 212.133,
+        "end": 213.996
+      },
+      {
+        "text": "Look at it again.",
+        "start": 214.618,
+        "end": 215.319
+      },
+      {
+        "text": "So that would be eight.",
+        "start": 220.048,
+        "end": 221.03
+      },
+      {
+        "text": "That's not it.",
+        "start": 225.198,
+        "end": 225.839
+      },
+      {
+        "text": "Oh!",
+        "start": 227.041,
+        "end": 227.141
+      },
+      {
+        "text": "Oh!",
+        "start": 227.422,
+        "end": 227.502
+      },
+      {
+        "text": "Oh!",
+        "start": 227.742,
+        "end": 227.863
+      },
+      {
+        "text": "That one!",
+        "start": 228.925,
+        "end": 229.305
+      },
+      {
+        "text": "That's it!",
+        "start": 229.345,
+        "end": 229.746
+      },
+      {
+        "text": "That's it!",
+        "start": 229.786,
+        "end": 230.267
+      },
+      {
+        "text": "So move that!",
+        "start": 230.748,
+        "end": 232.792
+      },
+      {
+        "text": "But where would I put it?",
+        "start": 233.613,
+        "end": 234.415
+      },
+      {
+        "text": "It would be",
+        "start": 239.504,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so I need 7 equals. If it's going to be 7, then it's got to be 5 plus 2, or 4 plus 3, or OK, no, yeah, that's 7. So it's going to be 4 plus 3, 5 plus 2. Oh, oh, no. But then where does this go? So that's, what if that's not 7? All right. 7. So that's 12 plus 6 is 18. That's not right. Move the 10? No, that's not going to work. So that would be 22. Nope. What if I moved the X there? So 12. OK, first one I'm going to do X. OK, so there's 10. So what if I make that 12? So that would be 7 plus 4 is 11. 7. All right. All right, that's not right. So 10, do it backwards. 6 plus 12 is 18. But that's not right. Let's try it forward. 5, 7. Oh, for God's sakes. All right. Which ones? OK. So 10. So these would have to equal 10. So that's 4. No, that's not going to work. 10. Where would I put that, though? Let's see. Shit. These buttons blow. All right, that's not going to work. Wait a minute, 7? No, that's not going to work either. All right. but I can only move one, but I would have to move two to do it that way. Alright, that's... but that's six. So it's gotta be one, I can't move both of them. So if I put the X there, it's not gonna work. I can only move one, All right, I can only move one. Look at it again. So that would be eight. That's not it. Oh! Oh! Oh! That one! That's it! That's it! So move that! But where would I put it? It would be"
+  }
+}

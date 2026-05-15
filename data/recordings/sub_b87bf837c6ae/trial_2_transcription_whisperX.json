@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_b87bf837c6ae/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one is at seven equals three minus four.It's actually seven equals three plus four.It is seven equals three Plus four.Why is it saying that's not correct?That is correct.That's not.Seven. equals, let's try this.See, there's a glitch in this.It's just not working.This is not working.There is a glitch. There is a glitch here.I can't really figure out what's happening.I cannot figure out what is happening with this glitch.Let's try Let's see here.I don't get. This is correct.So there's something happening where there is a glitch in the system that's not allowing me to actually I don't see anything.I'm not actually allowed to see what is going on.That's what is happening.And therefore, I don't know what something bizarre is happening.I can't really see what's happening.",
+    "segments": [
+      {
+        "text": " Okay, so this one is at seven equals three minus four.",
+        "start": 1.567,
+        "end": 6.393
+      },
+      {
+        "text": "It's actually seven equals three plus four.",
+        "start": 9.536,
+        "end": 19.187
+      },
+      {
+        "text": "It is seven equals three",
+        "start": 24.834,
+        "end": 31.101
+      },
+      {
+        "text": " Plus four.",
+        "start": 32.785,
+        "end": 34.667
+      },
+      {
+        "text": "Why is it saying that's not correct?",
+        "start": 36.709,
+        "end": 39.311
+      },
+      {
+        "text": "That is correct.",
+        "start": 39.331,
+        "end": 40.132
+      },
+      {
+        "text": "That's not.",
+        "start": 45.377,
+        "end": 61.252
+      },
+      {
+        "text": "Seven.",
+        "start": 61.272,
+        "end": 62.573
+      },
+      {
+        "text": " equals, let's try this.",
+        "start": 63.11,
+        "end": 72.627
+      },
+      {
+        "text": "See, there's a glitch in this.",
+        "start": 74.129,
+        "end": 75.792
+      },
+      {
+        "text": "It's just not working.",
+        "start": 75.892,
+        "end": 76.934
+      },
+      {
+        "text": "This is not working.",
+        "start": 84.507,
+        "end": 86.331
+      },
+      {
+        "text": "There is a glitch.",
+        "start": 86.451,
+        "end": 87.733
+      },
+      {
+        "text": " There is a glitch here.",
+        "start": 105.702,
+        "end": 107.404
+      },
+      {
+        "text": "I can't really figure out what's happening.",
+        "start": 107.424,
+        "end": 121.46
+      },
+      {
+        "text": "I cannot figure out what is happening with this glitch.",
+        "start": 122.922,
+        "end": 125.625
+      },
+      {
+        "text": "Let's try",
+        "start": 131.972,
+        "end": 133.414
+      },
+      {
+        "text": " Let's see here.",
+        "start": 137.697,
+        "end": 152.217
+      },
+      {
+        "text": "I don't get.",
+        "start": 152.237,
+        "end": 162.692
+      },
+      {
+        "text": " This is correct.",
+        "start": 167.077,
+        "end": 169.0
+      },
+      {
+        "text": "So there's something happening where there is a glitch in the system that's not allowing me to actually",
+        "start": 176.992,
+        "end": 192.156
+      },
+      {
+        "text": " I don't see anything.",
+        "start": 196.118,
+        "end": 197.059
+      },
+      {
+        "text": "I'm not actually allowed to see what is going on.",
+        "start": 206.874,
+        "end": 210.98
+      },
+      {
+        "text": "That's what is happening.",
+        "start": 217.97,
+        "end": 219.212
+      },
+      {
+        "text": "And therefore,",
+        "start": 219.252,
+        "end": 223.999
+      },
+      {
+        "text": " I don't know what something bizarre is happening.",
+        "start": 226.46,
+        "end": 238.642
+      },
+      {
+        "text": "I can't really see what's happening.",
+        "start": 238.662,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one is at seven equals three minus four. It's actually seven equals three plus four. It is seven equals three Plus four. Why is it saying that's not correct? That is correct. That's not. Seven. equals, let's try this. See, there's a glitch in this. It's just not working. This is not working. There is a glitch. There is a glitch here. I can't really figure out what's happening. I cannot figure out what is happening with this glitch. Let's try Let's see here. I don't get. This is correct. So there's something happening where there is a glitch in the system that's not allowing me to actually I don't see anything. I'm not actually allowed to see what is going on. That's what is happening. And therefore, I don't know what something bizarre is happening. I can't really see what's happening."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_f310d2864479/trial_2.wav",
+  "with_timestamps": {
+    "text": " okay you can only move one match stick to make this equation correct what is the final correct equation 1x is 9 equals b11 which is b11 is 7 plus ib which is 4 so 7 plus 4 is 11 oh well where would I get the stick from then cause I could put 1 1 x which would be oh no oh oh I think I have this one I think I got this one x 1 which is 11 equals B11 which is 7 plus 1B which is 4 7 plus 4 equals 11 I got this one I don't know how that happened but okay so I think I have this one correct IB",
+    "segments": [
+      {
+        "text": " okay you can only move one match stick to make this equation correct what is the final correct equation 1x is 9 equals b11 which is b11 is 7 plus ib which is 4",
+        "start": 1.735,
+        "end": 26.022
+      },
+      {
+        "text": " so 7 plus 4 is 11 oh well where would I get the stick from then cause I could put 1 1 x which would be oh no oh oh I think I have this one I think I got this one x 1",
+        "start": 28.567,
+        "end": 57.19
+      },
+      {
+        "text": " which is 11 equals B11 which is 7 plus 1B which is 4 7 plus 4 equals 11 I got this one I don't know how that happened but okay so I think I have this one correct IB",
+        "start": 58.688,
+        "end": 85.995
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay you can only move one match stick to make this equation correct what is the final correct equation 1x is 9 equals b11 which is b11 is 7 plus ib which is 4 so 7 plus 4 is 11 oh well where would I get the stick from then cause I could put 1 1 x which would be oh no oh oh I think I have this one I think I got this one x 1 which is 11 equals B11 which is 7 plus 1B which is 4 7 plus 4 equals 11 I got this one I don't know how that happened but okay so I think I have this one correct IB"
+  }
+}

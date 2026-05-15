@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_2.wav",
+  "with_timestamps": {
+    "text": " 4 2 minus 2 4 hmm 6 minus 24",
+    "segments": [
+      {
+        "text": " 4 2 minus 2 4 hmm",
+        "start": 3.44,
+        "end": 28.249
+      },
+      {
+        "text": " 6 minus 24",
+        "start": 37.865,
+        "end": 40.568
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 2 minus 2 4 hmm 6 minus 24"
+  }
+}

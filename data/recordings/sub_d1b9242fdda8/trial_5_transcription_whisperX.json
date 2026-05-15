@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_d1b9242fdda8/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, now this one is 4 equals 11 minus 2, which is 9.And so that's incorrect.What would equal 4 would be a 6 minus 2 would equal that 4 that we got on the other side.So we want to stick with the 4 in this case.We'll say equals. And we want to change that into a 6 by moving the angle of 1.And then it's like that.So now we got 6 minus 2.And that equals 4.",
+    "segments": [
+      {
+        "text": " Okay, now this one is 4 equals 11 minus 2, which is 9.",
+        "start": 0.233,
+        "end": 11.227
+      },
+      {
+        "text": "And so that's incorrect.",
+        "start": 11.267,
+        "end": 14.571
+      },
+      {
+        "text": "What would equal 4 would be a 6 minus 2 would equal that 4 that we got on the other side.",
+        "start": 15.992,
+        "end": 24.503
+      },
+      {
+        "text": "So we want to stick with the 4 in this case.",
+        "start": 24.523,
+        "end": 27.366
+      },
+      {
+        "text": "We'll say equals.",
+        "start": 27.747,
+        "end": 28.688
+      },
+      {
+        "text": " And we want to change that into a 6 by moving the angle of 1.",
+        "start": 28.972,
+        "end": 34.931
+      },
+      {
+        "text": "And then it's like that.",
+        "start": 35.292,
+        "end": 36.275
+      },
+      {
+        "text": "So now we got 6 minus 2.",
+        "start": 36.355,
+        "end": 39.224
+      },
+      {
+        "text": "And that equals 4.",
+        "start": 40.127,
+        "end": 42.053
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, now this one is 4 equals 11 minus 2, which is 9. And so that's incorrect. What would equal 4 would be a 6 minus 2 would equal that 4 that we got on the other side. So we want to stick with the 4 in this case. We'll say equals. And we want to change that into a 6 by moving the angle of 1. And then it's like that. So now we got 6 minus 2. And that equals 4."
+  }
+}

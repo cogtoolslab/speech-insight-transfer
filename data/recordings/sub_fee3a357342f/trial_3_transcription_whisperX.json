@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_fee3a357342f/trial_3.wav",
+  "with_timestamps": {
+    "text": " See, I didn't understand that you could do that before, but now I think I... Is that enough to learn everything, though?2 equals 9 minus 2.2 equals 4 minus 2.Obviously, 2 equals 4 minus 2.",
+    "segments": [
+      {
+        "text": " See, I didn't understand that you could do that before, but now I think I... Is that enough to learn everything, though?",
+        "start": 0.841,
+        "end": 8.491
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 9.172,
+        "end": 11.034
+      },
+      {
+        "text": "2 equals 4 minus 2.",
+        "start": 11.054,
+        "end": 16.1
+      },
+      {
+        "text": "Obviously, 2 equals 4 minus 2.",
+        "start": 16.161,
+        "end": 22.849
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " See, I didn't understand that you could do that before, but now I think I... Is that enough to learn everything, though? 2 equals 9 minus 2. 2 equals 4 minus 2. Obviously, 2 equals 4 minus 2."
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "file": "data/recordings/sub_84dc13f9f35a/trial_5.wav",
+  "with_timestamps": {
+    "text": " You can't do it.You can't do it.It's impossible.Alright, let's try this one.11 equals 4 plus 2.So, let's see.4 plus...no.5...6 plus 3... 6 plus 3 equals 9.So 10.Let's do 12 minus 6.No, 10.10. 10 minus 6 equals 3.10 minus 6 equals 3.No.10.No.And you only can move one, and this is dumb.One.All right, five.Let's do 10. 10 minus 4 equals 5.No, 10 minus 4 equals 6.So 10, 1, 2, oh, OK.But you still can only move, all right, let's see, 10, 10 minus 10 minus 5 equals 5.10 minus 6 equals 4.So 10, again, that's the same thing.10.No.10 minus 4 equals 6.10 minus 3 is 7. So how do you do it?15 equals 11.Equals 11.Now, 4 plus 3 equals 9.Or no, 4 plus 3 equals 7.10. 15.I don't know.What the heck?This is so confusing.4.Let's do 6 plus 2.6, 7, 8, 9.10.4.6 plus 3 is 9.No.15. 15 minus, all right, five minus two, no, five minus two, no, 10 equal four.No, 10 plus five is 15, 10 minus five is five. So what is this?There's just no way to do it.There's no way to do it.",
+    "segments": [
+      {
+        "text": " You can't do it.",
+        "start": 0.031,
+        "end": 1.513
+      },
+      {
+        "text": "You can't do it.",
+        "start": 1.993,
+        "end": 2.774
+      },
+      {
+        "text": "It's impossible.",
+        "start": 3.154,
+        "end": 3.955
+      },
+      {
+        "text": "Alright, let's try this one.",
+        "start": 4.136,
+        "end": 6.818
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 6.839,
+        "end": 10.783
+      },
+      {
+        "text": "So, let's see.",
+        "start": 15.368,
+        "end": 16.85
+      },
+      {
+        "text": "4 plus...no.",
+        "start": 16.87,
+        "end": 21.535
+      },
+      {
+        "text": "5...6 plus 3...",
+        "start": 24.098,
+        "end": 28.182
+      },
+      {
+        "text": " 6 plus 3 equals 9.",
+        "start": 29.815,
+        "end": 32.899
+      },
+      {
+        "text": "So 10.",
+        "start": 33.98,
+        "end": 37.325
+      },
+      {
+        "text": "Let's do 12 minus 6.",
+        "start": 42.411,
+        "end": 51.222
+      },
+      {
+        "text": "No, 10.",
+        "start": 51.483,
+        "end": 54.607
+      },
+      {
+        "text": "10.",
+        "start": 54.627,
+        "end": 54.827
+      },
+      {
+        "text": " 10 minus 6 equals 3.",
+        "start": 58.452,
+        "end": 62.298
+      },
+      {
+        "text": "10 minus 6 equals 3.",
+        "start": 62.318,
+        "end": 65.382
+      },
+      {
+        "text": "No.",
+        "start": 65.583,
+        "end": 66.003
+      },
+      {
+        "text": "10.",
+        "start": 66.023,
+        "end": 71.231
+      },
+      {
+        "text": "No.",
+        "start": 71.251,
+        "end": 71.391
+      },
+      {
+        "text": "And you only can move one, and this is dumb.",
+        "start": 77.12,
+        "end": 79.624
+      },
+      {
+        "text": "One.",
+        "start": 79.644,
+        "end": 82.188
+      },
+      {
+        "text": "All right, five.",
+        "start": 82.208,
+        "end": 84.311
+      },
+      {
+        "text": "Let's do 10.",
+        "start": 84.671,
+        "end": 86.434
+      },
+      {
+        "text": " 10 minus 4 equals 5.",
+        "start": 87.545,
+        "end": 89.667
+      },
+      {
+        "text": "No, 10 minus 4 equals 6.",
+        "start": 92.63,
+        "end": 97.275
+      },
+      {
+        "text": "So 10, 1, 2, oh, OK.",
+        "start": 97.295,
+        "end": 103.582
+      },
+      {
+        "text": "But you still can only move, all right, let's see, 10, 10 minus",
+        "start": 103.842,
+        "end": 113.552
+      },
+      {
+        "text": " 10 minus 5 equals 5.",
+        "start": 117.025,
+        "end": 121.951
+      },
+      {
+        "text": "10 minus 6 equals 4.",
+        "start": 121.971,
+        "end": 127.177
+      },
+      {
+        "text": "So 10, again, that's the same thing.",
+        "start": 128.179,
+        "end": 130.582
+      },
+      {
+        "text": "10.",
+        "start": 130.602,
+        "end": 131.222
+      },
+      {
+        "text": "No.",
+        "start": 131.242,
+        "end": 131.382
+      },
+      {
+        "text": "10 minus 4 equals 6.",
+        "start": 131.403,
+        "end": 141.655
+      },
+      {
+        "text": "10 minus 3 is 7.",
+        "start": 141.675,
+        "end": 145.8
+      },
+      {
+        "text": " So how do you do it?",
+        "start": 146.978,
+        "end": 148.04
+      },
+      {
+        "text": "15 equals 11.",
+        "start": 148.06,
+        "end": 157.654
+      },
+      {
+        "text": "Equals 11.",
+        "start": 157.674,
+        "end": 160.599
+      },
+      {
+        "text": "Now, 4 plus 3 equals 9.",
+        "start": 160.619,
+        "end": 167.409
+      },
+      {
+        "text": "Or no, 4 plus 3 equals 7.",
+        "start": 167.429,
+        "end": 169.733
+      },
+      {
+        "text": "10.",
+        "start": 169.773,
+        "end": 173.138
+      },
+      {
+        "text": " 15.",
+        "start": 176.189,
+        "end": 177.07
+      },
+      {
+        "text": "I don't know.",
+        "start": 177.09,
+        "end": 178.872
+      },
+      {
+        "text": "What the heck?",
+        "start": 178.932,
+        "end": 180.093
+      },
+      {
+        "text": "This is so confusing.",
+        "start": 180.654,
+        "end": 182.075
+      },
+      {
+        "text": "4.",
+        "start": 182.095,
+        "end": 184.678
+      },
+      {
+        "text": "Let's do 6 plus 2.",
+        "start": 184.698,
+        "end": 186.62
+      },
+      {
+        "text": "6, 7, 8, 9.",
+        "start": 186.64,
+        "end": 188.081
+      },
+      {
+        "text": "10.",
+        "start": 188.202,
+        "end": 188.622
+      },
+      {
+        "text": "4.",
+        "start": 188.642,
+        "end": 188.682
+      },
+      {
+        "text": "6 plus 3 is 9.",
+        "start": 190.344,
+        "end": 199.353
+      },
+      {
+        "text": "No.",
+        "start": 200.374,
+        "end": 203.718
+      },
+      {
+        "text": "15.",
+        "start": 203.738,
+        "end": 203.918
+      },
+      {
+        "text": " 15 minus, all right, five minus two, no, five minus two, no, 10 equal four.",
+        "start": 206.395,
+        "end": 226.806
+      },
+      {
+        "text": "No, 10 plus five is 15, 10 minus five is five.",
+        "start": 228.648,
+        "end": 233.736
+      },
+      {
+        "text": " So what is this?",
+        "start": 234.745,
+        "end": 235.752
+      },
+      {
+        "text": "There's just no way to do it.",
+        "start": 235.833,
+        "end": 237.324
+      },
+      {
+        "text": "There's no way to do it.",
+        "start": 237.505,
+        "end": 238.815
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can't do it. You can't do it. It's impossible. Alright, let's try this one. 11 equals 4 plus 2. So, let's see. 4 plus...no. 5...6 plus 3... 6 plus 3 equals 9. So 10. Let's do 12 minus 6. No, 10. 10. 10 minus 6 equals 3. 10 minus 6 equals 3. No. 10. No. And you only can move one, and this is dumb. One. All right, five. Let's do 10. 10 minus 4 equals 5. No, 10 minus 4 equals 6. So 10, 1, 2, oh, OK. But you still can only move, all right, let's see, 10, 10 minus 10 minus 5 equals 5. 10 minus 6 equals 4. So 10, again, that's the same thing. 10. No. 10 minus 4 equals 6. 10 minus 3 is 7. So how do you do it? 15 equals 11. Equals 11. Now, 4 plus 3 equals 9. Or no, 4 plus 3 equals 7. 10. 15. I don't know. What the heck? This is so confusing. 4. Let's do 6 plus 2. 6, 7, 8, 9. 10. 4. 6 plus 3 is 9. No. 15. 15 minus, all right, five minus two, no, five minus two, no, 10 equal four. No, 10 plus five is 15, 10 minus five is five. So what is this? There's just no way to do it. There's no way to do it."
+  }
+}

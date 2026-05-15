@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_9064e70ac7ce/trial_2.wav",
+  "with_timestamps": {
+    "text": " equals nine minus two, so two equals eight.So, two equals nine minus two.Oh man, it's a seven there, I'm sorry.Okay, if I do two equals nine minus seven, 2 equals 9 minus 2 was the original equation, which is 7.2 equals 7.What if I change this into 2 equals 10 minus 3?No.If I move the first matchstick on the right to the other side, it could be 3 equals 10 minus 2.That's still 8.It does not work. 1 equals 10 minus 3.9 minus 3, no.Are you sure these are solvable? I have a 2 on the left, and I have 9 minus 2 on the right for a 7.I have one matchstick.If I take one from the left, I end up with 1.1 equals, I mean, it had to be 9 minus 2. Well, I can make that x into a v. I move one, that's going to be 4 minus 2 equals 4 minus 2.Okay.Move the x, make the x into a v. So, it's going to be, 2 equals that, okay, it's going to be 1 V, that moves that X into a V, moving one matchstick minus 2.",
+    "segments": [
+      {
+        "text": " equals nine minus two, so two equals eight.",
+        "start": 2.714,
+        "end": 6.579
+      },
+      {
+        "text": "So, two equals nine minus two.",
+        "start": 10.544,
+        "end": 19.454
+      },
+      {
+        "text": "Oh man, it's a seven there, I'm sorry.",
+        "start": 21.917,
+        "end": 25.962
+      },
+      {
+        "text": "Okay, if I do two equals nine minus seven,",
+        "start": 25.982,
+        "end": 30.628
+      },
+      {
+        "text": " 2 equals 9 minus 2 was the original equation, which is 7.",
+        "start": 31.385,
+        "end": 34.428
+      },
+      {
+        "text": "2 equals 7.",
+        "start": 34.448,
+        "end": 35.409
+      },
+      {
+        "text": "What if I change this into 2 equals 10 minus 3?",
+        "start": 37.351,
+        "end": 45.038
+      },
+      {
+        "text": "No.",
+        "start": 45.399,
+        "end": 45.719
+      },
+      {
+        "text": "If I move the first matchstick on the right to the other side, it could be 3 equals 10 minus 2.",
+        "start": 50.103,
+        "end": 56.009
+      },
+      {
+        "text": "That's still 8.",
+        "start": 56.029,
+        "end": 56.69
+      },
+      {
+        "text": "It does not work.",
+        "start": 56.71,
+        "end": 61.054
+      },
+      {
+        "text": " 1 equals 10 minus 3.",
+        "start": 67.7,
+        "end": 74.45
+      },
+      {
+        "text": "9 minus 3, no.",
+        "start": 74.47,
+        "end": 78.236
+      },
+      {
+        "text": "Are you sure these are solvable?",
+        "start": 88.352,
+        "end": 93.64
+      },
+      {
+        "text": " I have a 2 on the left, and I have 9 minus 2 on the right for a 7.",
+        "start": 94.345,
+        "end": 98.089
+      },
+      {
+        "text": "I have one matchstick.",
+        "start": 98.109,
+        "end": 105.698
+      },
+      {
+        "text": "If I take one from the left, I end up with 1.",
+        "start": 105.758,
+        "end": 107.941
+      },
+      {
+        "text": "1 equals, I mean, it had to be 9 minus 2.",
+        "start": 107.961,
+        "end": 121.737
+      },
+      {
+        "text": " Well, I can make that x into a v. I move one, that's going to be 4 minus 2 equals 4 minus 2.",
+        "start": 123.708,
+        "end": 148.923
+      },
+      {
+        "text": "Okay.",
+        "start": 149.103,
+        "end": 149.443
+      },
+      {
+        "text": "Move the x, make the x into a v. So, it's going to be,",
+        "start": 149.463,
+        "end": 152.888
+      },
+      {
+        "text": " 2 equals that, okay, it's going to be 1 V, that moves that X into a V, moving one matchstick minus 2.",
+        "start": 153.104,
+        "end": 167.232
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " equals nine minus two, so two equals eight. So, two equals nine minus two. Oh man, it's a seven there, I'm sorry. Okay, if I do two equals nine minus seven, 2 equals 9 minus 2 was the original equation, which is 7. 2 equals 7. What if I change this into 2 equals 10 minus 3? No. If I move the first matchstick on the right to the other side, it could be 3 equals 10 minus 2. That's still 8. It does not work. 1 equals 10 minus 3. 9 minus 3, no. Are you sure these are solvable? I have a 2 on the left, and I have 9 minus 2 on the right for a 7. I have one matchstick. If I take one from the left, I end up with 1. 1 equals, I mean, it had to be 9 minus 2. Well, I can make that x into a v. I move one, that's going to be 4 minus 2 equals 4 minus 2. Okay. Move the x, make the x into a v. So, it's going to be, 2 equals that, okay, it's going to be 1 V, that moves that X into a V, moving one matchstick minus 2."
+  }
+}

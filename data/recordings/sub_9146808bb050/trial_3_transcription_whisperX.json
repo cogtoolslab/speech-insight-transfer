@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_9146808bb050/trial_3.wav",
+  "with_timestamps": {
+    "text": " this is insane 4 equals 6 plus 4 that's 10 so if that's 10 total equals 4 then you have to do then you have to do 7 Minus.Oh, I got this one.I got this one.I got this one.I got this one.I got.Yes.Minus four.This is it.",
+    "segments": [
+      {
+        "text": " this is insane 4 equals 6 plus 4 that's 10 so if that's 10 total equals 4 then you have to do then you have to do 7",
+        "start": 3.895,
+        "end": 33.328
+      },
+      {
+        "text": " Minus.",
+        "start": 36.059,
+        "end": 36.602
+      },
+      {
+        "text": "Oh, I got this one.",
+        "start": 39.517,
+        "end": 40.683
+      },
+      {
+        "text": "I got this one.",
+        "start": 40.703,
+        "end": 41.166
+      },
+      {
+        "text": "I got this one.",
+        "start": 41.186,
+        "end": 41.608
+      },
+      {
+        "text": "I got this one.",
+        "start": 41.628,
+        "end": 42.111
+      },
+      {
+        "text": "I got.",
+        "start": 42.131,
+        "end": 42.372
+      },
+      {
+        "text": "Yes.",
+        "start": 42.714,
+        "end": 42.915
+      },
+      {
+        "text": "Minus four.",
+        "start": 47.418,
+        "end": 48.263
+      },
+      {
+        "text": "This is it.",
+        "start": 48.404,
+        "end": 48.685
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " this is insane 4 equals 6 plus 4 that's 10 so if that's 10 total equals 4 then you have to do then you have to do 7 Minus. Oh, I got this one. I got this one. I got this one. I got this one. I got. Yes. Minus four. This is it."
+  }
+}

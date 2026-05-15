@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_93d81c85849e/trial_5.wav",
+  "with_timestamps": {
+    "text": " Alright, next problem.So we have a 4 equals 7 plus 4.Okay, so off the rip, the 4 is already significantly smaller than what we have on the right, so we'll probably be subtracting over here.Alright, so Okay.So I'm thinking we can do eight minus four.So yeah, it's super easy.It's just a minus four.So four equals V three minus four.",
+    "segments": [
+      {
+        "text": " Alright, next problem.",
+        "start": 1.938,
+        "end": 3.561
+      },
+      {
+        "text": "So we have a 4 equals 7 plus 4.",
+        "start": 3.581,
+        "end": 7.909
+      },
+      {
+        "text": "Okay, so off the rip, the 4 is already significantly smaller than what we have on the right, so we'll probably be subtracting over here.",
+        "start": 8.751,
+        "end": 18.028
+      },
+      {
+        "text": "Alright, so",
+        "start": 19.13,
+        "end": 20.132
+      },
+      {
+        "text": " Okay.",
+        "start": 22.846,
+        "end": 23.549
+      },
+      {
+        "text": "So I'm thinking we can do eight minus four.",
+        "start": 23.569,
+        "end": 26.198
+      },
+      {
+        "text": "So yeah, it's super easy.",
+        "start": 26.519,
+        "end": 27.945
+      },
+      {
+        "text": "It's just a minus four.",
+        "start": 27.965,
+        "end": 28.808
+      },
+      {
+        "text": "So four equals V three minus four.",
+        "start": 29.35,
+        "end": 38.965
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, next problem. So we have a 4 equals 7 plus 4. Okay, so off the rip, the 4 is already significantly smaller than what we have on the right, so we'll probably be subtracting over here. Alright, so Okay. So I'm thinking we can do eight minus four. So yeah, it's super easy. It's just a minus four. So four equals V three minus four."
+  }
+}

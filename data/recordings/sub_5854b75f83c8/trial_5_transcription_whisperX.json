@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_5854b75f83c8/trial_5.wav",
+  "with_timestamps": {
+    "text": " same type of equation here.All I have to do is change the plus to an equal sign.So that would be 1V equals 1V equals 1V.I have to go back and fix this because of double click issues.",
+    "segments": [
+      {
+        "text": " same type of equation here.",
+        "start": 1.702,
+        "end": 4.749
+      },
+      {
+        "text": "All I have to do is change the plus to an equal sign.",
+        "start": 4.949,
+        "end": 7.495
+      },
+      {
+        "text": "So that would be 1V equals 1V equals 1V.",
+        "start": 8.397,
+        "end": 15.412
+      },
+      {
+        "text": "I have to go back and fix this because of double click issues.",
+        "start": 15.813,
+        "end": 20.503
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " same type of equation here. All I have to do is change the plus to an equal sign. So that would be 1V equals 1V equals 1V. I have to go back and fix this because of double click issues."
+  }
+}

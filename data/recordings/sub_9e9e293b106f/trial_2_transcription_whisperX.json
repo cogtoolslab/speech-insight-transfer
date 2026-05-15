@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_9e9e293b106f/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, let me look at this one right now.It reads 2 equals 11 minus 7.Well obviously, that's not right.So what happens if I... Move this over, the X over, and then it becomes 9 minus 7, yeah.And that would be 2.So that should be fairly easy.Move the 1 in front of the X minus, and then keep everything else the same, because that's the only move.",
+    "segments": [
+      {
+        "text": " Okay, let me look at this one right now.",
+        "start": 1.55,
+        "end": 3.052
+      },
+      {
+        "text": "It reads 2 equals 11 minus 7.",
+        "start": 3.072,
+        "end": 15.048
+      },
+      {
+        "text": "Well obviously, that's not right.",
+        "start": 15.068,
+        "end": 17.952
+      },
+      {
+        "text": "So what happens if I...",
+        "start": 19.334,
+        "end": 21.617
+      },
+      {
+        "text": " Move this over, the X over, and then it becomes 9 minus 7, yeah.",
+        "start": 24.77,
+        "end": 32.732
+      },
+      {
+        "text": "And that would be 2.",
+        "start": 32.833,
+        "end": 34.076
+      },
+      {
+        "text": "So that should be fairly easy.",
+        "start": 35.259,
+        "end": 37.105
+      },
+      {
+        "text": "Move the 1 in front of the X minus, and then keep everything else the same, because that's the only move.",
+        "start": 37.145,
+        "end": 46.17
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let me look at this one right now. It reads 2 equals 11 minus 7. Well obviously, that's not right. So what happens if I... Move this over, the X over, and then it becomes 9 minus 7, yeah. And that would be 2. So that should be fairly easy. Move the 1 in front of the X minus, and then keep everything else the same, because that's the only move."
+  }
+}

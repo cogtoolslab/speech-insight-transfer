@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_f66303b0a1c5/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, so this is six equals four minus two.It would have to be four times two.So you'd say VI equals IV times dot dot.Maybe I need to put a space, nope, no spaces.Submit.That is incorrect.Okay, so four minus two is two. so six oh that's easy vr equals vr minus one one submit no vr space there's no space but 6 equals...oh yeah, I didn't do that right, that didn't make sense.It has to be a 4, which means you have to move the other one to IV.Like...I...like...delete...delete.IV equals VI minus 11.Submit.Nope.Okay, um...so I see that's a 6. There's really no way to do that.6 minus 2 is 4.So I'm moving it.Or I take this one over here.And it's 5 equals 6 minus 3.I mean 4 minus 3 is 1.Or 3 minus 2 is 1.It's still 5 over there. So if I took the 5 over here, and I said 1 equals 4 minus, does that work?1 equals IV minus IIV.Nope, it didn't work.Okay, so if I took the 5, I'm going to say 1. That does work.If I take the sign, that's 1.1 equals 4 minus iiv.That would be a 3.4 minus 3 is 1.That should work.Right?i equals iv minus So, you can't use the plus sign.So, let's look at the V over here.That's 11 equals 1 minus 2. Yeah, like a negative 9 or something like that.That doesn't work.You have to add the V over here after the 2.But why isn't it taking it?Oh, because it would be a negative.I got it.",
+    "segments": [
+      {
+        "text": " Okay, so this is six equals four minus two.",
+        "start": 1.786,
+        "end": 7.554
+      },
+      {
+        "text": "It would have to be four times two.",
+        "start": 7.574,
+        "end": 8.756
+      },
+      {
+        "text": "So you'd say VI equals IV times dot dot.",
+        "start": 9.236,
+        "end": 14.784
+      },
+      {
+        "text": "Maybe I need to put a space, nope, no spaces.",
+        "start": 17.908,
+        "end": 20.792
+      },
+      {
+        "text": "Submit.",
+        "start": 20.813,
+        "end": 21.153
+      },
+      {
+        "text": "That is incorrect.",
+        "start": 21.814,
+        "end": 22.695
+      },
+      {
+        "text": "Okay, so four minus two is two.",
+        "start": 25.239,
+        "end": 29.785
+      },
+      {
+        "text": " so six oh that's easy vr equals vr minus one one submit no vr space there's no space but",
+        "start": 32.296,
+        "end": 56.042
+      },
+      {
+        "text": " 6 equals...oh yeah, I didn't do that right, that didn't make sense.",
+        "start": 63.447,
+        "end": 67.511
+      },
+      {
+        "text": "It has to be a 4, which means you have to move the other one to IV.",
+        "start": 68.472,
+        "end": 71.314
+      },
+      {
+        "text": "Like...I...like...delete...delete.",
+        "start": 72.155,
+        "end": 79.182
+      },
+      {
+        "text": "IV equals VI minus 11.",
+        "start": 79.202,
+        "end": 84.347
+      },
+      {
+        "text": "Submit.",
+        "start": 84.987,
+        "end": 85.608
+      },
+      {
+        "text": "Nope.",
+        "start": 85.628,
+        "end": 87.089
+      },
+      {
+        "text": "Okay, um...so I see that's a 6.",
+        "start": 87.109,
+        "end": 91.193
+      },
+      {
+        "text": " There's really no way to do that.",
+        "start": 95.982,
+        "end": 97.344
+      },
+      {
+        "text": "6 minus 2 is 4.",
+        "start": 97.364,
+        "end": 102.051
+      },
+      {
+        "text": "So I'm moving it.",
+        "start": 102.071,
+        "end": 106.798
+      },
+      {
+        "text": "Or I take this one over here.",
+        "start": 106.818,
+        "end": 108.059
+      },
+      {
+        "text": "And it's 5 equals 6 minus 3.",
+        "start": 108.1,
+        "end": 114.969
+      },
+      {
+        "text": "I mean 4 minus 3 is 1.",
+        "start": 114.989,
+        "end": 118.034
+      },
+      {
+        "text": "Or 3 minus 2 is 1.",
+        "start": 118.074,
+        "end": 123.582
+      },
+      {
+        "text": "It's still 5 over there.",
+        "start": 123.782,
+        "end": 125.044
+      },
+      {
+        "text": " So if I took the 5 over here, and I said 1 equals 4 minus, does that work?",
+        "start": 126.273,
+        "end": 135.683
+      },
+      {
+        "text": "1 equals IV minus IIV.",
+        "start": 136.624,
+        "end": 142.851
+      },
+      {
+        "text": "Nope, it didn't work.",
+        "start": 142.871,
+        "end": 146.354
+      },
+      {
+        "text": "Okay, so if I took the 5, I'm going to say 1.",
+        "start": 146.374,
+        "end": 154.643
+      },
+      {
+        "text": " That does work.",
+        "start": 157.745,
+        "end": 162.811
+      },
+      {
+        "text": "If I take the sign, that's 1.",
+        "start": 163.792,
+        "end": 165.013
+      },
+      {
+        "text": "1 equals 4 minus iiv.",
+        "start": 165.033,
+        "end": 169.839
+      },
+      {
+        "text": "That would be a 3.",
+        "start": 169.859,
+        "end": 172.162
+      },
+      {
+        "text": "4 minus 3 is 1.",
+        "start": 172.182,
+        "end": 173.884
+      },
+      {
+        "text": "That should work.",
+        "start": 174.705,
+        "end": 178.028
+      },
+      {
+        "text": "Right?",
+        "start": 178.048,
+        "end": 178.389
+      },
+      {
+        "text": "i equals iv minus",
+        "start": 178.909,
+        "end": 187.279
+      },
+      {
+        "text": " So, you can't use the plus sign.",
+        "start": 188.356,
+        "end": 201.812
+      },
+      {
+        "text": "So, let's look at the V over here.",
+        "start": 207.379,
+        "end": 210.402
+      },
+      {
+        "text": "That's 11 equals 1 minus 2.",
+        "start": 210.442,
+        "end": 217.671
+      },
+      {
+        "text": " Yeah, like a negative 9 or something like that.",
+        "start": 218.14,
+        "end": 221.005
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 222.206,
+        "end": 222.928
+      },
+      {
+        "text": "You have to add the V over here after the 2.",
+        "start": 224.53,
+        "end": 227.655
+      },
+      {
+        "text": "But why isn't it taking it?",
+        "start": 232.182,
+        "end": 233.545
+      },
+      {
+        "text": "Oh, because it would be a negative.",
+        "start": 235.768,
+        "end": 237.09
+      },
+      {
+        "text": "I got it.",
+        "start": 237.19,
+        "end": 237.651
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this is six equals four minus two. It would have to be four times two. So you'd say VI equals IV times dot dot. Maybe I need to put a space, nope, no spaces. Submit. That is incorrect. Okay, so four minus two is two. so six oh that's easy vr equals vr minus one one submit no vr space there's no space but 6 equals...oh yeah, I didn't do that right, that didn't make sense. It has to be a 4, which means you have to move the other one to IV. Like...I...like...delete...delete. IV equals VI minus 11. Submit. Nope. Okay, um...so I see that's a 6. There's really no way to do that. 6 minus 2 is 4. So I'm moving it. Or I take this one over here. And it's 5 equals 6 minus 3. I mean 4 minus 3 is 1. Or 3 minus 2 is 1. It's still 5 over there. So if I took the 5 over here, and I said 1 equals 4 minus, does that work? 1 equals IV minus IIV. Nope, it didn't work. Okay, so if I took the 5, I'm going to say 1. That does work. If I take the sign, that's 1. 1 equals 4 minus iiv. That would be a 3. 4 minus 3 is 1. That should work. Right? i equals iv minus So, you can't use the plus sign. So, let's look at the V over here. That's 11 equals 1 minus 2. Yeah, like a negative 9 or something like that. That doesn't work. You have to add the V over here after the 2. But why isn't it taking it? Oh, because it would be a negative. I got it."
+  }
+}

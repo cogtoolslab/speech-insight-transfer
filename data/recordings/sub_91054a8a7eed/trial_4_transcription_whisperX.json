@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_91054a8a7eed/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right.Let's see.We're at four equals four minus two.Well, that's not right.That's actually two.So we're going to do four equals.I don't think I can actually fix this.Yeah.I don't think unless I do. I do 6 minus 2, 4 equals 6 minus 2.Yeah.So I can do 4 equals 6 minus 2.I can move this one matchstick to the other side of the V or the 5.So 4 equals 6 minus 2.Easy peasy.",
+    "segments": [
+      {
+        "text": " All right.",
+        "start": 0.858,
+        "end": 1.159
+      },
+      {
+        "text": "Let's see.",
+        "start": 1.179,
+        "end": 1.519
+      },
+      {
+        "text": "We're at four equals four minus two.",
+        "start": 1.559,
+        "end": 4.205
+      },
+      {
+        "text": "Well, that's not right.",
+        "start": 4.225,
+        "end": 4.846
+      },
+      {
+        "text": "That's actually two.",
+        "start": 4.866,
+        "end": 5.687
+      },
+      {
+        "text": "So we're going to do four equals.",
+        "start": 5.768,
+        "end": 9.735
+      },
+      {
+        "text": "I don't think I can actually fix this.",
+        "start": 11.779,
+        "end": 14.344
+      },
+      {
+        "text": "Yeah.",
+        "start": 14.364,
+        "end": 14.585
+      },
+      {
+        "text": "I don't think unless I do.",
+        "start": 14.605,
+        "end": 16.268
+      },
+      {
+        "text": " I do 6 minus 2, 4 equals 6 minus 2.",
+        "start": 18.188,
+        "end": 22.104
+      },
+      {
+        "text": "Yeah.",
+        "start": 22.304,
+        "end": 22.405
+      },
+      {
+        "text": "So I can do 4 equals 6 minus 2.",
+        "start": 22.425,
+        "end": 23.871
+      },
+      {
+        "text": "I can move this one matchstick to the other side of the V or the 5.",
+        "start": 23.931,
+        "end": 27.505
+      },
+      {
+        "text": "So 4 equals 6 minus 2.",
+        "start": 27.585,
+        "end": 32.766
+      },
+      {
+        "text": "Easy peasy.",
+        "start": 32.786,
+        "end": 33.328
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right. Let's see. We're at four equals four minus two. Well, that's not right. That's actually two. So we're going to do four equals. I don't think I can actually fix this. Yeah. I don't think unless I do. I do 6 minus 2, 4 equals 6 minus 2. Yeah. So I can do 4 equals 6 minus 2. I can move this one matchstick to the other side of the V or the 5. So 4 equals 6 minus 2. Easy peasy."
+  }
+}

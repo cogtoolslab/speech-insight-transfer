@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_71fc70db9a34/trial_2.wav",
+  "with_timestamps": {
+    "text": " For this next equation, we have 3 equals 11 minus 3.So we could change that into 9 minus 3, but that's still 6.So that doesn't work.We could turn it into 6 minus 3.So 3 on the left equals, turn that x into a v, i.",
+    "segments": [
+      {
+        "text": " For this next equation, we have 3 equals 11 minus 3.",
+        "start": 0.031,
+        "end": 7.378
+      },
+      {
+        "text": "So we could change that into 9 minus 3, but that's still 6.",
+        "start": 10.781,
+        "end": 15.605
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 16.406,
+        "end": 17.267
+      },
+      {
+        "text": "We could turn it into 6 minus 3.",
+        "start": 21.071,
+        "end": 22.972
+      },
+      {
+        "text": "So 3 on the left equals, turn that x into a v, i.",
+        "start": 22.992,
+        "end": 26.916
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " For this next equation, we have 3 equals 11 minus 3. So we could change that into 9 minus 3, but that's still 6. So that doesn't work. We could turn it into 6 minus 3. So 3 on the left equals, turn that x into a v, i."
+  }
+}

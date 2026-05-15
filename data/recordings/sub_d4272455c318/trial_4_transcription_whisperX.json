@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_d4272455c318/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, so we got three matches equals to 3 plus 3.OK.So it could easily be.OK, so we could do that's 3 plus 3, which equals 6.So we got to change the equal.Hmm. What can we subtract to make three?Oh, six.So we can, let's try to change this one to six.So we can go one, one, one is equal to, oh, it's just equal.Cause you can do one, one, one is equal to, Because it's equal to the same thing.Let's try 111 is equal to 111, which is equal to 111, I think.",
+    "segments": [
+      {
+        "text": " OK, so we got three matches equals to 3 plus 3.",
+        "start": 8.435,
+        "end": 11.399
+      },
+      {
+        "text": "OK.",
+        "start": 13.883,
+        "end": 14.304
+      },
+      {
+        "text": "So it could easily be.",
+        "start": 16.707,
+        "end": 18.95
+      },
+      {
+        "text": "OK, so we could do that's 3 plus 3, which equals 6.",
+        "start": 18.97,
+        "end": 30.187
+      },
+      {
+        "text": "So we got to change the equal.",
+        "start": 30.768,
+        "end": 32.59
+      },
+      {
+        "text": "Hmm.",
+        "start": 34.994,
+        "end": 35.134
+      },
+      {
+        "text": " What can we subtract to make three?",
+        "start": 36.92,
+        "end": 38.603
+      },
+      {
+        "text": "Oh, six.",
+        "start": 40.165,
+        "end": 42.849
+      },
+      {
+        "text": "So we can, let's try to change this one to six.",
+        "start": 42.909,
+        "end": 45.413
+      },
+      {
+        "text": "So we can go one, one, one is equal to, oh, it's just equal.",
+        "start": 46.935,
+        "end": 61.757
+      },
+      {
+        "text": "Cause you can do one, one, one is equal to,",
+        "start": 62.719,
+        "end": 66.184
+      },
+      {
+        "text": " Because it's equal to the same thing.",
+        "start": 67.345,
+        "end": 68.995
+      },
+      {
+        "text": "Let's try 111 is equal to 111, which is equal to 111, I think.",
+        "start": 69.035,
+        "end": 77.001
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so we got three matches equals to 3 plus 3. OK. So it could easily be. OK, so we could do that's 3 plus 3, which equals 6. So we got to change the equal. Hmm. What can we subtract to make three? Oh, six. So we can, let's try to change this one to six. So we can go one, one, one is equal to, oh, it's just equal. Cause you can do one, one, one is equal to, Because it's equal to the same thing. Let's try 111 is equal to 111, which is equal to 111, I think."
+  }
+}

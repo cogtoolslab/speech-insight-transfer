@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_59b367bae56c/trial_5_fixed.wav",
+  "participant_id": "sub_59b367bae56c",
+  "trial_number": 5,
+  "speech_segments": [
+    {
+      "start": 1.314,
+      "end": 4.19,
+      "duration": 2.876,
+      "lexical": true
+    },
+    {
+      "start": 9.538,
+      "end": 12.222,
+      "duration": 2.684,
+      "lexical": true
+    }
+  ],
+  "silence_segments": [
+    {
+      "start": 0.0,
+      "end": 1.314,
+      "duration": 1.314
+    },
+    {
+      "start": 4.19,
+      "end": 9.538,
+      "duration": 5.348
+    },
+    {
+      "start": 12.222,
+      "end": 19.3,
+      "duration": 7.078
+    }
+  ]
+}

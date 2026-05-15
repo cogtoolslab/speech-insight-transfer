@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_6f9562b65f45/trial_4.wav",
+  "with_timestamps": {
+    "text": " Now what is this?4 equals 7 plus 4.And I can only move what I have up here. Okay, so I can put four.Or.Hmm. 4 plus 2 equals 6. C, six equals two plus four, wrong answer.Four, seven and four.Eight, four.Seven, four and four.Make this eight. It still doesn't make sense that way.Either way, you can only move one matchstick, but it just doesn't make sense.If I make that eight, then that'll still be five on this side and I still only have four at the end.If I make it six at the end, I'll still have seven and four.If I move this around and make it six, then I'll have seven and six.None of this is making sense.I'm starting to feel like they know this doesn't make sense, but they just not saying anything. Hell, and they not telling me the answers either.Make it make sense.Make it make sense.Make it make sense.Make it make sense. They will not show me these fucking answers.Four, seven, and four.",
+    "segments": [
+      {
+        "text": " Now what is this?",
+        "start": 5.347,
+        "end": 6.369
+      },
+      {
+        "text": "4 equals 7 plus 4.",
+        "start": 6.389,
+        "end": 11.92
+      },
+      {
+        "text": "And I can only move what I have up here.",
+        "start": 11.96,
+        "end": 20.537
+      },
+      {
+        "text": " Okay, so I can put four.",
+        "start": 33.443,
+        "end": 36.766
+      },
+      {
+        "text": "Or.",
+        "start": 42.893,
+        "end": 43.353
+      },
+      {
+        "text": "Hmm.",
+        "start": 59.59,
+        "end": 59.67
+      },
+      {
+        "text": " 4 plus 2 equals 6.",
+        "start": 77.082,
+        "end": 82.705
+      },
+      {
+        "text": " C, six equals two plus four, wrong answer.",
+        "start": 104.707,
+        "end": 110.193
+      },
+      {
+        "text": "Four, seven and four.",
+        "start": 118.123,
+        "end": 120.105
+      },
+      {
+        "text": "Eight, four.",
+        "start": 120.165,
+        "end": 122.448
+      },
+      {
+        "text": "Seven, four and four.",
+        "start": 123.789,
+        "end": 125.151
+      },
+      {
+        "text": "Make this eight.",
+        "start": 131.799,
+        "end": 132.84
+      },
+      {
+        "text": " It still doesn't make sense that way.",
+        "start": 135.757,
+        "end": 138.019
+      },
+      {
+        "text": "Either way, you can only move one matchstick, but it just doesn't make sense.",
+        "start": 149.93,
+        "end": 154.074
+      },
+      {
+        "text": "If I make that eight, then that'll still be five on this side and I still only have four at the end.",
+        "start": 156.176,
+        "end": 162.041
+      },
+      {
+        "text": "If I make it",
+        "start": 163.622,
+        "end": 164.363
+      },
+      {
+        "text": " six at the end, I'll still have seven and four.",
+        "start": 164.95,
+        "end": 172.263
+      },
+      {
+        "text": "If I move this around and make it six, then I'll have seven and six.",
+        "start": 177.772,
+        "end": 181.699
+      },
+      {
+        "text": "None of this is making sense.",
+        "start": 183.522,
+        "end": 185.145
+      },
+      {
+        "text": "I'm starting to feel like they know this doesn't make sense, but they just not saying anything.",
+        "start": 186.126,
+        "end": 190.654
+      },
+      {
+        "text": " Hell, and they not telling me the answers either.",
+        "start": 202.582,
+        "end": 205.445
+      },
+      {
+        "text": "Make it make sense.",
+        "start": 205.485,
+        "end": 216.058
+      },
+      {
+        "text": "Make it make sense.",
+        "start": 220.083,
+        "end": 221.364
+      },
+      {
+        "text": "Make it make sense.",
+        "start": 221.925,
+        "end": 223.427
+      },
+      {
+        "text": "Make it make sense.",
+        "start": 228.513,
+        "end": 228.893
+      },
+      {
+        "text": " They will not show me these fucking answers.",
+        "start": 233.834,
+        "end": 236.149
+      },
+      {
+        "text": "Four, seven, and four.",
+        "start": 237.94,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Now what is this? 4 equals 7 plus 4. And I can only move what I have up here. Okay, so I can put four. Or. Hmm. 4 plus 2 equals 6. C, six equals two plus four, wrong answer. Four, seven and four. Eight, four. Seven, four and four. Make this eight. It still doesn't make sense that way. Either way, you can only move one matchstick, but it just doesn't make sense. If I make that eight, then that'll still be five on this side and I still only have four at the end. If I make it six at the end, I'll still have seven and four. If I move this around and make it six, then I'll have seven and six. None of this is making sense. I'm starting to feel like they know this doesn't make sense, but they just not saying anything. Hell, and they not telling me the answers either. Make it make sense. Make it make sense. Make it make sense. Make it make sense. They will not show me these fucking answers. Four, seven, and four."
+  }
+}

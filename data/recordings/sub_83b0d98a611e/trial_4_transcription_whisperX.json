@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_83b0d98a611e/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, three equals to 13 plus nine.So let me try to figure out exactly what I should do to make this equal. That's not going to be correct.What in the hell are you asking me for? I'm not seeing it.One matchstick. I guess I'm just not good at these kind of puzzles because I'm not seeing what I'm supposed to do with this.I'm not seeing it. Is it this?No. Yeah, I'm just not good at these puzzles because I don't understand this one either.",
+    "segments": [
+      {
+        "text": " Okay, three equals to 13 plus nine.",
+        "start": 1.651,
+        "end": 6.076
+      },
+      {
+        "text": "So let me try to figure out exactly what I should do to make this equal.",
+        "start": 12.383,
+        "end": 24.857
+      },
+      {
+        "text": " That's not going to be correct.",
+        "start": 51.128,
+        "end": 58.231
+      },
+      {
+        "text": "What in the hell are you asking me for?",
+        "start": 60.519,
+        "end": 62.826
+      },
+      {
+        "text": " I'm not seeing it.",
+        "start": 84.22,
+        "end": 85.227
+      },
+      {
+        "text": "One matchstick.",
+        "start": 87.283,
+        "end": 88.29
+      },
+      {
+        "text": " I guess I'm just not good at these kind of puzzles because I'm not seeing what I'm supposed to do with this.",
+        "start": 130.458,
+        "end": 138.075
+      },
+      {
+        "text": "I'm not seeing it.",
+        "start": 148.858,
+        "end": 149.8
+      },
+      {
+        "text": " Is it this?",
+        "start": 207.509,
+        "end": 208.131
+      },
+      {
+        "text": "No.",
+        "start": 220.066,
+        "end": 220.708
+      },
+      {
+        "text": " Yeah, I'm just not good at these puzzles because I don't understand this one either.",
+        "start": 233.733,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, three equals to 13 plus nine. So let me try to figure out exactly what I should do to make this equal. That's not going to be correct. What in the hell are you asking me for? I'm not seeing it. One matchstick. I guess I'm just not good at these kind of puzzles because I'm not seeing what I'm supposed to do with this. I'm not seeing it. Is it this? No. Yeah, I'm just not good at these puzzles because I don't understand this one either."
+  }
+}

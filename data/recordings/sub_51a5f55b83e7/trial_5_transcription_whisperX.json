@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_51a5f55b83e7/trial_5.wav",
+  "with_timestamps": {
+    "text": " 9 equals 9 plus 9.Hmm. 9 equals 9 plus 9.How about this?11.No, that's not correct. 18 equals 9.X. I would say. It would have to be a minus thing going on.Wait, can I take the matchstick and turn it into a five? You know what, I probably could.That would have made a lot more sense.I feel like I obviously severely underestimated the capabilities of how I can move the matchsticks.Yeah, you told me, but I think a visual probably would have been helpful too.If I move that there... 4 plus 9.This is not right, obviously.That's 4 plus 9 does not equal 9.So it has to be minus. Would be five.Okay, minus that.V and X together is not an actual Roman numeral.I don't know. I don't know.",
+    "segments": [
+      {
+        "text": " 9 equals 9 plus 9.",
+        "start": 2.275,
+        "end": 12.688
+      },
+      {
+        "text": "Hmm.",
+        "start": 22.381,
+        "end": 22.461
+      },
+      {
+        "text": " 9 equals 9 plus 9.",
+        "start": 35.654,
+        "end": 37.577
+      },
+      {
+        "text": "How about this?",
+        "start": 37.597,
+        "end": 43.766
+      },
+      {
+        "text": "11.",
+        "start": 43.786,
+        "end": 57.026
+      },
+      {
+        "text": "No, that's not correct.",
+        "start": 57.066,
+        "end": 65.138
+      },
+      {
+        "text": " 18 equals 9.",
+        "start": 78.432,
+        "end": 80.314
+      },
+      {
+        "text": "X. I would say.",
+        "start": 96.393,
+        "end": 105.503
+      },
+      {
+        "text": " It would have to be a minus thing going on.",
+        "start": 109.6,
+        "end": 112.184
+      },
+      {
+        "text": "Wait, can I take the matchstick and turn it into a five?",
+        "start": 125.645,
+        "end": 131.895
+      },
+      {
+        "text": " You know what, I probably could.",
+        "start": 136.6,
+        "end": 137.983
+      },
+      {
+        "text": "That would have made a lot more sense.",
+        "start": 138.043,
+        "end": 139.686
+      },
+      {
+        "text": "I feel like I obviously severely underestimated the capabilities of how I can move the matchsticks.",
+        "start": 139.766,
+        "end": 146.077
+      },
+      {
+        "text": "Yeah, you told me, but I think a visual probably would have been helpful too.",
+        "start": 148.943,
+        "end": 152.649
+      },
+      {
+        "text": "If I move that there...",
+        "start": 152.669,
+        "end": 160.684
+      },
+      {
+        "text": " 4 plus 9.",
+        "start": 165.372,
+        "end": 172.579
+      },
+      {
+        "text": "This is not right, obviously.",
+        "start": 179.225,
+        "end": 180.747
+      },
+      {
+        "text": "That's 4 plus 9 does not equal 9.",
+        "start": 180.807,
+        "end": 186.732
+      },
+      {
+        "text": "So it has to be minus.",
+        "start": 190.276,
+        "end": 191.717
+      },
+      {
+        "text": " Would be five.",
+        "start": 198.295,
+        "end": 199.316
+      },
+      {
+        "text": "Okay, minus that.",
+        "start": 209.13,
+        "end": 212.835
+      },
+      {
+        "text": "V and X together is not an actual Roman numeral.",
+        "start": 212.855,
+        "end": 218.483
+      },
+      {
+        "text": "I don't know.",
+        "start": 226.614,
+        "end": 227.475
+      },
+      {
+        "text": " I don't know.",
+        "start": 229.885,
+        "end": 230.953
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 9 equals 9 plus 9. Hmm. 9 equals 9 plus 9. How about this? 11. No, that's not correct. 18 equals 9. X. I would say. It would have to be a minus thing going on. Wait, can I take the matchstick and turn it into a five? You know what, I probably could. That would have made a lot more sense. I feel like I obviously severely underestimated the capabilities of how I can move the matchsticks. Yeah, you told me, but I think a visual probably would have been helpful too. If I move that there... 4 plus 9. This is not right, obviously. That's 4 plus 9 does not equal 9. So it has to be minus. Would be five. Okay, minus that. V and X together is not an actual Roman numeral. I don't know. I don't know."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_fdb029ec5a9d/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one is 5 6 7 equals 9 plus 3.Can I do this, um, subtract and then 6?So, um, 6 equals 9 minus 3.No.I guess I'll just solve the equals.So 9 plus 3 is 12.So maybe I'll switch this to 12. equals nine.",
+    "segments": [
+      {
+        "text": " Okay, so this one is 5 6 7 equals 9 plus 3.",
+        "start": 0.031,
+        "end": 13.968
+      },
+      {
+        "text": "Can I do this, um, subtract and then 6?",
+        "start": 19.956,
+        "end": 22.919
+      },
+      {
+        "text": "So, um, 6 equals",
+        "start": 24.942,
+        "end": 28.266
+      },
+      {
+        "text": " 9 minus 3.",
+        "start": 30.22,
+        "end": 34.787
+      },
+      {
+        "text": "No.",
+        "start": 38.013,
+        "end": 38.273
+      },
+      {
+        "text": "I guess I'll just solve the equals.",
+        "start": 47.568,
+        "end": 49.171
+      },
+      {
+        "text": "So 9 plus 3 is 12.",
+        "start": 49.211,
+        "end": 52.316
+      },
+      {
+        "text": "So maybe I'll switch this to 12.",
+        "start": 52.957,
+        "end": 55.08
+      },
+      {
+        "text": " equals nine.",
+        "start": 59.043,
+        "end": 60.649
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one is 5 6 7 equals 9 plus 3. Can I do this, um, subtract and then 6? So, um, 6 equals 9 minus 3. No. I guess I'll just solve the equals. So 9 plus 3 is 12. So maybe I'll switch this to 12. equals nine."
+  }
+}

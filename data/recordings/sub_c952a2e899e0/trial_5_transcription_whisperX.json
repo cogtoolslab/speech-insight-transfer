@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_c952a2e899e0/trial_5.wav",
+  "with_timestamps": {
+    "text": " Puzzle 505, 3 equals 9 minus 4.We can change the last Roman numeral from 4 to 6, and that should be correct.3 equals. 3 equals 9 minus.So let's go back to the equation 3 equals 9 minus 4.So we can actually change the third Roman numeral from 4 to 6.So we have 9. minus 6, and that equals 3.So we moved the stick over from the last Roman numeral, making it 6 instead of 4.",
+    "segments": [
+      {
+        "text": " Puzzle 505, 3 equals 9 minus 4.",
+        "start": 1.516,
+        "end": 4.94
+      },
+      {
+        "text": "We can change the last Roman numeral from 4 to 6, and that should be correct.",
+        "start": 4.96,
+        "end": 20.92
+      },
+      {
+        "text": "3 equals.",
+        "start": 20.94,
+        "end": 22.782
+      },
+      {
+        "text": " 3 equals 9 minus.",
+        "start": 38.033,
+        "end": 39.575
+      },
+      {
+        "text": "So let's go back to the equation 3 equals 9 minus 4.",
+        "start": 41.779,
+        "end": 46.266
+      },
+      {
+        "text": "So we can actually change the third Roman numeral from 4 to 6.",
+        "start": 55.44,
+        "end": 59.607
+      },
+      {
+        "text": "So we have 9.",
+        "start": 61.069,
+        "end": 63.433
+      },
+      {
+        "text": " minus 6, and that equals 3.",
+        "start": 64.578,
+        "end": 68.088
+      },
+      {
+        "text": "So we moved the stick over from the last Roman numeral, making it 6 instead of 4.",
+        "start": 70.274,
+        "end": 79.802
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle 505, 3 equals 9 minus 4. We can change the last Roman numeral from 4 to 6, and that should be correct. 3 equals. 3 equals 9 minus. So let's go back to the equation 3 equals 9 minus 4. So we can actually change the third Roman numeral from 4 to 6. So we have 9. minus 6, and that equals 3. So we moved the stick over from the last Roman numeral, making it 6 instead of 4."
+  }
+}

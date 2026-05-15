@@ -1,0 +1,181 @@
+{
+  "file": "data/recordings/sub_e6330811bfdb/trial_1.wav",
+  "with_timestamps": {
+    "text": " Hmm.Oh my, this is going to be fun.I can only move one.So let's see.I've got 10 plus three.So that's 13 equals five plus two minus five plus one.So 12.So one, so 13 equals One.Five plus two minus five plus one is one.So 13 equals one.That is incorrect.So 13 equals. 13 equals, I'm putting 13 down here because we know that it's 13.So 13 equals, let's see, it equals, we know it doesn't equal one.So let's see, 13 equals, let's see, one. So that would not be 13 equals, no, it equals five plus.Okay, so it equals seven plus equals seven plus V seven plus V one, one, one, seven plus eight, nine, 10, 11, 12, 13, six plus six. So that's.I've.No back.I've.What?Oh no.Let's see here. They say that's incorrect.Yes, I'm thinking, I'm thinking they're telling me it's incorrect.So let's see.Oh, okay.So 13, which is X, X one, one, or, okay, equals, Oh, and I can only move one thing.Okay.Five, six, seven.",
+    "segments": [
+      {
+        "text": " Hmm.",
+        "start": 3.17,
+        "end": 5.092
+      },
+      {
+        "text": "Oh my, this is going to be fun.",
+        "start": 5.112,
+        "end": 6.974
+      },
+      {
+        "text": "I can only move one.",
+        "start": 6.994,
+        "end": 8.996
+      },
+      {
+        "text": "So let's see.",
+        "start": 9.096,
+        "end": 9.836
+      },
+      {
+        "text": "I've got 10 plus three.",
+        "start": 9.857,
+        "end": 13.94
+      },
+      {
+        "text": "So that's 13 equals five plus two minus five plus one.",
+        "start": 13.981,
+        "end": 22.709
+      },
+      {
+        "text": "So 12.",
+        "start": 22.729,
+        "end": 25.211
+      },
+      {
+        "text": "So one, so 13 equals",
+        "start": 26.032,
+        "end": 31.978
+      },
+      {
+        "text": " One.",
+        "start": 33.95,
+        "end": 34.631
+      },
+      {
+        "text": "Five plus two minus five plus one is one.",
+        "start": 34.651,
+        "end": 41.057
+      },
+      {
+        "text": "So 13 equals one.",
+        "start": 41.157,
+        "end": 43.179
+      },
+      {
+        "text": "That is incorrect.",
+        "start": 44.58,
+        "end": 46.862
+      },
+      {
+        "text": "So 13 equals.",
+        "start": 52.267,
+        "end": 62.016
+      },
+      {
+        "text": " 13 equals, I'm putting 13 down here because we know that it's 13.",
+        "start": 84.288,
+        "end": 91.778
+      },
+      {
+        "text": "So 13 equals, let's see, it equals, we know it doesn't equal one.",
+        "start": 92.019,
+        "end": 100.791
+      },
+      {
+        "text": "So let's see, 13 equals, let's see, one.",
+        "start": 100.851,
+        "end": 112.928
+      },
+      {
+        "text": " So that would not be 13 equals, no, it equals five plus.",
+        "start": 113.347,
+        "end": 131.406
+      },
+      {
+        "text": "Okay, so it equals seven plus equals",
+        "start": 132.807,
+        "end": 139.995
+      },
+      {
+        "text": " seven plus V seven plus V one, one, one, seven plus eight, nine, 10, 11, 12, 13, six plus six.",
+        "start": 140.6,
+        "end": 168.042
+      },
+      {
+        "text": " So that's.",
+        "start": 170.384,
+        "end": 171.285
+      },
+      {
+        "text": "I've.",
+        "start": 174.048,
+        "end": 174.228
+      },
+      {
+        "text": "No back.",
+        "start": 176.41,
+        "end": 179.913
+      },
+      {
+        "text": "I've.",
+        "start": 179.934,
+        "end": 180.134
+      },
+      {
+        "text": "What?",
+        "start": 181.855,
+        "end": 186.7
+      },
+      {
+        "text": "Oh no.",
+        "start": 186.72,
+        "end": 187.201
+      },
+      {
+        "text": "Let's see here.",
+        "start": 198.332,
+        "end": 199.513
+      },
+      {
+        "text": " They say that's incorrect.",
+        "start": 199.814,
+        "end": 201.477
+      },
+      {
+        "text": "Yes, I'm thinking, I'm thinking they're telling me it's incorrect.",
+        "start": 204.561,
+        "end": 208.067
+      },
+      {
+        "text": "So let's see.",
+        "start": 208.387,
+        "end": 209.308
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 209.328,
+        "end": 213.234
+      },
+      {
+        "text": "So 13, which is X, X one, one, or, okay, equals,",
+        "start": 213.295,
+        "end": 225.433
+      },
+      {
+        "text": " Oh, and I can only move one thing.",
+        "start": 232.417,
+        "end": 234.712
+      },
+      {
+        "text": "Okay.",
+        "start": 234.733,
+        "end": 235.337
+      },
+      {
+        "text": "Five, six, seven.",
+        "start": 236.887,
+        "end": 239.001
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Hmm. Oh my, this is going to be fun. I can only move one. So let's see. I've got 10 plus three. So that's 13 equals five plus two minus five plus one. So 12. So one, so 13 equals One. Five plus two minus five plus one is one. So 13 equals one. That is incorrect. So 13 equals. 13 equals, I'm putting 13 down here because we know that it's 13. So 13 equals, let's see, it equals, we know it doesn't equal one. So let's see, 13 equals, let's see, one. So that would not be 13 equals, no, it equals five plus. Okay, so it equals seven plus equals seven plus V seven plus V one, one, one, seven plus eight, nine, 10, 11, 12, 13, six plus six. So that's. I've. No back. I've. What? Oh no. Let's see here. They say that's incorrect. Yes, I'm thinking, I'm thinking they're telling me it's incorrect. So let's see. Oh, okay. So 13, which is X, X one, one, or, okay, equals, Oh, and I can only move one thing. Okay. Five, six, seven."
+  }
+}

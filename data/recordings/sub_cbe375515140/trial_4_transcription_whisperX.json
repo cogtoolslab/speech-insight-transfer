@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_cbe375515140/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, here's another one.Looks like 13 equals 9 minus 4.13 equals 9 minus 4. I think that one is easier.It looks like it might be if I make this x111 13 equal to 1 x nine it doesn't work it says nine plus four is thirteen but that is not what's happening here ugh I've come through 13.13 now.I'm getting 13.Can I make 13 minus 9?But I still have one left over.13 minus 9.13 minus 9 is 4. but I'm not removing anything.Do I have to remove a chip?What?13 minus 1 X equals 1 Hmm.B?I'm not losing it.",
+    "segments": [
+      {
+        "text": " Okay, here's another one.",
+        "start": 1.516,
+        "end": 3.439
+      },
+      {
+        "text": "Looks like 13 equals 9 minus 4.",
+        "start": 4.961,
+        "end": 14.275
+      },
+      {
+        "text": "13 equals 9 minus 4.",
+        "start": 14.295,
+        "end": 26.713
+      },
+      {
+        "text": " I think that one is easier.",
+        "start": 27.757,
+        "end": 30.061
+      },
+      {
+        "text": "It looks like it might be if I make this x111 13 equal to 1 x",
+        "start": 30.081,
+        "end": 55.941
+      },
+      {
+        "text": " nine it doesn't work it says nine plus four is thirteen but that is not what's happening here ugh",
+        "start": 57.642,
+        "end": 82.485
+      },
+      {
+        "text": " I've come through 13.",
+        "start": 87.933,
+        "end": 90.216
+      },
+      {
+        "text": "13 now.",
+        "start": 90.236,
+        "end": 95.842
+      },
+      {
+        "text": "I'm getting 13.",
+        "start": 96.403,
+        "end": 97.544
+      },
+      {
+        "text": "Can I make 13 minus 9?",
+        "start": 99.266,
+        "end": 104.593
+      },
+      {
+        "text": "But I still have one left over.",
+        "start": 106.795,
+        "end": 108.277
+      },
+      {
+        "text": "13 minus 9.",
+        "start": 108.297,
+        "end": 110.84
+      },
+      {
+        "text": "13 minus 9 is 4.",
+        "start": 110.86,
+        "end": 112.422
+      },
+      {
+        "text": " but I'm not removing anything.",
+        "start": 117.278,
+        "end": 119.542
+      },
+      {
+        "text": "Do I have to remove a chip?",
+        "start": 121.124,
+        "end": 128.536
+      },
+      {
+        "text": "What?",
+        "start": 128.556,
+        "end": 128.777
+      },
+      {
+        "text": "13 minus 1 X equals 1",
+        "start": 128.797,
+        "end": 144.282
+      },
+      {
+        "text": " Hmm.",
+        "start": 145.949,
+        "end": 146.533
+      },
+      {
+        "text": "B?",
+        "start": 147.721,
+        "end": 148.386
+      },
+      {
+        "text": "I'm not losing it.",
+        "start": 148.406,
+        "end": 152.112
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, here's another one. Looks like 13 equals 9 minus 4. 13 equals 9 minus 4. I think that one is easier. It looks like it might be if I make this x111 13 equal to 1 x nine it doesn't work it says nine plus four is thirteen but that is not what's happening here ugh I've come through 13. 13 now. I'm getting 13. Can I make 13 minus 9? But I still have one left over. 13 minus 9. 13 minus 9 is 4. but I'm not removing anything. Do I have to remove a chip? What? 13 minus 1 X equals 1 Hmm. B? I'm not losing it."
+  }
+}

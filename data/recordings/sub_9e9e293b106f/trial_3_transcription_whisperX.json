@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_9e9e293b106f/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, 9, I'm sorry, 8 equals 2 plus 4.That's not right.So, what can I do?I can move the 1 over and then 3 plus 5, which does equal 8.That works. equals, should work.",
+    "segments": [
+      {
+        "text": " Okay, 9, I'm sorry, 8 equals 2 plus 4.",
+        "start": 0.217,
+        "end": 13.774
+      },
+      {
+        "text": "That's not right.",
+        "start": 14.054,
+        "end": 14.775
+      },
+      {
+        "text": "So, what can I do?",
+        "start": 18.5,
+        "end": 20.823
+      },
+      {
+        "text": "I can move the 1 over and then 3 plus 5, which does equal 8.",
+        "start": 25.208,
+        "end": 29.053
+      },
+      {
+        "text": "That works.",
+        "start": 29.193,
+        "end": 29.734
+      },
+      {
+        "text": " equals, should work.",
+        "start": 33.933,
+        "end": 40.399
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 9, I'm sorry, 8 equals 2 plus 4. That's not right. So, what can I do? I can move the 1 over and then 3 plus 5, which does equal 8. That works. equals, should work."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_cbe375515140/trial_1.wav",
+  "with_timestamps": {
+    "text": " Um, so it looks like 9 equals 9 plus 9, which is definitely wrong.Um, let's see.It should be, and I can only remove one. Matchstick.I wish I could see the instructions again because I think I might need them.Maybe... And I can only remove one matchstick.Um, that makes it kind of more difficult.So... Um, I could do 9 plus 1.It's probably... 11 minus... Nah. How do I even write this?Like this?Let's see... 9... plus... 1 is 10, it can't be... 9 minus, no... I'm not sure how to do this.Maybe 10... Can I change the order?Can I change... Maybe 10... plus... Like, none of these can be it.Um... Maybe... 11 minus... I need to see the instructions again because this is confusing.So a guy can move these in any way.11 equals... 1x plus x.",
+    "segments": [
+      {
+        "text": " Um, so it looks like 9 equals 9 plus 9, which is definitely wrong.",
+        "start": 4.385,
+        "end": 16.059
+      },
+      {
+        "text": "Um, let's see.",
+        "start": 18.062,
+        "end": 21.406
+      },
+      {
+        "text": "It should be, and I can only remove one.",
+        "start": 26.652,
+        "end": 31.658
+      },
+      {
+        "text": " Matchstick.",
+        "start": 33.95,
+        "end": 34.853
+      },
+      {
+        "text": "I wish I could see the instructions again because I think I might need them.",
+        "start": 36.518,
+        "end": 40.19
+      },
+      {
+        "text": "Maybe...",
+        "start": 42.237,
+        "end": 43.521
+      },
+      {
+        "text": " And I can only remove one matchstick.",
+        "start": 60.916,
+        "end": 63.28
+      },
+      {
+        "text": "Um, that makes it kind of more difficult.",
+        "start": 64.582,
+        "end": 67.045
+      },
+      {
+        "text": "So... Um, I could do 9 plus 1.",
+        "start": 68.748,
+        "end": 76.74
+      },
+      {
+        "text": "It's probably... 11 minus... Nah.",
+        "start": 80.726,
+        "end": 88.358
+      },
+      {
+        "text": " How do I even write this?",
+        "start": 96.252,
+        "end": 97.494
+      },
+      {
+        "text": "Like this?",
+        "start": 97.514,
+        "end": 98.176
+      },
+      {
+        "text": "Let's see... 9... plus... 1 is 10, it can't be... 9 minus, no...",
+        "start": 99.098,
+        "end": 114.868
+      },
+      {
+        "text": " I'm not sure how to do this.",
+        "start": 124.012,
+        "end": 125.695
+      },
+      {
+        "text": "Maybe 10... Can I change the order?",
+        "start": 127.078,
+        "end": 132.468
+      },
+      {
+        "text": "Can I change... Maybe 10... plus...",
+        "start": 132.488,
+        "end": 147.015
+      },
+      {
+        "text": " Like, none of these can be it.",
+        "start": 153.374,
+        "end": 155.118
+      },
+      {
+        "text": "Um... Maybe... 11 minus...",
+        "start": 163.517,
+        "end": 171.315
+      },
+      {
+        "text": " I need to see the instructions again because this is confusing.",
+        "start": 186.652,
+        "end": 189.797
+      },
+      {
+        "text": "So a guy can move these in any way.",
+        "start": 203.997,
+        "end": 206.341
+      },
+      {
+        "text": "11 equals...",
+        "start": 206.361,
+        "end": 210.567
+      },
+      {
+        "text": " 1x plus x.",
+        "start": 222.224,
+        "end": 235.525
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Um, so it looks like 9 equals 9 plus 9, which is definitely wrong. Um, let's see. It should be, and I can only remove one. Matchstick. I wish I could see the instructions again because I think I might need them. Maybe... And I can only remove one matchstick. Um, that makes it kind of more difficult. So... Um, I could do 9 plus 1. It's probably... 11 minus... Nah. How do I even write this? Like this? Let's see... 9... plus... 1 is 10, it can't be... 9 minus, no... I'm not sure how to do this. Maybe 10... Can I change the order? Can I change... Maybe 10... plus... Like, none of these can be it. Um... Maybe... 11 minus... I need to see the instructions again because this is confusing. So a guy can move these in any way. 11 equals... 1x plus x."
+  }
+}

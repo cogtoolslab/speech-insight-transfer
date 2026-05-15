@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_fdb029ec5a9d/trial_1.wav",
+  "with_timestamps": {
+    "text": " So 7 plus 4 is 11.And it's saying 9.So maybe... 11 minus 7, how much is that?So 11 minus 7 is 4. uh so let me see so 11 minus 7 can i remove this okay so i'll just type it again i x wait that's nine my bad um So 9 minus 7 is 2.Oh my god.7 plus 4 is 11.Oh, I guess I could just switch this to 11, right?So I can put like that instead.I'm guessing.",
+    "segments": [
+      {
+        "text": " So 7 plus 4 is 11.",
+        "start": 12.957,
+        "end": 15.119
+      },
+      {
+        "text": "And it's saying 9.",
+        "start": 15.159,
+        "end": 19.905
+      },
+      {
+        "text": "So maybe... 11 minus 7, how much is that?",
+        "start": 21.647,
+        "end": 35.502
+      },
+      {
+        "text": "So 11 minus 7 is 4.",
+        "start": 36.243,
+        "end": 38.205
+      },
+      {
+        "text": " uh so let me see so 11 minus 7 can i remove this okay so i'll just type it again i x wait that's nine my bad um",
+        "start": 39.029,
+        "end": 63.788
+      },
+      {
+        "text": " So 9 minus 7 is 2.",
+        "start": 82.111,
+        "end": 83.974
+      },
+      {
+        "text": "Oh my god.",
+        "start": 83.994,
+        "end": 91.045
+      },
+      {
+        "text": "7 plus 4 is 11.",
+        "start": 91.065,
+        "end": 95.972
+      },
+      {
+        "text": "Oh, I guess I could just switch this to 11, right?",
+        "start": 95.992,
+        "end": 98.056
+      },
+      {
+        "text": "So I can put like that instead.",
+        "start": 98.877,
+        "end": 102.102
+      },
+      {
+        "text": "I'm guessing.",
+        "start": 102.122,
+        "end": 104.085
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 plus 4 is 11. And it's saying 9. So maybe... 11 minus 7, how much is that? So 11 minus 7 is 4. uh so let me see so 11 minus 7 can i remove this okay so i'll just type it again i x wait that's nine my bad um So 9 minus 7 is 2. Oh my god. 7 plus 4 is 11. Oh, I guess I could just switch this to 11, right? So I can put like that instead. I'm guessing."
+  }
+}

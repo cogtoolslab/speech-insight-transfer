@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_b153474cd583/trial_5.wav",
+  "with_timestamps": {
+    "text": " Alright 9 equals 5 6 7 plus 4 9 equals 7 plus 4 9 equals 7 plus 4 so maybe I do Or 9 what is that that would be 4 equals 9 seven plus four no okay so 11 equals yeah it'll be 11 equals seven plus four let's go oh no that's literally what it is 11 equals 5, 6, 7, plus 4.",
+    "segments": [
+      {
+        "text": " Alright 9 equals 5 6 7 plus 4 9 equals 7 plus 4 9 equals 7 plus 4 so maybe I do Or 9 what is that that would be 4 equals 9",
+        "start": 0.031,
+        "end": 23.237
+      },
+      {
+        "text": " seven plus four no okay so 11 equals yeah it'll be 11 equals seven plus four let's go oh no that's literally what it is 11 equals",
+        "start": 24.635,
+        "end": 50.49
+      },
+      {
+        "text": " 5, 6, 7, plus 4.",
+        "start": 50.639,
+        "end": 54.827
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright 9 equals 5 6 7 plus 4 9 equals 7 plus 4 9 equals 7 plus 4 so maybe I do Or 9 what is that that would be 4 equals 9 seven plus four no okay so 11 equals yeah it'll be 11 equals seven plus four let's go oh no that's literally what it is 11 equals 5, 6, 7, plus 4."
+  }
+}

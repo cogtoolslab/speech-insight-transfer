@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_da15d261510f/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, let's see what we're dealing with.It's 9 equals 12 plus 4.9 equals 12 plus 4.9 equals 12 plus 4.9 equals 12 plus 4.9 equals, all right, 9. equals 13 minus 4.",
+    "segments": [
+      {
+        "text": " OK, let's see what we're dealing with.",
+        "start": 0.824,
+        "end": 3.448
+      },
+      {
+        "text": "It's 9 equals 12 plus 4.",
+        "start": 3.468,
+        "end": 6.272
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 6.292,
+        "end": 10.758
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 10.778,
+        "end": 16.806
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 16.826,
+        "end": 23.675
+      },
+      {
+        "text": "9 equals, all right, 9.",
+        "start": 23.696,
+        "end": 29.143
+      },
+      {
+        "text": " equals 13 minus 4.",
+        "start": 31.604,
+        "end": 36.872
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, let's see what we're dealing with. It's 9 equals 12 plus 4. 9 equals 12 plus 4. 9 equals 12 plus 4. 9 equals 12 plus 4. 9 equals, all right, 9. equals 13 minus 4."
+  }
+}

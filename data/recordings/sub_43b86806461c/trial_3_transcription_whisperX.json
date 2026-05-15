@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_43b86806461c/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, for this one we have 8 equals 2 plus 4.So I think for this I can actually just switch the vertical match that's 4 over to the other side of the V to make this 6.So 8 equals 2 plus, I'm just going to move that to the end to make it 6.",
+    "segments": [
+      {
+        "text": " Okay, for this one we have 8 equals 2 plus 4.",
+        "start": 0.031,
+        "end": 7.687
+      },
+      {
+        "text": "So I think for this I can actually just switch the vertical match that's 4 over to the other side of the V to make this 6.",
+        "start": 9.271,
+        "end": 18.61
+      },
+      {
+        "text": "So 8 equals 2 plus, I'm just going to move that to the end to make it 6.",
+        "start": 18.891,
+        "end": 27.81
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, for this one we have 8 equals 2 plus 4. So I think for this I can actually just switch the vertical match that's 4 over to the other side of the V to make this 6. So 8 equals 2 plus, I'm just going to move that to the end to make it 6."
+  }
+}

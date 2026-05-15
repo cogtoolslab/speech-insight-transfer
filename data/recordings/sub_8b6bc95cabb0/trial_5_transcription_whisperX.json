@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_8b6bc95cabb0/trial_5.wav",
+  "with_timestamps": {
+    "text": " So 7 equals 9 plus 3.9 plus 3 does not equal 7, it equals 12.10, no, 7 plus 3 does equal, no, 9 plus 3 does equal No.Seven equals nine plus three.Four plus three equals seven.And I can make this into a four by making the X matchsticks, removing one of the slanted X and putting it to the ends of the matchstick to make a V. Then it would be seven equals four plus three, which is right. bii equals ib plus 3.",
+    "segments": [
+      {
+        "text": " So 7 equals 9 plus 3.",
+        "start": 1.887,
+        "end": 6.713
+      },
+      {
+        "text": "9 plus 3 does not equal 7, it equals 12.",
+        "start": 6.733,
+        "end": 10.919
+      },
+      {
+        "text": "10, no, 7 plus 3 does equal, no, 9 plus 3 does equal",
+        "start": 10.939,
+        "end": 27.0
+      },
+      {
+        "text": " No.",
+        "start": 32.043,
+        "end": 32.363
+      },
+      {
+        "text": "Seven equals nine plus three.",
+        "start": 34.465,
+        "end": 36.867
+      },
+      {
+        "text": "Four plus three equals seven.",
+        "start": 38.609,
+        "end": 40.571
+      },
+      {
+        "text": "And I can make this into a four by making the X matchsticks, removing one of the slanted X and putting it to the ends of the matchstick to make a V. Then it would be seven equals four plus three, which is right.",
+        "start": 42.773,
+        "end": 62.05
+      },
+      {
+        "text": " bii equals ib plus 3.",
+        "start": 63.717,
+        "end": 71.938
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 equals 9 plus 3. 9 plus 3 does not equal 7, it equals 12. 10, no, 7 plus 3 does equal, no, 9 plus 3 does equal No. Seven equals nine plus three. Four plus three equals seven. And I can make this into a four by making the X matchsticks, removing one of the slanted X and putting it to the ends of the matchstick to make a V. Then it would be seven equals four plus three, which is right. bii equals ib plus 3."
+  }
+}

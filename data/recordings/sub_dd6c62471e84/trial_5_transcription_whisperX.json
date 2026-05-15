@@ -1,0 +1,241 @@
+{
+  "file": "data/recordings/sub_dd6c62471e84/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, what do we have here?Let's see.So I have 4 plus 7 equals, in reality, 11.But then it's saying it is 4.So how do I correct this to make it 4?So what I would do is, can I have 4? So if I take away, I could get 5.So it's 4 minus 7.That gives me 3.Could I turn that to 3?No.Or let's say I take that 1 plus 7 equals 8.That doesn't work.Let's see.5 plus 7.5, no.4 plus 2. Gives me six.So that doesn't work.Let's see.Four plus two gives me six, and that didn't work.I said that already.OK.So what if I do, let's see.Let's see.How about? 4 plus, if I take away b, it gives me 4 plus 2, I already said that.Or do I change it to x?I don't see any opportunity to change any, okay, x. So how about 9 plus, no, that doesn't work. I don't know how to get it to four.This is hard.So if I do three, no, it can't remain angled.Okay, so This is hard.If I move 9 plus 7, that's 16.That does not equal 4.OK. If I do, let's say, 4 minus 7, that gives me 3.But then that's not right either.It doesn't give me 4.Of course, the last one is very difficult.If I do, OK, this one, I don't know if this one's possible.OK, so 4 equals 7 equals 4.I'm going to try that.It's probably not correct.",
+    "segments": [
+      {
+        "text": " OK, what do we have here?",
+        "start": 1.853,
+        "end": 3.455
+      },
+      {
+        "text": "Let's see.",
+        "start": 3.515,
+        "end": 4.156
+      },
+      {
+        "text": "So I have 4 plus 7 equals, in reality, 11.",
+        "start": 4.196,
+        "end": 15.79
+      },
+      {
+        "text": "But then it's saying it is 4.",
+        "start": 15.95,
+        "end": 17.772
+      },
+      {
+        "text": "So how do I correct this to make it 4?",
+        "start": 18.473,
+        "end": 21.537
+      },
+      {
+        "text": "So what I would do is, can I have 4?",
+        "start": 24.641,
+        "end": 29.987
+      },
+      {
+        "text": " So if I take away, I could get 5.",
+        "start": 32.228,
+        "end": 36.253
+      },
+      {
+        "text": "So it's 4 minus 7.",
+        "start": 37.075,
+        "end": 40.459
+      },
+      {
+        "text": "That gives me 3.",
+        "start": 40.499,
+        "end": 41.621
+      },
+      {
+        "text": "Could I turn that to 3?",
+        "start": 41.761,
+        "end": 44.685
+      },
+      {
+        "text": "No.",
+        "start": 44.705,
+        "end": 44.765
+      },
+      {
+        "text": "Or let's say I take that 1 plus 7 equals 8.",
+        "start": 47.448,
+        "end": 51.314
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 51.414,
+        "end": 52.375
+      },
+      {
+        "text": "Let's see.",
+        "start": 55.66,
+        "end": 55.96
+      },
+      {
+        "text": "5 plus 7.",
+        "start": 56.04,
+        "end": 57.502
+      },
+      {
+        "text": "5, no.",
+        "start": 57.522,
+        "end": 58.243
+      },
+      {
+        "text": "4 plus 2.",
+        "start": 58.263,
+        "end": 61.948
+      },
+      {
+        "text": " Gives me six.",
+        "start": 62.958,
+        "end": 63.859
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 65.722,
+        "end": 68.045
+      },
+      {
+        "text": "Let's see.",
+        "start": 71.329,
+        "end": 71.93
+      },
+      {
+        "text": "Four plus two gives me six, and that didn't work.",
+        "start": 73.512,
+        "end": 76.957
+      },
+      {
+        "text": "I said that already.",
+        "start": 77.017,
+        "end": 78.038
+      },
+      {
+        "text": "OK.",
+        "start": 78.058,
+        "end": 82.424
+      },
+      {
+        "text": "So what if I do, let's see.",
+        "start": 83.406,
+        "end": 87.771
+      },
+      {
+        "text": "Let's see.",
+        "start": 90.515,
+        "end": 91.496
+      },
+      {
+        "text": "How about?",
+        "start": 91.917,
+        "end": 92.678
+      },
+      {
+        "text": " 4 plus, if I take away b, it gives me 4 plus 2, I already said that.",
+        "start": 93.569,
+        "end": 104.788
+      },
+      {
+        "text": "Or do I change it to x?",
+        "start": 104.828,
+        "end": 106.852
+      },
+      {
+        "text": "I don't see any opportunity to change any, okay, x. So how about 9 plus, no, that doesn't work.",
+        "start": 107.913,
+        "end": 118.952
+      },
+      {
+        "text": " I don't know how to get it to four.",
+        "start": 123.269,
+        "end": 125.453
+      },
+      {
+        "text": "This is hard.",
+        "start": 127.636,
+        "end": 131.322
+      },
+      {
+        "text": "So if I do three, no, it can't remain angled.",
+        "start": 137.032,
+        "end": 143.322
+      },
+      {
+        "text": "Okay, so",
+        "start": 145.686,
+        "end": 150.053
+      },
+      {
+        "text": " This is hard.",
+        "start": 153.138,
+        "end": 154.42
+      },
+      {
+        "text": "If I move 9 plus 7, that's 16.",
+        "start": 156.502,
+        "end": 171.501
+      },
+      {
+        "text": "That does not equal 4.",
+        "start": 172.342,
+        "end": 173.603
+      },
+      {
+        "text": "OK.",
+        "start": 173.644,
+        "end": 182.875
+      },
+      {
+        "text": " If I do, let's say, 4 minus 7, that gives me 3.",
+        "start": 185.656,
+        "end": 190.961
+      },
+      {
+        "text": "But then that's not right either.",
+        "start": 190.981,
+        "end": 194.204
+      },
+      {
+        "text": "It doesn't give me 4.",
+        "start": 194.244,
+        "end": 196.767
+      },
+      {
+        "text": "Of course, the last one is very difficult.",
+        "start": 196.807,
+        "end": 202.112
+      },
+      {
+        "text": "If I do,",
+        "start": 207.057,
+        "end": 212.642
+      },
+      {
+        "text": " OK, this one, I don't know if this one's possible.",
+        "start": 219.828,
+        "end": 225.558
+      },
+      {
+        "text": "OK, so 4 equals 7 equals 4.",
+        "start": 227.401,
+        "end": 234.473
+      },
+      {
+        "text": "I'm going to try that.",
+        "start": 234.513,
+        "end": 235.936
+      },
+      {
+        "text": "It's probably not correct.",
+        "start": 237.799,
+        "end": 239.001
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, what do we have here? Let's see. So I have 4 plus 7 equals, in reality, 11. But then it's saying it is 4. So how do I correct this to make it 4? So what I would do is, can I have 4? So if I take away, I could get 5. So it's 4 minus 7. That gives me 3. Could I turn that to 3? No. Or let's say I take that 1 plus 7 equals 8. That doesn't work. Let's see. 5 plus 7. 5, no. 4 plus 2. Gives me six. So that doesn't work. Let's see. Four plus two gives me six, and that didn't work. I said that already. OK. So what if I do, let's see. Let's see. How about? 4 plus, if I take away b, it gives me 4 plus 2, I already said that. Or do I change it to x? I don't see any opportunity to change any, okay, x. So how about 9 plus, no, that doesn't work. I don't know how to get it to four. This is hard. So if I do three, no, it can't remain angled. Okay, so This is hard. If I move 9 plus 7, that's 16. That does not equal 4. OK. If I do, let's say, 4 minus 7, that gives me 3. But then that's not right either. It doesn't give me 4. Of course, the last one is very difficult. If I do, OK, this one, I don't know if this one's possible. OK, so 4 equals 7 equals 4. I'm going to try that. It's probably not correct."
+  }
+}

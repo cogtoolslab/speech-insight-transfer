@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_acc97ca3a1b4/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, so you got 5, 6, 7, 8 equals 2 plus 4.So 2 plus 4 is 6. 5, 6, 7, 2 plus 4 is 6 and 5, okay so this one should be easy.So 5, 6, 7, 8 equals 2 plus 5, 1, 6. So 5, 6, 7, 8 equals 2 plus 6.Submit.",
+    "segments": [
+      {
+        "text": " All right, so you got 5, 6, 7, 8 equals 2 plus 4.",
+        "start": 1.246,
+        "end": 12.812
+      },
+      {
+        "text": "So 2 plus 4 is 6.",
+        "start": 16.44,
+        "end": 19.727
+      },
+      {
+        "text": " 5, 6, 7, 2 plus 4 is 6 and 5, okay so this one should be easy.",
+        "start": 28.043,
+        "end": 36.331
+      },
+      {
+        "text": "So 5, 6, 7, 8 equals 2 plus 5, 1, 6.",
+        "start": 36.391,
+        "end": 53.848
+      },
+      {
+        "text": " So 5, 6, 7, 8 equals 2 plus 6.",
+        "start": 54.267,
+        "end": 58.126
+      },
+      {
+        "text": "Submit.",
+        "start": 59.914,
+        "end": 60.497
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so you got 5, 6, 7, 8 equals 2 plus 4. So 2 plus 4 is 6. 5, 6, 7, 2 plus 4 is 6 and 5, okay so this one should be easy. So 5, 6, 7, 8 equals 2 plus 5, 1, 6. So 5, 6, 7, 8 equals 2 plus 6. Submit."
+  }
+}

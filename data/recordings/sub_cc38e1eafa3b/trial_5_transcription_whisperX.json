@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_cc38e1eafa3b/trial_5.wav",
+  "with_timestamps": {
+    "text": " 8 equals 2 plus 4 is wrong.2 plus 4 is 6.So let's move that one on the right.Let's see.8 equals Three plus five.",
+    "segments": [
+      {
+        "text": " 8 equals 2 plus 4 is wrong.",
+        "start": 3.423,
+        "end": 13.752
+      },
+      {
+        "text": "2 plus 4 is 6.",
+        "start": 15.613,
+        "end": 19.016
+      },
+      {
+        "text": "So let's move that one on the right.",
+        "start": 21.278,
+        "end": 28.745
+      },
+      {
+        "text": "Let's see.",
+        "start": 29.385,
+        "end": 30.306
+      },
+      {
+        "text": "8 equals",
+        "start": 30.326,
+        "end": 32.788
+      },
+      {
+        "text": " Three plus five.",
+        "start": 34.49,
+        "end": 38.29
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 8 equals 2 plus 4 is wrong. 2 plus 4 is 6. So let's move that one on the right. Let's see. 8 equals Three plus five."
+  }
+}

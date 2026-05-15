@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_1050042e659b/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so left side is 6 equals 4 minus 2.OK.Oh, my goodness.Use the buttons to report the correct version.Now, huh? equals... Oh!Yeah, here we go.So 6 on the left side, and then you have IV, which is 4, and then you have a minus 2.You just need to make that a plus 2.And so what we're doing here... Yeah, that works.The only match stick we changed is just the minus to a plus symbol, and that changes the outcome of the problem to make it 6 equals 6.Easy. Huh?Okay, so 6 equals 4 plus 2.Submit.Huh?You can only move one matchstick.Move.Oh, okay.So what about if we did 6 minus 4 Equals 2.",
+    "segments": [
+      {
+        "text": " OK, so left side is 6 equals 4 minus 2.",
+        "start": 1.415,
+        "end": 6.503
+      },
+      {
+        "text": "OK.",
+        "start": 6.523,
+        "end": 6.643
+      },
+      {
+        "text": "Oh, my goodness.",
+        "start": 13.934,
+        "end": 14.715
+      },
+      {
+        "text": "Use the buttons to report the correct version.",
+        "start": 17.98,
+        "end": 20.984
+      },
+      {
+        "text": "Now, huh?",
+        "start": 21.746,
+        "end": 26.072
+      },
+      {
+        "text": " equals... Oh!",
+        "start": 30.946,
+        "end": 36.211
+      },
+      {
+        "text": "Yeah, here we go.",
+        "start": 36.992,
+        "end": 38.033
+      },
+      {
+        "text": "So 6 on the left side, and then you have IV, which is 4, and then you have a minus 2.",
+        "start": 38.354,
+        "end": 42.578
+      },
+      {
+        "text": "You just need to make that a plus 2.",
+        "start": 42.918,
+        "end": 45.221
+      },
+      {
+        "text": "And so what we're doing here... Yeah, that works.",
+        "start": 46.021,
+        "end": 50.806
+      },
+      {
+        "text": "The only match stick we changed is just the minus to a plus symbol, and that changes the outcome of the problem to make it 6 equals 6.",
+        "start": 51.647,
+        "end": 59.435
+      },
+      {
+        "text": "Easy.",
+        "start": 60.016,
+        "end": 60.396
+      },
+      {
+        "text": " Huh?",
+        "start": 61.928,
+        "end": 62.388
+      },
+      {
+        "text": "Okay, so 6 equals 4 plus 2.",
+        "start": 63.489,
+        "end": 73.419
+      },
+      {
+        "text": "Submit.",
+        "start": 74.58,
+        "end": 74.88
+      },
+      {
+        "text": "Huh?",
+        "start": 75.801,
+        "end": 76.101
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 76.762,
+        "end": 78.283
+      },
+      {
+        "text": "Move.",
+        "start": 80.706,
+        "end": 81.126
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 86.491,
+        "end": 87.392
+      },
+      {
+        "text": "So what about if we did 6 minus 4",
+        "start": 87.412,
+        "end": 91.716
+      },
+      {
+        "text": " Equals 2.",
+        "start": 91.966,
+        "end": 93.657
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so left side is 6 equals 4 minus 2. OK. Oh, my goodness. Use the buttons to report the correct version. Now, huh? equals... Oh! Yeah, here we go. So 6 on the left side, and then you have IV, which is 4, and then you have a minus 2. You just need to make that a plus 2. And so what we're doing here... Yeah, that works. The only match stick we changed is just the minus to a plus symbol, and that changes the outcome of the problem to make it 6 equals 6. Easy. Huh? Okay, so 6 equals 4 plus 2. Submit. Huh? You can only move one matchstick. Move. Oh, okay. So what about if we did 6 minus 4 Equals 2."
+  }
+}

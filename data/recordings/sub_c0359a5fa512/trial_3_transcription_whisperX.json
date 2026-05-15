@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_c0359a5fa512/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, so we have two equals 11 minus seven, which is definitely incorrect.So what if that's 11 minus six?11 minus six is five, so that's not it. What about 11 minus 2 is 9?OK, what if we made it a plus problem, which we can't because we don't have it.Or yeah, we can.We can.So we can make it an addition problem.But that would be way too big.I feel like we need to move one of these to the left.So what if I moved the 3 to the left? Or maybe left 3.So 3 equals 10 minus 7.Yeah, OK.3 equals 10 minus 7.That works.",
+    "segments": [
+      {
+        "text": " All right, so we have two equals 11 minus seven, which is definitely incorrect.",
+        "start": 0.757,
+        "end": 7.305
+      },
+      {
+        "text": "So what if that's 11 minus six?",
+        "start": 9.207,
+        "end": 13.512
+      },
+      {
+        "text": "11 minus six is five, so that's not it.",
+        "start": 13.532,
+        "end": 27.169
+      },
+      {
+        "text": " What about 11 minus 2 is 9?",
+        "start": 29.242,
+        "end": 31.664
+      },
+      {
+        "text": "OK, what if we made it a plus problem, which we can't because we don't have it.",
+        "start": 31.784,
+        "end": 42.593
+      },
+      {
+        "text": "Or yeah, we can.",
+        "start": 42.813,
+        "end": 43.374
+      },
+      {
+        "text": "We can.",
+        "start": 43.494,
+        "end": 43.834
+      },
+      {
+        "text": "So we can make it an addition problem.",
+        "start": 45.015,
+        "end": 46.937
+      },
+      {
+        "text": "But that would be way too big.",
+        "start": 48.798,
+        "end": 50.139
+      },
+      {
+        "text": "I feel like we need to move one of these to the left.",
+        "start": 50.24,
+        "end": 53.282
+      },
+      {
+        "text": "So what if I moved the 3 to the left?",
+        "start": 53.422,
+        "end": 59.147
+      },
+      {
+        "text": " Or maybe left 3.",
+        "start": 61.777,
+        "end": 62.782
+      },
+      {
+        "text": "So 3 equals 10 minus 7.",
+        "start": 62.822,
+        "end": 64.851
+      },
+      {
+        "text": "Yeah, OK.",
+        "start": 64.971,
+        "end": 65.815
+      },
+      {
+        "text": "3 equals 10 minus 7.",
+        "start": 65.835,
+        "end": 73.088
+      },
+      {
+        "text": "That works.",
+        "start": 73.269,
+        "end": 74.655
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so we have two equals 11 minus seven, which is definitely incorrect. So what if that's 11 minus six? 11 minus six is five, so that's not it. What about 11 minus 2 is 9? OK, what if we made it a plus problem, which we can't because we don't have it. Or yeah, we can. We can. So we can make it an addition problem. But that would be way too big. I feel like we need to move one of these to the left. So what if I moved the 3 to the left? Or maybe left 3. So 3 equals 10 minus 7. Yeah, OK. 3 equals 10 minus 7. That works."
+  }
+}

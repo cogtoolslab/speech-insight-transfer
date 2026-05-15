@@ -1,0 +1,246 @@
+{
+  "file": "data/recordings/sub_f82a6e2f77bd/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, I'm doing it again.It looks like it says 4 equals 11 minus 11, and that is not true.No, I'm sorry, 4 equals, this is really messing with my brain.Okay, 4 equals 11 minus 2.Okay, not 11.4 equals 11 minus 2. 11 minus 2 is actually 9 and not 4.How am I going to make this correct?11, 9, 2.9, 10, 11.4, 11, 10, 9, 8, 7. We know that 11 minus 2 is 9 and not 4.Can I make that 9 really quick?No.11 minus 2 is 9, not 4. to 9, 8, 7, 6, 5, 4.I could put a V. Can I add a whole V?I'm only supposed to be able to use one matchstick, right?Wait, no, I could do a whole V. Okay, IV equals XI minus VII.I think I did it right here.No.Okay. was that right though?11, 10, 9, 8, 7, 6, 5, 4.Wait.Oh, I didn't put the V. Oh, what did I do?Okay, hold on.I will try it again because I'm not sure if I put it in right.I'm going to go X I minus V I I, right?Right?9, 8, 7, 6, 5, 4.Wait, no, I'm going a little overboard.5, 4.Maybe 2.Wow, I'm really tripping right now.I don't know what I'm doing.It's matchsticks and... It's like, I have to think about regular numbers, and then matchsticks, and then one of the numerals?It won't... Okay. four, nine, eight, seven, six, five, four.Can I just make that a V?I can just make that 10, nine, eight.To make it four.I was thinking about trying to make the 11 and the two.11, 10, nine, eight. seven six five four eleven ten nine eight seven six five four okay i think it's ah i won't like okay here it goes let's see it says it's incorrect that's the best guess i've got yeah i don't know 4 equals 9 minus 2.",
+    "segments": [
+      {
+        "text": " Okay, I'm doing it again.",
+        "start": 1.87,
+        "end": 3.672
+      },
+      {
+        "text": "It looks like it says 4 equals 11 minus 11, and that is not true.",
+        "start": 3.692,
+        "end": 15.425
+      },
+      {
+        "text": "No, I'm sorry, 4 equals, this is really messing with my brain.",
+        "start": 15.445,
+        "end": 20.43
+      },
+      {
+        "text": "Okay, 4 equals 11 minus 2.",
+        "start": 20.79,
+        "end": 24.955
+      },
+      {
+        "text": "Okay, not 11.",
+        "start": 25.675,
+        "end": 27.838
+      },
+      {
+        "text": "4 equals 11 minus 2.",
+        "start": 27.858,
+        "end": 29.92
+      },
+      {
+        "text": " 11 minus 2 is actually 9 and not 4.",
+        "start": 30.389,
+        "end": 34.395
+      },
+      {
+        "text": "How am I going to make this correct?",
+        "start": 39.162,
+        "end": 40.664
+      },
+      {
+        "text": "11, 9, 2.",
+        "start": 40.684,
+        "end": 42.547
+      },
+      {
+        "text": "9, 10, 11.",
+        "start": 42.567,
+        "end": 46.373
+      },
+      {
+        "text": "4, 11, 10, 9, 8, 7.",
+        "start": 46.393,
+        "end": 58.911
+      },
+      {
+        "text": " We know that 11 minus 2 is 9 and not 4.",
+        "start": 64.257,
+        "end": 72.83
+      },
+      {
+        "text": "Can I make that 9 really quick?",
+        "start": 73.891,
+        "end": 75.714
+      },
+      {
+        "text": "No.",
+        "start": 76.716,
+        "end": 77.016
+      },
+      {
+        "text": "11 minus 2 is 9, not 4.",
+        "start": 81.663,
+        "end": 91.598
+      },
+      {
+        "text": " to 9, 8, 7, 6, 5, 4.",
+        "start": 93.282,
+        "end": 95.544
+      },
+      {
+        "text": "I could put a V. Can I add a whole V?",
+        "start": 96.926,
+        "end": 99.348
+      },
+      {
+        "text": "I'm only supposed to be able to use one matchstick, right?",
+        "start": 99.368,
+        "end": 101.51
+      },
+      {
+        "text": "Wait, no, I could do a whole V. Okay, IV equals XI minus VII.",
+        "start": 102.071,
+        "end": 113.763
+      },
+      {
+        "text": "I think I did it right here.",
+        "start": 114.403,
+        "end": 115.304
+      },
+      {
+        "text": "No.",
+        "start": 116.425,
+        "end": 117.506
+      },
+      {
+        "text": "Okay.",
+        "start": 117.526,
+        "end": 118.227
+      },
+      {
+        "text": " was that right though?",
+        "start": 119.523,
+        "end": 120.865
+      },
+      {
+        "text": "11, 10, 9, 8, 7, 6, 5, 4.",
+        "start": 120.885,
+        "end": 123.829
+      },
+      {
+        "text": "Wait.",
+        "start": 126.693,
+        "end": 126.973
+      },
+      {
+        "text": "Oh, I didn't put the V. Oh, what did I do?",
+        "start": 128.616,
+        "end": 130.619
+      },
+      {
+        "text": "Okay, hold on.",
+        "start": 130.639,
+        "end": 132.321
+      },
+      {
+        "text": "I will try it again because I'm not sure if I put it in right.",
+        "start": 132.862,
+        "end": 135.385
+      },
+      {
+        "text": "I'm going to go X I minus V I I, right?",
+        "start": 137.108,
+        "end": 142.295
+      },
+      {
+        "text": "Right?",
+        "start": 145.7,
+        "end": 145.98
+      },
+      {
+        "text": "9,",
+        "start": 146.0,
+        "end": 146.661
+      },
+      {
+        "text": " 8, 7, 6, 5, 4.",
+        "start": 148.598,
+        "end": 150.4
+      },
+      {
+        "text": "Wait, no, I'm going a little overboard.",
+        "start": 152.062,
+        "end": 153.664
+      },
+      {
+        "text": "5, 4.",
+        "start": 153.684,
+        "end": 156.527
+      },
+      {
+        "text": "Maybe 2.",
+        "start": 162.554,
+        "end": 163.015
+      },
+      {
+        "text": "Wow, I'm really tripping right now.",
+        "start": 163.035,
+        "end": 164.416
+      },
+      {
+        "text": "I don't know what I'm doing.",
+        "start": 164.656,
+        "end": 165.497
+      },
+      {
+        "text": "It's matchsticks and... It's like, I have to think about regular numbers, and then matchsticks, and then one of the numerals?",
+        "start": 166.699,
+        "end": 171.805
+      },
+      {
+        "text": "It won't... Okay.",
+        "start": 174.608,
+        "end": 175.669
+      },
+      {
+        "text": " four, nine, eight, seven, six, five, four.",
+        "start": 178.889,
+        "end": 181.372
+      },
+      {
+        "text": "Can I just make that a V?",
+        "start": 181.792,
+        "end": 184.756
+      },
+      {
+        "text": "I can just make that 10, nine, eight.",
+        "start": 184.776,
+        "end": 187.92
+      },
+      {
+        "text": "To make it four.",
+        "start": 191.965,
+        "end": 193.486
+      },
+      {
+        "text": "I was thinking about trying to make the 11 and the two.",
+        "start": 193.506,
+        "end": 199.473
+      },
+      {
+        "text": "11, 10, nine, eight.",
+        "start": 199.493,
+        "end": 206.702
+      },
+      {
+        "text": " seven six five four eleven ten nine eight seven six five four okay i think it's ah i won't like okay here it goes let's see it says it's incorrect that's the best guess i've got yeah i don't know",
+        "start": 207.323,
+        "end": 237.043
+      },
+      {
+        "text": " 4 equals 9 minus 2.",
+        "start": 238.762,
+        "end": 244.502
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, I'm doing it again. It looks like it says 4 equals 11 minus 11, and that is not true. No, I'm sorry, 4 equals, this is really messing with my brain. Okay, 4 equals 11 minus 2. Okay, not 11. 4 equals 11 minus 2. 11 minus 2 is actually 9 and not 4. How am I going to make this correct? 11, 9, 2. 9, 10, 11. 4, 11, 10, 9, 8, 7. We know that 11 minus 2 is 9 and not 4. Can I make that 9 really quick? No. 11 minus 2 is 9, not 4. to 9, 8, 7, 6, 5, 4. I could put a V. Can I add a whole V? I'm only supposed to be able to use one matchstick, right? Wait, no, I could do a whole V. Okay, IV equals XI minus VII. I think I did it right here. No. Okay. was that right though? 11, 10, 9, 8, 7, 6, 5, 4. Wait. Oh, I didn't put the V. Oh, what did I do? Okay, hold on. I will try it again because I'm not sure if I put it in right. I'm going to go X I minus V I I, right? Right? 9, 8, 7, 6, 5, 4. Wait, no, I'm going a little overboard. 5, 4. Maybe 2. Wow, I'm really tripping right now. I don't know what I'm doing. It's matchsticks and... It's like, I have to think about regular numbers, and then matchsticks, and then one of the numerals? It won't... Okay. four, nine, eight, seven, six, five, four. Can I just make that a V? I can just make that 10, nine, eight. To make it four. I was thinking about trying to make the 11 and the two. 11, 10, nine, eight. seven six five four eleven ten nine eight seven six five four okay i think it's ah i won't like okay here it goes let's see it says it's incorrect that's the best guess i've got yeah i don't know 4 equals 9 minus 2."
+  }
+}

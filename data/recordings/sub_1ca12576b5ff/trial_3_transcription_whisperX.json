@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_1ca12576b5ff/trial_3.wav",
+  "with_timestamps": {
+    "text": " It's equals to 2 plus 4, not 3.This 4 should be 6.Remove the i. Remove the match state from the left of it to the right.So, v delta n equals to 2 plus v i.",
+    "segments": [
+      {
+        "text": " It's equals to 2 plus 4, not 3.",
+        "start": 0.031,
+        "end": 9.745
+      },
+      {
+        "text": "This 4 should be 6.",
+        "start": 9.765,
+        "end": 12.048
+      },
+      {
+        "text": "Remove the i. Remove the match state from the left of it to the right.",
+        "start": 12.068,
+        "end": 21.142
+      },
+      {
+        "text": "So, v delta n equals to 2 plus v i.",
+        "start": 21.162,
+        "end": 26.95
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " It's equals to 2 plus 4, not 3. This 4 should be 6. Remove the i. Remove the match state from the left of it to the right. So, v delta n equals to 2 plus v i."
+  }
+}

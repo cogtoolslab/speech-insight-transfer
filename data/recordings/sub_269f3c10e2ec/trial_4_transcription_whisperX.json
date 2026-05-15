@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_269f3c10e2ec/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, three, at least we know that one's right.Three equals nine minus four. X I is 11.V I is 6. 10, 9, 8, 7, 6, 5.Still doesn't make sense.I am thinking out loud.Come on, Lord.OK.X, I. Is 11.VI is six.Five.What about IV?IV is four.So that's still one more. Does the three have to be the end or can I move the three? Because if I can move the three, then that would be a lot easier.I-S.I-V. I'm not good at math as it is.I don't know.I'm sorry.I promise I'm trying.This is very, very confusing for me. Okay.",
+    "segments": [
+      {
+        "text": " Okay, three, at least we know that one's right.",
+        "start": 4.975,
+        "end": 10.362
+      },
+      {
+        "text": "Three equals nine minus four.",
+        "start": 10.382,
+        "end": 26.342
+      },
+      {
+        "text": " X I is 11.",
+        "start": 39.721,
+        "end": 42.072
+      },
+      {
+        "text": "V I is 6.",
+        "start": 47.295,
+        "end": 49.545
+      },
+      {
+        "text": " 10, 9, 8, 7, 6, 5.",
+        "start": 75.007,
+        "end": 77.109
+      },
+      {
+        "text": "Still doesn't make sense.",
+        "start": 77.129,
+        "end": 79.612
+      },
+      {
+        "text": "I am thinking out loud.",
+        "start": 90.784,
+        "end": 92.005
+      },
+      {
+        "text": "Come on, Lord.",
+        "start": 94.828,
+        "end": 95.529
+      },
+      {
+        "text": "OK.",
+        "start": 102.236,
+        "end": 102.296
+      },
+      {
+        "text": "X, I.",
+        "start": 102.316,
+        "end": 103.798
+      },
+      {
+        "text": " Is 11.",
+        "start": 105.23,
+        "end": 107.975
+      },
+      {
+        "text": "VI is six.",
+        "start": 112.482,
+        "end": 115.888
+      },
+      {
+        "text": "Five.",
+        "start": 120.756,
+        "end": 122.359
+      },
+      {
+        "text": "What about IV?",
+        "start": 122.379,
+        "end": 123.26
+      },
+      {
+        "text": "IV is four.",
+        "start": 123.541,
+        "end": 125.584
+      },
+      {
+        "text": "So that's still one more.",
+        "start": 126.445,
+        "end": 128.048
+      },
+      {
+        "text": " Does the three have to be the end or can I move the three?",
+        "start": 131.892,
+        "end": 152.618
+      },
+      {
+        "text": " Because if I can move the three, then that would be a lot easier.",
+        "start": 158.403,
+        "end": 162.494
+      },
+      {
+        "text": "I-S.",
+        "start": 162.514,
+        "end": 168.651
+      },
+      {
+        "text": "I-V.",
+        "start": 171.94,
+        "end": 172.682
+      },
+      {
+        "text": " I'm not good at math as it is.",
+        "start": 195.393,
+        "end": 209.347
+      },
+      {
+        "text": "I don't know.",
+        "start": 213.091,
+        "end": 213.652
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 214.493,
+        "end": 215.113
+      },
+      {
+        "text": "I promise I'm trying.",
+        "start": 216.515,
+        "end": 217.776
+      },
+      {
+        "text": "This is very, very confusing for me.",
+        "start": 218.337,
+        "end": 223.662
+      },
+      {
+        "text": " Okay.",
+        "start": 228.265,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, three, at least we know that one's right. Three equals nine minus four. X I is 11. V I is 6. 10, 9, 8, 7, 6, 5. Still doesn't make sense. I am thinking out loud. Come on, Lord. OK. X, I. Is 11. VI is six. Five. What about IV? IV is four. So that's still one more. Does the three have to be the end or can I move the three? Because if I can move the three, then that would be a lot easier. I-S. I-V. I'm not good at math as it is. I don't know. I'm sorry. I promise I'm trying. This is very, very confusing for me. Okay."
+  }
+}

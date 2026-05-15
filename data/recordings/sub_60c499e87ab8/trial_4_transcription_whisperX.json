@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_60c499e87ab8/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay. So,",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.031,
+        "end": 6.953
+      },
+      {
+        "text": " So,",
+        "start": 46.859,
+        "end": 54.557
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. So,"
+  }
+}

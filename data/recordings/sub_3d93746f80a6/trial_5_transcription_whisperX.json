@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_3d93746f80a6/trial_5.wav",
+  "with_timestamps": {
+    "text": " P27 equals 3 minus 4.P9 equals 3 plus 3 minus 6.No.P99. 3, I, I, 7, 4, 5, 6, 7, 6, 3, I, I, I, V, 3, I, I, equals three, three, I, three, three, I, three, four, three, three, I, six. 1, 2, 3, 4 equals 3 1, 2, 3, 4, 5, 6, 7 equals 3 This is 7.This is 4.11, 3, 2, 7 equals 3. Four.Three. plus four?maybe four?I'm so confused Nope, that's fine.",
+    "segments": [
+      {
+        "text": " P27 equals 3 minus 4.",
+        "start": 3.76,
+        "end": 11.728
+      },
+      {
+        "text": "P9 equals 3 plus 3 minus 6.",
+        "start": 17.233,
+        "end": 31.406
+      },
+      {
+        "text": "No.",
+        "start": 32.407,
+        "end": 32.628
+      },
+      {
+        "text": "P99.",
+        "start": 32.928,
+        "end": 33.008
+      },
+      {
+        "text": " 3, I, I, 7, 4, 5, 6, 7, 6, 3, I, I, I, V, 3,",
+        "start": 37.898,
+        "end": 67.652
+      },
+      {
+        "text": " I, I, equals three, three, I, three, three, I, three, four, three, three, I, six.",
+        "start": 67.936,
+        "end": 89.657
+      },
+      {
+        "text": " 1, 2, 3, 4 equals 3 1, 2, 3, 4, 5, 6, 7 equals 3",
+        "start": 96.539,
+        "end": 121.365
+      },
+      {
+        "text": " This is 7.",
+        "start": 126.543,
+        "end": 132.29
+      },
+      {
+        "text": "This is 4.",
+        "start": 132.31,
+        "end": 132.711
+      },
+      {
+        "text": "11, 3, 2, 7 equals 3.",
+        "start": 132.731,
+        "end": 155.52
+      },
+      {
+        "text": " Four.",
+        "start": 160.867,
+        "end": 189.181
+      },
+      {
+        "text": "Three.",
+        "start": 189.201,
+        "end": 189.321
+      },
+      {
+        "text": " plus four?",
+        "start": 193.84,
+        "end": 197.847
+      },
+      {
+        "text": "maybe four?",
+        "start": 202.033,
+        "end": 208.544
+      },
+      {
+        "text": "I'm so confused",
+        "start": 208.644,
+        "end": 209.706
+      },
+      {
+        "text": " Nope, that's fine.",
+        "start": 227.573,
+        "end": 237.752
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " P27 equals 3 minus 4. P9 equals 3 plus 3 minus 6. No. P99. 3, I, I, 7, 4, 5, 6, 7, 6, 3, I, I, I, V, 3, I, I, equals three, three, I, three, three, I, three, four, three, three, I, six. 1, 2, 3, 4 equals 3 1, 2, 3, 4, 5, 6, 7 equals 3 This is 7. This is 4. 11, 3, 2, 7 equals 3. Four. Three. plus four? maybe four? I'm so confused Nope, that's fine."
+  }
+}

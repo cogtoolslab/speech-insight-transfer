@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_84dc13f9f35a/trial_1.wav",
+  "with_timestamps": {
+    "text": " Use the buttons below to report the correct version of the equation.I hope I'm doing this right.So, 13 equals 567 minus 6.How is that right?So, let's see.So, we would do... What the heck? Can I change the answer, or does it have to be the same?I have no clue.7 minus 6 equals 13.7 minus 6.So can we move the... Alright, 13 minus 6, 13, 12, 11, 10, 9, 8, 7, 6, yeah.So we would do, oh I can only use one, lose one, matched it.So let's do, can we change the, can we change this? X minus, oh, wait, X I I minus V I, I am saying it out loud, equals V I I. Submit answer. Okay.So 13, 12, 11, 10, 9, 8, 7.Oh, okay.So, X I I minus V I equals V I I. What? How do I do this?I thought we just, okay, let's try it.V V I I equals X I I I minus V I. I don't understand what I'm doing wrong.Alright, let's try this.X I I minus V I equals V I I. How is it wrong?Alright, let's try this.",
+    "segments": [
+      {
+        "text": " Use the buttons below to report the correct version of the equation.",
+        "start": 0.031,
+        "end": 4.676
+      },
+      {
+        "text": "I hope I'm doing this right.",
+        "start": 5.877,
+        "end": 7.338
+      },
+      {
+        "text": "So, 13 equals 567 minus 6.",
+        "start": 7.478,
+        "end": 15.366
+      },
+      {
+        "text": "How is that right?",
+        "start": 16.767,
+        "end": 17.648
+      },
+      {
+        "text": "So, let's see.",
+        "start": 19.95,
+        "end": 21.292
+      },
+      {
+        "text": "So, we would do... What the heck?",
+        "start": 22.413,
+        "end": 27.878
+      },
+      {
+        "text": " Can I change the answer, or does it have to be the same?",
+        "start": 29.208,
+        "end": 32.272
+      },
+      {
+        "text": "I have no clue.",
+        "start": 35.136,
+        "end": 38.56
+      },
+      {
+        "text": "7 minus 6 equals 13.",
+        "start": 38.58,
+        "end": 42.905
+      },
+      {
+        "text": "7 minus 6.",
+        "start": 42.926,
+        "end": 49.173
+      },
+      {
+        "text": "So can we move the...",
+        "start": 50.235,
+        "end": 52.718
+      },
+      {
+        "text": " Alright, 13 minus 6, 13, 12, 11, 10, 9, 8, 7, 6, yeah.",
+        "start": 54.183,
+        "end": 63.952
+      },
+      {
+        "text": "So we would do, oh I can only use one, lose one, matched it.",
+        "start": 64.673,
+        "end": 70.038
+      },
+      {
+        "text": "So let's do, can we change the, can we change this?",
+        "start": 70.819,
+        "end": 82.89
+      },
+      {
+        "text": " X minus, oh, wait, X I I minus V I, I am saying it out loud, equals V I I. Submit answer.",
+        "start": 102.935,
+        "end": 132.418
+      },
+      {
+        "text": " Okay.",
+        "start": 132.871,
+        "end": 134.413
+      },
+      {
+        "text": "So 13, 12, 11, 10, 9, 8, 7.",
+        "start": 134.433,
+        "end": 136.557
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 136.777,
+        "end": 140.002
+      },
+      {
+        "text": "So, X I I minus V I equals V I I. What?",
+        "start": 140.022,
+        "end": 161.494
+      },
+      {
+        "text": " How do I do this?",
+        "start": 163.364,
+        "end": 164.446
+      },
+      {
+        "text": "I thought we just, okay, let's try it.",
+        "start": 166.91,
+        "end": 169.313
+      },
+      {
+        "text": "V V I I equals X I I I minus V I.",
+        "start": 172.679,
+        "end": 189.405
+      },
+      {
+        "text": " I don't understand what I'm doing wrong.",
+        "start": 191.984,
+        "end": 193.787
+      },
+      {
+        "text": "Alright, let's try this.",
+        "start": 193.807,
+        "end": 201.979
+      },
+      {
+        "text": "X I I minus V I equals V I I.",
+        "start": 202.46,
+        "end": 219.747
+      },
+      {
+        "text": " How is it wrong?",
+        "start": 220.857,
+        "end": 221.861
+      },
+      {
+        "text": "Alright, let's try this.",
+        "start": 226.718,
+        "end": 239.423
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Use the buttons below to report the correct version of the equation. I hope I'm doing this right. So, 13 equals 567 minus 6. How is that right? So, let's see. So, we would do... What the heck? Can I change the answer, or does it have to be the same? I have no clue. 7 minus 6 equals 13. 7 minus 6. So can we move the... Alright, 13 minus 6, 13, 12, 11, 10, 9, 8, 7, 6, yeah. So we would do, oh I can only use one, lose one, matched it. So let's do, can we change the, can we change this? X minus, oh, wait, X I I minus V I, I am saying it out loud, equals V I I. Submit answer. Okay. So 13, 12, 11, 10, 9, 8, 7. Oh, okay. So, X I I minus V I equals V I I. What? How do I do this? I thought we just, okay, let's try it. V V I I equals X I I I minus V I. I don't understand what I'm doing wrong. Alright, let's try this. X I I minus V I equals V I I. How is it wrong? Alright, let's try this."
+  }
+}

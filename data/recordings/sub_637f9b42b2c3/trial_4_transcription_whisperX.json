@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_637f9b42b2c3/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, so x's can be v's.That definitely changes things up a bit now that I know that.I doubt it's gonna be that simple this time.Let's see, what do we got here now?Two is equal to nine minus two, so two is equal to seven.Two is equal to seven. Let's see, let's try the x's of 5.That would be 4 minus 2.Yeah.So 2 is equal to 1v minus 2.",
+    "segments": [
+      {
+        "text": " All right, so x's can be v's.",
+        "start": 2.005,
+        "end": 4.968
+      },
+      {
+        "text": "That definitely changes things up a bit now that I know that.",
+        "start": 6.31,
+        "end": 10.574
+      },
+      {
+        "text": "I doubt it's gonna be that simple this time.",
+        "start": 11.075,
+        "end": 14.338
+      },
+      {
+        "text": "Let's see, what do we got here now?",
+        "start": 14.378,
+        "end": 18.443
+      },
+      {
+        "text": "Two is equal to nine minus two, so two is equal to seven.",
+        "start": 18.543,
+        "end": 22.827
+      },
+      {
+        "text": "Two is equal to seven.",
+        "start": 27.332,
+        "end": 29.835
+      },
+      {
+        "text": " Let's see, let's try the x's of 5.",
+        "start": 34.439,
+        "end": 35.782
+      },
+      {
+        "text": "That would be 4 minus 2.",
+        "start": 36.785,
+        "end": 38.309
+      },
+      {
+        "text": "Yeah.",
+        "start": 38.83,
+        "end": 38.991
+      },
+      {
+        "text": "So 2 is equal to 1v minus 2.",
+        "start": 39.853,
+        "end": 46.71
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so x's can be v's. That definitely changes things up a bit now that I know that. I doubt it's gonna be that simple this time. Let's see, what do we got here now? Two is equal to nine minus two, so two is equal to seven. Two is equal to seven. Let's see, let's try the x's of 5. That would be 4 minus 2. Yeah. So 2 is equal to 1v minus 2."
+  }
+}

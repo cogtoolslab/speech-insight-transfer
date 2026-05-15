@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_057b1c4a47b6/trial_5.wav",
+  "with_timestamps": {
+    "text": " This equation says 3 equals 9 minus 4.So 3 equals 9 minus 4, 9 minus 6. would be 3 so if we change the 4 to a 6 so 3 equals 9 minus 6 should be",
+    "segments": [
+      {
+        "text": " This equation says 3 equals 9 minus 4.",
+        "start": 1.381,
+        "end": 6.715
+      },
+      {
+        "text": "So 3 equals 9 minus 4, 9 minus 6.",
+        "start": 8.72,
+        "end": 15.998
+      },
+      {
+        "text": " would be 3 so if we change the 4 to a 6 so 3 equals 9 minus 6 should be",
+        "start": 18.796,
+        "end": 31.455
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This equation says 3 equals 9 minus 4. So 3 equals 9 minus 4, 9 minus 6. would be 3 so if we change the 4 to a 6 so 3 equals 9 minus 6 should be"
+  }
+}

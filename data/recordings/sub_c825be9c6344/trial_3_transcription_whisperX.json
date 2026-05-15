@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_c825be9c6344/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, current equation we have is 4 equals 4 minus 2.So IV equals IV minus II.That's correct.So how do we solve this one?We could say, oh, no, moving the 1 from behind the 4 will not fix it. Four equals four minus two.Oh, we could swap the second four, swap the I to the other side of the V to make it a six.So they didn't have four equals six minus two, which equals four equals four.That works.IV equals VI minus II.",
+    "segments": [
+      {
+        "text": " OK, current equation we have is 4 equals 4 minus 2.",
+        "start": 0.959,
+        "end": 4.345
+      },
+      {
+        "text": "So IV equals IV minus II.",
+        "start": 4.365,
+        "end": 8.231
+      },
+      {
+        "text": "That's correct.",
+        "start": 9.173,
+        "end": 9.954
+      },
+      {
+        "text": "So how do we solve this one?",
+        "start": 11.336,
+        "end": 14.441
+      },
+      {
+        "text": "We could say, oh, no, moving the 1 from behind the 4 will not fix it.",
+        "start": 14.461,
+        "end": 25.279
+      },
+      {
+        "text": " Four equals four minus two.",
+        "start": 26.407,
+        "end": 28.573
+      },
+      {
+        "text": "Oh, we could swap the second four, swap the I to the other side of the V to make it a six.",
+        "start": 28.693,
+        "end": 35.169
+      },
+      {
+        "text": "So they didn't have four equals six minus two, which equals four equals four.",
+        "start": 35.209,
+        "end": 40.202
+      },
+      {
+        "text": "That works.",
+        "start": 40.383,
+        "end": 40.743
+      },
+      {
+        "text": "IV equals VI minus II.",
+        "start": 41.826,
+        "end": 46.879
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, current equation we have is 4 equals 4 minus 2. So IV equals IV minus II. That's correct. So how do we solve this one? We could say, oh, no, moving the 1 from behind the 4 will not fix it. Four equals four minus two. Oh, we could swap the second four, swap the I to the other side of the V to make it a six. So they didn't have four equals six minus two, which equals four equals four. That works. IV equals VI minus II."
+  }
+}

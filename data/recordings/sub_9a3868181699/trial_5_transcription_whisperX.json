@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_9a3868181699/trial_5.wav",
+  "with_timestamps": {
+    "text": " and remove it, making it Svem.Now the equation is...",
+    "segments": [
+      {
+        "text": " and remove it, making it Svem.",
+        "start": 0.031,
+        "end": 1.443
+      },
+      {
+        "text": "Now the equation is...",
+        "start": 2.452,
+        "end": 3.46
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " and remove it, making it Svem. Now the equation is..."
+  }
+}

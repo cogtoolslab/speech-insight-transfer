@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_17d3b5b800b6/trial_4.wav",
+  "with_timestamps": {
+    "text": " 4 equals wait 4 equals 4 minus 2 Okay, there's there's two ways cuz it could be 6 equals 4 no so it has to be Okay, oh, I'm okay so I Four minus two.Okay, ooh, here we go.I'm gonna make one move, one match stick.Four equals four minus two.Four equals six minus two.There we go.It took a little bit, but we got there.Four equals six minus two.",
+    "segments": [
+      {
+        "text": " 4 equals wait 4 equals 4 minus 2 Okay, there's there's two ways cuz it could be 6 equals 4 no so it has to be Okay, oh, I'm okay so I",
+        "start": 0.031,
+        "end": 25.515
+      },
+      {
+        "text": " Four minus two.",
+        "start": 26.963,
+        "end": 28.344
+      },
+      {
+        "text": "Okay, ooh, here we go.",
+        "start": 28.385,
+        "end": 30.967
+      },
+      {
+        "text": "I'm gonna make one move, one match stick.",
+        "start": 31.448,
+        "end": 33.55
+      },
+      {
+        "text": "Four equals four minus two.",
+        "start": 37.374,
+        "end": 39.456
+      },
+      {
+        "text": "Four equals six minus two.",
+        "start": 42.8,
+        "end": 44.502
+      },
+      {
+        "text": "There we go.",
+        "start": 46.984,
+        "end": 47.585
+      },
+      {
+        "text": "It took a little bit, but we got there.",
+        "start": 47.845,
+        "end": 49.247
+      },
+      {
+        "text": "Four equals six minus two.",
+        "start": 49.347,
+        "end": 53.511
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals wait 4 equals 4 minus 2 Okay, there's there's two ways cuz it could be 6 equals 4 no so it has to be Okay, oh, I'm okay so I Four minus two. Okay, ooh, here we go. I'm gonna make one move, one match stick. Four equals four minus two. Four equals six minus two. There we go. It took a little bit, but we got there. Four equals six minus two."
+  }
+}

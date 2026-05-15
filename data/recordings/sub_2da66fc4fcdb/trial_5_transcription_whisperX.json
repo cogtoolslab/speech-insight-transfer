@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_2da66fc4fcdb/trial_5.wav",
+  "with_timestamps": {
+    "text": " 5, 6, 7 is equal to 9 plus 3 9 9 9 minus 3 3, 6, 9, 9 plus 3 is 12 so it has to go Nice.",
+    "segments": [
+      {
+        "text": " 5, 6, 7 is equal to 9 plus 3 9 9 9 minus 3",
+        "start": 0.824,
+        "end": 29.363
+      },
+      {
+        "text": " 3, 6, 9, 9 plus 3 is 12 so it has to go",
+        "start": 29.95,
+        "end": 47.47
+      },
+      {
+        "text": " Nice.",
+        "start": 60.207,
+        "end": 60.668
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 5, 6, 7 is equal to 9 plus 3 9 9 9 minus 3 3, 6, 9, 9 plus 3 is 12 so it has to go Nice."
+  }
+}

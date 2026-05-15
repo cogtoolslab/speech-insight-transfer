@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_84dc13f9f35a/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, 13 equals 2 plus 4.13 equals, no, 8 equals 5, 6, okay.Now, okay, so move the one match stick. v123 equals 123 plus v.",
+    "segments": [
+      {
+        "text": " All right, 13 equals 2 plus 4.",
+        "start": 0.031,
+        "end": 6.842
+      },
+      {
+        "text": "13 equals, no, 8 equals 5, 6, okay.",
+        "start": 6.862,
+        "end": 17.9
+      },
+      {
+        "text": "Now, okay, so move the one match stick.",
+        "start": 20.845,
+        "end": 27.135
+      },
+      {
+        "text": " v123 equals 123 plus v.",
+        "start": 28.313,
+        "end": 39.505
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, 13 equals 2 plus 4. 13 equals, no, 8 equals 5, 6, okay. Now, okay, so move the one match stick. v123 equals 123 plus v."
+  }
+}

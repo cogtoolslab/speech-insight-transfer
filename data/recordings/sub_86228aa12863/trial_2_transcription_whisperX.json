@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_86228aa12863/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, let's try this again.So now I have 11 equals four plus two.So I could do, so wait, 11, four and two, that's eight. If I moved this over and I had 10 equals four plus three, that's only seven.Ooh, can I angle them?Can I do equals, so 10 equals four.Oh, wait. That doesn't work either.Okay, hold on.10 equals four plus three.That doesn't work.Hold on, I don't know what I was just thinking.Oh no, it's 11.Four.And I would need seven. I can't do that.I could make it 1.10 equals 4+.I don't know what would happen if I move an X or a V. What if I did 11 minus 4? That would be seven, but I can't put one in to make it that.Oh, goodness gracious.Four.So that's two.If I moved one, I would have three. Okay, I could move this over, six, seven, eight.All right, if I moved one, oh my God, I'm stuck.I'm totally stuck, I have no clue.What if I did four, five, six?I don't know why I can't figure this out. 11, I could do 11 minus four equals seven, that doesn't work.Wow.I am, all right, what if I did 10 equals, But nothing in here would be 10.11 equals 4 plus 6.Yeah, that's too many.",
+    "segments": [
+      {
+        "text": " All right, let's try this again.",
+        "start": 0.301,
+        "end": 1.302
+      },
+      {
+        "text": "So now I have 11 equals four plus two.",
+        "start": 1.983,
+        "end": 7.21
+      },
+      {
+        "text": "So I could do, so wait, 11, four and two, that's eight.",
+        "start": 13.319,
+        "end": 27.979
+      },
+      {
+        "text": " If I moved this over and I had 10 equals four plus three, that's only seven.",
+        "start": 28.786,
+        "end": 37.293
+      },
+      {
+        "text": "Ooh, can I angle them?",
+        "start": 42.377,
+        "end": 44.019
+      },
+      {
+        "text": "Can I do equals, so 10 equals four.",
+        "start": 44.459,
+        "end": 50.985
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 51.005,
+        "end": 58.371
+      },
+      {
+        "text": " That doesn't work either.",
+        "start": 60.308,
+        "end": 61.249
+      },
+      {
+        "text": "Okay, hold on.",
+        "start": 63.471,
+        "end": 64.572
+      },
+      {
+        "text": "10 equals four plus three.",
+        "start": 64.732,
+        "end": 69.898
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 69.918,
+        "end": 70.578
+      },
+      {
+        "text": "Hold on, I don't know what I was just thinking.",
+        "start": 70.598,
+        "end": 72.22
+      },
+      {
+        "text": "Oh no, it's 11.",
+        "start": 75.283,
+        "end": 80.008
+      },
+      {
+        "text": "Four.",
+        "start": 80.028,
+        "end": 80.448
+      },
+      {
+        "text": "And I would need seven.",
+        "start": 85.874,
+        "end": 87.295
+      },
+      {
+        "text": " I can't do that.",
+        "start": 89.536,
+        "end": 90.557
+      },
+      {
+        "text": "I could make it 1.",
+        "start": 90.577,
+        "end": 94.803
+      },
+      {
+        "text": "10 equals 4+.",
+        "start": 94.823,
+        "end": 103.214
+      },
+      {
+        "text": "I don't know what would happen if I move an X or a V. What if I did 11 minus 4?",
+        "start": 104.396,
+        "end": 117.113
+      },
+      {
+        "text": " That would be seven, but I can't put one in to make it that.",
+        "start": 119.995,
+        "end": 126.945
+      },
+      {
+        "text": "Oh, goodness gracious.",
+        "start": 126.965,
+        "end": 129.388
+      },
+      {
+        "text": "Four.",
+        "start": 133.394,
+        "end": 133.875
+      },
+      {
+        "text": "So that's two.",
+        "start": 142.046,
+        "end": 143.007
+      },
+      {
+        "text": "If I moved one, I would have three.",
+        "start": 147.814,
+        "end": 149.817
+      },
+      {
+        "text": " Okay, I could move this over, six, seven, eight.",
+        "start": 153.796,
+        "end": 161.525
+      },
+      {
+        "text": "All right, if I moved one, oh my God, I'm stuck.",
+        "start": 163.427,
+        "end": 166.491
+      },
+      {
+        "text": "I'm totally stuck, I have no clue.",
+        "start": 166.871,
+        "end": 171.516
+      },
+      {
+        "text": "What if I did four, five, six?",
+        "start": 171.536,
+        "end": 176.222
+      },
+      {
+        "text": "I don't know why I can't figure this out.",
+        "start": 181.408,
+        "end": 183.55
+      },
+      {
+        "text": " 11, I could do 11 minus four equals seven, that doesn't work.",
+        "start": 187.934,
+        "end": 196.287
+      },
+      {
+        "text": "Wow.",
+        "start": 203.699,
+        "end": 203.939
+      },
+      {
+        "text": "I am, all right, what if I did 10 equals,",
+        "start": 207.164,
+        "end": 215.157
+      },
+      {
+        "text": " But nothing in here would be 10.",
+        "start": 220.722,
+        "end": 222.609
+      },
+      {
+        "text": "11 equals 4 plus 6.",
+        "start": 222.629,
+        "end": 238.384
+      },
+      {
+        "text": "Yeah, that's too many.",
+        "start": 238.404,
+        "end": 239.187
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's try this again. So now I have 11 equals four plus two. So I could do, so wait, 11, four and two, that's eight. If I moved this over and I had 10 equals four plus three, that's only seven. Ooh, can I angle them? Can I do equals, so 10 equals four. Oh, wait. That doesn't work either. Okay, hold on. 10 equals four plus three. That doesn't work. Hold on, I don't know what I was just thinking. Oh no, it's 11. Four. And I would need seven. I can't do that. I could make it 1. 10 equals 4+. I don't know what would happen if I move an X or a V. What if I did 11 minus 4? That would be seven, but I can't put one in to make it that. Oh, goodness gracious. Four. So that's two. If I moved one, I would have three. Okay, I could move this over, six, seven, eight. All right, if I moved one, oh my God, I'm stuck. I'm totally stuck, I have no clue. What if I did four, five, six? I don't know why I can't figure this out. 11, I could do 11 minus four equals seven, that doesn't work. Wow. I am, all right, what if I did 10 equals, But nothing in here would be 10. 11 equals 4 plus 6. Yeah, that's too many."
+  }
+}

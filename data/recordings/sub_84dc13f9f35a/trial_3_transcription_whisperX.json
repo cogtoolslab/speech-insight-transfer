@@ -1,0 +1,331 @@
+{
+  "file": "data/recordings/sub_84dc13f9f35a/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, so 10, 16 minus, what?Oh, three equals three plus three, six.Okay, three plus three.Okay, so we just have to remove the one.One, two, three equals, 1, 2, 3, minus... Oh, no.That's not going to work.That would be zero.Okay, so 3 plus 3 equals 6.So, what do we do?3 plus 3 equals 6. What?Oh.How do I move just one matchstick?I have no clue.Three, and I can only move one matchstick, so how do I do that?Um, I have no clue.What the heck?What do we do?Can we do five? Um, let's try that.Three, whoops.Alright, three equals IV.Oops, whoops.Three equals, let's try doing six.Minus one, two, three. Is that right?No.What the heck?How do you move a matchstick?How do you move a matchstick?This is stupid.Three plus three.And it can't be three minus three and you can't change them.So how the heck do you do this?You can't.There's no way.This is really, really stupid.All right.Um, Three plus three equals six.So how do you do with only moving one matchstick?You can't do it without changing, you can't do it without changing the, ugh, it to a V. I have no idea.Let's try this.One, two, three. equals 1, 2, 3 minus 1, 2, 3.I know that's not right.Of course, that's incorrect.So how do you change it?There's no way to do this.There's just no way to do this by just moving one matchstick.How the heck are you supposed to do it by moving one matchstick? Um, there's no way.There's no way.What the heck?How do you move one matchstick?Oh, no.You can't do that.Let's try this.V I equals 1 2 3 plus 1 2 3.Is that right?No. This is dumb!How are you supposed to know this?",
+    "segments": [
+      {
+        "text": " All right, so 10, 16 minus, what?",
+        "start": 1.229,
+        "end": 12.284
+      },
+      {
+        "text": "Oh, three equals three plus three, six.",
+        "start": 14.727,
+        "end": 19.353
+      },
+      {
+        "text": "Okay, three plus three.",
+        "start": 21.356,
+        "end": 23.498
+      },
+      {
+        "text": "Okay, so we just have to remove the one.",
+        "start": 24.7,
+        "end": 27.043
+      },
+      {
+        "text": "One, two, three equals,",
+        "start": 28.064,
+        "end": 30.848
+      },
+      {
+        "text": " 1, 2, 3, minus... Oh, no.",
+        "start": 31.655,
+        "end": 39.526
+      },
+      {
+        "text": "That's not going to work.",
+        "start": 39.546,
+        "end": 40.468
+      },
+      {
+        "text": "That would be zero.",
+        "start": 40.668,
+        "end": 41.729
+      },
+      {
+        "text": "Okay, so 3 plus 3 equals 6.",
+        "start": 45.254,
+        "end": 49.46
+      },
+      {
+        "text": "So, what do we do?",
+        "start": 52.104,
+        "end": 54.247
+      },
+      {
+        "text": "3 plus 3 equals 6.",
+        "start": 54.267,
+        "end": 61.257
+      },
+      {
+        "text": " What?",
+        "start": 62.435,
+        "end": 64.739
+      },
+      {
+        "text": "Oh.",
+        "start": 64.759,
+        "end": 64.899
+      },
+      {
+        "text": "How do I move just one matchstick?",
+        "start": 67.503,
+        "end": 69.386
+      },
+      {
+        "text": "I have no clue.",
+        "start": 70.147,
+        "end": 73.172
+      },
+      {
+        "text": "Three, and I can only move one matchstick, so how do I do that?",
+        "start": 73.192,
+        "end": 76.777
+      },
+      {
+        "text": "Um, I have no clue.",
+        "start": 80.463,
+        "end": 83.087
+      },
+      {
+        "text": "What the heck?",
+        "start": 83.828,
+        "end": 84.489
+      },
+      {
+        "text": "What do we do?",
+        "start": 85.611,
+        "end": 86.172
+      },
+      {
+        "text": "Can we do five?",
+        "start": 87.434,
+        "end": 89.337
+      },
+      {
+        "text": " Um, let's try that.",
+        "start": 92.101,
+        "end": 93.903
+      },
+      {
+        "text": "Three, whoops.",
+        "start": 95.345,
+        "end": 99.209
+      },
+      {
+        "text": "Alright, three equals IV.",
+        "start": 99.229,
+        "end": 104.956
+      },
+      {
+        "text": "Oops, whoops.",
+        "start": 107.079,
+        "end": 108.581
+      },
+      {
+        "text": "Three equals, let's try doing six.",
+        "start": 108.601,
+        "end": 112.105
+      },
+      {
+        "text": "Minus one, two, three.",
+        "start": 116.27,
+        "end": 119.914
+      },
+      {
+        "text": " Is that right?",
+        "start": 120.62,
+        "end": 121.381
+      },
+      {
+        "text": "No.",
+        "start": 121.742,
+        "end": 122.443
+      },
+      {
+        "text": "What the heck?",
+        "start": 122.463,
+        "end": 123.144
+      },
+      {
+        "text": "How do you move a matchstick?",
+        "start": 123.164,
+        "end": 124.706
+      },
+      {
+        "text": "How do you move a matchstick?",
+        "start": 125.687,
+        "end": 127.189
+      },
+      {
+        "text": "This is stupid.",
+        "start": 128.311,
+        "end": 129.313
+      },
+      {
+        "text": "Three plus three.",
+        "start": 130.414,
+        "end": 131.496
+      },
+      {
+        "text": "And it can't be three minus three and you can't change them.",
+        "start": 131.516,
+        "end": 136.182
+      },
+      {
+        "text": "So how the heck do you do this?",
+        "start": 136.964,
+        "end": 138.626
+      },
+      {
+        "text": "You can't.",
+        "start": 139.687,
+        "end": 140.328
+      },
+      {
+        "text": "There's no way.",
+        "start": 140.649,
+        "end": 141.45
+      },
+      {
+        "text": "This is really, really stupid.",
+        "start": 142.371,
+        "end": 144.514
+      },
+      {
+        "text": "All right.",
+        "start": 146.177,
+        "end": 146.918
+      },
+      {
+        "text": "Um,",
+        "start": 146.938,
+        "end": 146.998
+      },
+      {
+        "text": " Three plus three equals six.",
+        "start": 148.497,
+        "end": 150.559
+      },
+      {
+        "text": "So how do you do with only moving one matchstick?",
+        "start": 150.599,
+        "end": 154.583
+      },
+      {
+        "text": "You can't do it without changing, you can't do it without changing the, ugh, it to a V. I have no idea.",
+        "start": 155.704,
+        "end": 171.721
+      },
+      {
+        "text": "Let's try this.",
+        "start": 171.761,
+        "end": 172.702
+      },
+      {
+        "text": "One, two, three.",
+        "start": 173.062,
+        "end": 174.724
+      },
+      {
+        "text": " equals 1, 2, 3 minus 1, 2, 3.",
+        "start": 175.092,
+        "end": 179.217
+      },
+      {
+        "text": "I know that's not right.",
+        "start": 179.298,
+        "end": 180.359
+      },
+      {
+        "text": "Of course, that's incorrect.",
+        "start": 182.982,
+        "end": 184.384
+      },
+      {
+        "text": "So how do you change it?",
+        "start": 186.327,
+        "end": 187.809
+      },
+      {
+        "text": "There's no way to do this.",
+        "start": 190.953,
+        "end": 192.155
+      },
+      {
+        "text": "There's just no way to do this by just moving one matchstick.",
+        "start": 192.435,
+        "end": 198.243
+      },
+      {
+        "text": "How the heck are you supposed to do it by moving one matchstick?",
+        "start": 199.384,
+        "end": 202.348
+      },
+      {
+        "text": " Um, there's no way.",
+        "start": 206.041,
+        "end": 209.567
+      },
+      {
+        "text": "There's no way.",
+        "start": 210.588,
+        "end": 211.329
+      },
+      {
+        "text": "What the heck?",
+        "start": 212.451,
+        "end": 215.716
+      },
+      {
+        "text": "How do you move one matchstick?",
+        "start": 215.736,
+        "end": 217.379
+      },
+      {
+        "text": "Oh, no.",
+        "start": 217.799,
+        "end": 218.44
+      },
+      {
+        "text": "You can't do that.",
+        "start": 219.282,
+        "end": 220.243
+      },
+      {
+        "text": "Let's try this.",
+        "start": 222.206,
+        "end": 223.108
+      },
+      {
+        "text": "V I equals 1 2 3 plus 1 2 3.",
+        "start": 223.308,
+        "end": 231.841
+      },
+      {
+        "text": "Is that right?",
+        "start": 232.002,
+        "end": 232.643
+      },
+      {
+        "text": "No.",
+        "start": 232.703,
+        "end": 234.225
+      },
+      {
+        "text": " This is dumb!",
+        "start": 235.1,
+        "end": 236.095
+      },
+      {
+        "text": "How are you supposed to know this?",
+        "start": 237.414,
+        "end": 239.423
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so 10, 16 minus, what? Oh, three equals three plus three, six. Okay, three plus three. Okay, so we just have to remove the one. One, two, three equals, 1, 2, 3, minus... Oh, no. That's not going to work. That would be zero. Okay, so 3 plus 3 equals 6. So, what do we do? 3 plus 3 equals 6. What? Oh. How do I move just one matchstick? I have no clue. Three, and I can only move one matchstick, so how do I do that? Um, I have no clue. What the heck? What do we do? Can we do five? Um, let's try that. Three, whoops. Alright, three equals IV. Oops, whoops. Three equals, let's try doing six. Minus one, two, three. Is that right? No. What the heck? How do you move a matchstick? How do you move a matchstick? This is stupid. Three plus three. And it can't be three minus three and you can't change them. So how the heck do you do this? You can't. There's no way. This is really, really stupid. All right. Um, Three plus three equals six. So how do you do with only moving one matchstick? You can't do it without changing, you can't do it without changing the, ugh, it to a V. I have no idea. Let's try this. One, two, three. equals 1, 2, 3 minus 1, 2, 3. I know that's not right. Of course, that's incorrect. So how do you change it? There's no way to do this. There's just no way to do this by just moving one matchstick. How the heck are you supposed to do it by moving one matchstick? Um, there's no way. There's no way. What the heck? How do you move one matchstick? Oh, no. You can't do that. Let's try this. V I equals 1 2 3 plus 1 2 3. Is that right? No. This is dumb! How are you supposed to know this?"
+  }
+}

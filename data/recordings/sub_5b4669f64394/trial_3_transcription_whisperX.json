@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_5b4669f64394/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, let's see.Four equals four minus two.So let's see, if I did six, I get four equals six minus two would be it.So this one's much easier.Four equals six minus two.",
+    "segments": [
+      {
+        "text": " All right, let's see.",
+        "start": 0.183,
+        "end": 2.165
+      },
+      {
+        "text": "Four equals four minus two.",
+        "start": 2.925,
+        "end": 7.169
+      },
+      {
+        "text": "So let's see, if I did six, I get four equals six minus two would be it.",
+        "start": 8.711,
+        "end": 20.601
+      },
+      {
+        "text": "So this one's much easier.",
+        "start": 21.922,
+        "end": 23.263
+      },
+      {
+        "text": "Four equals six",
+        "start": 23.624,
+        "end": 28.468
+      },
+      {
+        "text": " minus two.",
+        "start": 29.343,
+        "end": 31.843
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see. Four equals four minus two. So let's see, if I did six, I get four equals six minus two would be it. So this one's much easier. Four equals six minus two."
+  }
+}

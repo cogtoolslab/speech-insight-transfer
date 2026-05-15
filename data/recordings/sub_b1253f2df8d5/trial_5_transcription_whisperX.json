@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_b1253f2df8d5/trial_5.wav",
+  "with_timestamps": {
+    "text": " We have 4 equals 7 plus 4.So same thing.We're going to do 4 equals 8 minus 4.",
+    "segments": [
+      {
+        "text": " We have 4 equals 7 plus 4.",
+        "start": 1.432,
+        "end": 6.14
+      },
+      {
+        "text": "So same thing.",
+        "start": 6.16,
+        "end": 12.371
+      },
+      {
+        "text": "We're going to do 4 equals 8 minus 4.",
+        "start": 12.391,
+        "end": 20.605
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " We have 4 equals 7 plus 4. So same thing. We're going to do 4 equals 8 minus 4."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_6185184e8c09/trial_4.wav",
+  "with_timestamps": {
+    "text": " Gosh, I feel like I'm flunking this.Okay, let's try again.Okay, so two equals nine minus two, which is seven.So right now it says two equals seven.Okay, so again, the big number in the middle is killing me.Okay, let's see. 2.I don't feel like moving these would help because 2 minus this big number will be a negative number. It's the same problem.If I move this one anywhere, there's not enough match sticks to really get far with that.Um, I just make this a three.It doesn't help anything that would still be, um, 10 minus two, which is a runner three.And like making this, yeah, I don't know.I have no idea.I feel really dumb and that's a sucky feeling. Minus.I know it's not the answer.I know, I know, I know.I'm trying to just.Yeah, I don't understand how this is possible to solve, to be honest with you. Putting this on the other side doesn't help besides turning that from a 9 to an 11, which doesn't get me any closer to where I want to be.I can't do much with the 10.Like, I can only move the equals sign, the minus sign, or these ones. What if it was like... I thought maybe I was onto something there, at least had some symmetry to it.That's not it.What else can I move? Made that a plus.Oh, the 10 is throwing everything off.I can't do anything with that 10.Unless I misunderstood the rules somehow.Because even making that into a V, that's more than moving one matchstick.So don't think that would be very helpful in this case. Yeah, I don't know.",
+    "segments": [
+      {
+        "text": " Gosh, I feel like I'm flunking this.",
+        "start": 0.858,
+        "end": 2.14
+      },
+      {
+        "text": "Okay, let's try again.",
+        "start": 2.36,
+        "end": 3.442
+      },
+      {
+        "text": "Okay, so two equals nine minus two, which is seven.",
+        "start": 5.385,
+        "end": 14.779
+      },
+      {
+        "text": "So right now it says two equals seven.",
+        "start": 14.799,
+        "end": 16.401
+      },
+      {
+        "text": "Okay, so again, the big number in the middle is killing me.",
+        "start": 17.503,
+        "end": 22.05
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 27.598,
+        "end": 28.84
+      },
+      {
+        "text": " 2.",
+        "start": 36.16,
+        "end": 36.761
+      },
+      {
+        "text": "I don't feel like moving these would help because 2 minus this big number will be a negative number.",
+        "start": 36.801,
+        "end": 56.903
+      },
+      {
+        "text": " It's the same problem.",
+        "start": 68.847,
+        "end": 69.588
+      },
+      {
+        "text": "If I move this one anywhere, there's not enough match sticks to really get far with that.",
+        "start": 69.608,
+        "end": 74.833
+      },
+      {
+        "text": "Um, I just make this a three.",
+        "start": 75.534,
+        "end": 76.875
+      },
+      {
+        "text": "It doesn't help anything that would still be, um, 10 minus two, which is a runner three.",
+        "start": 76.895,
+        "end": 82.821
+      },
+      {
+        "text": "And like making this, yeah, I don't know.",
+        "start": 82.841,
+        "end": 91.05
+      },
+      {
+        "text": "I have no idea.",
+        "start": 91.41,
+        "end": 92.231
+      },
+      {
+        "text": "I feel really dumb and that's a sucky feeling.",
+        "start": 94.273,
+        "end": 97.116
+      },
+      {
+        "text": " Minus.",
+        "start": 108.065,
+        "end": 108.786
+      },
+      {
+        "text": "I know it's not the answer.",
+        "start": 111.91,
+        "end": 112.811
+      },
+      {
+        "text": "I know, I know, I know.",
+        "start": 112.971,
+        "end": 113.552
+      },
+      {
+        "text": "I'm trying to just.",
+        "start": 113.572,
+        "end": 114.613
+      },
+      {
+        "text": "Yeah, I don't understand how this is possible to solve, to be honest with you.",
+        "start": 122.202,
+        "end": 134.477
+      },
+      {
+        "text": " Putting this on the other side doesn't help besides turning that from a 9 to an 11, which doesn't get me any closer to where I want to be.",
+        "start": 139.638,
+        "end": 149.931
+      },
+      {
+        "text": "I can't do much with the 10.",
+        "start": 149.971,
+        "end": 155.578
+      },
+      {
+        "text": "Like, I can only move the equals sign, the minus sign, or these ones.",
+        "start": 155.598,
+        "end": 169.155
+      },
+      {
+        "text": " What if it was like... I thought maybe I was onto something there, at least had some symmetry to it.",
+        "start": 175.733,
+        "end": 185.969
+      },
+      {
+        "text": "That's not it.",
+        "start": 186.129,
+        "end": 186.77
+      },
+      {
+        "text": "What else can I move?",
+        "start": 200.912,
+        "end": 201.893
+      },
+      {
+        "text": " Made that a plus.",
+        "start": 204.91,
+        "end": 205.891
+      },
+      {
+        "text": "Oh, the 10 is throwing everything off.",
+        "start": 208.314,
+        "end": 209.816
+      },
+      {
+        "text": "I can't do anything with that 10.",
+        "start": 209.876,
+        "end": 211.739
+      },
+      {
+        "text": "Unless I misunderstood the rules somehow.",
+        "start": 216.505,
+        "end": 218.347
+      },
+      {
+        "text": "Because even making that into a V, that's more than moving one matchstick.",
+        "start": 219.088,
+        "end": 224.255
+      },
+      {
+        "text": "So don't think that would be very helpful in this case.",
+        "start": 226.398,
+        "end": 233.787
+      },
+      {
+        "text": " Yeah, I don't know.",
+        "start": 235.707,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Gosh, I feel like I'm flunking this. Okay, let's try again. Okay, so two equals nine minus two, which is seven. So right now it says two equals seven. Okay, so again, the big number in the middle is killing me. Okay, let's see. 2. I don't feel like moving these would help because 2 minus this big number will be a negative number. It's the same problem. If I move this one anywhere, there's not enough match sticks to really get far with that. Um, I just make this a three. It doesn't help anything that would still be, um, 10 minus two, which is a runner three. And like making this, yeah, I don't know. I have no idea. I feel really dumb and that's a sucky feeling. Minus. I know it's not the answer. I know, I know, I know. I'm trying to just. Yeah, I don't understand how this is possible to solve, to be honest with you. Putting this on the other side doesn't help besides turning that from a 9 to an 11, which doesn't get me any closer to where I want to be. I can't do much with the 10. Like, I can only move the equals sign, the minus sign, or these ones. What if it was like... I thought maybe I was onto something there, at least had some symmetry to it. That's not it. What else can I move? Made that a plus. Oh, the 10 is throwing everything off. I can't do anything with that 10. Unless I misunderstood the rules somehow. Because even making that into a V, that's more than moving one matchstick. So don't think that would be very helpful in this case. Yeah, I don't know."
+  }
+}

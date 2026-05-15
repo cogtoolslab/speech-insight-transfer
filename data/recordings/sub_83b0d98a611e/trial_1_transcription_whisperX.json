@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_83b0d98a611e/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so this is going to be kind of nasty, huh?Wow, so three does not equal to three plus three.Now, what should I do to manage this? Well, I'm looking at it and I'm inclined to say that I should move.But I can't do that, can I?Oh, gosh. Jesus.Let me try this. Will this work?",
+    "segments": [
+      {
+        "text": " Okay, so this is going to be kind of nasty, huh?",
+        "start": 0.537,
+        "end": 5.285
+      },
+      {
+        "text": "Wow, so three does not equal to three plus three.",
+        "start": 7.629,
+        "end": 12.677
+      },
+      {
+        "text": "Now, what should I do to manage this?",
+        "start": 15.502,
+        "end": 25.819
+      },
+      {
+        "text": " Well, I'm looking at it and I'm inclined to say that I should move.",
+        "start": 31.655,
+        "end": 48.335
+      },
+      {
+        "text": "But I can't do that, can I?",
+        "start": 51.159,
+        "end": 52.36
+      },
+      {
+        "text": "Oh, gosh.",
+        "start": 53.121,
+        "end": 53.882
+      },
+      {
+        "text": " Jesus.",
+        "start": 61.068,
+        "end": 69.124
+      },
+      {
+        "text": "Let me try this.",
+        "start": 73.572,
+        "end": 74.875
+      },
+      {
+        "text": " Will this work?",
+        "start": 95.965,
+        "end": 96.746
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this is going to be kind of nasty, huh? Wow, so three does not equal to three plus three. Now, what should I do to manage this? Well, I'm looking at it and I'm inclined to say that I should move. But I can't do that, can I? Oh, gosh. Jesus. Let me try this. Will this work?"
+  }
+}

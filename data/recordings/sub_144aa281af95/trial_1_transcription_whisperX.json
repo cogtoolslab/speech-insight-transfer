@@ -1,0 +1,381 @@
+{
+  "file": "data/recordings/sub_144aa281af95/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, let's see.You can move one matchstick to make this equation.OK.So that's a 9.So 9 equals, that's 4.No, that's 5.That's 7.So 7 plus 2, I would need.So 7, that right now, it's 7 plus 4.That's 11.And over here, we have. 9 so I need to make this 11 so I know I need to make this 9 so no that's right wait the V is 10 so that's 12 no the V is 5 so that's 5 6 7 so that's 7 plus 4 right now they have 11 7 plus 4 and 1 X over here that's that's a 9 so I need to make this Okay, V. I can only move one.This is hard!So, V. I can only move one, so it has to stay a V. You know, it could be an X. It would be 12.I can't make it.Can I make a minus?Can I take them away?I don't know if I can take them away.I don't, I think it said no.Okay, so that's, that is a four.You can't make that anything.Can you? I'm going to run out of time.Oh my God.Nine equals, so it would be seven plus two, but how do I make that a two?Oh crap.Okay.So that's a four.I make this a five.I can't.Cause you can't take anything away.Oh my God.So nine equals, Seven plus two.How do I make that a two?How do I make that a two?I can't take anything away.Oh my God.Let's see.What am I doing?Oh, what's down here?Okay.That's what I have to do.I have to make this smaller.I can see everything.Okay. Oh, you can only move one match stick to make it correct.We got nine equals seven plus, what can I do?I can't do anything.Equals, what's this?Okay.Oh wait, I can, these are my options.Can I use a seven?What can I do? What can I do?I think I'm confused.7 plus 2.How do I make that a 2?I can change it?Can I change it?I don't know what I'm doing.Select version, so V1.No, I don't know how to do this.1X.Oh, I know what I'm doing.Well, can I change the beginning?So 7. Oh wait, so if I... Can I move him?Alright, let's do this, let's do this.I think I can do this.I don't know if I can do this.So 11... 11 equals... I don't know if I can do this.V... 1, 1... Plus... 1V... I don't know if I can do this.",
+    "segments": [
+      {
+        "text": " OK, let's see.",
+        "start": 1.145,
+        "end": 2.106
+      },
+      {
+        "text": "You can move one matchstick to make this equation.",
+        "start": 3.188,
+        "end": 5.231
+      },
+      {
+        "text": "OK.",
+        "start": 5.251,
+        "end": 5.491
+      },
+      {
+        "text": "So that's a 9.",
+        "start": 6.953,
+        "end": 8.134
+      },
+      {
+        "text": "So 9 equals, that's 4.",
+        "start": 9.416,
+        "end": 12.4
+      },
+      {
+        "text": "No, that's 5.",
+        "start": 12.42,
+        "end": 13.502
+      },
+      {
+        "text": "That's 7.",
+        "start": 13.542,
+        "end": 15.665
+      },
+      {
+        "text": "So 7 plus 2, I would need.",
+        "start": 16.826,
+        "end": 19.61
+      },
+      {
+        "text": "So 7, that right now, it's 7 plus 4.",
+        "start": 20.471,
+        "end": 25.157
+      },
+      {
+        "text": "That's 11.",
+        "start": 25.758,
+        "end": 28.582
+      },
+      {
+        "text": "And over here, we have.",
+        "start": 28.602,
+        "end": 30.865
+      },
+      {
+        "text": " 9 so I need to make this 11 so I know I need to make this 9 so no that's right wait the V is 10 so that's 12 no the V is 5 so that's 5 6 7 so that's 7 plus 4 right now they have 11 7 plus 4 and 1 X over here that's that's a 9 so I need to make this",
+        "start": 31.098,
+        "end": 57.898
+      },
+      {
+        "text": " Okay, V. I can only move one.",
+        "start": 60.764,
+        "end": 64.389
+      },
+      {
+        "text": "This is hard!",
+        "start": 65.63,
+        "end": 66.692
+      },
+      {
+        "text": "So, V. I can only move one, so it has to stay a V. You know, it could be an X. It would be 12.",
+        "start": 67.573,
+        "end": 74.642
+      },
+      {
+        "text": "I can't make it.",
+        "start": 75.383,
+        "end": 75.904
+      },
+      {
+        "text": "Can I make a minus?",
+        "start": 75.964,
+        "end": 76.825
+      },
+      {
+        "text": "Can I take them away?",
+        "start": 77.346,
+        "end": 78.167
+      },
+      {
+        "text": "I don't know if I can take them away.",
+        "start": 78.187,
+        "end": 80.43
+      },
+      {
+        "text": "I don't, I think it said no.",
+        "start": 80.63,
+        "end": 81.812
+      },
+      {
+        "text": "Okay, so that's, that is a four.",
+        "start": 82.332,
+        "end": 85.016
+      },
+      {
+        "text": "You can't make that anything.",
+        "start": 86.798,
+        "end": 88.1
+      },
+      {
+        "text": "Can you?",
+        "start": 89.301,
+        "end": 89.742
+      },
+      {
+        "text": " I'm going to run out of time.",
+        "start": 93.012,
+        "end": 94.354
+      },
+      {
+        "text": "Oh my God.",
+        "start": 94.394,
+        "end": 94.875
+      },
+      {
+        "text": "Nine equals, so it would be seven plus two, but how do I make that a two?",
+        "start": 95.997,
+        "end": 101.366
+      },
+      {
+        "text": "Oh crap.",
+        "start": 105.753,
+        "end": 106.314
+      },
+      {
+        "text": "Okay.",
+        "start": 106.334,
+        "end": 106.555
+      },
+      {
+        "text": "So that's a four.",
+        "start": 106.575,
+        "end": 107.256
+      },
+      {
+        "text": "I make this a five.",
+        "start": 107.757,
+        "end": 108.738
+      },
+      {
+        "text": "I can't.",
+        "start": 109.479,
+        "end": 110.06
+      },
+      {
+        "text": "Cause you can't take anything away.",
+        "start": 112.945,
+        "end": 114.207
+      },
+      {
+        "text": "Oh my God.",
+        "start": 114.227,
+        "end": 116.591
+      },
+      {
+        "text": "So nine equals,",
+        "start": 116.651,
+        "end": 118.294
+      },
+      {
+        "text": " Seven plus two.",
+        "start": 120.35,
+        "end": 122.794
+      },
+      {
+        "text": "How do I make that a two?",
+        "start": 123.034,
+        "end": 124.035
+      },
+      {
+        "text": "How do I make that a two?",
+        "start": 126.88,
+        "end": 127.761
+      },
+      {
+        "text": "I can't take anything away.",
+        "start": 130.204,
+        "end": 131.326
+      },
+      {
+        "text": "Oh my God.",
+        "start": 136.554,
+        "end": 137.956
+      },
+      {
+        "text": "Let's see.",
+        "start": 138.096,
+        "end": 138.416
+      },
+      {
+        "text": "What am I doing?",
+        "start": 140.68,
+        "end": 141.381
+      },
+      {
+        "text": "Oh, what's down here?",
+        "start": 141.561,
+        "end": 142.262
+      },
+      {
+        "text": "Okay.",
+        "start": 143.404,
+        "end": 143.764
+      },
+      {
+        "text": "That's what I have to do.",
+        "start": 143.784,
+        "end": 144.425
+      },
+      {
+        "text": "I have to make this smaller.",
+        "start": 144.445,
+        "end": 145.467
+      },
+      {
+        "text": "I can see everything.",
+        "start": 147.57,
+        "end": 148.451
+      },
+      {
+        "text": "Okay.",
+        "start": 148.832,
+        "end": 149.192
+      },
+      {
+        "text": " Oh, you can only move one match stick to make it correct.",
+        "start": 150.438,
+        "end": 152.78
+      },
+      {
+        "text": "We got nine equals seven plus, what can I do?",
+        "start": 152.9,
+        "end": 157.965
+      },
+      {
+        "text": "I can't do anything.",
+        "start": 157.985,
+        "end": 158.946
+      },
+      {
+        "text": "Equals, what's this?",
+        "start": 158.986,
+        "end": 162.53
+      },
+      {
+        "text": "Okay.",
+        "start": 163.551,
+        "end": 163.871
+      },
+      {
+        "text": "Oh wait, I can, these are my options.",
+        "start": 164.252,
+        "end": 166.614
+      },
+      {
+        "text": "Can I use a seven?",
+        "start": 170.698,
+        "end": 171.659
+      },
+      {
+        "text": "What can I do?",
+        "start": 176.924,
+        "end": 177.745
+      },
+      {
+        "text": " What can I do?",
+        "start": 179.26,
+        "end": 179.961
+      },
+      {
+        "text": "I think I'm confused.",
+        "start": 179.981,
+        "end": 181.723
+      },
+      {
+        "text": "7 plus 2.",
+        "start": 183.806,
+        "end": 186.81
+      },
+      {
+        "text": "How do I make that a 2?",
+        "start": 186.91,
+        "end": 187.871
+      },
+      {
+        "text": "I can change it?",
+        "start": 187.891,
+        "end": 190.034
+      },
+      {
+        "text": "Can I change it?",
+        "start": 191.496,
+        "end": 192.197
+      },
+      {
+        "text": "I don't know what I'm doing.",
+        "start": 192.797,
+        "end": 193.639
+      },
+      {
+        "text": "Select version, so V1.",
+        "start": 195.1,
+        "end": 196.042
+      },
+      {
+        "text": "No, I don't know how to do this.",
+        "start": 196.142,
+        "end": 198.865
+      },
+      {
+        "text": "1X.",
+        "start": 198.885,
+        "end": 201.629
+      },
+      {
+        "text": "Oh, I know what I'm doing.",
+        "start": 201.789,
+        "end": 202.61
+      },
+      {
+        "text": "Well, can I change the beginning?",
+        "start": 203.191,
+        "end": 204.332
+      },
+      {
+        "text": "So 7.",
+        "start": 208.157,
+        "end": 208.778
+      },
+      {
+        "text": " Oh wait, so if I... Can I move him?",
+        "start": 210.665,
+        "end": 213.629
+      },
+      {
+        "text": "Alright, let's do this, let's do this.",
+        "start": 215.311,
+        "end": 216.953
+      },
+      {
+        "text": "I think I can do this.",
+        "start": 216.993,
+        "end": 218.254
+      },
+      {
+        "text": "I don't know if I can do this.",
+        "start": 220.277,
+        "end": 221.098
+      },
+      {
+        "text": "So 11... 11 equals... I don't know if I can do this.",
+        "start": 221.799,
+        "end": 227.566
+      },
+      {
+        "text": "V... 1, 1... Plus... 1V... I don't know if I can do this.",
+        "start": 228.647,
+        "end": 238.039
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, let's see. You can move one matchstick to make this equation. OK. So that's a 9. So 9 equals, that's 4. No, that's 5. That's 7. So 7 plus 2, I would need. So 7, that right now, it's 7 plus 4. That's 11. And over here, we have. 9 so I need to make this 11 so I know I need to make this 9 so no that's right wait the V is 10 so that's 12 no the V is 5 so that's 5 6 7 so that's 7 plus 4 right now they have 11 7 plus 4 and 1 X over here that's that's a 9 so I need to make this Okay, V. I can only move one. This is hard! So, V. I can only move one, so it has to stay a V. You know, it could be an X. It would be 12. I can't make it. Can I make a minus? Can I take them away? I don't know if I can take them away. I don't, I think it said no. Okay, so that's, that is a four. You can't make that anything. Can you? I'm going to run out of time. Oh my God. Nine equals, so it would be seven plus two, but how do I make that a two? Oh crap. Okay. So that's a four. I make this a five. I can't. Cause you can't take anything away. Oh my God. So nine equals, Seven plus two. How do I make that a two? How do I make that a two? I can't take anything away. Oh my God. Let's see. What am I doing? Oh, what's down here? Okay. That's what I have to do. I have to make this smaller. I can see everything. Okay. Oh, you can only move one match stick to make it correct. We got nine equals seven plus, what can I do? I can't do anything. Equals, what's this? Okay. Oh wait, I can, these are my options. Can I use a seven? What can I do? What can I do? I think I'm confused. 7 plus 2. How do I make that a 2? I can change it? Can I change it? I don't know what I'm doing. Select version, so V1. No, I don't know how to do this. 1X. Oh, I know what I'm doing. Well, can I change the beginning? So 7. Oh wait, so if I... Can I move him? Alright, let's do this, let's do this. I think I can do this. I don't know if I can do this. So 11... 11 equals... I don't know if I can do this. V... 1, 1... Plus... 1V... I don't know if I can do this."
+  }
+}

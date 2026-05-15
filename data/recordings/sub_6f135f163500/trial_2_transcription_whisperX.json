@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_6f135f163500/trial_2.wav",
+  "with_timestamps": {
+    "text": " Let's take a look at this one.Okay.I can only move one matchstick.So what I have here is 12 equals 12 plus 12.It's essentially the same equation.So I'm missing something.I'm missing something. Is it the equal sign?Is that what I need to do?Do I need to just change the plus sign into an equal sign?12 equals 12 equals 12.It's not really an equation if I do that.Um, well, but it's true.Let's see here.What do I do?X I I equals X. i equals x ii.",
+    "segments": [
+      {
+        "text": " Let's take a look at this one.",
+        "start": 0.419,
+        "end": 1.28
+      },
+      {
+        "text": "Okay.",
+        "start": 1.801,
+        "end": 2.101
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 3.202,
+        "end": 5.565
+      },
+      {
+        "text": "So what I have here is 12 equals 12 plus 12.",
+        "start": 5.585,
+        "end": 13.054
+      },
+      {
+        "text": "It's essentially the same equation.",
+        "start": 16.918,
+        "end": 18.44
+      },
+      {
+        "text": "So I'm missing something.",
+        "start": 18.46,
+        "end": 24.347
+      },
+      {
+        "text": "I'm missing something.",
+        "start": 24.367,
+        "end": 26.95
+      },
+      {
+        "text": " Is it the equal sign?",
+        "start": 32.414,
+        "end": 33.455
+      },
+      {
+        "text": "Is that what I need to do?",
+        "start": 33.556,
+        "end": 34.417
+      },
+      {
+        "text": "Do I need to just change the plus sign into an equal sign?",
+        "start": 34.477,
+        "end": 37.141
+      },
+      {
+        "text": "12 equals 12 equals 12.",
+        "start": 37.161,
+        "end": 41.927
+      },
+      {
+        "text": "It's not really an equation if I do that.",
+        "start": 42.208,
+        "end": 46.514
+      },
+      {
+        "text": "Um, well, but it's true.",
+        "start": 47.976,
+        "end": 50.92
+      },
+      {
+        "text": "Let's see here.",
+        "start": 50.94,
+        "end": 52.602
+      },
+      {
+        "text": "What do I do?",
+        "start": 53.984,
+        "end": 54.485
+      },
+      {
+        "text": "X I I equals X.",
+        "start": 55.907,
+        "end": 61.054
+      },
+      {
+        "text": " i equals x ii.",
+        "start": 61.928,
+        "end": 66.083
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's take a look at this one. Okay. I can only move one matchstick. So what I have here is 12 equals 12 plus 12. It's essentially the same equation. So I'm missing something. I'm missing something. Is it the equal sign? Is that what I need to do? Do I need to just change the plus sign into an equal sign? 12 equals 12 equals 12. It's not really an equation if I do that. Um, well, but it's true. Let's see here. What do I do? X I I equals X. i equals x ii."
+  }
+}

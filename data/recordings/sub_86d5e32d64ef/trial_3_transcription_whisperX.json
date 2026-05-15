@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_86d5e32d64ef/trial_3.wav",
+  "with_timestamps": {
+    "text": " okay so um puzzle three of five um so this is um seven equals um nine plus three um equation.Okay, I think I have the answer.I'm gonna prompt my answer here.Because it's really hard to like to explain my answer because I really need to think it through and I'm not really good at expressing myself.So this one is 111.",
+    "segments": [
+      {
+        "text": " okay so um puzzle three of five um so this is um seven equals um nine plus three um",
+        "start": 21.226,
+        "end": 45.58
+      },
+      {
+        "text": " equation.",
+        "start": 56.528,
+        "end": 57.069
+      },
+      {
+        "text": "Okay, I think I have the answer.",
+        "start": 58.492,
+        "end": 65.305
+      },
+      {
+        "text": "I'm gonna prompt my answer here.",
+        "start": 65.325,
+        "end": 72.238
+      },
+      {
+        "text": "Because it's really hard to like",
+        "start": 76.506,
+        "end": 79.532
+      },
+      {
+        "text": " to explain my answer because I really need to think it through and I'm not really good at expressing myself.",
+        "start": 80.693,
+        "end": 91.842
+      },
+      {
+        "text": "So this one is 111.",
+        "start": 93.386,
+        "end": 98.179
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay so um puzzle three of five um so this is um seven equals um nine plus three um equation. Okay, I think I have the answer. I'm gonna prompt my answer here. Because it's really hard to like to explain my answer because I really need to think it through and I'm not really good at expressing myself. So this one is 111."
+  }
+}

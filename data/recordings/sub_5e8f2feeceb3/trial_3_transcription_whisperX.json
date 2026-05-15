@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_5e8f2feeceb3/trial_3.wav",
+  "with_timestamps": {
+    "text": " Hey. This is a hard one, for me anyway. How can I change the plus to an equal sign?I don't know if that's going to do it.I'm going to submit.",
+    "segments": [
+      {
+        "text": " Hey.",
+        "start": 2.056,
+        "end": 2.718
+      },
+      {
+        "text": " This is a hard one, for me anyway.",
+        "start": 57.845,
+        "end": 59.822
+      },
+      {
+        "text": " How can I change the plus to an equal sign?",
+        "start": 94.902,
+        "end": 97.465
+      },
+      {
+        "text": "I don't know if that's going to do it.",
+        "start": 97.506,
+        "end": 99.06
+      },
+      {
+        "text": "I'm going to submit.",
+        "start": 100.452,
+        "end": 100.997
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Hey. This is a hard one, for me anyway. How can I change the plus to an equal sign? I don't know if that's going to do it. I'm going to submit."
+  }
+}

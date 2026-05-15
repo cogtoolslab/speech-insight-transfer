@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_9fe8ce2519b2/trial_2.wav",
+  "with_timestamps": {
+    "text": " Dummy.Okay.This is 7 equals 3 minus 6.This is 4 plus 3.This is 4 plus 3.Okay.This is 7 and 3 and 4. So, okay.So seven equals three plus four.Wait, no, that's no.Yeah.So I can only move one matchstick.I don't have a matchstick to move.Dang it.Um, seven equals three Plus four.Oh yeah, okay, I don't have a matchstick.All right.So this is four.Oh wait, okay.Seven, what if I did seven minus three equals four? Seven, oh that's what it is, okay.Seven minus three, oops, equals four.What?Let me try it again.Seven minus three equals four, that's right.",
+    "segments": [
+      {
+        "text": " Dummy.",
+        "start": 2.073,
+        "end": 2.474
+      },
+      {
+        "text": "Okay.",
+        "start": 2.634,
+        "end": 2.974
+      },
+      {
+        "text": "This is 7 equals 3 minus 6.",
+        "start": 4.116,
+        "end": 14.449
+      },
+      {
+        "text": "This is 4 plus 3.",
+        "start": 17.713,
+        "end": 19.375
+      },
+      {
+        "text": "This is 4 plus 3.",
+        "start": 19.395,
+        "end": 23.0
+      },
+      {
+        "text": "Okay.",
+        "start": 24.823,
+        "end": 27.186
+      },
+      {
+        "text": "This is 7 and 3 and 4.",
+        "start": 27.206,
+        "end": 31.371
+      },
+      {
+        "text": " So, okay.",
+        "start": 31.975,
+        "end": 32.816
+      },
+      {
+        "text": "So seven equals three plus four.",
+        "start": 32.836,
+        "end": 45.374
+      },
+      {
+        "text": "Wait, no, that's no.",
+        "start": 47.016,
+        "end": 48.318
+      },
+      {
+        "text": "Yeah.",
+        "start": 49.44,
+        "end": 49.8
+      },
+      {
+        "text": "So I can only move one matchstick.",
+        "start": 49.981,
+        "end": 53.586
+      },
+      {
+        "text": "I don't have a matchstick to move.",
+        "start": 53.686,
+        "end": 54.827
+      },
+      {
+        "text": "Dang it.",
+        "start": 54.928,
+        "end": 55.188
+      },
+      {
+        "text": "Um, seven equals three",
+        "start": 55.488,
+        "end": 61.577
+      },
+      {
+        "text": " Plus four.",
+        "start": 63.734,
+        "end": 66.138
+      },
+      {
+        "text": "Oh yeah, okay, I don't have a matchstick.",
+        "start": 66.158,
+        "end": 68.722
+      },
+      {
+        "text": "All right.",
+        "start": 70.004,
+        "end": 75.473
+      },
+      {
+        "text": "So this is four.",
+        "start": 75.493,
+        "end": 76.775
+      },
+      {
+        "text": "Oh wait, okay.",
+        "start": 76.795,
+        "end": 80.942
+      },
+      {
+        "text": "Seven, what if I did seven minus three equals four?",
+        "start": 81.683,
+        "end": 86.13
+      },
+      {
+        "text": " Seven, oh that's what it is, okay.",
+        "start": 89.249,
+        "end": 91.394
+      },
+      {
+        "text": "Seven minus three, oops, equals four.",
+        "start": 91.855,
+        "end": 97.89
+      },
+      {
+        "text": "What?",
+        "start": 99.274,
+        "end": 99.514
+      },
+      {
+        "text": "Let me try it again.",
+        "start": 100.437,
+        "end": 101.058
+      },
+      {
+        "text": "Seven minus three equals four, that's right.",
+        "start": 101.098,
+        "end": 111.865
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Dummy. Okay. This is 7 equals 3 minus 6. This is 4 plus 3. This is 4 plus 3. Okay. This is 7 and 3 and 4. So, okay. So seven equals three plus four. Wait, no, that's no. Yeah. So I can only move one matchstick. I don't have a matchstick to move. Dang it. Um, seven equals three Plus four. Oh yeah, okay, I don't have a matchstick. All right. So this is four. Oh wait, okay. Seven, what if I did seven minus three equals four? Seven, oh that's what it is, okay. Seven minus three, oops, equals four. What? Let me try it again. Seven minus three equals four, that's right."
+  }
+}

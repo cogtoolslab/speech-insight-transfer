@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_c4d43f0d5396/trial_4.wav",
+  "with_timestamps": {
+    "text": " We are almost done, thank goodness there are only five of these.3 equals 9 minus, that is definitely a 4, so 9 minus 4 is 5, but if we did 9 minus 6 that would definitely be 3.Why are these so easy and I'm so confused on them, I was stumped on.Okay, 3 equals, I feel like an idiot because I couldn't get that one, 3 equals 9. Minus 6V.9 minus 6 is still 3.",
+    "segments": [
+      {
+        "text": " We are almost done, thank goodness there are only five of these.",
+        "start": 0.031,
+        "end": 2.955
+      },
+      {
+        "text": "3 equals 9 minus, that is definitely a 4, so 9 minus 4 is 5, but if we did 9 minus 6 that would definitely be 3.",
+        "start": 2.975,
+        "end": 14.83
+      },
+      {
+        "text": "Why are these so easy and I'm so confused on them, I was stumped on.",
+        "start": 14.87,
+        "end": 18.154
+      },
+      {
+        "text": "Okay, 3 equals, I feel like an idiot because I couldn't get that one, 3 equals 9.",
+        "start": 18.855,
+        "end": 26.865
+      },
+      {
+        "text": " Minus 6V.",
+        "start": 28.364,
+        "end": 30.693
+      },
+      {
+        "text": "9 minus 6 is still 3.",
+        "start": 30.713,
+        "end": 33.447
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " We are almost done, thank goodness there are only five of these. 3 equals 9 minus, that is definitely a 4, so 9 minus 4 is 5, but if we did 9 minus 6 that would definitely be 3. Why are these so easy and I'm so confused on them, I was stumped on. Okay, 3 equals, I feel like an idiot because I couldn't get that one, 3 equals 9. Minus 6V. 9 minus 6 is still 3."
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_c0359a5fa512/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, so we have 9 equals 9 plus 9.That's totally incorrect.Yeah, that is not correct.OK, these are big numbers now.9 equals 9 plus 9.And they're on the left.The matches are on the left, which means we can't add the ones.We can have an x. Oh, this is tricky. We can make one.It only goes up to 15, though.That's what it said in this instruction, so I can't make it 19.All right, 19 equals nine.Yeah, it doesn't work.Ooh, this one is really tricky.Let's see.What about if I moved one to the left? I made it 11 equals 9 plus... Oh man, this is really difficult, okay.I can only move one matchstick.9 equals 9 plus 9. So I can't make it subtraction because I can't move that tall matchstick anywhere.I can't move it anywhere.So it is an addition problem.That is what I know for sure.I can't move any of the tall matchsticks at all.I can only shift them.So let's try shifting them. Does 11 equals 9?No, that doesn't work.So what about 9 equals... See, these are just too big of numbers.These are too big of numbers.It has to be a subtraction problem, but how can I make it a subtraction problem?Where would I put the tall match? I can't put that tall match anywhere, so it has to be an addition problem.9 plus 9 is 18.I feel like there's no correct answer.Let's just try moving stuff around.If I move this, 11 equals... I mean, 11 equals 9 plus 2, but then where would the x go?I could do 19, which I remember in the directions.That doesn't, that's not possible, so.Man, I'm really curious what the correct answer would be to this.Really, really curious. 10 equals 9 plus 1.Yeah, I can't move those tall matchsticks anywhere, I feel like.",
+    "segments": [
+      {
+        "text": " All right, so we have 9 equals 9 plus 9.",
+        "start": 0.976,
+        "end": 4.861
+      },
+      {
+        "text": "That's totally incorrect.",
+        "start": 5.341,
+        "end": 6.563
+      },
+      {
+        "text": "Yeah, that is not correct.",
+        "start": 9.747,
+        "end": 10.908
+      },
+      {
+        "text": "OK, these are big numbers now.",
+        "start": 11.008,
+        "end": 12.63
+      },
+      {
+        "text": "9 equals 9 plus 9.",
+        "start": 12.911,
+        "end": 15.033
+      },
+      {
+        "text": "And they're on the left.",
+        "start": 18.637,
+        "end": 19.759
+      },
+      {
+        "text": "The matches are on the left, which means we can't add the ones.",
+        "start": 20.34,
+        "end": 24.044
+      },
+      {
+        "text": "We can have an x. Oh, this is tricky.",
+        "start": 25.566,
+        "end": 30.612
+      },
+      {
+        "text": " We can make one.",
+        "start": 34.996,
+        "end": 35.837
+      },
+      {
+        "text": "It only goes up to 15, though.",
+        "start": 35.857,
+        "end": 39.261
+      },
+      {
+        "text": "That's what it said in this instruction, so I can't make it 19.",
+        "start": 39.341,
+        "end": 42.844
+      },
+      {
+        "text": "All right, 19 equals nine.",
+        "start": 42.864,
+        "end": 48.29
+      },
+      {
+        "text": "Yeah, it doesn't work.",
+        "start": 50.873,
+        "end": 51.654
+      },
+      {
+        "text": "Ooh, this one is really tricky.",
+        "start": 53.015,
+        "end": 55.418
+      },
+      {
+        "text": "Let's see.",
+        "start": 55.578,
+        "end": 56.119
+      },
+      {
+        "text": "What about if I moved one to the left?",
+        "start": 56.179,
+        "end": 62.185
+      },
+      {
+        "text": " I made it 11 equals 9 plus... Oh man, this is really difficult, okay.",
+        "start": 63.683,
+        "end": 75.81
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 76.732,
+        "end": 78.296
+      },
+      {
+        "text": "9 equals 9 plus 9.",
+        "start": 79.759,
+        "end": 82.485
+      },
+      {
+        "text": " So I can't make it subtraction because I can't move that tall matchstick anywhere.",
+        "start": 97.433,
+        "end": 102.057
+      },
+      {
+        "text": "I can't move it anywhere.",
+        "start": 102.077,
+        "end": 105.3
+      },
+      {
+        "text": "So it is an addition problem.",
+        "start": 105.381,
+        "end": 106.822
+      },
+      {
+        "text": "That is what I know for sure.",
+        "start": 106.862,
+        "end": 108.664
+      },
+      {
+        "text": "I can't move any of the tall matchsticks at all.",
+        "start": 108.684,
+        "end": 119.094
+      },
+      {
+        "text": "I can only shift them.",
+        "start": 121.176,
+        "end": 122.317
+      },
+      {
+        "text": "So let's try shifting them.",
+        "start": 123.938,
+        "end": 125.82
+      },
+      {
+        "text": " Does 11 equals 9?",
+        "start": 126.155,
+        "end": 127.417
+      },
+      {
+        "text": "No, that doesn't work.",
+        "start": 127.437,
+        "end": 129.099
+      },
+      {
+        "text": "So what about 9 equals... See, these are just too big of numbers.",
+        "start": 129.159,
+        "end": 142.798
+      },
+      {
+        "text": "These are too big of numbers.",
+        "start": 142.818,
+        "end": 144.22
+      },
+      {
+        "text": "It has to be a subtraction problem, but how can I make it a subtraction problem?",
+        "start": 147.424,
+        "end": 151.509
+      },
+      {
+        "text": "Where would I put the tall match?",
+        "start": 151.57,
+        "end": 154.153
+      },
+      {
+        "text": " I can't put that tall match anywhere, so it has to be an addition problem.",
+        "start": 157.07,
+        "end": 160.974
+      },
+      {
+        "text": "9 plus 9 is 18.",
+        "start": 160.994,
+        "end": 165.459
+      },
+      {
+        "text": "I feel like there's no correct answer.",
+        "start": 172.167,
+        "end": 174.329
+      },
+      {
+        "text": "Let's just try moving stuff around.",
+        "start": 174.369,
+        "end": 179.355
+      },
+      {
+        "text": "If I move this, 11 equals...",
+        "start": 179.615,
+        "end": 187.043
+      },
+      {
+        "text": " I mean, 11 equals 9 plus 2, but then where would the x go?",
+        "start": 189.014,
+        "end": 193.099
+      },
+      {
+        "text": "I could do 19, which I remember in the directions.",
+        "start": 193.119,
+        "end": 200.269
+      },
+      {
+        "text": "That doesn't, that's not possible, so.",
+        "start": 205.396,
+        "end": 208.379
+      },
+      {
+        "text": "Man, I'm really curious what the correct answer would be to this.",
+        "start": 209.501,
+        "end": 212.124
+      },
+      {
+        "text": "Really, really curious.",
+        "start": 214.387,
+        "end": 215.629
+      },
+      {
+        "text": " 10 equals 9 plus 1.",
+        "start": 222.106,
+        "end": 231.087
+      },
+      {
+        "text": "Yeah, I can't move those tall matchsticks anywhere, I feel like.",
+        "start": 231.107,
+        "end": 237.702
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so we have 9 equals 9 plus 9. That's totally incorrect. Yeah, that is not correct. OK, these are big numbers now. 9 equals 9 plus 9. And they're on the left. The matches are on the left, which means we can't add the ones. We can have an x. Oh, this is tricky. We can make one. It only goes up to 15, though. That's what it said in this instruction, so I can't make it 19. All right, 19 equals nine. Yeah, it doesn't work. Ooh, this one is really tricky. Let's see. What about if I moved one to the left? I made it 11 equals 9 plus... Oh man, this is really difficult, okay. I can only move one matchstick. 9 equals 9 plus 9. So I can't make it subtraction because I can't move that tall matchstick anywhere. I can't move it anywhere. So it is an addition problem. That is what I know for sure. I can't move any of the tall matchsticks at all. I can only shift them. So let's try shifting them. Does 11 equals 9? No, that doesn't work. So what about 9 equals... See, these are just too big of numbers. These are too big of numbers. It has to be a subtraction problem, but how can I make it a subtraction problem? Where would I put the tall match? I can't put that tall match anywhere, so it has to be an addition problem. 9 plus 9 is 18. I feel like there's no correct answer. Let's just try moving stuff around. If I move this, 11 equals... I mean, 11 equals 9 plus 2, but then where would the x go? I could do 19, which I remember in the directions. That doesn't, that's not possible, so. Man, I'm really curious what the correct answer would be to this. Really, really curious. 10 equals 9 plus 1. Yeah, I can't move those tall matchsticks anywhere, I feel like."
+  }
+}

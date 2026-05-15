@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_3a291c7f542d/trial_1.wav",
+  "with_timestamps": {
+    "text": " Oh.OK, so vi plus i equals vii.It's incorrect.OK, wait a minute.OK, let's see. I have to move one match to make this correct.Okay, so let's see.Let's see if I... I can't figure out what I would do.So let's see.This is kind of confusing.Can't figure it out.Maybe, maybe move it to subtraction sign.I don't know if I can do that.So Vii equals Vi. minus I, that's incorrect.All right.Let's see.I don't know.V I equals I V plus I I. No, no, b i equals i v plus, can't figure this out, because this total of six on this side, there's a total of, seven on this side, how can they be equal without taking something away?You can only move one matchstick to make the equation correct.Well, I guess what I can do is I can say V equals, that wouldn't be correct either. i v plus i v equals Vii minus Viii.",
+    "segments": [
+      {
+        "text": " Oh.",
+        "start": 23.032,
+        "end": 26.396
+      },
+      {
+        "text": "OK, so vi plus i equals vii.",
+        "start": 26.416,
+        "end": 40.172
+      },
+      {
+        "text": "It's incorrect.",
+        "start": 43.355,
+        "end": 44.416
+      },
+      {
+        "text": "OK, wait a minute.",
+        "start": 48.161,
+        "end": 48.801
+      },
+      {
+        "text": "OK, let's see.",
+        "start": 48.821,
+        "end": 51.925
+      },
+      {
+        "text": " I have to move one match to make this correct.",
+        "start": 52.276,
+        "end": 54.86
+      },
+      {
+        "text": "Okay, so let's see.",
+        "start": 54.88,
+        "end": 55.862
+      },
+      {
+        "text": "Let's see if I...",
+        "start": 64.637,
+        "end": 67.602
+      },
+      {
+        "text": " I can't figure out what I would do.",
+        "start": 80.626,
+        "end": 82.788
+      },
+      {
+        "text": "So let's see.",
+        "start": 84.049,
+        "end": 89.654
+      },
+      {
+        "text": "This is kind of confusing.",
+        "start": 89.714,
+        "end": 90.935
+      },
+      {
+        "text": "Can't figure it out.",
+        "start": 92.857,
+        "end": 93.638
+      },
+      {
+        "text": "Maybe, maybe move it to subtraction sign.",
+        "start": 96.46,
+        "end": 102.405
+      },
+      {
+        "text": "I don't know if I can do that.",
+        "start": 102.425,
+        "end": 103.506
+      },
+      {
+        "text": "So Vii equals Vi.",
+        "start": 104.387,
+        "end": 109.772
+      },
+      {
+        "text": " minus I, that's incorrect.",
+        "start": 110.174,
+        "end": 114.2
+      },
+      {
+        "text": "All right.",
+        "start": 116.143,
+        "end": 116.984
+      },
+      {
+        "text": "Let's see.",
+        "start": 118.667,
+        "end": 119.267
+      },
+      {
+        "text": "I don't know.",
+        "start": 122.893,
+        "end": 123.394
+      },
+      {
+        "text": "V I equals I V plus I I.",
+        "start": 125.376,
+        "end": 139.337
+      },
+      {
+        "text": " No, no, b i equals i v plus, can't figure this out, because this total of six on this side, there's a total of,",
+        "start": 142.54,
+        "end": 172.412
+      },
+      {
+        "text": " seven on this side, how can they be equal without taking something away?",
+        "start": 173.32,
+        "end": 177.907
+      },
+      {
+        "text": "You can only move one matchstick to make the equation correct.",
+        "start": 178.848,
+        "end": 181.993
+      },
+      {
+        "text": "Well, I guess what I can do is I can say V equals, that wouldn't be correct either.",
+        "start": 184.616,
+        "end": 203.023
+      },
+      {
+        "text": " i v plus i v equals",
+        "start": 204.877,
+        "end": 228.218
+      },
+      {
+        "text": " Vii minus Viii.",
+        "start": 233.041,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh. OK, so vi plus i equals vii. It's incorrect. OK, wait a minute. OK, let's see. I have to move one match to make this correct. Okay, so let's see. Let's see if I... I can't figure out what I would do. So let's see. This is kind of confusing. Can't figure it out. Maybe, maybe move it to subtraction sign. I don't know if I can do that. So Vii equals Vi. minus I, that's incorrect. All right. Let's see. I don't know. V I equals I V plus I I. No, no, b i equals i v plus, can't figure this out, because this total of six on this side, there's a total of, seven on this side, how can they be equal without taking something away? You can only move one matchstick to make the equation correct. Well, I guess what I can do is I can say V equals, that wouldn't be correct either. i v plus i v equals Vii minus Viii."
+  }
+}

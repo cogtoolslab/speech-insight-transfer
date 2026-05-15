@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, looks like 9 equals 9 plus 9.Okay. So does 9 equals 9 equals 9 work?So I think if you just take the plus and turn it into an equal sign, right?",
+    "segments": [
+      {
+        "text": " All right, looks like 9 equals 9 plus 9.",
+        "start": 5.347,
+        "end": 17.626
+      },
+      {
+        "text": "Okay.",
+        "start": 18.188,
+        "end": 18.529
+      },
+      {
+        "text": " So does 9 equals 9 equals 9 work?",
+        "start": 44.041,
+        "end": 47.305
+      },
+      {
+        "text": "So I think if you just take the plus and turn it into an equal sign, right?",
+        "start": 61.963,
+        "end": 67.45
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, looks like 9 equals 9 plus 9. Okay. So does 9 equals 9 equals 9 work? So I think if you just take the plus and turn it into an equal sign, right?"
+  }
+}

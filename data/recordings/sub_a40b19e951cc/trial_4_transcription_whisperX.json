@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_a40b19e951cc/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, 12 equals 12 plus 12, which is wrong.So. 12, this is agonizing.If I take a one and put it here, I've got 13 equals, hold on, that's not right.Maybe it's negative 12 equals 12 minus No, because that would be zero. 12 plus 12 is 24.12. 11 equals 12 equals I'm thinking my thoughts, I feel extremely dumb.If I take this minus sign, maybe,",
+    "segments": [
+      {
+        "text": " All right, 12 equals 12 plus 12, which is wrong.",
+        "start": 1.938,
+        "end": 6.407
+      },
+      {
+        "text": "So.",
+        "start": 7.809,
+        "end": 16.065
+      },
+      {
+        "text": " 12, this is agonizing.",
+        "start": 33.983,
+        "end": 41.171
+      },
+      {
+        "text": "If I take a one and put it here, I've got",
+        "start": 57.689,
+        "end": 61.813
+      },
+      {
+        "text": " 13 equals, hold on, that's not right.",
+        "start": 62.873,
+        "end": 67.038
+      },
+      {
+        "text": "Maybe it's negative 12 equals 12 minus",
+        "start": 76.79,
+        "end": 90.467
+      },
+      {
+        "text": " No, because that would be zero.",
+        "start": 92.371,
+        "end": 104.642
+      },
+      {
+        "text": " 12 plus 12 is 24.",
+        "start": 128.855,
+        "end": 143.95
+      },
+      {
+        "text": "12.",
+        "start": 143.97,
+        "end": 147.117
+      },
+      {
+        "text": " 11 equals 12 equals",
+        "start": 166.486,
+        "end": 192.696
+      },
+      {
+        "text": " I'm thinking my thoughts, I feel extremely dumb.",
+        "start": 210.243,
+        "end": 214.268
+      },
+      {
+        "text": "If I take this minus sign, maybe,",
+        "start": 218.053,
+        "end": 238.579
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, 12 equals 12 plus 12, which is wrong. So. 12, this is agonizing. If I take a one and put it here, I've got 13 equals, hold on, that's not right. Maybe it's negative 12 equals 12 minus No, because that would be zero. 12 plus 12 is 24. 12. 11 equals 12 equals I'm thinking my thoughts, I feel extremely dumb. If I take this minus sign, maybe,"
+  }
+}

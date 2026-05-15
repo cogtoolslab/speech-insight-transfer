@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_3.wav",
+  "with_timestamps": {
+    "text": " 10 7 plus 4 9 7 plus 4 Exile x i equals to",
+    "segments": [
+      {
+        "text": " 10 7 plus 4 9 7 plus 4 Exile",
+        "start": 2.056,
+        "end": 29.92
+      },
+      {
+        "text": " x i equals to",
+        "start": 33.123,
+        "end": 38.948
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 10 7 plus 4 9 7 plus 4 Exile x i equals to"
+  }
+}

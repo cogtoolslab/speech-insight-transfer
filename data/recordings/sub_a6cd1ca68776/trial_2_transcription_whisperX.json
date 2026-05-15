@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_a6cd1ca68776/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, okay, we'll try again.11 equals 4 plus 2.But 11 does not equal 4 plus 2.11 can equal 7 plus 4. Uh, 11 can equal four plus three plus eight.Oh, you have to press it. 3 plus 5.Let's see if that works.That's incorrect.Oh.Oh, I have to rewrite it.OK.X11 equals 3 plus, oh. 6.Oh, 6 plus 2.Oh, that's not right either.No, that's 6 plus 2.Duh.11 equals 5, 6, 7 plus.No.OK.8. plus 3.10 equals plus, let's see, 10 equals 7 plus 3.Oh my goodness. Okay, 9 equals 4 plus, oh good, I can't do that either.Oh, okay. Okay, 4 equals 11 minus 7.I thought this was going to be easy.Okay, 11 equals. What am I doing wrong?10, let's go.10 equals 5, 6, 7, 8 plus, can I just add?",
+    "segments": [
+      {
+        "text": " Okay, okay, we'll try again.",
+        "start": 1.195,
+        "end": 2.698
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 2.718,
+        "end": 7.308
+      },
+      {
+        "text": "But 11 does not equal 4 plus 2.",
+        "start": 8.35,
+        "end": 10.795
+      },
+      {
+        "text": "11 can equal 7 plus 4.",
+        "start": 10.815,
+        "end": 18.732
+      },
+      {
+        "text": " Uh, 11 can equal four plus three plus eight.",
+        "start": 25.276,
+        "end": 31.085
+      },
+      {
+        "text": "Oh, you have to press it.",
+        "start": 50.433,
+        "end": 52.937
+      },
+      {
+        "text": " 3 plus 5.",
+        "start": 55.28,
+        "end": 60.247
+      },
+      {
+        "text": "Let's see if that works.",
+        "start": 63.791,
+        "end": 64.873
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 67.596,
+        "end": 68.417
+      },
+      {
+        "text": "Oh.",
+        "start": 68.838,
+        "end": 68.978
+      },
+      {
+        "text": "Oh, I have to rewrite it.",
+        "start": 70.941,
+        "end": 71.862
+      },
+      {
+        "text": "OK.",
+        "start": 72.202,
+        "end": 72.443
+      },
+      {
+        "text": "X11 equals 3 plus, oh.",
+        "start": 72.683,
+        "end": 80.393
+      },
+      {
+        "text": " 6.",
+        "start": 86.65,
+        "end": 87.051
+      },
+      {
+        "text": "Oh, 6 plus 2.",
+        "start": 88.433,
+        "end": 89.754
+      },
+      {
+        "text": "Oh, that's not right either.",
+        "start": 92.879,
+        "end": 94.081
+      },
+      {
+        "text": "No, that's 6 plus 2.",
+        "start": 94.321,
+        "end": 95.423
+      },
+      {
+        "text": "Duh.",
+        "start": 95.483,
+        "end": 95.763
+      },
+      {
+        "text": "11 equals 5, 6, 7 plus.",
+        "start": 97.145,
+        "end": 105.918
+      },
+      {
+        "text": "No.",
+        "start": 107.54,
+        "end": 107.981
+      },
+      {
+        "text": "OK.",
+        "start": 113.449,
+        "end": 113.909
+      },
+      {
+        "text": "8.",
+        "start": 115.211,
+        "end": 115.712
+      },
+      {
+        "text": " plus 3.",
+        "start": 122.155,
+        "end": 124.959
+      },
+      {
+        "text": "10 equals plus, let's see, 10 equals 7 plus 3.",
+        "start": 124.979,
+        "end": 146.029
+      },
+      {
+        "text": "Oh my goodness.",
+        "start": 146.049,
+        "end": 147.471
+      },
+      {
+        "text": " Okay, 9 equals 4 plus, oh good, I can't do that either.",
+        "start": 151.703,
+        "end": 163.441
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 171.114,
+        "end": 172.075
+      },
+      {
+        "text": " Okay, 4 equals 11 minus 7.",
+        "start": 190.786,
+        "end": 203.563
+      },
+      {
+        "text": "I thought this was going to be easy.",
+        "start": 203.583,
+        "end": 211.734
+      },
+      {
+        "text": "Okay, 11 equals.",
+        "start": 215.199,
+        "end": 217.722
+      },
+      {
+        "text": " What am I doing wrong?",
+        "start": 226.696,
+        "end": 227.861
+      },
+      {
+        "text": "10, let's go.",
+        "start": 228.002,
+        "end": 228.967
+      },
+      {
+        "text": "10 equals 5, 6, 7, 8 plus, can I just add?",
+        "start": 228.987,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, okay, we'll try again. 11 equals 4 plus 2. But 11 does not equal 4 plus 2. 11 can equal 7 plus 4. Uh, 11 can equal four plus three plus eight. Oh, you have to press it. 3 plus 5. Let's see if that works. That's incorrect. Oh. Oh, I have to rewrite it. OK. X11 equals 3 plus, oh. 6. Oh, 6 plus 2. Oh, that's not right either. No, that's 6 plus 2. Duh. 11 equals 5, 6, 7 plus. No. OK. 8. plus 3. 10 equals plus, let's see, 10 equals 7 plus 3. Oh my goodness. Okay, 9 equals 4 plus, oh good, I can't do that either. Oh, okay. Okay, 4 equals 11 minus 7. I thought this was going to be easy. Okay, 11 equals. What am I doing wrong? 10, let's go. 10 equals 5, 6, 7, 8 plus, can I just add?"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "file": "data/recordings/sub_203aa31de036/trial_4.wav",
+  "with_timestamps": {
+    "text": " One out of three, correct.OK, let's try this one.This one looks a little more complicating.We have 12 equals 12 plus 12.OK.Well, 12 plus 12 is obviously 24, so that's not right. So if I flipped around one of them, it would be 8.Then it would read 12 equals 12 plus 8, which is obviously not true.If I flip them both around, it would be 8 plus 8, which would be 16.And that's not true.I can't do 12 minus 12, because that wouldn't even make any sense.So yeah. 12 equals 12 plus, well, I would need it to be like 12 plus 0, which I don't think exists.One of them would have to be 0, which doesn't exist.So I'd have to change them both, maybe.Can I change them both to be like 6 plus 6? So if that's a 5, no, that's a 10.They're both 10.So I can do 12 equals 6 plus 6.But I don't think this is right because I completely switched the equation around and changed the numbers.That's not right.Wait, wait.I did that wrong, actually.12. I did them backwards, equals 6 plus 6.I still think that's wrong.Yeah, it's still wrong.12 equals 11 plus 2.Let me try that.12 equals 11 plus 2.Let me try that.OK.I guess that's not right either. 12 equals, let's just do 10.Wait, because that's not, 11 plus two is not 12.10 plus two, let's try that.Nope, that's not right either.12 equals, Let's try 12, 13, 14 minus 2.No.Let's do 12 equals 10.Did I already do this?Plus 2.I think I already did this. Yeah, that's not right.I have no idea.I wish it would give me the correct answer afterwards.",
+    "segments": [
+      {
+        "text": " One out of three, correct.",
+        "start": 1.077,
+        "end": 2.579
+      },
+      {
+        "text": "OK, let's try this one.",
+        "start": 2.779,
+        "end": 4.201
+      },
+      {
+        "text": "This one looks a little more complicating.",
+        "start": 4.821,
+        "end": 6.363
+      },
+      {
+        "text": "We have 12 equals 12 plus 12.",
+        "start": 9.166,
+        "end": 20.64
+      },
+      {
+        "text": "OK.",
+        "start": 21.141,
+        "end": 21.561
+      },
+      {
+        "text": "Well, 12 plus 12 is obviously 24, so that's not right.",
+        "start": 23.744,
+        "end": 30.932
+      },
+      {
+        "text": " So if I flipped around one of them, it would be 8.",
+        "start": 35.637,
+        "end": 39.381
+      },
+      {
+        "text": "Then it would read 12 equals 12 plus 8, which is obviously not true.",
+        "start": 39.401,
+        "end": 45.928
+      },
+      {
+        "text": "If I flip them both around, it would be 8 plus 8, which would be 16.",
+        "start": 45.989,
+        "end": 54.298
+      },
+      {
+        "text": "And that's not true.",
+        "start": 54.378,
+        "end": 55.479
+      },
+      {
+        "text": "I can't do 12 minus 12, because that wouldn't even make any sense.",
+        "start": 55.499,
+        "end": 60.665
+      },
+      {
+        "text": "So yeah.",
+        "start": 63.608,
+        "end": 65.29
+      },
+      {
+        "text": " 12 equals 12 plus, well, I would need it to be like 12 plus 0, which I don't think exists.",
+        "start": 67.852,
+        "end": 82.933
+      },
+      {
+        "text": "One of them would have to be 0, which doesn't exist.",
+        "start": 86.618,
+        "end": 89.002
+      },
+      {
+        "text": "So I'd have to change them both, maybe.",
+        "start": 89.042,
+        "end": 90.704
+      },
+      {
+        "text": "Can I change them both to be like 6 plus 6?",
+        "start": 90.724,
+        "end": 93.488
+      },
+      {
+        "text": " So if that's a 5, no, that's a 10.",
+        "start": 94.818,
+        "end": 98.203
+      },
+      {
+        "text": "They're both 10.",
+        "start": 100.426,
+        "end": 102.809
+      },
+      {
+        "text": "So I can do 12 equals 6 plus 6.",
+        "start": 102.829,
+        "end": 110.741
+      },
+      {
+        "text": "But I don't think this is right because I completely switched the equation around and changed the numbers.",
+        "start": 110.761,
+        "end": 115.087
+      },
+      {
+        "text": "That's not right.",
+        "start": 115.287,
+        "end": 116.008
+      },
+      {
+        "text": "Wait, wait.",
+        "start": 118.311,
+        "end": 118.732
+      },
+      {
+        "text": "I did that wrong, actually.",
+        "start": 118.812,
+        "end": 120.094
+      },
+      {
+        "text": "12.",
+        "start": 120.114,
+        "end": 122.277
+      },
+      {
+        "text": " I did them backwards, equals 6 plus 6.",
+        "start": 123.59,
+        "end": 129.259
+      },
+      {
+        "text": "I still think that's wrong.",
+        "start": 129.319,
+        "end": 130.281
+      },
+      {
+        "text": "Yeah, it's still wrong.",
+        "start": 131.002,
+        "end": 131.864
+      },
+      {
+        "text": "12 equals",
+        "start": 132.705,
+        "end": 148.551
+      },
+      {
+        "text": " 11 plus 2.",
+        "start": 151.231,
+        "end": 152.654
+      },
+      {
+        "text": "Let me try that.",
+        "start": 152.754,
+        "end": 153.857
+      },
+      {
+        "text": "12 equals 11 plus 2.",
+        "start": 153.877,
+        "end": 162.134
+      },
+      {
+        "text": "Let me try that.",
+        "start": 162.154,
+        "end": 163.277
+      },
+      {
+        "text": "OK.",
+        "start": 168.147,
+        "end": 168.648
+      },
+      {
+        "text": "I guess that's not right either.",
+        "start": 168.668,
+        "end": 170.893
+      },
+      {
+        "text": " 12 equals, let's just do 10.",
+        "start": 174.063,
+        "end": 178.648
+      },
+      {
+        "text": "Wait, because that's not, 11 plus two is not 12.",
+        "start": 179.089,
+        "end": 183.033
+      },
+      {
+        "text": "10 plus two, let's try that.",
+        "start": 183.053,
+        "end": 185.216
+      },
+      {
+        "text": "Nope, that's not right either.",
+        "start": 188.96,
+        "end": 190.381
+      },
+      {
+        "text": "12 equals,",
+        "start": 190.401,
+        "end": 198.13
+      },
+      {
+        "text": " Let's try 12, 13, 14 minus 2.",
+        "start": 205.67,
+        "end": 213.757
+      },
+      {
+        "text": "No.",
+        "start": 213.798,
+        "end": 213.858
+      },
+      {
+        "text": "Let's do 12 equals 10.",
+        "start": 222.886,
+        "end": 230.413
+      },
+      {
+        "text": "Did I already do this?",
+        "start": 230.513,
+        "end": 231.394
+      },
+      {
+        "text": "Plus 2.",
+        "start": 231.454,
+        "end": 232.375
+      },
+      {
+        "text": "I think I already did this.",
+        "start": 232.435,
+        "end": 233.736
+      },
+      {
+        "text": " Yeah, that's not right.",
+        "start": 235.049,
+        "end": 236.395
+      },
+      {
+        "text": "I have no idea.",
+        "start": 239.65,
+        "end": 240.494
+      },
+      {
+        "text": "I wish it would give me the correct answer afterwards.",
+        "start": 240.514,
+        "end": 243.709
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " One out of three, correct. OK, let's try this one. This one looks a little more complicating. We have 12 equals 12 plus 12. OK. Well, 12 plus 12 is obviously 24, so that's not right. So if I flipped around one of them, it would be 8. Then it would read 12 equals 12 plus 8, which is obviously not true. If I flip them both around, it would be 8 plus 8, which would be 16. And that's not true. I can't do 12 minus 12, because that wouldn't even make any sense. So yeah. 12 equals 12 plus, well, I would need it to be like 12 plus 0, which I don't think exists. One of them would have to be 0, which doesn't exist. So I'd have to change them both, maybe. Can I change them both to be like 6 plus 6? So if that's a 5, no, that's a 10. They're both 10. So I can do 12 equals 6 plus 6. But I don't think this is right because I completely switched the equation around and changed the numbers. That's not right. Wait, wait. I did that wrong, actually. 12. I did them backwards, equals 6 plus 6. I still think that's wrong. Yeah, it's still wrong. 12 equals 11 plus 2. Let me try that. 12 equals 11 plus 2. Let me try that. OK. I guess that's not right either. 12 equals, let's just do 10. Wait, because that's not, 11 plus two is not 12. 10 plus two, let's try that. Nope, that's not right either. 12 equals, Let's try 12, 13, 14 minus 2. No. Let's do 12 equals 10. Did I already do this? Plus 2. I think I already did this. Yeah, that's not right. I have no idea. I wish it would give me the correct answer afterwards."
+  }
+}

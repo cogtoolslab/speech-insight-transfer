@@ -1,0 +1,161 @@
+{
+  "file": "data/recordings/sub_0713e3620426/trial_1.wav",
+  "with_timestamps": {
+    "text": " 13 equals, let's see, 5 6 7 minus 5 6.Let's see, 7 minus 6 is 1.So how can we make that correct? 7 plus 6 equals 13.Let's see, how can I make it 13?Gotta move one.How could I do that? How do I figure this out?Let's see.Let's see, how can I make that right? Oh, damn, this one's hard.Let's see, what can we do?Take one matchstick.X12 equals... Let's see, that's 10, 11, 12 equals... No, we need a plus to make it equal.Can only move one matchstick.Let's see, that's... Oh, I can make that a plus.Equals... Either way, that's still wrong.10, 11, 12 equals... Mm, mm, mm. That's 7.If we keep that at 13.Plus V1.Okay, 13 equals.Huh.Let's see, 5, 6. move one matchstick which matchstick could I do use?so if I move one that makes it so what if I put one in front I don't know if that would work either.I'm not sure how to do this.This looks a lot more confusing than I thought.",
+    "segments": [
+      {
+        "text": " 13 equals, let's see, 5 6 7 minus 5 6.",
+        "start": 5.903,
+        "end": 13.271
+      },
+      {
+        "text": "Let's see, 7 minus 6 is 1.",
+        "start": 19.578,
+        "end": 24.103
+      },
+      {
+        "text": "So how can we make that correct?",
+        "start": 24.864,
+        "end": 31.692
+      },
+      {
+        "text": " 7 plus 6 equals 13.",
+        "start": 33.595,
+        "end": 36.14
+      },
+      {
+        "text": "Let's see, how can I make it 13?",
+        "start": 36.16,
+        "end": 45.699
+      },
+      {
+        "text": "Gotta move one.",
+        "start": 45.799,
+        "end": 47.021
+      },
+      {
+        "text": "How could I do that?",
+        "start": 49.506,
+        "end": 51.891
+      },
+      {
+        "text": " How do I figure this out?",
+        "start": 60.663,
+        "end": 67.51
+      },
+      {
+        "text": "Let's see.",
+        "start": 74.857,
+        "end": 75.557
+      },
+      {
+        "text": "Let's see, how can I make that right?",
+        "start": 75.577,
+        "end": 89.05
+      },
+      {
+        "text": " Oh, damn, this one's hard.",
+        "start": 108.352,
+        "end": 110.655
+      },
+      {
+        "text": "Let's see, what can we do?",
+        "start": 126.615,
+        "end": 127.997
+      },
+      {
+        "text": "Take one matchstick.",
+        "start": 128.097,
+        "end": 129.719
+      },
+      {
+        "text": "X12 equals...",
+        "start": 131.541,
+        "end": 135.186
+      },
+      {
+        "text": " Let's see, that's 10, 11, 12 equals... No, we need a plus to make it equal.",
+        "start": 136.617,
+        "end": 143.626
+      },
+      {
+        "text": "Can only move one matchstick.",
+        "start": 144.907,
+        "end": 146.85
+      },
+      {
+        "text": "Let's see, that's... Oh, I can make that a plus.",
+        "start": 146.87,
+        "end": 151.896
+      },
+      {
+        "text": "Equals... Either way, that's still wrong.",
+        "start": 152.837,
+        "end": 159.285
+      },
+      {
+        "text": "10, 11, 12 equals... Mm, mm, mm.",
+        "start": 159.305,
+        "end": 164.532
+      },
+      {
+        "text": " That's 7.",
+        "start": 168.224,
+        "end": 169.145
+      },
+      {
+        "text": "If we keep that at 13.",
+        "start": 173.172,
+        "end": 174.994
+      },
+      {
+        "text": "Plus V1.",
+        "start": 179.041,
+        "end": 181.244
+      },
+      {
+        "text": "Okay, 13 equals.",
+        "start": 184.169,
+        "end": 188.836
+      },
+      {
+        "text": "Huh.",
+        "start": 192.061,
+        "end": 194.224
+      },
+      {
+        "text": "Let's see, 5, 6.",
+        "start": 194.805,
+        "end": 195.987
+      },
+      {
+        "text": " move one matchstick which matchstick could I do use?",
+        "start": 199.477,
+        "end": 209.454
+      },
+      {
+        "text": "so if I move one that makes it so what if I put one in front",
+        "start": 219.711,
+        "end": 225.501
+      },
+      {
+        "text": " I don't know if that would work either.",
+        "start": 228.637,
+        "end": 230.322
+      },
+      {
+        "text": "I'm not sure how to do this.",
+        "start": 230.382,
+        "end": 233.391
+      },
+      {
+        "text": "This looks a lot more confusing than I thought.",
+        "start": 233.411,
+        "end": 237.263
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 13 equals, let's see, 5 6 7 minus 5 6. Let's see, 7 minus 6 is 1. So how can we make that correct? 7 plus 6 equals 13. Let's see, how can I make it 13? Gotta move one. How could I do that? How do I figure this out? Let's see. Let's see, how can I make that right? Oh, damn, this one's hard. Let's see, what can we do? Take one matchstick. X12 equals... Let's see, that's 10, 11, 12 equals... No, we need a plus to make it equal. Can only move one matchstick. Let's see, that's... Oh, I can make that a plus. Equals... Either way, that's still wrong. 10, 11, 12 equals... Mm, mm, mm. That's 7. If we keep that at 13. Plus V1. Okay, 13 equals. Huh. Let's see, 5, 6. move one matchstick which matchstick could I do use? so if I move one that makes it so what if I put one in front I don't know if that would work either. I'm not sure how to do this. This looks a lot more confusing than I thought."
+  }
+}

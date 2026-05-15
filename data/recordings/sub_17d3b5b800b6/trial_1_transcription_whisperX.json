@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_17d3b5b800b6/trial_1.wav",
+  "with_timestamps": {
+    "text": " Alright, it's eight equals two plus four.If we move, wait, wait.Use the buttons below to report the correct version.Okay, so eight equals two plus four.Eight equals two plus six.So if I move, OK, wait.8 equals 2 plus 6.",
+    "segments": [
+      {
+        "text": " Alright, it's eight equals two plus four.",
+        "start": 0.875,
+        "end": 6.782
+      },
+      {
+        "text": "If we move, wait, wait.",
+        "start": 6.822,
+        "end": 13.25
+      },
+      {
+        "text": "Use the buttons below to report the correct version.",
+        "start": 15.112,
+        "end": 18.437
+      },
+      {
+        "text": "Okay, so eight equals two plus four.",
+        "start": 19.938,
+        "end": 25.245
+      },
+      {
+        "text": "Eight equals two plus six.",
+        "start": 25.285,
+        "end": 29.009
+      },
+      {
+        "text": "So if I move,",
+        "start": 29.029,
+        "end": 30.291
+      },
+      {
+        "text": " OK, wait.",
+        "start": 33.089,
+        "end": 36.681
+      },
+      {
+        "text": "8 equals 2 plus 6.",
+        "start": 36.701,
+        "end": 48.381
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, it's eight equals two plus four. If we move, wait, wait. Use the buttons below to report the correct version. Okay, so eight equals two plus four. Eight equals two plus six. So if I move, OK, wait. 8 equals 2 plus 6."
+  }
+}

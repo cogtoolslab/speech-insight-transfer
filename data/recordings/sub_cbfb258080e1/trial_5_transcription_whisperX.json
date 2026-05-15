@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_cbfb258080e1/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, let's see.Number 5.So 2 is equal to 9 minus 2.Obviously not true.Now, if we make this 9 and 11, 11 minus 2 is not 2.That doesn't work.If we put the x with the 2s on the left, that makes that a 12. 12 equals 1 minus 11.That's not correct.That would be right if it's a plus.Hmm.But that would be moving more than one stick.So I think that x has to stay.So if x has to stay, I could make something a plus.Oh. If I make something a plus, oh, I'm not going to get a 2 on the other side.That doesn't make any sense.Right now I have 2 equals 9 minus 2.So I need that on the left.Seems like that has to become higher.I can make it a 3, but that doesn't help.9 minus 2 is not 3.I can't move the x, I'm thinking here, like I said, because What if I move one of the pieces of the equal sign to minus 2 minus 9 equals 11.That's, if I could move, Hold on.2 equals 9 minus 2.If I make that 2 minus 2 plus 9, that doesn't help.I feel like I had something there for a second and then I lost it.So this is a 2.That could become a 1.The 9 could become an 11.The 2 could become a 1.If I take a vertical 1, I can change the minus to plus. So that would be 2 equals 10 plus 2.These two vertical ones together are making me think of 11, which I know is not correct.But every time I look at it, I'm seeing 11.2 is equal to xi. becomes 11.I could take it away and make it a 10.But either way, if I'm adding a 2 or subtracting a 2, there's no way I'm getting anything with this.And if I cannot move the X, well you can change the shape as far as horizontal and vertical, but you can't angle to be straight.So I could take from the equal sign and make it 9 plus 2, which is 11, which I thought was right for a second, because I was looking at the 2 vertical and thinking it's 11, which obviously it's 2.If I move x i, 9 minus 1 is 8, 2, 1 plus 4 plus 9 plus 2 is 11.",
+    "segments": [
+      {
+        "text": " All right, let's see.",
+        "start": 0.031,
+        "end": 1.713
+      },
+      {
+        "text": "Number 5.",
+        "start": 1.773,
+        "end": 2.474
+      },
+      {
+        "text": "So 2 is equal to 9 minus 2.",
+        "start": 3.035,
+        "end": 6.961
+      },
+      {
+        "text": "Obviously not true.",
+        "start": 7.221,
+        "end": 10.005
+      },
+      {
+        "text": "Now, if we make this 9 and 11, 11 minus 2 is not 2.",
+        "start": 10.025,
+        "end": 18.457
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 18.517,
+        "end": 19.438
+      },
+      {
+        "text": "If we put the x with the 2s on the left, that makes that a 12.",
+        "start": 24.145,
+        "end": 28.671
+      },
+      {
+        "text": " 12 equals 1 minus 11.",
+        "start": 29.309,
+        "end": 31.131
+      },
+      {
+        "text": "That's not correct.",
+        "start": 31.191,
+        "end": 31.992
+      },
+      {
+        "text": "That would be right if it's a plus.",
+        "start": 32.032,
+        "end": 33.454
+      },
+      {
+        "text": "Hmm.",
+        "start": 35.736,
+        "end": 35.977
+      },
+      {
+        "text": "But that would be moving more than one stick.",
+        "start": 37.598,
+        "end": 40.882
+      },
+      {
+        "text": "So I think that x has to stay.",
+        "start": 42.364,
+        "end": 44.046
+      },
+      {
+        "text": "So if x has to stay, I could make something a plus.",
+        "start": 44.106,
+        "end": 53.076
+      },
+      {
+        "text": "Oh.",
+        "start": 58.042,
+        "end": 58.422
+      },
+      {
+        "text": " If I make something a plus, oh, I'm not going to get a 2 on the other side.",
+        "start": 64.527,
+        "end": 70.056
+      },
+      {
+        "text": "That doesn't make any sense.",
+        "start": 70.076,
+        "end": 71.018
+      },
+      {
+        "text": "Right now I have 2 equals 9 minus 2.",
+        "start": 71.058,
+        "end": 76.607
+      },
+      {
+        "text": "So I need that on the left.",
+        "start": 79.011,
+        "end": 80.313
+      },
+      {
+        "text": "Seems like that has to become higher.",
+        "start": 80.674,
+        "end": 82.376
+      },
+      {
+        "text": "I can make it a 3, but that doesn't help.",
+        "start": 82.396,
+        "end": 85.682
+      },
+      {
+        "text": "9 minus 2 is not 3.",
+        "start": 85.702,
+        "end": 88.426
+      },
+      {
+        "text": "I can't move the x, I'm thinking here, like I said, because",
+        "start": 88.466,
+        "end": 91.311
+      },
+      {
+        "text": " What if I move one of the pieces of the equal sign to minus 2 minus 9 equals 11.",
+        "start": 95.78,
+        "end": 113.138
+      },
+      {
+        "text": "That's, if I could move,",
+        "start": 113.158,
+        "end": 121.467
+      },
+      {
+        "text": " Hold on.",
+        "start": 122.678,
+        "end": 123.239
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 123.259,
+        "end": 125.802
+      },
+      {
+        "text": "If I make that 2 minus 2 plus 9, that doesn't help.",
+        "start": 125.822,
+        "end": 134.052
+      },
+      {
+        "text": "I feel like I had something there for a second and then I lost it.",
+        "start": 136.475,
+        "end": 138.857
+      },
+      {
+        "text": "So this is a 2.",
+        "start": 140.86,
+        "end": 141.821
+      },
+      {
+        "text": "That could become a 1.",
+        "start": 141.881,
+        "end": 142.762
+      },
+      {
+        "text": "The 9 could become an 11.",
+        "start": 142.782,
+        "end": 146.006
+      },
+      {
+        "text": "The 2 could become a 1.",
+        "start": 146.046,
+        "end": 147.408
+      },
+      {
+        "text": "If I take a vertical 1, I can change the minus to plus.",
+        "start": 147.788,
+        "end": 151.032
+      },
+      {
+        "text": " So that would be 2 equals 10 plus 2.",
+        "start": 152.868,
+        "end": 161.839
+      },
+      {
+        "text": "These two vertical ones together are making me think of 11, which I know is not correct.",
+        "start": 163.841,
+        "end": 167.325
+      },
+      {
+        "text": "But every time I look at it, I'm seeing 11.",
+        "start": 167.345,
+        "end": 168.787
+      },
+      {
+        "text": "2 is equal to xi.",
+        "start": 168.807,
+        "end": 177.778
+      },
+      {
+        "text": " becomes 11.",
+        "start": 179.918,
+        "end": 180.819
+      },
+      {
+        "text": "I could take it away and make it a 10.",
+        "start": 180.839,
+        "end": 183.521
+      },
+      {
+        "text": "But either way, if I'm adding a 2 or subtracting a 2, there's no way I'm getting anything with this.",
+        "start": 184.382,
+        "end": 190.068
+      },
+      {
+        "text": "And if I cannot move the X, well you can change the shape as far as horizontal and vertical, but you can't angle to be straight.",
+        "start": 192.61,
+        "end": 205.402
+      },
+      {
+        "text": "So I could take from the equal sign and make it",
+        "start": 207.564,
+        "end": 209.706
+      },
+      {
+        "text": " 9 plus 2, which is 11, which I thought was right for a second, because I was looking at the 2 vertical and thinking it's 11, which obviously it's 2.",
+        "start": 210.732,
+        "end": 216.744
+      },
+      {
+        "text": "If I move x i, 9 minus 1 is 8, 2, 1 plus 4 plus 9 plus 2 is 11.",
+        "start": 216.764,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see. Number 5. So 2 is equal to 9 minus 2. Obviously not true. Now, if we make this 9 and 11, 11 minus 2 is not 2. That doesn't work. If we put the x with the 2s on the left, that makes that a 12. 12 equals 1 minus 11. That's not correct. That would be right if it's a plus. Hmm. But that would be moving more than one stick. So I think that x has to stay. So if x has to stay, I could make something a plus. Oh. If I make something a plus, oh, I'm not going to get a 2 on the other side. That doesn't make any sense. Right now I have 2 equals 9 minus 2. So I need that on the left. Seems like that has to become higher. I can make it a 3, but that doesn't help. 9 minus 2 is not 3. I can't move the x, I'm thinking here, like I said, because What if I move one of the pieces of the equal sign to minus 2 minus 9 equals 11. That's, if I could move, Hold on. 2 equals 9 minus 2. If I make that 2 minus 2 plus 9, that doesn't help. I feel like I had something there for a second and then I lost it. So this is a 2. That could become a 1. The 9 could become an 11. The 2 could become a 1. If I take a vertical 1, I can change the minus to plus. So that would be 2 equals 10 plus 2. These two vertical ones together are making me think of 11, which I know is not correct. But every time I look at it, I'm seeing 11. 2 is equal to xi. becomes 11. I could take it away and make it a 10. But either way, if I'm adding a 2 or subtracting a 2, there's no way I'm getting anything with this. And if I cannot move the X, well you can change the shape as far as horizontal and vertical, but you can't angle to be straight. So I could take from the equal sign and make it 9 plus 2, which is 11, which I thought was right for a second, because I was looking at the 2 vertical and thinking it's 11, which obviously it's 2. If I move x i, 9 minus 1 is 8, 2, 1 plus 4 plus 9 plus 2 is 11."
+  }
+}

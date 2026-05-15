@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_879938aeb461/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, for this one, it's 9 equals 9 plus 9.And so that means 9 equals 18, which can't be accurate because... So, let's see what we can change here. Oh wow, this is actually more difficult than I thought it would be.I'm not seeing an apparent solution immediately. I'm kind of stumped by this one.So 9 minus... 9 minus, um, 72.But then we can move one matchstick.So this could be, the possibility is 8.That doesn't work. We can use up to the number 15.I'm really stumped by this one.I'm really not sure I'm trying to see configurations of... It's really hard to balance this equation, though.I'm just not seeing... I'm thinking it's probably a very obvious solution that I'm just missing, but... We can only move one matchstick. so x um I don't think I'm gonna be able to complete this one in time I'm gonna try just messing with these symbols and see if I can figure anything out with the last 30 seconds so 9 so like 5 plus four would work, but I don't see any way to change that over.I don't think",
+    "segments": [
+      {
+        "text": " Okay, for this one, it's 9 equals 9 plus 9.",
+        "start": 1.465,
+        "end": 6.634
+      },
+      {
+        "text": "And so that means 9 equals 18, which can't be accurate because... So, let's see what we can change here.",
+        "start": 8.917,
+        "end": 21.178
+      },
+      {
+        "text": " Oh wow, this is actually more difficult than I thought it would be.",
+        "start": 33.325,
+        "end": 37.416
+      },
+      {
+        "text": "I'm not seeing an apparent solution immediately.",
+        "start": 37.436,
+        "end": 42.39
+      },
+      {
+        "text": " I'm kind of stumped by this one.",
+        "start": 61.861,
+        "end": 65.506
+      },
+      {
+        "text": "So 9 minus...",
+        "start": 81.786,
+        "end": 83.548
+      },
+      {
+        "text": " 9 minus, um, 72.",
+        "start": 101.112,
+        "end": 109.442
+      },
+      {
+        "text": "But then we can move one matchstick.",
+        "start": 109.462,
+        "end": 113.647
+      },
+      {
+        "text": "So this could be, the possibility is 8.",
+        "start": 117.051,
+        "end": 121.477
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 122.097,
+        "end": 122.698
+      },
+      {
+        "text": " We can use up to the number 15.",
+        "start": 127.606,
+        "end": 128.948
+      },
+      {
+        "text": "I'm really stumped by this one.",
+        "start": 129.088,
+        "end": 152.426
+      },
+      {
+        "text": "I'm really not sure",
+        "start": 152.867,
+        "end": 153.748
+      },
+      {
+        "text": " I'm trying to see configurations of... It's really hard to balance this equation, though.",
+        "start": 155.804,
+        "end": 162.133
+      },
+      {
+        "text": "I'm just not seeing... I'm thinking it's probably a very obvious solution that I'm just missing, but... We can only move one matchstick.",
+        "start": 162.254,
+        "end": 181.322
+      },
+      {
+        "text": " so x um I don't think I'm gonna be able to complete this one in time I'm gonna try just messing with these symbols and see if I can figure anything out with the last 30 seconds so 9 so like 5 plus",
+        "start": 197.603,
+        "end": 224.522
+      },
+      {
+        "text": " four would work, but I don't see any way to change that over.",
+        "start": 227.962,
+        "end": 232.262
+      },
+      {
+        "text": "I don't think",
+        "start": 232.282,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, for this one, it's 9 equals 9 plus 9. And so that means 9 equals 18, which can't be accurate because... So, let's see what we can change here. Oh wow, this is actually more difficult than I thought it would be. I'm not seeing an apparent solution immediately. I'm kind of stumped by this one. So 9 minus... 9 minus, um, 72. But then we can move one matchstick. So this could be, the possibility is 8. That doesn't work. We can use up to the number 15. I'm really stumped by this one. I'm really not sure I'm trying to see configurations of... It's really hard to balance this equation, though. I'm just not seeing... I'm thinking it's probably a very obvious solution that I'm just missing, but... We can only move one matchstick. so x um I don't think I'm gonna be able to complete this one in time I'm gonna try just messing with these symbols and see if I can figure anything out with the last 30 seconds so 9 so like 5 plus four would work, but I don't see any way to change that over. I don't think"
+  }
+}

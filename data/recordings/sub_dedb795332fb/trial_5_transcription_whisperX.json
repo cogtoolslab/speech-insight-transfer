@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_dedb795332fb/trial_5.wav",
+  "with_timestamps": {
+    "text": " 4 equals 4 minus 2.4 equals 6 minus 6.",
+    "segments": [
+      {
+        "text": " 4 equals 4 minus 2.",
+        "start": 1.685,
+        "end": 5.816
+      },
+      {
+        "text": "4 equals 6 minus 6.",
+        "start": 5.836,
+        "end": 25.971
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 4 minus 2. 4 equals 6 minus 6."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_60c499e87ab8/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay. Let's keep it going there.Four equals.I'm going to move.Four equals seven. Four equals... Four equals... Okay.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 5.583,
+        "end": 6.245
+      },
+      {
+        "text": " Let's keep it going there.",
+        "start": 95.83,
+        "end": 97.973
+      },
+      {
+        "text": "Four equals.",
+        "start": 101.538,
+        "end": 103.581
+      },
+      {
+        "text": "I'm going to move.",
+        "start": 117.681,
+        "end": 118.543
+      },
+      {
+        "text": "Four equals seven.",
+        "start": 123.41,
+        "end": 125.753
+      },
+      {
+        "text": " Four equals... Four equals...",
+        "start": 138.49,
+        "end": 155.638
+      },
+      {
+        "text": " Okay.",
+        "start": 181.589,
+        "end": 185.676
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. Let's keep it going there. Four equals. I'm going to move. Four equals seven. Four equals... Four equals... Okay."
+  }
+}

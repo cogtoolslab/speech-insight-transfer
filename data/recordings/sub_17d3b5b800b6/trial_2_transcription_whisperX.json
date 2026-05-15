@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_17d3b5b800b6/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright 3 equals 9 minus 4 9 minus 6 is 3 so 3 equals 9 minus 6",
+    "segments": [
+      {
+        "text": " Alright 3 equals 9 minus 4 9 minus 6 is 3 so 3 equals 9 minus 6",
+        "start": 0.571,
+        "end": 23.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright 3 equals 9 minus 4 9 minus 6 is 3 so 3 equals 9 minus 6"
+  }
+}

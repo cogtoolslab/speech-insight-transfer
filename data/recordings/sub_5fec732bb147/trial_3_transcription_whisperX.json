@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_5fec732bb147/trial_3.wav",
+  "with_timestamps": {
+    "text": " Nine equals seven plus four, now that's 11.I could just put the one after the X, that'd be 11.11 equals seven plus four.",
+    "segments": [
+      {
+        "text": " Nine equals seven plus four, now that's 11.",
+        "start": 1.718,
+        "end": 6.384
+      },
+      {
+        "text": "I could just put the one after the X, that'd be 11.",
+        "start": 6.404,
+        "end": 14.715
+      },
+      {
+        "text": "11 equals seven plus four.",
+        "start": 14.735,
+        "end": 24.047
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Nine equals seven plus four, now that's 11. I could just put the one after the X, that'd be 11. 11 equals seven plus four."
+  }
+}

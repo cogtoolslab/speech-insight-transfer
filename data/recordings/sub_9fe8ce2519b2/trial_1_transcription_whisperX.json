@@ -1,0 +1,286 @@
+{
+  "file": "data/recordings/sub_9fe8ce2519b2/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What is the correct equation?Okay, so 13 equals... You can only move one matchstick to make this equation correct.Use the buttons to report the correct version of the equation. So something equals 13.So six.I am thinking out loud.Oh, this is hard.Okay.You can only move one matchstick to make this equation correct.What's the final correct equation?Use these buttons to report the correct version.Ah. Um, oh my God.Okay.13 equals nine.It should be a plus, but there's not an extra.Use the buttons below.That's that.Is that it?That's incorrect.Shoot.Okay.Um, you can only move one match stick to make this equation correct. So it's 13 equals nine minus 13.Okay.Wait, okay.That's five.This is nine.So it's five.I would have to move all the matchsticks.So that doesn't make sense.Um, Oh, wait a second.Uh, 13 minus, 13 minus nine is four, so it's actually one of the, I would have to move that one, right?No, I would move this one.I would move that one.No, what the?13 minus, yeah, I would just move one matchstick.Is that not right?13, Minus nine equals four.That should be it.Now I'm just gonna click all of them, because apparently I don't have the right answer.What does that mean?I've clicked all of them and it's not working.Use the buttons below to report the correct... Okay.Alright.I can't move the buttons.I've clicked all of them and it's not working.Your survey doesn't work, people. Can I type more than one thing in here?Oh yeah, I can.That's why I'm having a problem.Okay, so it's 13 minus, no wonder I screwed this up, minus nine equals four.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 1.01,
+        "end": 3.594
+      },
+      {
+        "text": "What is the correct equation?",
+        "start": 3.634,
+        "end": 8.601
+      },
+      {
+        "text": "Okay, so 13 equals... You can only move one matchstick to make this equation correct.",
+        "start": 8.721,
+        "end": 18.776
+      },
+      {
+        "text": "Use the buttons to report the correct version of the equation.",
+        "start": 20.198,
+        "end": 24.064
+      },
+      {
+        "text": " So something equals 13.",
+        "start": 34.557,
+        "end": 36.3
+      },
+      {
+        "text": "So six.",
+        "start": 37.362,
+        "end": 38.243
+      },
+      {
+        "text": "I am thinking out loud.",
+        "start": 42.009,
+        "end": 43.091
+      },
+      {
+        "text": "Oh, this is hard.",
+        "start": 43.892,
+        "end": 45.274
+      },
+      {
+        "text": "Okay.",
+        "start": 45.414,
+        "end": 45.735
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 46.496,
+        "end": 48.86
+      },
+      {
+        "text": "What's the final correct equation?",
+        "start": 48.9,
+        "end": 50.663
+      },
+      {
+        "text": "Use these buttons to report the correct version.",
+        "start": 50.783,
+        "end": 54.048
+      },
+      {
+        "text": "Ah.",
+        "start": 54.99,
+        "end": 58.776
+      },
+      {
+        "text": " Um, oh my God.",
+        "start": 61.135,
+        "end": 63.579
+      },
+      {
+        "text": "Okay.",
+        "start": 64.72,
+        "end": 67.444
+      },
+      {
+        "text": "13 equals nine.",
+        "start": 67.464,
+        "end": 71.63
+      },
+      {
+        "text": "It should be a plus, but there's not an extra.",
+        "start": 73.192,
+        "end": 75.536
+      },
+      {
+        "text": "Use the buttons below.",
+        "start": 77.358,
+        "end": 78.48
+      },
+      {
+        "text": "That's that.",
+        "start": 78.56,
+        "end": 79.702
+      },
+      {
+        "text": "Is that it?",
+        "start": 79.722,
+        "end": 80.202
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 80.463,
+        "end": 81.164
+      },
+      {
+        "text": "Shoot.",
+        "start": 81.324,
+        "end": 81.584
+      },
+      {
+        "text": "Okay.",
+        "start": 81.705,
+        "end": 83.587
+      },
+      {
+        "text": "Um, you can only move one match stick to make this equation correct.",
+        "start": 84.348,
+        "end": 91.058
+      },
+      {
+        "text": " So it's 13 equals nine minus 13.",
+        "start": 92.827,
+        "end": 104.781
+      },
+      {
+        "text": "Okay.",
+        "start": 104.941,
+        "end": 105.162
+      },
+      {
+        "text": "Wait, okay.",
+        "start": 105.182,
+        "end": 109.707
+      },
+      {
+        "text": "That's five.",
+        "start": 109.727,
+        "end": 110.648
+      },
+      {
+        "text": "This is nine.",
+        "start": 110.728,
+        "end": 111.449
+      },
+      {
+        "text": "So it's five.",
+        "start": 111.589,
+        "end": 112.45
+      },
+      {
+        "text": "I would have to move all the matchsticks.",
+        "start": 113.111,
+        "end": 114.493
+      },
+      {
+        "text": "So that doesn't make sense.",
+        "start": 114.513,
+        "end": 116.756
+      },
+      {
+        "text": "Um, Oh, wait a second.",
+        "start": 116.776,
+        "end": 119.879
+      },
+      {
+        "text": "Uh, 13 minus,",
+        "start": 120.18,
+        "end": 122.142
+      },
+      {
+        "text": " 13 minus nine is four, so it's actually one of the, I would have to move that one, right?",
+        "start": 123.421,
+        "end": 129.648
+      },
+      {
+        "text": "No, I would move this one.",
+        "start": 129.908,
+        "end": 131.45
+      },
+      {
+        "text": "I would move that one.",
+        "start": 132.331,
+        "end": 133.352
+      },
+      {
+        "text": "No, what the?",
+        "start": 133.533,
+        "end": 139.9
+      },
+      {
+        "text": "13 minus, yeah, I would just move one matchstick.",
+        "start": 139.92,
+        "end": 143.704
+      },
+      {
+        "text": "Is that not right?",
+        "start": 143.805,
+        "end": 144.545
+      },
+      {
+        "text": "13,",
+        "start": 144.565,
+        "end": 150.272
+      },
+      {
+        "text": " Minus nine equals four.",
+        "start": 150.792,
+        "end": 153.395
+      },
+      {
+        "text": "That should be it.",
+        "start": 153.675,
+        "end": 154.496
+      },
+      {
+        "text": "Now I'm just gonna click all of them, because apparently I don't have the right answer.",
+        "start": 157.74,
+        "end": 160.623
+      },
+      {
+        "text": "What does that mean?",
+        "start": 161.664,
+        "end": 162.285
+      },
+      {
+        "text": "I've clicked all of them and it's not working.",
+        "start": 165.288,
+        "end": 168.211
+      },
+      {
+        "text": "Use the buttons below to report the correct... Okay.",
+        "start": 170.413,
+        "end": 172.896
+      },
+      {
+        "text": "Alright.",
+        "start": 173.637,
+        "end": 175.259
+      },
+      {
+        "text": "I can't move the buttons.",
+        "start": 175.279,
+        "end": 176.26
+      },
+      {
+        "text": "I've clicked all of them and it's not working.",
+        "start": 176.42,
+        "end": 178.082
+      },
+      {
+        "text": "Your survey doesn't work, people.",
+        "start": 178.302,
+        "end": 180.124
+      },
+      {
+        "text": " Can I type more than one thing in here?",
+        "start": 186.415,
+        "end": 189.723
+      },
+      {
+        "text": "Oh yeah, I can.",
+        "start": 191.147,
+        "end": 191.748
+      },
+      {
+        "text": "That's why I'm having a problem.",
+        "start": 191.869,
+        "end": 193.332
+      },
+      {
+        "text": "Okay, so it's 13 minus, no wonder I screwed this up, minus nine equals four.",
+        "start": 193.352,
+        "end": 206.365
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What is the correct equation? Okay, so 13 equals... You can only move one matchstick to make this equation correct. Use the buttons to report the correct version of the equation. So something equals 13. So six. I am thinking out loud. Oh, this is hard. Okay. You can only move one matchstick to make this equation correct. What's the final correct equation? Use these buttons to report the correct version. Ah. Um, oh my God. Okay. 13 equals nine. It should be a plus, but there's not an extra. Use the buttons below. That's that. Is that it? That's incorrect. Shoot. Okay. Um, you can only move one match stick to make this equation correct. So it's 13 equals nine minus 13. Okay. Wait, okay. That's five. This is nine. So it's five. I would have to move all the matchsticks. So that doesn't make sense. Um, Oh, wait a second. Uh, 13 minus, 13 minus nine is four, so it's actually one of the, I would have to move that one, right? No, I would move this one. I would move that one. No, what the? 13 minus, yeah, I would just move one matchstick. Is that not right? 13, Minus nine equals four. That should be it. Now I'm just gonna click all of them, because apparently I don't have the right answer. What does that mean? I've clicked all of them and it's not working. Use the buttons below to report the correct... Okay. Alright. I can't move the buttons. I've clicked all of them and it's not working. Your survey doesn't work, people. Can I type more than one thing in here? Oh yeah, I can. That's why I'm having a problem. Okay, so it's 13 minus, no wonder I screwed this up, minus nine equals four."
+  }
+}

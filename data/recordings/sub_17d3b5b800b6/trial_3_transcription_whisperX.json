@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_17d3b5b800b6/trial_3.wav",
+  "with_timestamps": {
+    "text": " Alright, 9 equals 7 plus 4.7 plus 4 equals 11.So, aha!X I equals V I I plus I V. Wait. mess it up that needs to be a v okay how do i go oh backspace there we go so 11 equals v i i plus iv so 11 equals 7 plus 4",
+    "segments": [
+      {
+        "text": " Alright, 9 equals 7 plus 4.",
+        "start": 0.031,
+        "end": 3.915
+      },
+      {
+        "text": "7 plus 4 equals 11.",
+        "start": 3.935,
+        "end": 10.222
+      },
+      {
+        "text": "So, aha!",
+        "start": 10.803,
+        "end": 12.985
+      },
+      {
+        "text": "X I equals V I I plus I V. Wait.",
+        "start": 13.005,
+        "end": 24.638
+      },
+      {
+        "text": " mess it up that needs to be a v okay how do i go oh backspace there we go so 11 equals v i i plus iv so 11 equals 7 plus 4",
+        "start": 26.542,
+        "end": 47.959
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, 9 equals 7 plus 4. 7 plus 4 equals 11. So, aha! X I equals V I I plus I V. Wait. mess it up that needs to be a v okay how do i go oh backspace there we go so 11 equals v i i plus iv so 11 equals 7 plus 4"
+  }
+}

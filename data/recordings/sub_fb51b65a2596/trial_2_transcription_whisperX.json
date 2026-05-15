@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_fb51b65a2596/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, now let's run it.Let's see, 9 equals 7 plus 6.No, 7 plus 4.No, 7 plus 4 is 7, 8, 9, 10, 11.So 11.So can we make this an 11?Oh yeah, we just have to move the I. So all we have to do is I, X, I, that's 11, equals. VII, which is seven, plus IV, which is four.",
+    "segments": [
+      {
+        "text": " Okay, now let's run it.",
+        "start": 0.672,
+        "end": 1.873
+      },
+      {
+        "text": "Let's see, 9 equals 7 plus 6.",
+        "start": 2.814,
+        "end": 8.38
+      },
+      {
+        "text": "No, 7 plus 4.",
+        "start": 10.002,
+        "end": 10.923
+      },
+      {
+        "text": "No, 7 plus 4 is 7, 8, 9, 10, 11.",
+        "start": 11.904,
+        "end": 14.006
+      },
+      {
+        "text": "So 11.",
+        "start": 14.407,
+        "end": 16.729
+      },
+      {
+        "text": "So can we make this an 11?",
+        "start": 16.889,
+        "end": 18.131
+      },
+      {
+        "text": "Oh yeah, we just have to move the I. So all we have to do is I, X, I, that's 11, equals.",
+        "start": 18.151,
+        "end": 28.722
+      },
+      {
+        "text": " VII, which is seven, plus IV, which is four.",
+        "start": 30.068,
+        "end": 36.163
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, now let's run it. Let's see, 9 equals 7 plus 6. No, 7 plus 4. No, 7 plus 4 is 7, 8, 9, 10, 11. So 11. So can we make this an 11? Oh yeah, we just have to move the I. So all we have to do is I, X, I, that's 11, equals. VII, which is seven, plus IV, which is four."
+  }
+}

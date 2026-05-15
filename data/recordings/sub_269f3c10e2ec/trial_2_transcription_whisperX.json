@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_269f3c10e2ec/trial_2.wav",
+  "with_timestamps": {
+    "text": " 13 equals 8 minus 6.So I have no idea, this is so confusing.I know what the numerals are, but I don't understand just switching them around.13 equals seven, minus six. You can't swish these around, can you?I don't get it.Oh my god. maybe i'm just stupid i don't know um wait i didn't know you could add instead okay yeah XII equals VII plus IV.How about that?Oh, of course.XII equals VII plus VI. I have no idea.Truly.I don't get it.I don't know.I'm trying.",
+    "segments": [
+      {
+        "text": " 13 equals 8 minus 6.",
+        "start": 10.409,
+        "end": 19.42
+      },
+      {
+        "text": "So",
+        "start": 25.888,
+        "end": 33.497
+      },
+      {
+        "text": " I have no idea, this is so confusing.",
+        "start": 44.716,
+        "end": 46.878
+      },
+      {
+        "text": "I know what the numerals are, but I don't understand just switching them around.",
+        "start": 59.05,
+        "end": 65.296
+      },
+      {
+        "text": "13 equals",
+        "start": 65.316,
+        "end": 73.744
+      },
+      {
+        "text": " seven, minus six.",
+        "start": 76.137,
+        "end": 98.635
+      },
+      {
+        "text": " You can't swish these around, can you?",
+        "start": 107.98,
+        "end": 114.635
+      },
+      {
+        "text": "I don't get it.",
+        "start": 114.655,
+        "end": 124.757
+      },
+      {
+        "text": "Oh my god.",
+        "start": 124.777,
+        "end": 124.977
+      },
+      {
+        "text": " maybe i'm just stupid i don't know um wait i didn't know you could add instead okay yeah",
+        "start": 137.36,
+        "end": 161.865
+      },
+      {
+        "text": " XII equals VII plus IV.",
+        "start": 174.653,
+        "end": 186.467
+      },
+      {
+        "text": "How about that?",
+        "start": 186.647,
+        "end": 187.848
+      },
+      {
+        "text": "Oh, of course.",
+        "start": 187.868,
+        "end": 193.735
+      },
+      {
+        "text": "XII equals VII plus VI.",
+        "start": 193.955,
+        "end": 203.226
+      },
+      {
+        "text": " I have no idea.",
+        "start": 205.973,
+        "end": 210.739
+      },
+      {
+        "text": "Truly.",
+        "start": 212.001,
+        "end": 212.502
+      },
+      {
+        "text": "I don't get it.",
+        "start": 225.8,
+        "end": 226.581
+      },
+      {
+        "text": "I don't know.",
+        "start": 229.725,
+        "end": 230.346
+      },
+      {
+        "text": "I'm trying.",
+        "start": 233.951,
+        "end": 234.732
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 13 equals 8 minus 6. So I have no idea, this is so confusing. I know what the numerals are, but I don't understand just switching them around. 13 equals seven, minus six. You can't swish these around, can you? I don't get it. Oh my god. maybe i'm just stupid i don't know um wait i didn't know you could add instead okay yeah XII equals VII plus IV. How about that? Oh, of course. XII equals VII plus VI. I have no idea. Truly. I don't get it. I don't know. I'm trying."
+  }
+}

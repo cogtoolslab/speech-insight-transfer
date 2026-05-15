@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_08077de52922/trial_1.wav",
+  "with_timestamps": {
+    "text": " Let's go, let's go, let's go!8 equals 2 plus 4.That's not true, is it?8 equals 2 plus 4.Damn, I have to like think, huh? 8 equals 2 plus 6 equals 2 plus 6.",
+    "segments": [
+      {
+        "text": " Let's go, let's go, let's go!",
+        "start": 0.031,
+        "end": 1.393
+      },
+      {
+        "text": "8 equals 2 plus 4.",
+        "start": 1.413,
+        "end": 4.698
+      },
+      {
+        "text": "That's not true, is it?",
+        "start": 5.299,
+        "end": 6.341
+      },
+      {
+        "text": "8 equals 2 plus 4.",
+        "start": 9.246,
+        "end": 13.733
+      },
+      {
+        "text": "Damn, I have to like think, huh?",
+        "start": 19.041,
+        "end": 20.824
+      },
+      {
+        "text": " 8 equals 2 plus 6 equals 2 plus 6.",
+        "start": 31.958,
+        "end": 42.492
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's go, let's go, let's go! 8 equals 2 plus 4. That's not true, is it? 8 equals 2 plus 4. Damn, I have to like think, huh? 8 equals 2 plus 6 equals 2 plus 6."
+  }
+}

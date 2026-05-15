@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_3d93746f80a6/trial_3.wav",
+  "with_timestamps": {
+    "text": " 6 equals 10.10 equals 7 minus 3.7 minus 3.6, 7, 8 minus 3 is 7 plus 3. 7.OK, x is 10.It's 8 minus 3 is 5.10 equals that is 7. Minus 3, 7.Minus 3. iiv.iiv doesn't exist.1, 2, 3. x. 7 plus 3 equals x. x equals a, i, i, a, i, x, a, i, a, i, x, It's 10.X equals 3i.X equals. I-I-E-I-E-I-I.I-I-E-I-I.Let's see.Yes.One, two.",
+    "segments": [
+      {
+        "text": " 6 equals 10.",
+        "start": 3.473,
+        "end": 9.682
+      },
+      {
+        "text": "10 equals 7 minus 3.",
+        "start": 10.222,
+        "end": 17.593
+      },
+      {
+        "text": "7 minus 3.",
+        "start": 17.613,
+        "end": 21.037
+      },
+      {
+        "text": "6, 7, 8 minus 3 is 7 plus 3.",
+        "start": 21.057,
+        "end": 32.333
+      },
+      {
+        "text": " 7.",
+        "start": 34.979,
+        "end": 35.299
+      },
+      {
+        "text": "OK, x is 10.",
+        "start": 39.044,
+        "end": 42.487
+      },
+      {
+        "text": "It's 8 minus 3 is 5.",
+        "start": 42.507,
+        "end": 53.48
+      },
+      {
+        "text": "10 equals that is 7.",
+        "start": 55.022,
+        "end": 62.59
+      },
+      {
+        "text": " Minus 3, 7.",
+        "start": 65.422,
+        "end": 67.485
+      },
+      {
+        "text": "Minus 3. iiv.",
+        "start": 67.525,
+        "end": 74.056
+      },
+      {
+        "text": "iiv doesn't exist.",
+        "start": 76.58,
+        "end": 77.381
+      },
+      {
+        "text": "1, 2, 3. x.",
+        "start": 77.401,
+        "end": 90.703
+      },
+      {
+        "text": " 7 plus 3 equals x.",
+        "start": 94.565,
+        "end": 121.146
+      },
+      {
+        "text": " x equals a, i, i, a, i, x, a, i, a, i, x,",
+        "start": 128.315,
+        "end": 157.495
+      },
+      {
+        "text": " It's 10.",
+        "start": 162.925,
+        "end": 163.706
+      },
+      {
+        "text": "X equals 3i.",
+        "start": 181.012,
+        "end": 191.207
+      },
+      {
+        "text": "X equals.",
+        "start": 191.227,
+        "end": 192.088
+      },
+      {
+        "text": " I-I-E-I-E-I-I.",
+        "start": 198.413,
+        "end": 200.555
+      },
+      {
+        "text": "I-I-E-I-I.",
+        "start": 208.064,
+        "end": 208.484
+      },
+      {
+        "text": "Let's see.",
+        "start": 213.15,
+        "end": 220.738
+      },
+      {
+        "text": "Yes.",
+        "start": 220.758,
+        "end": 225.003
+      },
+      {
+        "text": "One, two.",
+        "start": 225.023,
+        "end": 226.024
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 6 equals 10. 10 equals 7 minus 3. 7 minus 3. 6, 7, 8 minus 3 is 7 plus 3. 7. OK, x is 10. It's 8 minus 3 is 5. 10 equals that is 7. Minus 3, 7. Minus 3. iiv. iiv doesn't exist. 1, 2, 3. x. 7 plus 3 equals x. x equals a, i, i, a, i, x, a, i, a, i, x, It's 10. X equals 3i. X equals. I-I-E-I-E-I-I. I-I-E-I-I. Let's see. Yes. One, two."
+  }
+}

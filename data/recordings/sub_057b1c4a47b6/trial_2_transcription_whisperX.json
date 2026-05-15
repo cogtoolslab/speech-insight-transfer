@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_057b1c4a47b6/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, this equation says 9 equals 7 plus 4.And that is not correct.But to make this correct, 9 equals 7 plus 4. But if we make 9 into 11, 11 equals 7 plus 4.So changing the 9 to 11 equals 7 plus 4.",
+    "segments": [
+      {
+        "text": " Okay, this equation says 9 equals 7 plus 4.",
+        "start": 1.145,
+        "end": 8.372
+      },
+      {
+        "text": "And that is not correct.",
+        "start": 8.412,
+        "end": 11.656
+      },
+      {
+        "text": "But to make this correct, 9 equals 7 plus 4.",
+        "start": 13.277,
+        "end": 27.372
+      },
+      {
+        "text": " But if we make 9 into 11, 11 equals 7 plus 4.",
+        "start": 30.592,
+        "end": 38.651
+      },
+      {
+        "text": "So changing the 9 to 11 equals 7 plus 4.",
+        "start": 39.253,
+        "end": 48.094
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this equation says 9 equals 7 plus 4. And that is not correct. But to make this correct, 9 equals 7 plus 4. But if we make 9 into 11, 11 equals 7 plus 4. So changing the 9 to 11 equals 7 plus 4."
+  }
+}

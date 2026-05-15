@@ -1,0 +1,301 @@
+{
+  "file": "data/recordings/sub_112df383350c/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one says 6 is equal to 4 minus 2, which isn't true.That's...wait, is that easy?4 minus 2.So 4 minus 2 is 2.Let's see.So if I make it 4 plus 2, that's 6.That doesn't work.Oh, that's easy.So this is just going to be 6... Wait, yeah, 6 plus... I'm gonna move the match in front of the 4 to make it a plus, so it'll be... No, then that doesn't work.Then that's 6 equals... 5 plus 2, and that's 7, so that doesn't work.Okay.Oh wait, I got it. No, wait, I don't got it.I was going to move the 1 matchstick on the right to make it a plus, but then it would be 4 plus 1 is equal to 5, which doesn't work because it's 6.Okay.Maybe if I make it 9 minus 2 is equal to... No.9 minus 2 would be equal to 7. Oh my god.Let's see.7?So... If I move the 6... If I turn it to 6-2, then that would be equals to 4.That wouldn't work.Can I move the entire V around?Does that count as one matchstick?Okay.No, that still wouldn't work, right?So that would be 4-2 is equal to 2. So it can't be 2 on the left because I can't move enough matchsticks for that.I need to get it to 6 somehow.So I want to move one matchstick... So it needs to turn positive, I think, or the number needs to increase.The number that's being subtracted needs to be increased.Um... So 6 minus 2 would not be equal to 6.If I make it 9 minus 2, it would be 7 minus 2... No, it would be equal to 7, which doesn't make sense.If I move... I wish you guys would tell me the correct answer afterwards.This is... Inlift Theory really is one.Um... I'm gonna try it out on scratch paper, maybe that'll help me.Oops.Let's see.6 is equal to 4 minus 2.I need to move 1 over.So, it needs to be like 8 minus 2. or 5 plus 1.Right?Or make it equal to 5.So... How do I do this?11?No.I'm making it to 11.That doesn't work.Okay, so... I'm stumped again.I have no idea.Okay.Yeah, I don't know.Oh my god.",
+    "segments": [
+      {
+        "text": " Okay, so this one says 6 is equal to 4 minus 2, which isn't true.",
+        "start": 1.212,
+        "end": 7.081
+      },
+      {
+        "text": "That's...wait, is that easy?",
+        "start": 7.121,
+        "end": 10.306
+      },
+      {
+        "text": "4 minus 2.",
+        "start": 10.326,
+        "end": 13.871
+      },
+      {
+        "text": "So 4 minus 2 is 2.",
+        "start": 14.132,
+        "end": 17.257
+      },
+      {
+        "text": "Let's see.",
+        "start": 19.841,
+        "end": 20.281
+      },
+      {
+        "text": "So if I make it 4 plus 2, that's 6.",
+        "start": 20.522,
+        "end": 23.045
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 23.146,
+        "end": 23.927
+      },
+      {
+        "text": "Oh, that's easy.",
+        "start": 25.229,
+        "end": 25.81
+      },
+      {
+        "text": "So this is just going to be 6...",
+        "start": 26.751,
+        "end": 29.295
+      },
+      {
+        "text": " Wait, yeah, 6 plus... I'm gonna move the match in front of the 4 to make it a plus, so it'll be... No, then that doesn't work.",
+        "start": 30.828,
+        "end": 38.779
+      },
+      {
+        "text": "Then that's 6 equals... 5 plus 2, and that's 7, so that doesn't work.",
+        "start": 38.839,
+        "end": 46.811
+      },
+      {
+        "text": "Okay.",
+        "start": 47.071,
+        "end": 53.2
+      },
+      {
+        "text": "Oh wait, I got it.",
+        "start": 53.22,
+        "end": 54.642
+      },
+      {
+        "text": " No, wait, I don't got it.",
+        "start": 55.297,
+        "end": 56.218
+      },
+      {
+        "text": "I was going to move the 1 matchstick on the right to make it a plus, but then it would be 4 plus 1 is equal to 5, which doesn't work because it's 6.",
+        "start": 56.879,
+        "end": 65.872
+      },
+      {
+        "text": "Okay.",
+        "start": 67.414,
+        "end": 67.695
+      },
+      {
+        "text": "Maybe if I make it 9 minus 2 is equal to... No.",
+        "start": 70.198,
+        "end": 76.948
+      },
+      {
+        "text": "9 minus 2 would be equal to 7.",
+        "start": 76.968,
+        "end": 80.393
+      },
+      {
+        "text": " Oh my god.",
+        "start": 82.162,
+        "end": 83.063
+      },
+      {
+        "text": "Let's see.",
+        "start": 83.603,
+        "end": 84.984
+      },
+      {
+        "text": "7?",
+        "start": 85.004,
+        "end": 85.485
+      },
+      {
+        "text": "So... If I move the 6... If I turn it to 6-2, then that would be equals to 4.",
+        "start": 85.505,
+        "end": 93.652
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 93.812,
+        "end": 94.513
+      },
+      {
+        "text": "Can I move the entire V around?",
+        "start": 98.897,
+        "end": 100.638
+      },
+      {
+        "text": "Does that count as one matchstick?",
+        "start": 100.718,
+        "end": 102.079
+      },
+      {
+        "text": "Okay.",
+        "start": 105.823,
+        "end": 105.923
+      },
+      {
+        "text": "No, that still wouldn't work, right?",
+        "start": 105.943,
+        "end": 107.524
+      },
+      {
+        "text": "So that would be 4-2 is equal to 2.",
+        "start": 107.924,
+        "end": 110.987
+      },
+      {
+        "text": " So it can't be 2 on the left because I can't move enough matchsticks for that.",
+        "start": 113.65,
+        "end": 118.196
+      },
+      {
+        "text": "I need to get it to 6 somehow.",
+        "start": 120.239,
+        "end": 121.661
+      },
+      {
+        "text": "So I want to move one matchstick... So it needs to turn positive, I think, or the number needs to increase.",
+        "start": 122.763,
+        "end": 133.097
+      },
+      {
+        "text": "The number that's being subtracted needs to be increased.",
+        "start": 133.938,
+        "end": 136.542
+      },
+      {
+        "text": "Um...",
+        "start": 138.705,
+        "end": 139.506
+      },
+      {
+        "text": " So 6 minus 2 would not be equal to 6.",
+        "start": 142.186,
+        "end": 145.811
+      },
+      {
+        "text": "If I make it 9 minus 2, it would be 7 minus 2... No, it would be equal to 7, which doesn't make sense.",
+        "start": 147.874,
+        "end": 154.184
+      },
+      {
+        "text": "If I move... I wish you guys would tell me the correct answer afterwards.",
+        "start": 156.247,
+        "end": 159.812
+      },
+      {
+        "text": "This is... Inlift Theory really is one.",
+        "start": 159.872,
+        "end": 162.176
+      },
+      {
+        "text": "Um...",
+        "start": 164.118,
+        "end": 165.24
+      },
+      {
+        "text": " I'm gonna try it out on scratch paper, maybe that'll help me.",
+        "start": 170.047,
+        "end": 179.937
+      },
+      {
+        "text": "Oops.",
+        "start": 179.957,
+        "end": 182.359
+      },
+      {
+        "text": "Let's see.",
+        "start": 182.379,
+        "end": 182.74
+      },
+      {
+        "text": "6 is equal to 4 minus 2.",
+        "start": 182.76,
+        "end": 188.065
+      },
+      {
+        "text": "I need to move 1 over.",
+        "start": 188.085,
+        "end": 190.467
+      },
+      {
+        "text": "So, it needs to be like 8 minus 2.",
+        "start": 193.61,
+        "end": 198.315
+      },
+      {
+        "text": " or 5 plus 1.",
+        "start": 200.641,
+        "end": 203.125
+      },
+      {
+        "text": "Right?",
+        "start": 207.772,
+        "end": 207.912
+      },
+      {
+        "text": "Or make it equal to 5.",
+        "start": 208.713,
+        "end": 209.675
+      },
+      {
+        "text": "So... How do I do this?",
+        "start": 209.695,
+        "end": 218.448
+      },
+      {
+        "text": "11?",
+        "start": 218.468,
+        "end": 220.451
+      },
+      {
+        "text": "No.",
+        "start": 220.471,
+        "end": 220.571
+      },
+      {
+        "text": "I'm making it to 11.",
+        "start": 222.254,
+        "end": 223.896
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 223.936,
+        "end": 224.477
+      },
+      {
+        "text": "Okay, so...",
+        "start": 225.859,
+        "end": 226.48
+      },
+      {
+        "text": " I'm stumped again.",
+        "start": 228.772,
+        "end": 229.556
+      },
+      {
+        "text": "I have no idea.",
+        "start": 229.576,
+        "end": 232.49
+      },
+      {
+        "text": "Okay.",
+        "start": 232.55,
+        "end": 236.67
+      },
+      {
+        "text": "Yeah, I don't know.",
+        "start": 237.474,
+        "end": 238.117
+      },
+      {
+        "text": "Oh my god.",
+        "start": 238.74,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one says 6 is equal to 4 minus 2, which isn't true. That's...wait, is that easy? 4 minus 2. So 4 minus 2 is 2. Let's see. So if I make it 4 plus 2, that's 6. That doesn't work. Oh, that's easy. So this is just going to be 6... Wait, yeah, 6 plus... I'm gonna move the match in front of the 4 to make it a plus, so it'll be... No, then that doesn't work. Then that's 6 equals... 5 plus 2, and that's 7, so that doesn't work. Okay. Oh wait, I got it. No, wait, I don't got it. I was going to move the 1 matchstick on the right to make it a plus, but then it would be 4 plus 1 is equal to 5, which doesn't work because it's 6. Okay. Maybe if I make it 9 minus 2 is equal to... No. 9 minus 2 would be equal to 7. Oh my god. Let's see. 7? So... If I move the 6... If I turn it to 6-2, then that would be equals to 4. That wouldn't work. Can I move the entire V around? Does that count as one matchstick? Okay. No, that still wouldn't work, right? So that would be 4-2 is equal to 2. So it can't be 2 on the left because I can't move enough matchsticks for that. I need to get it to 6 somehow. So I want to move one matchstick... So it needs to turn positive, I think, or the number needs to increase. The number that's being subtracted needs to be increased. Um... So 6 minus 2 would not be equal to 6. If I make it 9 minus 2, it would be 7 minus 2... No, it would be equal to 7, which doesn't make sense. If I move... I wish you guys would tell me the correct answer afterwards. This is... Inlift Theory really is one. Um... I'm gonna try it out on scratch paper, maybe that'll help me. Oops. Let's see. 6 is equal to 4 minus 2. I need to move 1 over. So, it needs to be like 8 minus 2. or 5 plus 1. Right? Or make it equal to 5. So... How do I do this? 11? No. I'm making it to 11. That doesn't work. Okay, so... I'm stumped again. I have no idea. Okay. Yeah, I don't know. Oh my god."
+  }
+}

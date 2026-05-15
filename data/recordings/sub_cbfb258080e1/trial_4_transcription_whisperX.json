@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_cbfb258080e1/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, number 4.So now we have 9 is equal to 7 plus 4.9 is equal to 7 plus 4, which obviously is not true.Now the 9 could change to an 11, and then that's simple.That one seemed too easy, if that's right.11 equals 7 plus 4. 7 plus 4 is 11.I took the one vertical next to the X, made it a 9, moved it to the other side to make an 11, and then 7 plus 4 is 11.So that seems like it should be correct.",
+    "segments": [
+      {
+        "text": " All right, number 4.",
+        "start": 2.174,
+        "end": 3.275
+      },
+      {
+        "text": "So now we have 9 is equal to 7 plus 4.",
+        "start": 3.555,
+        "end": 7.58
+      },
+      {
+        "text": "9 is equal to 7 plus 4, which obviously is not true.",
+        "start": 7.6,
+        "end": 13.726
+      },
+      {
+        "text": "Now the 9 could change to an 11, and then that's simple.",
+        "start": 14.747,
+        "end": 19.372
+      },
+      {
+        "text": "That one seemed too easy, if that's right.",
+        "start": 19.412,
+        "end": 21.173
+      },
+      {
+        "text": "11 equals 7 plus 4.",
+        "start": 21.194,
+        "end": 27.54
+      },
+      {
+        "text": " 7 plus 4 is 11.",
+        "start": 28.668,
+        "end": 30.134
+      },
+      {
+        "text": "I took the one vertical next to the X, made it a 9, moved it to the other side to make an 11, and then 7 plus 4 is 11.",
+        "start": 30.234,
+        "end": 39.491
+      },
+      {
+        "text": "So that seems like it should be correct.",
+        "start": 39.511,
+        "end": 41.901
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, number 4. So now we have 9 is equal to 7 plus 4. 9 is equal to 7 plus 4, which obviously is not true. Now the 9 could change to an 11, and then that's simple. That one seemed too easy, if that's right. 11 equals 7 plus 4. 7 plus 4 is 11. I took the one vertical next to the X, made it a 9, moved it to the other side to make an 11, and then 7 plus 4 is 11. So that seems like it should be correct."
+  }
+}

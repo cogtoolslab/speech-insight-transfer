@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_016ef5cb53d0/trial_5.wav",
+  "with_timestamps": {
+    "text": " 3 equals 3 plus 3.4 equals or 2 equals um two equals i don't know two equals Or minus two.Okay, so adding a match to either three If you make it 4 plus 2, that equals 6.Still not right.2 plus 4, still 6.Still not right.If you move it from the plus and make it 4 minus 3, it's a 1.Still not right. 3 minus 3 is 0.3 plus 3 is 6.I don't see how any of it makes it correct. So I don't know.3 equals 2 plus 1. 3 equals 4 minus 1.4 equals 3 plus 1.4 equals 5 minus 1. 2 equals.",
+    "segments": [
+      {
+        "text": " 3 equals 3 plus 3.",
+        "start": 2.495,
+        "end": 18.616
+      },
+      {
+        "text": "4 equals or 2 equals",
+        "start": 18.636,
+        "end": 29.751
+      },
+      {
+        "text": " um two equals i don't know two equals",
+        "start": 31.908,
+        "end": 51.925
+      },
+      {
+        "text": " Or minus two.",
+        "start": 62.266,
+        "end": 63.207
+      },
+      {
+        "text": "Okay, so adding a match to either three",
+        "start": 83.235,
+        "end": 89.404
+      },
+      {
+        "text": " If you make it 4 plus 2, that equals 6.",
+        "start": 92.81,
+        "end": 97.036
+      },
+      {
+        "text": "Still not right.",
+        "start": 97.176,
+        "end": 97.877
+      },
+      {
+        "text": "2 plus 4, still 6.",
+        "start": 97.897,
+        "end": 102.543
+      },
+      {
+        "text": "Still not right.",
+        "start": 103.023,
+        "end": 103.764
+      },
+      {
+        "text": "If you move it from the plus and make it 4 minus 3, it's a 1.",
+        "start": 106.548,
+        "end": 114.418
+      },
+      {
+        "text": "Still not right.",
+        "start": 114.639,
+        "end": 115.78
+      },
+      {
+        "text": " 3 minus 3 is 0.",
+        "start": 127.15,
+        "end": 135.082
+      },
+      {
+        "text": "3 plus 3 is 6.",
+        "start": 135.102,
+        "end": 141.491
+      },
+      {
+        "text": "I don't see how any of it makes it correct.",
+        "start": 150.384,
+        "end": 155.031
+      },
+      {
+        "text": " So I don't know.",
+        "start": 159.652,
+        "end": 160.513
+      },
+      {
+        "text": "3 equals 2 plus 1.",
+        "start": 160.533,
+        "end": 178.42
+      },
+      {
+        "text": " 3 equals 4 minus 1.",
+        "start": 186.213,
+        "end": 195.889
+      },
+      {
+        "text": "4 equals 3 plus 1.",
+        "start": 195.909,
+        "end": 202.68
+      },
+      {
+        "text": "4 equals 5 minus 1.",
+        "start": 202.7,
+        "end": 212.676
+      },
+      {
+        "text": " 2 equals.",
+        "start": 222.325,
+        "end": 224.826
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 3 plus 3. 4 equals or 2 equals um two equals i don't know two equals Or minus two. Okay, so adding a match to either three If you make it 4 plus 2, that equals 6. Still not right. 2 plus 4, still 6. Still not right. If you move it from the plus and make it 4 minus 3, it's a 1. Still not right. 3 minus 3 is 0. 3 plus 3 is 6. I don't see how any of it makes it correct. So I don't know. 3 equals 2 plus 1. 3 equals 4 minus 1. 4 equals 3 plus 1. 4 equals 5 minus 1. 2 equals."
+  }
+}

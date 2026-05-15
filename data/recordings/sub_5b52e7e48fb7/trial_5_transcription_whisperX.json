@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_5b52e7e48fb7/trial_5.wav",
+  "with_timestamps": {
+    "text": " At this point, I have concluded that these puzzles are not solvable.But I'll give it one last try on puzzle 505.OK, right here we have 9 is equal to 12 plus 4, which would actually be 16.If I were to subtract instead of add, it would be 12 minus 4. 12 minus 4 would give me 8 as opposed to 9 so if i were to move this one to the left that would be no i wouldn't need to do that move a matchstick okay let me try moving this there that's 11 is equal to 12 no that wouldn't work that would not work try making it 11 is equal to 12 minus it would have to be 12 minus 10 so let's get rid of that how about we say Nine is equal to, is equal to 12.Remove a matchstick.Where do I place that matchstick?Make it 13. minus 4.I think I've done that.",
+    "segments": [
+      {
+        "text": " At this point, I have concluded that these puzzles are not solvable.",
+        "start": 1.111,
+        "end": 4.815
+      },
+      {
+        "text": "But I'll give it one last try on puzzle 505.",
+        "start": 5.835,
+        "end": 9.119
+      },
+      {
+        "text": "OK, right here we have 9 is equal to 12 plus 4, which would actually be 16.",
+        "start": 10.58,
+        "end": 22.171
+      },
+      {
+        "text": "If I were to subtract instead of add, it would be 12 minus 4.",
+        "start": 22.211,
+        "end": 29.498
+      },
+      {
+        "text": " 12 minus 4 would give me 8 as opposed to 9 so if i were to move this one to the left that would be no i wouldn't need to do that move a matchstick okay let me try moving this there that's 11",
+        "start": 30.473,
+        "end": 60.16
+      },
+      {
+        "text": " is equal to 12 no that wouldn't work that would not work try making it 11 is equal to 12 minus it would have to be 12 minus 10 so let's get rid of that how about we say",
+        "start": 61.692,
+        "end": 91.682
+      },
+      {
+        "text": " Nine is equal to, is equal to 12.",
+        "start": 93.738,
+        "end": 110.961
+      },
+      {
+        "text": "Remove a matchstick.",
+        "start": 113.284,
+        "end": 114.466
+      },
+      {
+        "text": "Where do I place that matchstick?",
+        "start": 114.566,
+        "end": 116.569
+      },
+      {
+        "text": "Make it 13.",
+        "start": 120.394,
+        "end": 121.315
+      },
+      {
+        "text": " minus 4.",
+        "start": 123.539,
+        "end": 127.23
+      },
+      {
+        "text": "I think I've done that.",
+        "start": 127.636,
+        "end": 128.487
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " At this point, I have concluded that these puzzles are not solvable. But I'll give it one last try on puzzle 505. OK, right here we have 9 is equal to 12 plus 4, which would actually be 16. If I were to subtract instead of add, it would be 12 minus 4. 12 minus 4 would give me 8 as opposed to 9 so if i were to move this one to the left that would be no i wouldn't need to do that move a matchstick okay let me try moving this there that's 11 is equal to 12 no that wouldn't work that would not work try making it 11 is equal to 12 minus it would have to be 12 minus 10 so let's get rid of that how about we say Nine is equal to, is equal to 12. Remove a matchstick. Where do I place that matchstick? Make it 13. minus 4. I think I've done that."
+  }
+}

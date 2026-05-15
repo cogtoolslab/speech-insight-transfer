@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_9889ea88dba9/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright, let's try it.I'm thinking, you've got to give me a minute.Hang on.So you have this one equals this one plus this one.You can only move one match stick to make this equation correct.What is the final equation?Use the buttons below to report the correct version of the equation.So, first I've got to figure out what we have here. So let's see if we can move the bean out here equals the IV here plus 2.That is not right.So let's try again. Why is this so hard?You can only move one matchstick to make it break.So I'd be allowed a... Let's save it.It'd be because I have a... I have a 4 equals 4 plus... 4.So... Let's try this one equals this one plus two.What the heck?So maybe we need to do, if we move, this is forward. So let's try here.",
+    "segments": [
+      {
+        "text": " Alright, let's try it.",
+        "start": 22.357,
+        "end": 23.559
+      },
+      {
+        "text": "I'm thinking, you've got to give me a minute.",
+        "start": 23.959,
+        "end": 25.662
+      },
+      {
+        "text": "Hang on.",
+        "start": 27.685,
+        "end": 30.809
+      },
+      {
+        "text": "So you have this one equals this one plus this one.",
+        "start": 30.83,
+        "end": 34.735
+      },
+      {
+        "text": "You can only move one match stick to make this equation correct.",
+        "start": 37.079,
+        "end": 40.163
+      },
+      {
+        "text": "What is the final equation?",
+        "start": 40.203,
+        "end": 42.206
+      },
+      {
+        "text": "Use the buttons below to report the correct version of the equation.",
+        "start": 42.927,
+        "end": 46.493
+      },
+      {
+        "text": "So, first I've got to figure out what we have here.",
+        "start": 48.856,
+        "end": 52.161
+      },
+      {
+        "text": " So let's see if we can move the bean out here equals the IV here plus 2.",
+        "start": 53.93,
+        "end": 67.61
+      },
+      {
+        "text": "That is not right.",
+        "start": 69.132,
+        "end": 70.154
+      },
+      {
+        "text": "So let's try again.",
+        "start": 76.323,
+        "end": 77.845
+      },
+      {
+        "text": " Why is this so hard?",
+        "start": 86.566,
+        "end": 88.649
+      },
+      {
+        "text": "You can only move one matchstick to make it break.",
+        "start": 91.433,
+        "end": 94.437
+      },
+      {
+        "text": "So I'd be allowed a... Let's save it.",
+        "start": 97.0,
+        "end": 101.426
+      },
+      {
+        "text": "It'd be because I have a... I have a 4 equals 4 plus... 4.",
+        "start": 104.851,
+        "end": 113.322
+      },
+      {
+        "text": "So...",
+        "start": 114.884,
+        "end": 115.425
+      },
+      {
+        "text": " Let's try this one equals this one plus two.",
+        "start": 120.468,
+        "end": 129.0
+      },
+      {
+        "text": "What the heck?",
+        "start": 135.008,
+        "end": 135.749
+      },
+      {
+        "text": "So maybe we need to do, if we move, this is forward.",
+        "start": 139.414,
+        "end": 146.003
+      },
+      {
+        "text": " So let's try here.",
+        "start": 151.99,
+        "end": 153.765
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, let's try it. I'm thinking, you've got to give me a minute. Hang on. So you have this one equals this one plus this one. You can only move one match stick to make this equation correct. What is the final equation? Use the buttons below to report the correct version of the equation. So, first I've got to figure out what we have here. So let's see if we can move the bean out here equals the IV here plus 2. That is not right. So let's try again. Why is this so hard? You can only move one matchstick to make it break. So I'd be allowed a... Let's save it. It'd be because I have a... I have a 4 equals 4 plus... 4. So... Let's try this one equals this one plus two. What the heck? So maybe we need to do, if we move, this is forward. So let's try here."
+  }
+}

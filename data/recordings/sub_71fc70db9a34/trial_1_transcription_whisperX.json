@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_71fc70db9a34/trial_1.wav",
+  "with_timestamps": {
+    "text": " This equation here, we have 7 equals 9 plus 3.So 9 plus 3 is 12.So if we change the v into an x on the left side, I think that should work.",
+    "segments": [
+      {
+        "text": " This equation here, we have 7 equals 9 plus 3.",
+        "start": 3.052,
+        "end": 8.664
+      },
+      {
+        "text": "So 9 plus 3 is 12.",
+        "start": 11.29,
+        "end": 13.154
+      },
+      {
+        "text": "So if we change the v into an x on the left side, I think that should work.",
+        "start": 15.399,
+        "end": 19.828
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This equation here, we have 7 equals 9 plus 3. So 9 plus 3 is 12. So if we change the v into an x on the left side, I think that should work."
+  }
+}

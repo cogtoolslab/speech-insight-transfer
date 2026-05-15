@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_6f135f163500/trial_4.wav",
+  "with_timestamps": {
+    "text": " is 3 equals 3 plus 3 so again I have the exact same equation.A little mad at myself for not realizing this the very first time what I could have done but I was trying to solve it. instead of sort of getting around it.And this, I feel like it's just kind of getting around it.But the same, I believe that the same fix will apply.So I'm going to change the plus sign to an equal sign and it's going to read 3 equals 3 equals 3.",
+    "segments": [
+      {
+        "text": " is 3 equals 3 plus 3 so again I have the exact same equation.",
+        "start": 0.25,
+        "end": 6.606
+      },
+      {
+        "text": "A little mad at myself for not realizing this the very first time what I could have done but I was trying to solve it.",
+        "start": 6.626,
+        "end": 14.867
+      },
+      {
+        "text": " instead of sort of getting around it.",
+        "start": 18.374,
+        "end": 21.842
+      },
+      {
+        "text": "And this, I feel like it's just kind of getting around it.",
+        "start": 21.962,
+        "end": 24.247
+      },
+      {
+        "text": "But the same, I believe that the same fix will apply.",
+        "start": 24.408,
+        "end": 28.036
+      },
+      {
+        "text": "So I'm going to change the plus sign to an equal sign and it's going to read 3 equals 3 equals 3.",
+        "start": 28.136,
+        "end": 33.548
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " is 3 equals 3 plus 3 so again I have the exact same equation. A little mad at myself for not realizing this the very first time what I could have done but I was trying to solve it. instead of sort of getting around it. And this, I feel like it's just kind of getting around it. But the same, I believe that the same fix will apply. So I'm going to change the plus sign to an equal sign and it's going to read 3 equals 3 equals 3."
+  }
+}

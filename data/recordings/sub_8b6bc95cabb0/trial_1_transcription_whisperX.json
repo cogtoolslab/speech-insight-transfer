@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_8b6bc95cabb0/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so for this problem, I see that it's 2 equals 4 minus 2.4 minus 2 equals 2, which is correct.So, I don't need to move any matchsticks to make this equation correct. Use the button below to report the correct version of the equation.This would be 2 equals Ix minus 2.That's incorrect.Why is that incorrect?You can move one matrix to make this equation correct.What is the final correct answer? 2 equals 4 minus 2.Oh, sorry.That's 2 equals 9 minus 2, which is 7, which is incorrect.4. Okay, four is correct.So if I move this, slanted one, all the X, and move it here to make a V, it'll be four minus two equals two.So it'll be two equals... No, that's not right either.No, no, no, that's right.I minus two.",
+    "segments": [
+      {
+        "text": " Okay, so for this problem, I see that it's 2 equals 4 minus 2.",
+        "start": 1.263,
+        "end": 7.83
+      },
+      {
+        "text": "4 minus 2 equals 2, which is correct.",
+        "start": 7.85,
+        "end": 15.338
+      },
+      {
+        "text": "So, I don't need to move any matchsticks to make this equation correct.",
+        "start": 19.142,
+        "end": 27.912
+      },
+      {
+        "text": " Use the button below to report the correct version of the equation.",
+        "start": 31.807,
+        "end": 34.59
+      },
+      {
+        "text": "This would be 2 equals Ix minus 2.",
+        "start": 42.098,
+        "end": 49.506
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 50.968,
+        "end": 53.551
+      },
+      {
+        "text": "Why is that incorrect?",
+        "start": 53.571,
+        "end": 55.493
+      },
+      {
+        "text": "You can move one matrix to make this equation correct.",
+        "start": 55.513,
+        "end": 57.895
+      },
+      {
+        "text": "What is the final correct answer?",
+        "start": 57.975,
+        "end": 59.417
+      },
+      {
+        "text": " 2 equals 4 minus 2.",
+        "start": 60.764,
+        "end": 65.009
+      },
+      {
+        "text": "Oh, sorry.",
+        "start": 73.799,
+        "end": 75.101
+      },
+      {
+        "text": "That's 2 equals 9 minus 2, which is 7, which is incorrect.",
+        "start": 75.521,
+        "end": 80.748
+      },
+      {
+        "text": "4.",
+        "start": 80.768,
+        "end": 82.89
+      },
+      {
+        "text": " Okay, four is correct.",
+        "start": 87.798,
+        "end": 89.941
+      },
+      {
+        "text": "So if I move this, slanted one, all the X, and move it here to make a V, it'll be four minus two equals two.",
+        "start": 90.541,
+        "end": 99.973
+      },
+      {
+        "text": "So it'll be two equals... No, that's not right either.",
+        "start": 100.213,
+        "end": 107.562
+      },
+      {
+        "text": "No, no, no, that's right.",
+        "start": 108.283,
+        "end": 109.244
+      },
+      {
+        "text": "I minus two.",
+        "start": 109.705,
+        "end": 113.89
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so for this problem, I see that it's 2 equals 4 minus 2. 4 minus 2 equals 2, which is correct. So, I don't need to move any matchsticks to make this equation correct. Use the button below to report the correct version of the equation. This would be 2 equals Ix minus 2. That's incorrect. Why is that incorrect? You can move one matrix to make this equation correct. What is the final correct answer? 2 equals 4 minus 2. Oh, sorry. That's 2 equals 9 minus 2, which is 7, which is incorrect. 4. Okay, four is correct. So if I move this, slanted one, all the X, and move it here to make a V, it'll be four minus two equals two. So it'll be two equals... No, that's not right either. No, no, no, that's right. I minus two."
+  }
+}

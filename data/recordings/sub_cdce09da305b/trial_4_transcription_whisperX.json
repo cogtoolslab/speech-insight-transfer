@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_cdce09da305b/trial_4.wav",
+  "with_timestamps": {
+    "text": " so 6 equal to 6 equal to 6 equal to 4 minus 2 6 equal to 9 I mean 4 minus 2 um okay so big number equal to small number minus big number so if I make this six 4 2 so 6 minus 4 is 2 so all I need to do is move the equal sign on one of the stick so 6 minus 4 6 minus 4 equal to 2",
+    "segments": [
+      {
+        "text": " so 6 equal to 6 equal to 6 equal to 4 minus 2 6 equal to 9 I mean 4 minus 2 um",
+        "start": 0.031,
+        "end": 25.414
+      },
+      {
+        "text": " okay so big number equal to small number minus big number so if I make this six",
+        "start": 28.921,
+        "end": 43.065
+      },
+      {
+        "text": " 4 2 so 6 minus 4 is 2 so all I need to do is move the equal sign on one of the stick so 6 minus 4 6 minus 4 equal to 2",
+        "start": 44.108,
+        "end": 59.299
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " so 6 equal to 6 equal to 6 equal to 4 minus 2 6 equal to 9 I mean 4 minus 2 um okay so big number equal to small number minus big number so if I make this six 4 2 so 6 minus 4 is 2 so all I need to do is move the equal sign on one of the stick so 6 minus 4 6 minus 4 equal to 2"
+  }
+}

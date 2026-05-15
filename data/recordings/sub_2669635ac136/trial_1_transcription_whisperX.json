@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_2669635ac136/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so this is seven equals nine plus three, which is obviously not true.Seven does not equal 12.So, you could try turning the plus into a minus sign, and then maybe move it elsewhere.I don't see a viable spot for that. 7 equals 9 plus 3.Can't move either of the diagonal sticks. Nine plus three.I'm not sure I could figure this one out. I feel like I need to use this 9 and make this a minus 3 by moving the vertical one.That leaves us with 6 and an extra matchstick.We'll make it 8 over here.I don't know if there's an answer I can find here. I'll try moving one of these three over here.I can't put it here at all because that'll make it invalid, which means I can only move it here, and that makes it eight equals nine plus two, which is 11.That's not right.If I take this one here, I think I got it.I think I got it now.I can move either of these ones, so if I can go move this one, make it diagonal, make that 12, that equals nine plus three, so, equals plus one, two, three.What?Oh, sorry, there you go.",
+    "segments": [
+      {
+        "text": " Okay, so this is seven equals nine plus three, which is obviously not true.",
+        "start": 1.685,
+        "end": 6.672
+      },
+      {
+        "text": "Seven does not equal 12.",
+        "start": 7.053,
+        "end": 9.236
+      },
+      {
+        "text": "So, you could try turning the plus into a minus sign, and then maybe move it elsewhere.",
+        "start": 11.019,
+        "end": 26.742
+      },
+      {
+        "text": "I don't see a viable spot for that.",
+        "start": 26.762,
+        "end": 30.628
+      },
+      {
+        "text": " 7 equals 9 plus 3.",
+        "start": 34.793,
+        "end": 36.337
+      },
+      {
+        "text": "Can't move either of the diagonal sticks.",
+        "start": 40.809,
+        "end": 45.04
+      },
+      {
+        "text": " Nine plus three.",
+        "start": 73.859,
+        "end": 75.041
+      },
+      {
+        "text": "I'm not sure I could figure this one out.",
+        "start": 94.326,
+        "end": 95.968
+      },
+      {
+        "text": " I feel like I need to use this 9 and make this a minus 3 by moving the vertical one.",
+        "start": 104.993,
+        "end": 112.184
+      },
+      {
+        "text": "That leaves us with 6 and an extra matchstick.",
+        "start": 113.486,
+        "end": 117.372
+      },
+      {
+        "text": "We'll make it 8 over here.",
+        "start": 117.392,
+        "end": 118.634
+      },
+      {
+        "text": "I don't know if there's an answer I can find here.",
+        "start": 118.654,
+        "end": 127.187
+      },
+      {
+        "text": " I'll try moving one of these three over here.",
+        "start": 137.073,
+        "end": 140.056
+      },
+      {
+        "text": "I can't put it here at all because that'll make it invalid, which means I can only move it here, and that makes it eight equals nine plus two, which is 11.",
+        "start": 140.096,
+        "end": 151.407
+      },
+      {
+        "text": "That's not right.",
+        "start": 151.748,
+        "end": 152.368
+      },
+      {
+        "text": "If I take this one here, I think I got it.",
+        "start": 154.41,
+        "end": 162.158
+      },
+      {
+        "text": "I think I got it now.",
+        "start": 162.458,
+        "end": 163.259
+      },
+      {
+        "text": "I can move either of these ones, so if I can go",
+        "start": 163.74,
+        "end": 166.202
+      },
+      {
+        "text": " move this one, make it diagonal, make that 12, that equals nine plus three, so, equals plus one, two, three.",
+        "start": 166.638,
+        "end": 180.153
+      },
+      {
+        "text": "What?",
+        "start": 183.557,
+        "end": 183.777
+      },
+      {
+        "text": "Oh, sorry, there you go.",
+        "start": 189.443,
+        "end": 191.025
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this is seven equals nine plus three, which is obviously not true. Seven does not equal 12. So, you could try turning the plus into a minus sign, and then maybe move it elsewhere. I don't see a viable spot for that. 7 equals 9 plus 3. Can't move either of the diagonal sticks. Nine plus three. I'm not sure I could figure this one out. I feel like I need to use this 9 and make this a minus 3 by moving the vertical one. That leaves us with 6 and an extra matchstick. We'll make it 8 over here. I don't know if there's an answer I can find here. I'll try moving one of these three over here. I can't put it here at all because that'll make it invalid, which means I can only move it here, and that makes it eight equals nine plus two, which is 11. That's not right. If I take this one here, I think I got it. I think I got it now. I can move either of these ones, so if I can go move this one, make it diagonal, make that 12, that equals nine plus three, so, equals plus one, two, three. What? Oh, sorry, there you go."
+  }
+}

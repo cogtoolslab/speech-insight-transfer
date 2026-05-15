@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_d99ccdfef616/trial_5.wav",
+  "with_timestamps": {
+    "text": " move one match stick to make this equation.So that's 11 equals four plus 11 or two.Why would I need to change?All right.Five, four plus two. Okay, can we do that?Make it a V instead of an X.",
+    "segments": [
+      {
+        "text": " move one match stick to make this equation.",
+        "start": 2.225,
+        "end": 4.427
+      },
+      {
+        "text": "So that's 11 equals four plus 11 or two.",
+        "start": 4.467,
+        "end": 12.434
+      },
+      {
+        "text": "Why would I need to change?",
+        "start": 20.842,
+        "end": 22.143
+      },
+      {
+        "text": "All right.",
+        "start": 22.163,
+        "end": 26.688
+      },
+      {
+        "text": "Five, four plus two.",
+        "start": 26.708,
+        "end": 31.472
+      },
+      {
+        "text": " Okay, can we do that?",
+        "start": 38.135,
+        "end": 43.488
+      },
+      {
+        "text": "Make it a V instead of an X.",
+        "start": 49.462,
+        "end": 51.807
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " move one match stick to make this equation. So that's 11 equals four plus 11 or two. Why would I need to change? All right. Five, four plus two. Okay, can we do that? Make it a V instead of an X."
+  }
+}

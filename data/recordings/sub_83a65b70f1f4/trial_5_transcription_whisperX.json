@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_83a65b70f1f4/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, let's see.2 equals 10 plus 1 is 11, minus 5, 6, 7.8, 9, 10, 11.That's wrong.So if we did IX would be 9 minus 5, 6, 7 equals 2.So it looks like if we do two matchsticks on the left-hand side of the equation and then change the X and the I to IX, that would be 9 minus 567 equals 2.",
+    "segments": [
+      {
+        "text": " All right, let's see.",
+        "start": 1.246,
+        "end": 2.187
+      },
+      {
+        "text": "2 equals 10 plus 1 is 11, minus 5, 6, 7.",
+        "start": 2.207,
+        "end": 10.515
+      },
+      {
+        "text": "8, 9, 10, 11.",
+        "start": 10.676,
+        "end": 13.519
+      },
+      {
+        "text": "That's wrong.",
+        "start": 13.559,
+        "end": 14.279
+      },
+      {
+        "text": "So if we did IX would be 9 minus 5, 6, 7 equals 2.",
+        "start": 14.66,
+        "end": 25.311
+      },
+      {
+        "text": "So it looks like if we do two matchsticks on the left-hand side of the equation and then change",
+        "start": 25.551,
+        "end": 30.696
+      },
+      {
+        "text": " the X and the I to IX, that would be 9 minus 567 equals 2.",
+        "start": 31.672,
+        "end": 40.197
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see. 2 equals 10 plus 1 is 11, minus 5, 6, 7. 8, 9, 10, 11. That's wrong. So if we did IX would be 9 minus 5, 6, 7 equals 2. So it looks like if we do two matchsticks on the left-hand side of the equation and then change the X and the I to IX, that would be 9 minus 567 equals 2."
+  }
+}

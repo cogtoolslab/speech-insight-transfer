@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_83b0d98a611e/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so we have 13 equals to 7 minus 6.Well, intuitively this should be easier.I should be able to just finagle with this, right?How? What do you mean?I don't understand what you're asking me for. Unless I do that.That should be it.No, it's not.Yes.So if I... No. What do you want from me?Is it this?Okay, I guess I'm not understanding the assignment properly. What matchstick are you wanting me to move? Maybe I should try this instead.Maybe I should try this.That's not going to work either now, is it? Yeah, I really don't understand what you want from me.I don't understand what you want.I guess this one is going to be a failure also, huh?My apologies.",
+    "segments": [
+      {
+        "text": " Okay, so we have 13 equals to 7 minus 6.",
+        "start": 0.723,
+        "end": 9.252
+      },
+      {
+        "text": "Well, intuitively this should be easier.",
+        "start": 12.815,
+        "end": 18.461
+      },
+      {
+        "text": "I should be able to just finagle with this, right?",
+        "start": 18.481,
+        "end": 25.948
+      },
+      {
+        "text": "How?",
+        "start": 26.869,
+        "end": 27.49
+      },
+      {
+        "text": " What do you mean?",
+        "start": 31.537,
+        "end": 32.459
+      },
+      {
+        "text": "I don't understand what you're asking me for.",
+        "start": 32.479,
+        "end": 47.925
+      },
+      {
+        "text": " Unless I do that.",
+        "start": 75.277,
+        "end": 76.178
+      },
+      {
+        "text": "That should be it.",
+        "start": 80.285,
+        "end": 80.866
+      },
+      {
+        "text": "No, it's not.",
+        "start": 82.809,
+        "end": 83.691
+      },
+      {
+        "text": "Yes.",
+        "start": 94.709,
+        "end": 95.01
+      },
+      {
+        "text": "So if I... No.",
+        "start": 96.272,
+        "end": 101.841
+      },
+      {
+        "text": " What do you want from me?",
+        "start": 107.812,
+        "end": 108.953
+      },
+      {
+        "text": "Is it this?",
+        "start": 108.973,
+        "end": 123.331
+      },
+      {
+        "text": "Okay, I guess I'm not understanding the assignment properly.",
+        "start": 123.371,
+        "end": 131.541
+      },
+      {
+        "text": " What matchstick are you wanting me to move?",
+        "start": 140.667,
+        "end": 143.539
+      },
+      {
+        "text": " Maybe I should try this instead.",
+        "start": 181.825,
+        "end": 184.789
+      },
+      {
+        "text": "Maybe I should try this.",
+        "start": 184.829,
+        "end": 195.805
+      },
+      {
+        "text": "That's not going to work either now, is it?",
+        "start": 200.772,
+        "end": 202.534
+      },
+      {
+        "text": " Yeah, I really don't understand what you want from me.",
+        "start": 219.338,
+        "end": 221.542
+      },
+      {
+        "text": "I don't understand what you want.",
+        "start": 223.124,
+        "end": 226.63
+      },
+      {
+        "text": "I guess this one is going to be a failure also, huh?",
+        "start": 231.718,
+        "end": 234.383
+      },
+      {
+        "text": "My apologies.",
+        "start": 236.927,
+        "end": 237.668
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so we have 13 equals to 7 minus 6. Well, intuitively this should be easier. I should be able to just finagle with this, right? How? What do you mean? I don't understand what you're asking me for. Unless I do that. That should be it. No, it's not. Yes. So if I... No. What do you want from me? Is it this? Okay, I guess I'm not understanding the assignment properly. What matchstick are you wanting me to move? Maybe I should try this instead. Maybe I should try this. That's not going to work either now, is it? Yeah, I really don't understand what you want from me. I don't understand what you want. I guess this one is going to be a failure also, huh? My apologies."
+  }
+}

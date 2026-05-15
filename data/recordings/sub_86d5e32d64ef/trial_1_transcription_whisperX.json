@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_86d5e32d64ef/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I'm gonna solve this equation.I'm gonna take my time.IAV equals X1, XI minus, oh no. Okay.So this one is... I need to, this one equals to four.I'll move one matchstick to an X, Y. I'm kind of really awful at really explaining things.Like, because I need to really focus on the equation. Okay, I think I got it now so I V equal x minus v i okay this is really hard like Okay.",
+    "segments": [
+      {
+        "text": " Okay, so I'm gonna solve this equation.",
+        "start": 7.895,
+        "end": 14.003
+      },
+      {
+        "text": "I'm gonna take my time.",
+        "start": 15.444,
+        "end": 18.428
+      },
+      {
+        "text": "IAV equals X1, XI minus, oh no.",
+        "start": 18.468,
+        "end": 34.628
+      },
+      {
+        "text": " Okay.",
+        "start": 38.725,
+        "end": 40.649
+      },
+      {
+        "text": "So this one is...",
+        "start": 54.577,
+        "end": 56.802
+      },
+      {
+        "text": " I need to, this one equals to four.",
+        "start": 69.64,
+        "end": 75.236
+      },
+      {
+        "text": "I'll move one matchstick to an X, Y.",
+        "start": 78.405,
+        "end": 82.857
+      },
+      {
+        "text": " I'm kind of really awful at really explaining things.",
+        "start": 103.745,
+        "end": 107.094
+      },
+      {
+        "text": "Like, because I need to really focus on the equation.",
+        "start": 108.899,
+        "end": 114.615
+      },
+      {
+        "text": " Okay, I think I got it now so I V equal",
+        "start": 134.423,
+        "end": 162.203
+      },
+      {
+        "text": " x minus v i okay this is really hard like",
+        "start": 163.364,
+        "end": 193.27
+      },
+      {
+        "text": " Okay.",
+        "start": 209.669,
+        "end": 218.346
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I'm gonna solve this equation. I'm gonna take my time. IAV equals X1, XI minus, oh no. Okay. So this one is... I need to, this one equals to four. I'll move one matchstick to an X, Y. I'm kind of really awful at really explaining things. Like, because I need to really focus on the equation. Okay, I think I got it now so I V equal x minus v i okay this is really hard like Okay."
+  }
+}

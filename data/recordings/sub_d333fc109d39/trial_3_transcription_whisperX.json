@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_d333fc109d39/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, we're doing the next one.3 equals 11 plus 9.So what could I change?Minus 11 for 11 minus 9.So we can move the match set.It could be 12. minus 9 equals 3.Yeah, that works.So it would be 1, 2, 3 equals x i i minus i x.",
+    "segments": [
+      {
+        "text": " OK, we're doing the next one.",
+        "start": 1.685,
+        "end": 4.789
+      },
+      {
+        "text": "3 equals 11 plus 9.",
+        "start": 4.809,
+        "end": 10.978
+      },
+      {
+        "text": "So what could I change?",
+        "start": 13.942,
+        "end": 15.504
+      },
+      {
+        "text": "Minus 11 for 11 minus 9.",
+        "start": 15.564,
+        "end": 23.955
+      },
+      {
+        "text": "So we can move the match set.",
+        "start": 26.318,
+        "end": 28.682
+      },
+      {
+        "text": "It could be 12.",
+        "start": 28.702,
+        "end": 30.544
+      },
+      {
+        "text": " minus 9 equals 3.",
+        "start": 31.621,
+        "end": 34.266
+      },
+      {
+        "text": "Yeah, that works.",
+        "start": 34.286,
+        "end": 35.148
+      },
+      {
+        "text": "So it would be 1, 2, 3 equals x i i minus i x.",
+        "start": 36.19,
+        "end": 45.208
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, we're doing the next one. 3 equals 11 plus 9. So what could I change? Minus 11 for 11 minus 9. So we can move the match set. It could be 12. minus 9 equals 3. Yeah, that works. So it would be 1, 2, 3 equals x i i minus i x."
+  }
+}

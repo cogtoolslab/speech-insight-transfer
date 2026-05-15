@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_c952a2e899e0/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, Puzzle 105, you can only move one matchstick to make this equation correct.What is the final correct equation?So we have 8 equals 2 plus 4.So use the buttons below to report the correct version of the equation. So we want to do 8 equals 2 plus 6.So we can move one matchstick.So let's first put down 8.8 equals 2. plus and then we'll move this one over so instead of four it's six so we'll do v i six plus two equals eight correct let's submit the answer",
+    "segments": [
+      {
+        "text": " Okay, Puzzle 105, you can only move one matchstick to make this equation correct.",
+        "start": 4.047,
+        "end": 9.992
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 10.192,
+        "end": 12.394
+      },
+      {
+        "text": "So we have 8 equals 2 plus 4.",
+        "start": 13.696,
+        "end": 21.362
+      },
+      {
+        "text": "So use the buttons below to report the correct version of the equation.",
+        "start": 26.547,
+        "end": 33.413
+      },
+      {
+        "text": " So we want to do 8 equals 2 plus 6.",
+        "start": 35.654,
+        "end": 46.448
+      },
+      {
+        "text": "So we can move one matchstick.",
+        "start": 47.509,
+        "end": 50.413
+      },
+      {
+        "text": "So let's first put down 8.",
+        "start": 50.734,
+        "end": 53.577
+      },
+      {
+        "text": "8 equals 2.",
+        "start": 53.597,
+        "end": 65.593
+      },
+      {
+        "text": " plus and then we'll move this one over so instead of four it's six so we'll do v i six plus two equals eight correct let's submit the answer",
+        "start": 66.957,
+        "end": 83.498
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, Puzzle 105, you can only move one matchstick to make this equation correct. What is the final correct equation? So we have 8 equals 2 plus 4. So use the buttons below to report the correct version of the equation. So we want to do 8 equals 2 plus 6. So we can move one matchstick. So let's first put down 8. 8 equals 2. plus and then we'll move this one over so instead of four it's six so we'll do v i six plus two equals eight correct let's submit the answer"
+  }
+}

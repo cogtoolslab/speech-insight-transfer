@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_5b52e7e48fb7/trial_2.wav",
+  "with_timestamps": {
+    "text": " ok let's try ok now for puzzle 2 of 5 it says 3 is equal to 11 plus 9 how in the world can that be possible alright so let's try saying 13 is equal to 1 plus no that wouldn't work Okay, let's do this.I'll remove one.Am I permitted to change the signs?If I say 11 minus nine, that will be four to two.And if I say 12 minus, 12 minus 10, that will be equal to 3.So this is equal to 11 minus 9. OK, let's try saying 3 is equal to 1, 2, 3 is equal to let's move a 1, that will be 12 minus 10. OK, let's move an X to the left hand side.So that is 10.But I'm supposed to only move a matchstick, actually.So what I'm going to do is this.Let's try saying 1, 2, 3, 4 is equal to x 1 minus x. All right, let's try saying 1, 2 is equal to. is equal to x 1 minus 1 x really at this point I've run out of thoughts and answers 3 is equal to 11 plus 9 which in real life would be 20 which is not true ok so let me try adding another 1 to the other to the right side 1 2 plus 2 is equal to x 1 plus no i meant to say minus minus 1 1 x another incorrect answer at this point",
+    "segments": [
+      {
+        "text": " ok let's try ok now for puzzle 2 of 5 it says 3 is equal to 11 plus 9 how in the world can that be possible alright so let's try saying 13 is equal to 1 plus no that wouldn't work",
+        "start": 0.031,
+        "end": 27.22
+      },
+      {
+        "text": " Okay, let's do this.",
+        "start": 30.001,
+        "end": 31.062
+      },
+      {
+        "text": "I'll remove one.",
+        "start": 33.645,
+        "end": 34.786
+      },
+      {
+        "text": "Am I permitted to change the signs?",
+        "start": 36.648,
+        "end": 44.337
+      },
+      {
+        "text": "If I say 11 minus nine, that will be four to two.",
+        "start": 47.621,
+        "end": 54.128
+      },
+      {
+        "text": "And if I say 12 minus,",
+        "start": 57.212,
+        "end": 59.434
+      },
+      {
+        "text": " 12 minus 10, that will be equal to 3.",
+        "start": 61.861,
+        "end": 65.767
+      },
+      {
+        "text": "So this is equal to 11 minus 9.",
+        "start": 73.838,
+        "end": 88.78
+      },
+      {
+        "text": " OK, let's try saying 3 is equal to 1, 2, 3 is equal to let's move a 1, that will be 12 minus 10.",
+        "start": 93.569,
+        "end": 119.273
+      },
+      {
+        "text": " OK, let's move an X to the left hand side.",
+        "start": 125.311,
+        "end": 132.982
+      },
+      {
+        "text": "So that is 10.",
+        "start": 136.147,
+        "end": 137.609
+      },
+      {
+        "text": "But I'm supposed to only move a matchstick, actually.",
+        "start": 138.57,
+        "end": 141.454
+      },
+      {
+        "text": "So what I'm going to do is this.",
+        "start": 143.317,
+        "end": 144.899
+      },
+      {
+        "text": "Let's try saying 1, 2, 3, 4 is equal to",
+        "start": 144.999,
+        "end": 150.407
+      },
+      {
+        "text": " x 1 minus x. All right, let's try saying 1, 2 is equal to.",
+        "start": 155.062,
+        "end": 177.778
+      },
+      {
+        "text": " is equal to x 1 minus 1 x really at this point I've run out of thoughts and answers 3 is equal to 11 plus 9 which in real life would be 20 which is not true",
+        "start": 184.407,
+        "end": 209.453
+      },
+      {
+        "text": " ok so let me try adding another 1 to the other to the right side 1 2 plus 2 is equal to x 1 plus no i meant to say minus minus 1 1 x another incorrect answer at this point",
+        "start": 211.913,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " ok let's try ok now for puzzle 2 of 5 it says 3 is equal to 11 plus 9 how in the world can that be possible alright so let's try saying 13 is equal to 1 plus no that wouldn't work Okay, let's do this. I'll remove one. Am I permitted to change the signs? If I say 11 minus nine, that will be four to two. And if I say 12 minus, 12 minus 10, that will be equal to 3. So this is equal to 11 minus 9. OK, let's try saying 3 is equal to 1, 2, 3 is equal to let's move a 1, that will be 12 minus 10. OK, let's move an X to the left hand side. So that is 10. But I'm supposed to only move a matchstick, actually. So what I'm going to do is this. Let's try saying 1, 2, 3, 4 is equal to x 1 minus x. All right, let's try saying 1, 2 is equal to. is equal to x 1 minus 1 x really at this point I've run out of thoughts and answers 3 is equal to 11 plus 9 which in real life would be 20 which is not true ok so let me try adding another 1 to the other to the right side 1 2 plus 2 is equal to x 1 plus no i meant to say minus minus 1 1 x another incorrect answer at this point"
+  }
+}

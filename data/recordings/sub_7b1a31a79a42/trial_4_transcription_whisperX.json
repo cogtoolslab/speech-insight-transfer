@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_7b1a31a79a42/trial_4.wav",
+  "with_timestamps": {
+    "text": " five six v i is equals to v i plus one what do i need to do by moving one matchstick to make the equation correct. I didn't think it was going to be this hard 4 no that's 6 is equal to 6 plus 1 6 5 plus 1 is 6 12, 13 I don't know.6 is equal to 7 minus 1.Is that it?6 is equal to",
+    "segments": [
+      {
+        "text": " five six v i is equals to v i plus one what do i need to do",
+        "start": 4.486,
+        "end": 24.756
+      },
+      {
+        "text": " by moving one matchstick to make the equation correct.",
+        "start": 33.781,
+        "end": 47.368
+      },
+      {
+        "text": " I didn't think it was going to be this hard 4 no that's 6 is equal to 6 plus 1 6 5 plus 1 is 6 12, 13",
+        "start": 83.056,
+        "end": 108.692
+      },
+      {
+        "text": " I don't know.",
+        "start": 122.712,
+        "end": 123.553
+      },
+      {
+        "text": "6 is equal to 7 minus 1.",
+        "start": 131.622,
+        "end": 135.666
+      },
+      {
+        "text": "Is that it?",
+        "start": 142.113,
+        "end": 142.794
+      },
+      {
+        "text": "6 is equal to",
+        "start": 145.177,
+        "end": 152.044
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " five six v i is equals to v i plus one what do i need to do by moving one matchstick to make the equation correct. I didn't think it was going to be this hard 4 no that's 6 is equal to 6 plus 1 6 5 plus 1 is 6 12, 13 I don't know. 6 is equal to 7 minus 1. Is that it? 6 is equal to"
+  }
+}

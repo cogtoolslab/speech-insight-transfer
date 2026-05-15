@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_8b6bc95cabb0/trial_2.wav",
+  "with_timestamps": {
+    "text": " So that's 11 equals 4.No.Yes.4 plus 2.11 equals 4 plus 2.9. So if I make this V into an X, it'll be 11 equals 9 plus 2, and that's right.So I'm going to move X, I equals I. Oops, I, and this V, if we move that V and form an X, 9 plus 2.",
+    "segments": [
+      {
+        "text": " So that's 11 equals 4.",
+        "start": 0.503,
+        "end": 5.668
+      },
+      {
+        "text": "No.",
+        "start": 6.509,
+        "end": 6.729
+      },
+      {
+        "text": "Yes.",
+        "start": 8.571,
+        "end": 8.891
+      },
+      {
+        "text": "4 plus 2.",
+        "start": 8.911,
+        "end": 10.893
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 20.623,
+        "end": 22.765
+      },
+      {
+        "text": "9.",
+        "start": 22.785,
+        "end": 25.768
+      },
+      {
+        "text": " So if I make this V into an X, it'll be 11 equals 9 plus 2, and that's right.",
+        "start": 27.115,
+        "end": 34.706
+      },
+      {
+        "text": "So I'm going to move X, I equals I. Oops, I, and this V, if we move that V and form an X,",
+        "start": 36.469,
+        "end": 51.891
+      },
+      {
+        "text": " 9 plus 2.",
+        "start": 57.912,
+        "end": 60.75
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So that's 11 equals 4. No. Yes. 4 plus 2. 11 equals 4 plus 2. 9. So if I make this V into an X, it'll be 11 equals 9 plus 2, and that's right. So I'm going to move X, I equals I. Oops, I, and this V, if we move that V and form an X, 9 plus 2."
+  }
+}

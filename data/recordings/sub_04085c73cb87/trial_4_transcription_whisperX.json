@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_04085c73cb87/trial_4.wav",
+  "with_timestamps": {
+    "text": " I can only move one match to make this equation correct.All right, here we have 9 plus 9 equals 9.9 plus 9 equals 9.9. 10.So the answer has to be 9.9, 9, 9.So 9.9 minus 9 is 0.18. How do you write 18?I'm stuck again.I don't know why.We have nine.This is nine.Nine equals nine plus nine.What happens if we do move this? 18, so I'll move this one here.What?20 minus 9 equals 8.Ix equals 20 minus 9.Incorrect.We have 9 plus 9 equals 20.1x plus It's IX, technically.Should be IX.IX, let's see.So 9 plus 9 should equal 18, which is a X. B. No, it only says 15.It can only go up to 15. So then, for sure it's not gonna be 18 or anything like that.Let's see, so right now it's nine.Nine plus zero, it has to be nine plus zero.Or... Or what? do 11 9 plus what is 11 9 plus 2 maybe so we do 11 equals 9 plus 2",
+    "segments": [
+      {
+        "text": " I can only move one match to make this equation correct.",
+        "start": 1.212,
+        "end": 6.359
+      },
+      {
+        "text": "All right, here we have 9 plus 9 equals 9.",
+        "start": 6.379,
+        "end": 14.709
+      },
+      {
+        "text": "9 plus 9 equals 9.",
+        "start": 14.729,
+        "end": 18.875
+      },
+      {
+        "text": "9.",
+        "start": 18.895,
+        "end": 24.722
+      },
+      {
+        "text": " 10.",
+        "start": 31.486,
+        "end": 32.247
+      },
+      {
+        "text": "So the answer has to be 9.",
+        "start": 37.072,
+        "end": 38.454
+      },
+      {
+        "text": "9, 9, 9.",
+        "start": 38.474,
+        "end": 40.136
+      },
+      {
+        "text": "So 9.",
+        "start": 43.039,
+        "end": 48.906
+      },
+      {
+        "text": "9 minus 9 is 0.",
+        "start": 50.247,
+        "end": 56.695
+      },
+      {
+        "text": "18.",
+        "start": 56.715,
+        "end": 56.835
+      },
+      {
+        "text": " How do you write 18?",
+        "start": 60.798,
+        "end": 70.374
+      },
+      {
+        "text": "I'm stuck again.",
+        "start": 70.394,
+        "end": 71.336
+      },
+      {
+        "text": "I don't know why.",
+        "start": 72.598,
+        "end": 73.499
+      },
+      {
+        "text": "We have nine.",
+        "start": 75.342,
+        "end": 75.923
+      },
+      {
+        "text": "This is nine.",
+        "start": 76.204,
+        "end": 76.825
+      },
+      {
+        "text": "Nine equals nine plus nine.",
+        "start": 77.546,
+        "end": 84.017
+      },
+      {
+        "text": "What happens if we do move this?",
+        "start": 84.037,
+        "end": 87.042
+      },
+      {
+        "text": " 18, so I'll move this one here.",
+        "start": 92.675,
+        "end": 95.699
+      },
+      {
+        "text": "What?",
+        "start": 97.863,
+        "end": 98.183
+      },
+      {
+        "text": "20 minus 9 equals 8.",
+        "start": 101.148,
+        "end": 117.952
+      },
+      {
+        "text": "Ix equals 20 minus",
+        "start": 117.972,
+        "end": 121.838
+      },
+      {
+        "text": " 9.",
+        "start": 125.682,
+        "end": 126.202
+      },
+      {
+        "text": "Incorrect.",
+        "start": 129.646,
+        "end": 130.126
+      },
+      {
+        "text": "We have 9 plus 9 equals 20.",
+        "start": 132.408,
+        "end": 146.421
+      },
+      {
+        "text": "1x plus",
+        "start": 152.987,
+        "end": 154.508
+      },
+      {
+        "text": " It's IX, technically.",
+        "start": 157.306,
+        "end": 159.449
+      },
+      {
+        "text": "Should be IX.",
+        "start": 159.469,
+        "end": 160.391
+      },
+      {
+        "text": "IX, let's see.",
+        "start": 162.674,
+        "end": 164.457
+      },
+      {
+        "text": "So 9 plus 9 should equal 18, which is a X. B. No, it only says 15.",
+        "start": 165.118,
+        "end": 180.54
+      },
+      {
+        "text": "It can only go up to 15.",
+        "start": 182.223,
+        "end": 183.685
+      },
+      {
+        "text": " So then, for sure it's not gonna be 18 or anything like that.",
+        "start": 186.027,
+        "end": 190.672
+      },
+      {
+        "text": "Let's see, so right now it's nine.",
+        "start": 196.237,
+        "end": 198.019
+      },
+      {
+        "text": "Nine plus zero, it has to be nine plus zero.",
+        "start": 201.763,
+        "end": 205.607
+      },
+      {
+        "text": "Or... Or what?",
+        "start": 206.528,
+        "end": 213.975
+      },
+      {
+        "text": " do 11 9 plus what is 11 9 plus 2 maybe so we do 11 equals 9 plus 2",
+        "start": 216.655,
+        "end": 237.904
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I can only move one match to make this equation correct. All right, here we have 9 plus 9 equals 9. 9 plus 9 equals 9. 9. 10. So the answer has to be 9. 9, 9, 9. So 9. 9 minus 9 is 0. 18. How do you write 18? I'm stuck again. I don't know why. We have nine. This is nine. Nine equals nine plus nine. What happens if we do move this? 18, so I'll move this one here. What? 20 minus 9 equals 8. Ix equals 20 minus 9. Incorrect. We have 9 plus 9 equals 20. 1x plus It's IX, technically. Should be IX. IX, let's see. So 9 plus 9 should equal 18, which is a X. B. No, it only says 15. It can only go up to 15. So then, for sure it's not gonna be 18 or anything like that. Let's see, so right now it's nine. Nine plus zero, it has to be nine plus zero. Or... Or what? do 11 9 plus what is 11 9 plus 2 maybe so we do 11 equals 9 plus 2"
+  }
+}

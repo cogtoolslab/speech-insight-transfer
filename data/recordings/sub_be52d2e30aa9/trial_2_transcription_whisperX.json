@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, that one didn't go too, too bad.I assume these will get harder though.Sorry for clearing my voice there.Four equals four.It's gonna be the same thing.So like, can I just do the same thing?So four equals four",
+    "segments": [
+      {
+        "text": " All right, that one didn't go too, too bad.",
+        "start": 1.87,
+        "end": 3.714
+      },
+      {
+        "text": "I assume these will get harder though.",
+        "start": 4.074,
+        "end": 7.12
+      },
+      {
+        "text": "Sorry for clearing my voice there.",
+        "start": 7.361,
+        "end": 11.81
+      },
+      {
+        "text": "Four equals four.",
+        "start": 11.83,
+        "end": 14.675
+      },
+      {
+        "text": "It's gonna be the same thing.",
+        "start": 15.337,
+        "end": 16.719
+      },
+      {
+        "text": "So like, can I just do the same thing?",
+        "start": 21.088,
+        "end": 23.753
+      },
+      {
+        "text": "So four equals four",
+        "start": 23.813,
+        "end": 31.168
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, that one didn't go too, too bad. I assume these will get harder though. Sorry for clearing my voice there. Four equals four. It's gonna be the same thing. So like, can I just do the same thing? So four equals four"
+  }
+}

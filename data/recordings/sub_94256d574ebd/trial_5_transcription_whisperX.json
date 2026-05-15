@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_94256d574ebd/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, okay, okay, okay next problem next question.Thanks problem 3 equals 11 plus Is it 9 11 plus 9 11 plus 9 3 nope a rate oh I think I got it.I think I'm cooking it cooking it.I'm cooking it equals Let me try to let me try to I think I got it",
+    "segments": [
+      {
+        "text": " Okay, okay, okay, okay next problem next question.",
+        "start": 1.01,
+        "end": 4.135
+      },
+      {
+        "text": "Thanks problem 3 equals 11 plus Is it 9 11 plus 9 11 plus 9 3 nope a rate oh",
+        "start": 4.596,
+        "end": 20.082
+      },
+      {
+        "text": " I think I got it.",
+        "start": 29.056,
+        "end": 30.481
+      },
+      {
+        "text": "I think I'm cooking it cooking it.",
+        "start": 30.742,
+        "end": 33.151
+      },
+      {
+        "text": "I'm cooking it equals Let me try to let me try to I think I got it",
+        "start": 34.656,
+        "end": 49.107
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, okay, okay, okay next problem next question. Thanks problem 3 equals 11 plus Is it 9 11 plus 9 11 plus 9 3 nope a rate oh I think I got it. I think I'm cooking it cooking it. I'm cooking it equals Let me try to let me try to I think I got it"
+  }
+}

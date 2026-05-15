@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_3d93746f80a6/trial_4.wav",
+  "with_timestamps": {
+    "text": " 3i equals ib.3i, 6, equals 4 minus 2, 6.3i equals ib. Six. All right, VI, VI, VI, VI equals VI equals IVA6 equals 4.VI equals VI.VI equals IVA6. 6 equals 4.5 equals 5b plus 6. VI.VI equals 6 equals 4.6 minus 1.1 equals 6.What? 3, 5, 3, 4, minus 2, 4, 2 plus, 4, minus, 1. VI 6 equals IV 4 plus 2.VI 6 equals 6 minus 1.VI 6.IV is 4. two, three, four, five, six, seven, eight, nine, ten,",
+    "segments": [
+      {
+        "text": " 3i equals ib.",
+        "start": 1.28,
+        "end": 3.503
+      },
+      {
+        "text": "3i, 6, equals 4 minus 2, 6.",
+        "start": 3.523,
+        "end": 18.921
+      },
+      {
+        "text": "3i equals ib.",
+        "start": 18.941,
+        "end": 28.553
+      },
+      {
+        "text": " Six.",
+        "start": 31.604,
+        "end": 58.405
+      },
+      {
+        "text": " All right, VI, VI, VI, VI equals VI equals IVA6 equals 4.",
+        "start": 59.448,
+        "end": 71.963
+      },
+      {
+        "text": "VI equals VI.",
+        "start": 76.488,
+        "end": 81.674
+      },
+      {
+        "text": "VI equals IVA6.",
+        "start": 85.959,
+        "end": 87.261
+      },
+      {
+        "text": " 6 equals 4.",
+        "start": 91.578,
+        "end": 95.251
+      },
+      {
+        "text": "5 equals 5b plus 6.",
+        "start": 95.271,
+        "end": 103.461
+      },
+      {
+        "text": " VI.",
+        "start": 123.05,
+        "end": 128.356
+      },
+      {
+        "text": "VI equals 6 equals 4.",
+        "start": 130.258,
+        "end": 140.609
+      },
+      {
+        "text": "6 minus 1.",
+        "start": 140.629,
+        "end": 145.895
+      },
+      {
+        "text": "1 equals 6.",
+        "start": 148.057,
+        "end": 152.142
+      },
+      {
+        "text": "What?",
+        "start": 152.162,
+        "end": 152.382
+      },
+      {
+        "text": " 3, 5, 3, 4, minus 2, 4, 2 plus, 4, minus, 1.",
+        "start": 153.374,
+        "end": 173.408
+      },
+      {
+        "text": " VI 6 equals IV 4 plus 2.",
+        "start": 180.543,
+        "end": 190.817
+      },
+      {
+        "text": "VI 6 equals 6 minus 1.",
+        "start": 192.379,
+        "end": 204.375
+      },
+      {
+        "text": "VI 6.",
+        "start": 204.395,
+        "end": 206.197
+      },
+      {
+        "text": "IV is 4.",
+        "start": 207.419,
+        "end": 208.12
+      },
+      {
+        "text": " two, three, four, five, six, seven, eight, nine, ten,",
+        "start": 210.85,
+        "end": 235.508
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3i equals ib. 3i, 6, equals 4 minus 2, 6. 3i equals ib. Six. All right, VI, VI, VI, VI equals VI equals IVA6 equals 4. VI equals VI. VI equals IVA6. 6 equals 4. 5 equals 5b plus 6. VI. VI equals 6 equals 4. 6 minus 1. 1 equals 6. What? 3, 5, 3, 4, minus 2, 4, 2 plus, 4, minus, 1. VI 6 equals IV 4 plus 2. VI 6 equals 6 minus 1. VI 6. IV is 4. two, three, four, five, six, seven, eight, nine, ten,"
+  }
+}

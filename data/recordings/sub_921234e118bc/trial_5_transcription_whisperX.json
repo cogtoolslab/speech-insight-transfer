@@ -1,0 +1,191 @@
+{
+  "file": "data/recordings/sub_921234e118bc/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, let's try this one.X equal V11 minus 111.Okay, this is three.V would be five, six, seven.X would be 10.So how can I?All right, let's do this.Let's go V111 minus one, two, three. No, let's not do minus.Let's plus one, two, three equals X. Okay, let's do, I'm so confused as to why I'm not getting this right.Okay, so X is gonna be 10, V111 is gonna be seven, and the three little marks are gonna be three, right? So they only move one to get 10.The only one I would remove is x equals b11 plus 111.I'm saying that's not right.Okay, how is this supposed to be 10 equals seven minus three?So if seven minus, if I took one, let's see, five plus one would be six. Minus three and that can't be alright.So what if I did?What if I did Five six seven B one one seven minus One five anything minus though is not gonna work.So what if I went Seven minus X 1.That doesn't look like it's going to work either, but let me just try it.X equals B 1 1 minus X 1.No, it's going to be minus 1 X. 1, 1, X. Ugh, it's still not coming out right.This does not seem like it's solvable.Okay, so X, I know that X is 10.I know that V1, 1 is 7, and minus 3.If I just add a plus sign instead of, instead of that minus sign, that would be 10.But they're saying that one doesn't work.So maybe if I did What if I did x 1x equals, let's see, 1x equals v11 minus 1, 2, 3.Okay, that's not gonna work.Let's do 11.How about we do x equals v12 minus oops x equals v1 minus one two three huh okay uh so this is kind of like okay so i'm not getting okay x equals how would i i know what these numbers are i just don't understand why",
+    "segments": [
+      {
+        "text": " All right, let's try this one.",
+        "start": 0.858,
+        "end": 1.999
+      },
+      {
+        "text": "X equal V11 minus 111.",
+        "start": 3.181,
+        "end": 6.424
+      },
+      {
+        "text": "Okay, this is three.",
+        "start": 6.885,
+        "end": 8.407
+      },
+      {
+        "text": "V would be five, six, seven.",
+        "start": 9.187,
+        "end": 11.03
+      },
+      {
+        "text": "X would be 10.",
+        "start": 12.311,
+        "end": 14.133
+      },
+      {
+        "text": "So how can I?",
+        "start": 15.755,
+        "end": 16.736
+      },
+      {
+        "text": "All right, let's do this.",
+        "start": 18.798,
+        "end": 19.719
+      },
+      {
+        "text": "Let's go V111 minus one, two, three.",
+        "start": 20.42,
+        "end": 28.249
+      },
+      {
+        "text": " No, let's not do minus.",
+        "start": 31.402,
+        "end": 32.884
+      },
+      {
+        "text": "Let's plus one, two, three equals X. Okay, let's do, I'm so confused as to why I'm not getting this right.",
+        "start": 34.186,
+        "end": 48.164
+      },
+      {
+        "text": "Okay, so X is gonna be 10, V111 is gonna be seven, and the three little marks are gonna be three, right?",
+        "start": 48.725,
+        "end": 60.48
+      },
+      {
+        "text": " So they only move one to get 10.",
+        "start": 61.068,
+        "end": 63.431
+      },
+      {
+        "text": "The only one I would remove is x equals b11 plus 111.",
+        "start": 64.873,
+        "end": 75.146
+      },
+      {
+        "text": "I'm saying that's not right.",
+        "start": 75.466,
+        "end": 79.511
+      },
+      {
+        "text": "Okay, how is this supposed to be 10 equals seven minus three?",
+        "start": 79.531,
+        "end": 83.837
+      },
+      {
+        "text": "So if seven minus, if I took one, let's see, five plus one would be six.",
+        "start": 84.257,
+        "end": 88.763
+      },
+      {
+        "text": " Minus three and that can't be alright.",
+        "start": 91.78,
+        "end": 95.745
+      },
+      {
+        "text": "So what if I did?",
+        "start": 95.785,
+        "end": 96.706
+      },
+      {
+        "text": "What if I did Five six seven B one one seven minus One five anything minus though is not gonna work.",
+        "start": 98.868,
+        "end": 113.806
+      },
+      {
+        "text": "So what if I went Seven",
+        "start": 113.866,
+        "end": 121.095
+      },
+      {
+        "text": " minus X 1.",
+        "start": 122.813,
+        "end": 126.278
+      },
+      {
+        "text": "That doesn't look like it's going to work either, but let me just try it.",
+        "start": 128.262,
+        "end": 132.188
+      },
+      {
+        "text": "X equals B 1 1 minus X 1.",
+        "start": 132.208,
+        "end": 143.786
+      },
+      {
+        "text": "No, it's going to be minus 1 X.",
+        "start": 146.29,
+        "end": 148.213
+      },
+      {
+        "text": " 1, 1, X. Ugh, it's still not coming out right.",
+        "start": 152.682,
+        "end": 158.85
+      },
+      {
+        "text": "This does not seem like it's solvable.",
+        "start": 158.95,
+        "end": 160.952
+      },
+      {
+        "text": "Okay, so X, I know that X is 10.",
+        "start": 161.793,
+        "end": 164.296
+      },
+      {
+        "text": "I know that V1, 1 is 7, and minus 3.",
+        "start": 165.518,
+        "end": 168.982
+      },
+      {
+        "text": "If I just add a plus sign instead of, instead of that minus sign, that would be 10.",
+        "start": 170.404,
+        "end": 175.671
+      },
+      {
+        "text": "But they're saying that one doesn't work.",
+        "start": 176.371,
+        "end": 178.094
+      },
+      {
+        "text": "So maybe if I did",
+        "start": 178.874,
+        "end": 180.917
+      },
+      {
+        "text": " What if I did x 1x equals, let's see, 1x equals v11 minus 1, 2, 3.",
+        "start": 181.91,
+        "end": 198.253
+      },
+      {
+        "text": "Okay, that's not gonna work.",
+        "start": 201.357,
+        "end": 202.358
+      },
+      {
+        "text": "Let's do 11.",
+        "start": 203.4,
+        "end": 204.802
+      },
+      {
+        "text": "How about we do x equals v12",
+        "start": 205.302,
+        "end": 210.87
+      },
+      {
+        "text": " minus oops x equals v1 minus one two three huh okay uh so this is kind of like okay so i'm not getting okay x equals how would i i know what these numbers are i just don't understand why",
+        "start": 211.373,
+        "end": 239.322
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's try this one. X equal V11 minus 111. Okay, this is three. V would be five, six, seven. X would be 10. So how can I? All right, let's do this. Let's go V111 minus one, two, three. No, let's not do minus. Let's plus one, two, three equals X. Okay, let's do, I'm so confused as to why I'm not getting this right. Okay, so X is gonna be 10, V111 is gonna be seven, and the three little marks are gonna be three, right? So they only move one to get 10. The only one I would remove is x equals b11 plus 111. I'm saying that's not right. Okay, how is this supposed to be 10 equals seven minus three? So if seven minus, if I took one, let's see, five plus one would be six. Minus three and that can't be alright. So what if I did? What if I did Five six seven B one one seven minus One five anything minus though is not gonna work. So what if I went Seven minus X 1. That doesn't look like it's going to work either, but let me just try it. X equals B 1 1 minus X 1. No, it's going to be minus 1 X. 1, 1, X. Ugh, it's still not coming out right. This does not seem like it's solvable. Okay, so X, I know that X is 10. I know that V1, 1 is 7, and minus 3. If I just add a plus sign instead of, instead of that minus sign, that would be 10. But they're saying that one doesn't work. So maybe if I did What if I did x 1x equals, let's see, 1x equals v11 minus 1, 2, 3. Okay, that's not gonna work. Let's do 11. How about we do x equals v12 minus oops x equals v1 minus one two three huh okay uh so this is kind of like okay so i'm not getting okay x equals how would i i know what these numbers are i just don't understand why"
+  }
+}

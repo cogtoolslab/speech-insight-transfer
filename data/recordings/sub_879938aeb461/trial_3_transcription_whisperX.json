@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_879938aeb461/trial_3.wav",
+  "with_timestamps": {
+    "text": " For this one, it states 2 equals 9 minus 2.And that obviously can't be right because 7 does not equal 2.So what can we change by moving one match state? So I'm thinking that we can move one of the angled matchsticks over and change it into a 4 minus 2 equals 2. Let's see if that works.That's what I'm thinking is the solution.So this, because we move over to the matchstick, it changes it from an X to a 5 or V. And so 4 minus 2.",
+    "segments": [
+      {
+        "text": " For this one, it states 2 equals 9 minus 2.",
+        "start": 1.448,
+        "end": 5.774
+      },
+      {
+        "text": "And that obviously can't be right because 7 does not equal 2.",
+        "start": 8.017,
+        "end": 18.471
+      },
+      {
+        "text": "So what can we change by moving one match state?",
+        "start": 23.658,
+        "end": 30.628
+      },
+      {
+        "text": " So I'm thinking that we can move one of the angled matchsticks over and change it into a 4 minus 2 equals 2.",
+        "start": 31.739,
+        "end": 50.288
+      },
+      {
+        "text": " Let's see if that works.",
+        "start": 51.095,
+        "end": 51.857
+      },
+      {
+        "text": "That's what I'm thinking is the solution.",
+        "start": 53.14,
+        "end": 54.985
+      },
+      {
+        "text": "So this, because we move over to the matchstick, it changes it from an X to a 5 or V. And so 4 minus 2.",
+        "start": 55.486,
+        "end": 68.057
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " For this one, it states 2 equals 9 minus 2. And that obviously can't be right because 7 does not equal 2. So what can we change by moving one match state? So I'm thinking that we can move one of the angled matchsticks over and change it into a 4 minus 2 equals 2. Let's see if that works. That's what I'm thinking is the solution. So this, because we move over to the matchstick, it changes it from an X to a 5 or V. And so 4 minus 2."
+  }
+}

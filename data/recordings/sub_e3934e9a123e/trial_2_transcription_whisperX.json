@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_e3934e9a123e/trial_2.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 2 equals 11 minus 7.It should be 2 equals 9 minus 7.So we'll turn xi into if.",
+    "segments": [
+      {
+        "text": " In this equation, we have 2 equals 11 minus 7.",
+        "start": 1.162,
+        "end": 6.396
+      },
+      {
+        "text": "It should be 2 equals 9 minus 7.",
+        "start": 7.258,
+        "end": 9.825
+      },
+      {
+        "text": "So we'll turn xi into if.",
+        "start": 9.885,
+        "end": 11.61
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 2 equals 11 minus 7. It should be 2 equals 9 minus 7. So we'll turn xi into if."
+  }
+}

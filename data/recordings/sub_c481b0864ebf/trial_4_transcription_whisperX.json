@@ -1,0 +1,291 @@
+{
+  "file": "data/recordings/sub_c481b0864ebf/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, well that was nice to get one right.So four.Five.Six.Minus two.So six. Six, six, six.Four.Four, four, four.Can I make it a plus?What about this, this, this equals four plus two. Is that going to work?Nope.I mean, it would work, but it doesn't work.Because I'd have to move one, right?I can't just add one magically.Although I wish I could.Just add one magically.Wouldn't that work?So 4 minus 2 is 2.And this is 6.So that doesn't work. That's not going to be bigger.What if I do, no, four?I don't know.Let's see.So six.Oh, which, if I make that a plus, no, that won't work because it's one, at which it would need to be two. Again, I'm feeling very inadequate here.Um... Four plus instead of minus, but it won't let me minus.And I need this.Well, that would be one instead of two.Well... Oh! So maybe, let's see here, equals this minus, no, no, that doesn't work.Nevermind, I thought I had it.I thought I had it, I don't have it.It escapes me.No. Um, minus one.No, none of the things I'm coming up with work.What am I going to get?Um, let's see.Minus, plus, um, five, minus, no, seven, minus one.No, wait, I might have had it.I might have had it.If it's... No, no, no, no.Minus 1.Does that work?Nope.I'm not going to get this.Minus 1.No, it's not going to work.Aye, aye, aye.Nope.Nope-a-dee-nope, nope, nope.",
+    "segments": [
+      {
+        "text": " Okay, well that was nice to get one right.",
+        "start": 1.87,
+        "end": 4.894
+      },
+      {
+        "text": "So four.",
+        "start": 8.359,
+        "end": 9.321
+      },
+      {
+        "text": "Five.",
+        "start": 9.381,
+        "end": 13.627
+      },
+      {
+        "text": "Six.",
+        "start": 13.687,
+        "end": 16.451
+      },
+      {
+        "text": "Minus two.",
+        "start": 21.478,
+        "end": 22.5
+      },
+      {
+        "text": "So six.",
+        "start": 22.52,
+        "end": 26.325
+      },
+      {
+        "text": " Six, six, six.",
+        "start": 31.604,
+        "end": 33.186
+      },
+      {
+        "text": "Four.",
+        "start": 38.912,
+        "end": 39.333
+      },
+      {
+        "text": "Four, four, four.",
+        "start": 42.076,
+        "end": 43.657
+      },
+      {
+        "text": "Can I make it a plus?",
+        "start": 47.322,
+        "end": 48.563
+      },
+      {
+        "text": "What about this, this, this equals four plus two.",
+        "start": 50.745,
+        "end": 61.257
+      },
+      {
+        "text": " Is that going to work?",
+        "start": 62.384,
+        "end": 63.345
+      },
+      {
+        "text": "Nope.",
+        "start": 64.287,
+        "end": 65.168
+      },
+      {
+        "text": "I mean, it would work, but it doesn't work.",
+        "start": 66.25,
+        "end": 69.895
+      },
+      {
+        "text": "Because I'd have to move one, right?",
+        "start": 69.915,
+        "end": 72.118
+      },
+      {
+        "text": "I can't just add one magically.",
+        "start": 72.399,
+        "end": 77.326
+      },
+      {
+        "text": "Although I wish I could.",
+        "start": 77.346,
+        "end": 78.568
+      },
+      {
+        "text": "Just add one magically.",
+        "start": 78.648,
+        "end": 80.731
+      },
+      {
+        "text": "Wouldn't that work?",
+        "start": 80.771,
+        "end": 81.492
+      },
+      {
+        "text": "So 4 minus 2 is 2.",
+        "start": 83.335,
+        "end": 86.039
+      },
+      {
+        "text": "And this is 6.",
+        "start": 86.119,
+        "end": 87.902
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 88.142,
+        "end": 90.906
+      },
+      {
+        "text": " That's not going to be bigger.",
+        "start": 92.371,
+        "end": 93.873
+      },
+      {
+        "text": "What if I do, no, four?",
+        "start": 94.033,
+        "end": 96.996
+      },
+      {
+        "text": "I don't know.",
+        "start": 97.016,
+        "end": 99.859
+      },
+      {
+        "text": "Let's see.",
+        "start": 99.899,
+        "end": 100.66
+      },
+      {
+        "text": "So six.",
+        "start": 102.122,
+        "end": 103.243
+      },
+      {
+        "text": "Oh, which, if I make that a plus, no, that won't work because it's one, at which it would need to be two.",
+        "start": 106.407,
+        "end": 119.982
+      },
+      {
+        "text": " Again, I'm feeling very inadequate here.",
+        "start": 122.813,
+        "end": 127.198
+      },
+      {
+        "text": "Um... Four plus instead of minus, but it won't let me minus.",
+        "start": 127.238,
+        "end": 137.129
+      },
+      {
+        "text": "And I need this.",
+        "start": 137.189,
+        "end": 139.672
+      },
+      {
+        "text": "Well, that would be one instead of two.",
+        "start": 141.855,
+        "end": 146.6
+      },
+      {
+        "text": "Well... Oh!",
+        "start": 149.904,
+        "end": 152.567
+      },
+      {
+        "text": " So maybe, let's see here, equals this minus, no, no, that doesn't work.",
+        "start": 153.087,
+        "end": 170.985
+      },
+      {
+        "text": "Nevermind, I thought I had it.",
+        "start": 171.065,
+        "end": 172.687
+      },
+      {
+        "text": "I thought I had it, I don't have it.",
+        "start": 174.169,
+        "end": 175.991
+      },
+      {
+        "text": "It escapes me.",
+        "start": 177.892,
+        "end": 178.873
+      },
+      {
+        "text": "No.",
+        "start": 178.914,
+        "end": 181.356
+      },
+      {
+        "text": " Um, minus one.",
+        "start": 183.226,
+        "end": 185.189
+      },
+      {
+        "text": "No, none of the things I'm coming up with work.",
+        "start": 186.25,
+        "end": 189.335
+      },
+      {
+        "text": "What am I going to get?",
+        "start": 190.537,
+        "end": 191.298
+      },
+      {
+        "text": "Um, let's see.",
+        "start": 192.279,
+        "end": 193.321
+      },
+      {
+        "text": "Minus, plus, um, five, minus, no, seven, minus one.",
+        "start": 195.704,
+        "end": 205.979
+      },
+      {
+        "text": "No, wait, I might have had it.",
+        "start": 206.039,
+        "end": 207.361
+      },
+      {
+        "text": "I might have had it.",
+        "start": 207.401,
+        "end": 209.704
+      },
+      {
+        "text": "If it's...",
+        "start": 210.926,
+        "end": 211.647
+      },
+      {
+        "text": " No, no, no, no.",
+        "start": 214.31,
+        "end": 216.734
+      },
+      {
+        "text": "Minus 1.",
+        "start": 222.563,
+        "end": 223.445
+      },
+      {
+        "text": "Does that work?",
+        "start": 223.705,
+        "end": 224.426
+      },
+      {
+        "text": "Nope.",
+        "start": 225.648,
+        "end": 225.929
+      },
+      {
+        "text": "I'm not going to get this.",
+        "start": 226.229,
+        "end": 227.291
+      },
+      {
+        "text": "Minus 1.",
+        "start": 228.613,
+        "end": 229.375
+      },
+      {
+        "text": "No, it's not going to work.",
+        "start": 229.495,
+        "end": 230.937
+      },
+      {
+        "text": "Aye, aye, aye.",
+        "start": 232.7,
+        "end": 233.641
+      },
+      {
+        "text": "Nope.",
+        "start": 235.104,
+        "end": 236.045
+      },
+      {
+        "text": "Nope-a-dee-nope, nope, nope.",
+        "start": 236.065,
+        "end": 237.668
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, well that was nice to get one right. So four. Five. Six. Minus two. So six. Six, six, six. Four. Four, four, four. Can I make it a plus? What about this, this, this equals four plus two. Is that going to work? Nope. I mean, it would work, but it doesn't work. Because I'd have to move one, right? I can't just add one magically. Although I wish I could. Just add one magically. Wouldn't that work? So 4 minus 2 is 2. And this is 6. So that doesn't work. That's not going to be bigger. What if I do, no, four? I don't know. Let's see. So six. Oh, which, if I make that a plus, no, that won't work because it's one, at which it would need to be two. Again, I'm feeling very inadequate here. Um... Four plus instead of minus, but it won't let me minus. And I need this. Well, that would be one instead of two. Well... Oh! So maybe, let's see here, equals this minus, no, no, that doesn't work. Nevermind, I thought I had it. I thought I had it, I don't have it. It escapes me. No. Um, minus one. No, none of the things I'm coming up with work. What am I going to get? Um, let's see. Minus, plus, um, five, minus, no, seven, minus one. No, wait, I might have had it. I might have had it. If it's... No, no, no, no. Minus 1. Does that work? Nope. I'm not going to get this. Minus 1. No, it's not going to work. Aye, aye, aye. Nope. Nope-a-dee-nope, nope, nope."
+  }
+}

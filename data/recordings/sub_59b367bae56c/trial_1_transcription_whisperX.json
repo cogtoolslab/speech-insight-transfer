@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_59b367bae56c/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, six equals six plus one.Let's see here.If I can only move one, then I would just make it 6 equals 6 times 1.So equals 6 times 1.Or, oh, can I not do multiplication?I guess I can't do multiplication.That's unfortunate. Okay.Let me think here. Oh, 6 equals 7 minus 1.So 6 equals 7 minus 1.I can just move the vertical matchstick of the plus over to the 6 on the right side and then make it 7 minus 1.7 minus 1.",
+    "segments": [
+      {
+        "text": " Okay, six equals six plus one.",
+        "start": 0.537,
+        "end": 4.462
+      },
+      {
+        "text": "Let's see here.",
+        "start": 4.482,
+        "end": 17.178
+      },
+      {
+        "text": "If I can only move one, then I would just make it",
+        "start": 17.198,
+        "end": 27.912
+      },
+      {
+        "text": " 6 equals 6 times 1.",
+        "start": 30.254,
+        "end": 33.078
+      },
+      {
+        "text": "So equals 6 times 1.",
+        "start": 34.06,
+        "end": 42.252
+      },
+      {
+        "text": "Or, oh, can I not do multiplication?",
+        "start": 45.857,
+        "end": 52.887
+      },
+      {
+        "text": "I guess I can't do multiplication.",
+        "start": 52.907,
+        "end": 54.71
+      },
+      {
+        "text": "That's unfortunate.",
+        "start": 58.696,
+        "end": 59.637
+      },
+      {
+        "text": " Okay.",
+        "start": 61.76,
+        "end": 62.122
+      },
+      {
+        "text": "Let me think here.",
+        "start": 64.676,
+        "end": 69.12
+      },
+      {
+        "text": " Oh, 6 equals 7 minus 1.",
+        "start": 97.703,
+        "end": 99.386
+      },
+      {
+        "text": "So 6 equals 7 minus 1.",
+        "start": 102.151,
+        "end": 104.695
+      },
+      {
+        "text": "I can just move the vertical matchstick of the plus over to the 6 on the right side and then make it 7 minus 1.",
+        "start": 104.715,
+        "end": 111.366
+      },
+      {
+        "text": "7 minus 1.",
+        "start": 111.386,
+        "end": 115.493
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, six equals six plus one. Let's see here. If I can only move one, then I would just make it 6 equals 6 times 1. So equals 6 times 1. Or, oh, can I not do multiplication? I guess I can't do multiplication. That's unfortunate. Okay. Let me think here. Oh, 6 equals 7 minus 1. So 6 equals 7 minus 1. I can just move the vertical matchstick of the plus over to the 6 on the right side and then make it 7 minus 1. 7 minus 1."
+  }
+}

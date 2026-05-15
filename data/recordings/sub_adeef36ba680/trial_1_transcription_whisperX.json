@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_adeef36ba680/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, let's see, this is eight equals eight plus eight.Not sure here, do I change the, The sign or just the numbers?Because the numbers are already way too big, being 8 plus 8. And then can you move a perfectly vertical matchstick to create a, like a nine out of an eight?Not sure about that.Hmm. I'm not sure on this one.Moving the single vertical matchsticks don't seem to do anything.I've tried to move them from the 8 plus 8 variety to the beginning.That doesn't seem to work. Still thinking about where they could go.Like I said before, I'm not sure if you can change the plus to a minus or something.I don't know that that would make a difference either if the problems aren't set up that way. And then can you move one of the vertical ones or slanted matchsticks to become an X instead of a V?Not sure if that exactly solves anything either.If anything, it just makes the numbers higher when they need to be lower to make the equation correct. Well, time's running out, so I'll have to make some random guess, I suppose.",
+    "segments": [
+      {
+        "text": " All right, let's see, this is eight equals eight plus eight.",
+        "start": 2.765,
+        "end": 8.693
+      },
+      {
+        "text": "Not sure here, do I change the,",
+        "start": 26.819,
+        "end": 29.683
+      },
+      {
+        "text": " The sign or just the numbers?",
+        "start": 31.081,
+        "end": 33.205
+      },
+      {
+        "text": "Because the numbers are already way too big, being 8 plus 8.",
+        "start": 44.006,
+        "end": 47.773
+      },
+      {
+        "text": " And then can you move a perfectly vertical matchstick to create a, like a nine out of an eight?",
+        "start": 58.368,
+        "end": 65.557
+      },
+      {
+        "text": "Not sure about that.",
+        "start": 67.82,
+        "end": 68.921
+      },
+      {
+        "text": "Hmm.",
+        "start": 84.38,
+        "end": 84.46
+      },
+      {
+        "text": " I'm not sure on this one.",
+        "start": 105.247,
+        "end": 106.489
+      },
+      {
+        "text": "Moving the single vertical matchsticks don't seem to do anything.",
+        "start": 106.709,
+        "end": 114.002
+      },
+      {
+        "text": "I've tried to move them from the 8 plus 8 variety to the beginning.",
+        "start": 115.584,
+        "end": 120.212
+      },
+      {
+        "text": "That doesn't seem to work.",
+        "start": 120.292,
+        "end": 121.534
+      },
+      {
+        "text": " Still thinking about where they could go.",
+        "start": 134.255,
+        "end": 136.218
+      },
+      {
+        "text": "Like I said before, I'm not sure if you can change the plus to a minus or something.",
+        "start": 136.238,
+        "end": 147.676
+      },
+      {
+        "text": "I don't know that that would make a difference either if the problems aren't set up that way.",
+        "start": 153.165,
+        "end": 158.794
+      },
+      {
+        "text": " And then can you move one of the vertical ones or slanted matchsticks to become an X instead of a V?",
+        "start": 174.569,
+        "end": 181.641
+      },
+      {
+        "text": "Not sure if that exactly solves anything either.",
+        "start": 183.565,
+        "end": 185.909
+      },
+      {
+        "text": "If anything, it just makes the numbers higher when they need to be lower to make the equation correct.",
+        "start": 188.353,
+        "end": 193.843
+      },
+      {
+        "text": " Well, time's running out, so I'll have to make some random guess, I suppose.",
+        "start": 213.213,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see, this is eight equals eight plus eight. Not sure here, do I change the, The sign or just the numbers? Because the numbers are already way too big, being 8 plus 8. And then can you move a perfectly vertical matchstick to create a, like a nine out of an eight? Not sure about that. Hmm. I'm not sure on this one. Moving the single vertical matchsticks don't seem to do anything. I've tried to move them from the 8 plus 8 variety to the beginning. That doesn't seem to work. Still thinking about where they could go. Like I said before, I'm not sure if you can change the plus to a minus or something. I don't know that that would make a difference either if the problems aren't set up that way. And then can you move one of the vertical ones or slanted matchsticks to become an X instead of a V? Not sure if that exactly solves anything either. If anything, it just makes the numbers higher when they need to be lower to make the equation correct. Well, time's running out, so I'll have to make some random guess, I suppose."
+  }
+}

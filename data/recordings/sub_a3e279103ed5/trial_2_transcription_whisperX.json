@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_a3e279103ed5/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, you can only move one matchstick to make this equation correct.What is the final correct equation?All right, so that's 13.13 equals seven minus six. Let's see if you add one of the matchsticks to make it a plus. this side then this would be 12 that would be plus and then that would be 7 plus no that way works out 13 how could you get a plus sign there what would 7 I think it's the same thing as before you would just move the minus where the equals is and the equals where the minus is and you get the answer again that's 13 minus 7 equals 6 the same thing as last one",
+    "segments": [
+      {
+        "text": " All right, you can only move one matchstick to make this equation correct.",
+        "start": 1.128,
+        "end": 7.055
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 7.136,
+        "end": 12.422
+      },
+      {
+        "text": "All right, so that's 13.",
+        "start": 12.442,
+        "end": 16.187
+      },
+      {
+        "text": "13 equals seven minus six.",
+        "start": 16.207,
+        "end": 24.317
+      },
+      {
+        "text": " Let's see if you add one of the matchsticks to make it a plus.",
+        "start": 33.123,
+        "end": 50.912
+      },
+      {
+        "text": " this side then this would be 12 that would be plus and then that would be 7 plus no that way works out 13 how could you get a plus sign there what would 7 I think it's the same thing as before you would just move",
+        "start": 53.018,
+        "end": 81.962
+      },
+      {
+        "text": " the minus where the equals is and the equals where the minus is and you get the answer again that's 13 minus 7 equals 6 the same thing as last one",
+        "start": 83.258,
+        "end": 110.869
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, you can only move one matchstick to make this equation correct. What is the final correct equation? All right, so that's 13. 13 equals seven minus six. Let's see if you add one of the matchsticks to make it a plus. this side then this would be 12 that would be plus and then that would be 7 plus no that way works out 13 how could you get a plus sign there what would 7 I think it's the same thing as before you would just move the minus where the equals is and the equals where the minus is and you get the answer again that's 13 minus 7 equals 6 the same thing as last one"
+  }
+}

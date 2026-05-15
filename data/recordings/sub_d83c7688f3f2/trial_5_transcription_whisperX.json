@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_d83c7688f3f2/trial_5.wav",
+  "with_timestamps": {
+    "text": " Well, I failed at all of them.Okay.7 equals 9 plus 3.So 9 plus 3 is 12.7 does not equal 12.Okay, what if I add one matchstick here?It'll be 8 equals 9 plus 2.No.OK.8 equals 9 plus 2.OK, 7.Let's add.We have now, move on to this one. plus 2, 8 plus 2 is 10.So now, okay, what do we do?11.No, sorry, too high.Okay, 1. plus, well this will be 13, will be 14.Wait.Seven, nine, three.Will be 10 plus four, 14. 8 plus 2, 10.If I put it here, this will be too big.It'll be 17.But if I move the 5 over here, it'll be 8.And that'll just be equal to 2.OK, what about the x over here?OK, let's see.Yes!1. equals 1 all those plus 1, 2, 3, whatever 7 equals 1 plus 1, 2, 3, x no it would only work if it were minus this will be 8 Plus, well, seven plus one, eight.Yeah, correct.So. This will be 7.Can I make this equal to 7?",
+    "segments": [
+      {
+        "text": " Well, I failed at all of them.",
+        "start": 3.237,
+        "end": 4.659
+      },
+      {
+        "text": "Okay.",
+        "start": 5.32,
+        "end": 6.601
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 6.621,
+        "end": 11.387
+      },
+      {
+        "text": "So 9 plus 3 is 12.",
+        "start": 13.429,
+        "end": 17.855
+      },
+      {
+        "text": "7 does not equal 12.",
+        "start": 17.875,
+        "end": 20.938
+      },
+      {
+        "text": "Okay, what if I add one matchstick here?",
+        "start": 23.762,
+        "end": 26.886
+      },
+      {
+        "text": "It'll be 8 equals 9",
+        "start": 26.906,
+        "end": 32.232
+      },
+      {
+        "text": " plus 2.",
+        "start": 34.405,
+        "end": 36.908
+      },
+      {
+        "text": "No.",
+        "start": 39.372,
+        "end": 39.712
+      },
+      {
+        "text": "OK.",
+        "start": 43.257,
+        "end": 47.302
+      },
+      {
+        "text": "8 equals 9 plus 2.",
+        "start": 47.342,
+        "end": 49.124
+      },
+      {
+        "text": "OK, 7.",
+        "start": 52.809,
+        "end": 53.871
+      },
+      {
+        "text": "Let's add.",
+        "start": 54.191,
+        "end": 54.892
+      },
+      {
+        "text": "We have now, move on to this one.",
+        "start": 59.438,
+        "end": 64.024
+      },
+      {
+        "text": " plus 2, 8 plus 2 is 10.",
+        "start": 65.692,
+        "end": 73.862
+      },
+      {
+        "text": "So now, okay, what do we do?",
+        "start": 75.443,
+        "end": 83.173
+      },
+      {
+        "text": "11.",
+        "start": 83.193,
+        "end": 84.454
+      },
+      {
+        "text": "No, sorry, too high.",
+        "start": 84.474,
+        "end": 86.637
+      },
+      {
+        "text": "Okay, 1.",
+        "start": 92.744,
+        "end": 93.825
+      },
+      {
+        "text": " plus, well this will be 13, will be 14.",
+        "start": 102.952,
+        "end": 107.297
+      },
+      {
+        "text": "Wait.",
+        "start": 112.063,
+        "end": 112.363
+      },
+      {
+        "text": "Seven, nine, three.",
+        "start": 120.773,
+        "end": 124.778
+      },
+      {
+        "text": "Will be 10 plus four, 14.",
+        "start": 129.043,
+        "end": 132.587
+      },
+      {
+        "text": " 8 plus 2, 10.",
+        "start": 141.697,
+        "end": 145.14
+      },
+      {
+        "text": "If I put it here, this will be too big.",
+        "start": 145.16,
+        "end": 149.945
+      },
+      {
+        "text": "It'll be 17.",
+        "start": 150.445,
+        "end": 151.366
+      },
+      {
+        "text": "But if I move the 5 over here, it'll be 8.",
+        "start": 155.07,
+        "end": 157.532
+      },
+      {
+        "text": "And that'll just be equal to 2.",
+        "start": 157.692,
+        "end": 159.334
+      },
+      {
+        "text": "OK, what about the x over here?",
+        "start": 159.354,
+        "end": 165.66
+      },
+      {
+        "text": "OK, let's see.",
+        "start": 167.862,
+        "end": 170.364
+      },
+      {
+        "text": "Yes!",
+        "start": 171.005,
+        "end": 171.185
+      },
+      {
+        "text": "1.",
+        "start": 171.205,
+        "end": 171.265
+      },
+      {
+        "text": " equals 1 all those plus 1, 2, 3, whatever 7 equals 1 plus 1, 2, 3, x no it would only work if it were minus this will be 8",
+        "start": 171.785,
+        "end": 201.353
+      },
+      {
+        "text": " Plus, well, seven plus one, eight.",
+        "start": 202.902,
+        "end": 215.943
+      },
+      {
+        "text": "Yeah, correct.",
+        "start": 215.963,
+        "end": 219.509
+      },
+      {
+        "text": "So.",
+        "start": 223.876,
+        "end": 224.337
+      },
+      {
+        "text": " This will be 7.",
+        "start": 230.493,
+        "end": 233.047
+      },
+      {
+        "text": "Can I make this equal to 7?",
+        "start": 233.067,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Well, I failed at all of them. Okay. 7 equals 9 plus 3. So 9 plus 3 is 12. 7 does not equal 12. Okay, what if I add one matchstick here? It'll be 8 equals 9 plus 2. No. OK. 8 equals 9 plus 2. OK, 7. Let's add. We have now, move on to this one. plus 2, 8 plus 2 is 10. So now, okay, what do we do? 11. No, sorry, too high. Okay, 1. plus, well this will be 13, will be 14. Wait. Seven, nine, three. Will be 10 plus four, 14. 8 plus 2, 10. If I put it here, this will be too big. It'll be 17. But if I move the 5 over here, it'll be 8. And that'll just be equal to 2. OK, what about the x over here? OK, let's see. Yes! 1. equals 1 all those plus 1, 2, 3, whatever 7 equals 1 plus 1, 2, 3, x no it would only work if it were minus this will be 8 Plus, well, seven plus one, eight. Yeah, correct. So. This will be 7. Can I make this equal to 7?"
+  }
+}

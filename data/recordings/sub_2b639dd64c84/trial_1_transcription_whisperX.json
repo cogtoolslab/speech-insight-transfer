@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_2b639dd64c84/trial_1.wav",
+  "with_timestamps": {
+    "text": " let's see five 10 minus x 10 minus, divided by 5, wait, plus 5, x 4 minus, wait, 10 minus 1.10 minus 5 equals 5.Yep. 5 minus, wait, 4 minus, 4 plus, wait, 4 6, 4 plus, 4 plus, plus 1 equals 5. four plus five plus one five",
+    "segments": [
+      {
+        "text": " let's see five 10 minus",
+        "start": 33.308,
+        "end": 56.16
+      },
+      {
+        "text": " x 10 minus, divided by 5, wait, plus 5, x 4 minus, wait,",
+        "start": 88.017,
+        "end": 112.303
+      },
+      {
+        "text": " 10 minus 1.",
+        "start": 125.125,
+        "end": 130.691
+      },
+      {
+        "text": "10 minus 5 equals 5.",
+        "start": 130.711,
+        "end": 147.39
+      },
+      {
+        "text": "Yep.",
+        "start": 148.952,
+        "end": 149.192
+      },
+      {
+        "text": " 5 minus, wait, 4 minus, 4 plus, wait, 4",
+        "start": 164.495,
+        "end": 193.557
+      },
+      {
+        "text": " 6, 4 plus, 4 plus, plus 1 equals 5.",
+        "start": 195.477,
+        "end": 221.788
+      },
+      {
+        "text": " four plus five plus one five",
+        "start": 226.544,
+        "end": 244.705
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " let's see five 10 minus x 10 minus, divided by 5, wait, plus 5, x 4 minus, wait, 10 minus 1. 10 minus 5 equals 5. Yep. 5 minus, wait, 4 minus, 4 plus, wait, 4 6, 4 plus, 4 plus, plus 1 equals 5. four plus five plus one five"
+  }
+}

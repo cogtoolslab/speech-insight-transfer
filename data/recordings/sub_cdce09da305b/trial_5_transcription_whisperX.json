@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_cdce09da305b/trial_5.wav",
+  "with_timestamps": {
+    "text": " 4 equal to 4 plus 4.4 equal to 4 plus 4.I have to make one stick make this correct.Well, this one's difficult.4 plus 4 is 8.4 plus 4. There's 8.Can I make this?Yeah, I cannot make this 8.I cannot make this 8.I can make it 9.9, but 9... I can only move one stick.If I make it, if I move... 4 4 4 4 4 4 plus Plus If I move it, move it here If I move it here If I move it here equal sign and this is equal sign because I cannot be changed because only this is a plus I can make this plus so it has to be like this the format is this um I cannot make this eight I cannot make this eight I can make it six 4, how about 4?How about 5?Minus.4 plus 1.4 plus 5 minus 1.4.No, I cannot move. the plus sign this cannot move well I can move this here I can move it here 4 minus 4 I can move it here I can move it here 7 minus 4 I mean 3 minus 4 that's negative 1 3 4 minus if I move the vertical one to the right 4 minus, there's no such a number, I can't move it, I cannot move it This one is hard If I move, make this 9 I can only move one matchstick, only one matchstick Move it to the right, that's 6, 6, 6, 4, 4 6 4 plus 4 4 plus 4, that's 8 8 8 There's no way to make this right, I can only move one stick I can't think of anything",
+    "segments": [
+      {
+        "text": " 4 equal to 4 plus 4.",
+        "start": 1.465,
+        "end": 3.929
+      },
+      {
+        "text": "4 equal to 4 plus 4.",
+        "start": 3.949,
+        "end": 7.355
+      },
+      {
+        "text": "I have to make one stick make this correct.",
+        "start": 8.597,
+        "end": 14.386
+      },
+      {
+        "text": "Well, this one's difficult.",
+        "start": 18.533,
+        "end": 20.315
+      },
+      {
+        "text": "4 plus 4 is 8.",
+        "start": 21.357,
+        "end": 22.319
+      },
+      {
+        "text": "4 plus 4.",
+        "start": 22.339,
+        "end": 27.507
+      },
+      {
+        "text": " There's 8.",
+        "start": 28.82,
+        "end": 29.501
+      },
+      {
+        "text": "Can I make this?",
+        "start": 30.082,
+        "end": 31.123
+      },
+      {
+        "text": "Yeah, I cannot make this 8.",
+        "start": 31.143,
+        "end": 32.485
+      },
+      {
+        "text": "I cannot make this 8.",
+        "start": 34.849,
+        "end": 36.151
+      },
+      {
+        "text": "I can make it 9.",
+        "start": 37.513,
+        "end": 38.955
+      },
+      {
+        "text": "9, but 9... I can only move one stick.",
+        "start": 38.975,
+        "end": 47.788
+      },
+      {
+        "text": "If I make it, if I move...",
+        "start": 53.877,
+        "end": 55.84
+      },
+      {
+        "text": " 4 4 4 4 4 4 plus Plus If I move it, move it here If I move it here If I move it here",
+        "start": 58.486,
+        "end": 81.473
+      },
+      {
+        "text": " equal sign and this is equal sign because I cannot be changed because only this is a plus I can make this plus so it has to be like this the format is this um I cannot make this eight I cannot make this eight I can make it six",
+        "start": 86.752,
+        "end": 109.603
+      },
+      {
+        "text": " 4, how about 4?",
+        "start": 118.561,
+        "end": 123.488
+      },
+      {
+        "text": "How about 5?",
+        "start": 123.508,
+        "end": 124.35
+      },
+      {
+        "text": "Minus.",
+        "start": 129.978,
+        "end": 130.559
+      },
+      {
+        "text": "4 plus 1.",
+        "start": 133.663,
+        "end": 134.785
+      },
+      {
+        "text": "4 plus 5 minus 1.",
+        "start": 134.805,
+        "end": 139.812
+      },
+      {
+        "text": "4.",
+        "start": 141.755,
+        "end": 142.116
+      },
+      {
+        "text": "No, I cannot move.",
+        "start": 146.803,
+        "end": 148.365
+      },
+      {
+        "text": " the plus sign this cannot move well I can move this here I can move it here 4 minus 4 I can move it here I can move it here 7 minus 4 I mean 3 minus 4 that's negative 1 3 4 minus if I move the vertical one to the right",
+        "start": 148.818,
+        "end": 177.087
+      },
+      {
+        "text": " 4 minus, there's no such a number, I can't move it, I cannot move it This one is hard If I move, make this 9 I can only move one matchstick, only one matchstick",
+        "start": 178.383,
+        "end": 204.913
+      },
+      {
+        "text": " Move it to the right, that's 6, 6, 6, 4, 4 6 4 plus 4 4 plus 4, that's 8 8 8 There's no way to make this right, I can only move one stick I can't think of anything",
+        "start": 208.741,
+        "end": 238.242
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equal to 4 plus 4. 4 equal to 4 plus 4. I have to make one stick make this correct. Well, this one's difficult. 4 plus 4 is 8. 4 plus 4. There's 8. Can I make this? Yeah, I cannot make this 8. I cannot make this 8. I can make it 9. 9, but 9... I can only move one stick. If I make it, if I move... 4 4 4 4 4 4 plus Plus If I move it, move it here If I move it here If I move it here equal sign and this is equal sign because I cannot be changed because only this is a plus I can make this plus so it has to be like this the format is this um I cannot make this eight I cannot make this eight I can make it six 4, how about 4? How about 5? Minus. 4 plus 1. 4 plus 5 minus 1. 4. No, I cannot move. the plus sign this cannot move well I can move this here I can move it here 4 minus 4 I can move it here I can move it here 7 minus 4 I mean 3 minus 4 that's negative 1 3 4 minus if I move the vertical one to the right 4 minus, there's no such a number, I can't move it, I cannot move it This one is hard If I move, make this 9 I can only move one matchstick, only one matchstick Move it to the right, that's 6, 6, 6, 4, 4 6 4 plus 4 4 plus 4, that's 8 8 8 There's no way to make this right, I can only move one stick I can't think of anything"
+  }
+}

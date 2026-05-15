@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_c4d43f0d5396/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay You know what?I did one and I'm happy with one.Let's try and do this.This is saying this is simple.It's saying 8 equals 2 plus 4 and that's definitely 6.Oh Yeah, okay.So this one is actually easy if we move the If we make that 4 into a 6 you move that and match stick over so it's gonna be 8 equals 2 plus, and we need to make this a 6, so it's going to be this vi.",
+    "segments": [
+      {
+        "text": " Okay You know what?",
+        "start": 0.031,
+        "end": 2.914
+      },
+      {
+        "text": "I did one and I'm happy with one.",
+        "start": 3.054,
+        "end": 4.956
+      },
+      {
+        "text": "Let's try and do this.",
+        "start": 5.156,
+        "end": 5.977
+      },
+      {
+        "text": "This is saying this is simple.",
+        "start": 6.077,
+        "end": 8.019
+      },
+      {
+        "text": "It's saying 8 equals 2 plus 4 and that's definitely 6.",
+        "start": 8.54,
+        "end": 16.208
+      },
+      {
+        "text": "Oh Yeah, okay.",
+        "start": 17.389,
+        "end": 18.19
+      },
+      {
+        "text": "So this one is actually easy if we move the If we make that 4 into a 6 you move that and match stick over so it's gonna be 8",
+        "start": 18.23,
+        "end": 28.941
+      },
+      {
+        "text": " equals 2 plus, and we need to make this a 6, so it's going to be this vi.",
+        "start": 30.507,
+        "end": 41.361
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay You know what? I did one and I'm happy with one. Let's try and do this. This is saying this is simple. It's saying 8 equals 2 plus 4 and that's definitely 6. Oh Yeah, okay. So this one is actually easy if we move the If we make that 4 into a 6 you move that and match stick over so it's gonna be 8 equals 2 plus, and we need to make this a 6, so it's going to be this vi."
+  }
+}

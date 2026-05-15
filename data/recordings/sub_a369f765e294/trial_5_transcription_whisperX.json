@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_a369f765e294/trial_5.wav",
+  "with_timestamps": {
+    "text": " Feeling very defeated after all these misses.So let's see.1V equals 4.4 equals V11 is 567 plus 1V is 4.7 plus 4 is 12.4 does not equal 12.So let's see.First, let me see if I can add or mess around with the first number to make that a 12. Is 1V1, is that 12?No, because that would be X11.Let's see.Does 11V would make it, no, it would be too little.V1 would make it 6.That wouldn't be right, so I don't think Don't think the solution is by changing anything with the first number, so let's move on to the second.7 minus 4.7 minus 4 would be 3, which is still not correct if we were to try to make that.Now in order to make it minus, we would have to move one of the vertical matchsticks to something else.7 minus 5 would equal 2, that wouldn't be correct.8 minus 4 equals 4.Okay, I got this one.So it's, you move, well, I'll just answer this.You would do 1V equals, let's see, how did I do this?V11 minus 4. That's incorrect.Uh-oh.Why was that incorrect?What was I missing here?8 minus 4.Why does that, did I not type it right?1V equals V1.Did I maybe type plus before?V111, so 8. I think I may have typed something wrong.",
+    "segments": [
+      {
+        "text": " Feeling very defeated after all these misses.",
+        "start": 1.718,
+        "end": 4.783
+      },
+      {
+        "text": "So let's see.",
+        "start": 5.444,
+        "end": 6.245
+      },
+      {
+        "text": "1V equals 4.",
+        "start": 6.265,
+        "end": 9.75
+      },
+      {
+        "text": "4 equals V11 is 567 plus 1V is 4.",
+        "start": 9.77,
+        "end": 15.198
+      },
+      {
+        "text": "7 plus 4 is 12.",
+        "start": 15.218,
+        "end": 20.867
+      },
+      {
+        "text": "4 does not equal 12.",
+        "start": 20.887,
+        "end": 22.729
+      },
+      {
+        "text": "So let's see.",
+        "start": 24.111,
+        "end": 25.153
+      },
+      {
+        "text": "First, let me see if I can add or mess around with the first number to make that a 12.",
+        "start": 26.815,
+        "end": 31.202
+      },
+      {
+        "text": " Is 1V1, is that 12?",
+        "start": 34.152,
+        "end": 36.896
+      },
+      {
+        "text": "No, because that would be X11.",
+        "start": 39.02,
+        "end": 42.405
+      },
+      {
+        "text": "Let's see.",
+        "start": 47.793,
+        "end": 48.494
+      },
+      {
+        "text": "Does 11V would make it, no, it would be too little.",
+        "start": 52.06,
+        "end": 57.428
+      },
+      {
+        "text": "V1 would make it 6.",
+        "start": 57.468,
+        "end": 60.974
+      },
+      {
+        "text": "That wouldn't be right, so I don't think",
+        "start": 61.014,
+        "end": 62.556
+      },
+      {
+        "text": " Don't think the solution is by changing anything with the first number, so let's move on to the second.",
+        "start": 64.713,
+        "end": 69.357
+      },
+      {
+        "text": "7 minus 4.",
+        "start": 70.879,
+        "end": 71.579
+      },
+      {
+        "text": "7 minus 4 would be 3, which is still not correct if we were to try to make that.",
+        "start": 71.6,
+        "end": 79.347
+      },
+      {
+        "text": "Now in order to make it minus, we would have to move one of the vertical matchsticks to something else.",
+        "start": 81.649,
+        "end": 88.536
+      },
+      {
+        "text": "7 minus",
+        "start": 88.556,
+        "end": 92.239
+      },
+      {
+        "text": " 5 would equal 2, that wouldn't be correct.",
+        "start": 93.029,
+        "end": 95.331
+      },
+      {
+        "text": "8 minus 4 equals 4.",
+        "start": 95.351,
+        "end": 99.895
+      },
+      {
+        "text": "Okay, I got this one.",
+        "start": 99.975,
+        "end": 101.016
+      },
+      {
+        "text": "So it's, you move, well, I'll just answer this.",
+        "start": 101.416,
+        "end": 104.839
+      },
+      {
+        "text": "You would do 1V equals, let's see, how did I do this?",
+        "start": 106.02,
+        "end": 112.406
+      },
+      {
+        "text": "V11 minus 4.",
+        "start": 112.626,
+        "end": 122.715
+      },
+      {
+        "text": " That's incorrect.",
+        "start": 125.243,
+        "end": 125.924
+      },
+      {
+        "text": "Uh-oh.",
+        "start": 126.164,
+        "end": 126.284
+      },
+      {
+        "text": "Why was that incorrect?",
+        "start": 127.686,
+        "end": 128.567
+      },
+      {
+        "text": "What was I missing here?",
+        "start": 130.269,
+        "end": 131.21
+      },
+      {
+        "text": "8 minus 4.",
+        "start": 131.23,
+        "end": 136.517
+      },
+      {
+        "text": "Why does that, did I not type it right?",
+        "start": 136.657,
+        "end": 138.179
+      },
+      {
+        "text": "1V equals V1.",
+        "start": 138.199,
+        "end": 143.845
+      },
+      {
+        "text": "Did I maybe type plus before?",
+        "start": 146.428,
+        "end": 147.99
+      },
+      {
+        "text": "V111, so 8.",
+        "start": 148.01,
+        "end": 151.875
+      },
+      {
+        "text": " I think I may have typed something wrong.",
+        "start": 152.547,
+        "end": 155.824
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Feeling very defeated after all these misses. So let's see. 1V equals 4. 4 equals V11 is 567 plus 1V is 4. 7 plus 4 is 12. 4 does not equal 12. So let's see. First, let me see if I can add or mess around with the first number to make that a 12. Is 1V1, is that 12? No, because that would be X11. Let's see. Does 11V would make it, no, it would be too little. V1 would make it 6. That wouldn't be right, so I don't think Don't think the solution is by changing anything with the first number, so let's move on to the second. 7 minus 4. 7 minus 4 would be 3, which is still not correct if we were to try to make that. Now in order to make it minus, we would have to move one of the vertical matchsticks to something else. 7 minus 5 would equal 2, that wouldn't be correct. 8 minus 4 equals 4. Okay, I got this one. So it's, you move, well, I'll just answer this. You would do 1V equals, let's see, how did I do this? V11 minus 4. That's incorrect. Uh-oh. Why was that incorrect? What was I missing here? 8 minus 4. Why does that, did I not type it right? 1V equals V1. Did I maybe type plus before? V111, so 8. I think I may have typed something wrong."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_51a5f55b83e7/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 13 equals 7 minus 6.Okay, see this one is easy, I think.When they say move a matchstick, does that mean I have to move something to another part of the equation?Because wouldn't I just change one of these to plus?Let's see, let's just try it.Maybe I'm not understanding the instructions entirely. Okay, that's incorrect.Great.12.Okay, whatever.7 minus 6 is 1. 13 equals 7 plus 6.I'm not understanding.This is torturous.The 5... OK.Equals 4, 7.13 minus 7 does not equal.Yes.No, it doesn't, bruh.OK.Wait, yes.Yes, it does.OK.So I can move it off the plus signs and everything, too. Great.But yeah, I'm just, I'm over it.",
+    "segments": [
+      {
+        "text": " Okay, 13 equals 7 minus 6.",
+        "start": 2.393,
+        "end": 8.682
+      },
+      {
+        "text": "Okay, see this one is easy, I think.",
+        "start": 9.763,
+        "end": 13.268
+      },
+      {
+        "text": "When they say move a matchstick, does that mean I have to move something to another part of the equation?",
+        "start": 14.83,
+        "end": 19.277
+      },
+      {
+        "text": "Because wouldn't I just change one of these to plus?",
+        "start": 19.337,
+        "end": 23.062
+      },
+      {
+        "text": "Let's see, let's just try it.",
+        "start": 24.804,
+        "end": 26.366
+      },
+      {
+        "text": "Maybe I'm not understanding the instructions entirely.",
+        "start": 27.548,
+        "end": 30.392
+      },
+      {
+        "text": " Okay, that's incorrect.",
+        "start": 36.818,
+        "end": 38.36
+      },
+      {
+        "text": "Great.",
+        "start": 38.52,
+        "end": 52.198
+      },
+      {
+        "text": "12.",
+        "start": 52.218,
+        "end": 52.999
+      },
+      {
+        "text": "Okay, whatever.",
+        "start": 60.348,
+        "end": 60.969
+      },
+      {
+        "text": "7 minus 6 is 1.",
+        "start": 60.989,
+        "end": 62.691
+      },
+      {
+        "text": " 13 equals 7 plus 6.",
+        "start": 85.199,
+        "end": 89.945
+      },
+      {
+        "text": "I'm not understanding.",
+        "start": 93.129,
+        "end": 94.211
+      },
+      {
+        "text": "This is torturous.",
+        "start": 94.231,
+        "end": 96.774
+      },
+      {
+        "text": "The 5...",
+        "start": 110.932,
+        "end": 113.215
+      },
+      {
+        "text": " OK.",
+        "start": 116.452,
+        "end": 117.393
+      },
+      {
+        "text": "Equals 4, 7.",
+        "start": 117.453,
+        "end": 122.498
+      },
+      {
+        "text": "13 minus 7 does not equal.",
+        "start": 122.518,
+        "end": 131.146
+      },
+      {
+        "text": "Yes.",
+        "start": 131.186,
+        "end": 131.447
+      },
+      {
+        "text": "No, it doesn't, bruh.",
+        "start": 131.627,
+        "end": 132.888
+      },
+      {
+        "text": "OK.",
+        "start": 134.169,
+        "end": 134.49
+      },
+      {
+        "text": "Wait, yes.",
+        "start": 136.712,
+        "end": 137.152
+      },
+      {
+        "text": "Yes, it does.",
+        "start": 137.252,
+        "end": 137.893
+      },
+      {
+        "text": "OK.",
+        "start": 139.635,
+        "end": 140.055
+      },
+      {
+        "text": "So I can move it off the plus signs and everything, too.",
+        "start": 140.075,
+        "end": 146.121
+      },
+      {
+        "text": " Great.",
+        "start": 147.704,
+        "end": 148.269
+      },
+      {
+        "text": "But yeah, I'm just, I'm over it.",
+        "start": 152.746,
+        "end": 154.339
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 13 equals 7 minus 6. Okay, see this one is easy, I think. When they say move a matchstick, does that mean I have to move something to another part of the equation? Because wouldn't I just change one of these to plus? Let's see, let's just try it. Maybe I'm not understanding the instructions entirely. Okay, that's incorrect. Great. 12. Okay, whatever. 7 minus 6 is 1. 13 equals 7 plus 6. I'm not understanding. This is torturous. The 5... OK. Equals 4, 7. 13 minus 7 does not equal. Yes. No, it doesn't, bruh. OK. Wait, yes. Yes, it does. OK. So I can move it off the plus signs and everything, too. Great. But yeah, I'm just, I'm over it."
+  }
+}

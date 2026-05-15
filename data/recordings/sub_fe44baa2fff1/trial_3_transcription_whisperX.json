@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_fe44baa2fff1/trial_3.wav",
+  "with_timestamps": {
+    "text": " Oh my god, I'm never getting that.What was that, 9 equals 7 plus 4?Really?Can I take that one off of there?That wouldn't work though, would it?X equals minus 4. X, nine equals.Oh, I gotta move that one, so.Let's try.Let's try, what was that?Eight equals. No, that's seven.I can't do that.It went one from there to there, but it would be five to three, but that's not how that works.That's four.That's four minus four.I can't put the L on the other side. of x equals, let's try, plus four.Okay, I can't even think no more. x equals v i plus v damn let's try x i equals oh it's not right v i plus v oh and that did no good Oops.That's not right.Xr equals e. Oh, come on.",
+    "segments": [
+      {
+        "text": " Oh my god, I'm never getting that.",
+        "start": 0.74,
+        "end": 2.962
+      },
+      {
+        "text": "What was that, 9 equals 7 plus 4?",
+        "start": 4.444,
+        "end": 7.546
+      },
+      {
+        "text": "Really?",
+        "start": 8.327,
+        "end": 8.628
+      },
+      {
+        "text": "Can I take that one off of there?",
+        "start": 11.41,
+        "end": 12.591
+      },
+      {
+        "text": "That wouldn't work though, would it?",
+        "start": 15.114,
+        "end": 18.777
+      },
+      {
+        "text": "X equals minus 4.",
+        "start": 19.418,
+        "end": 29.127
+      },
+      {
+        "text": " X, nine equals.",
+        "start": 37.527,
+        "end": 45.216
+      },
+      {
+        "text": "Oh, I gotta move that one, so.",
+        "start": 49.621,
+        "end": 51.003
+      },
+      {
+        "text": "Let's try.",
+        "start": 52.104,
+        "end": 52.825
+      },
+      {
+        "text": "Let's try, what was that?",
+        "start": 60.014,
+        "end": 60.855
+      },
+      {
+        "text": "Eight equals.",
+        "start": 62.377,
+        "end": 63.518
+      },
+      {
+        "text": " No, that's seven.",
+        "start": 66.518,
+        "end": 69.182
+      },
+      {
+        "text": "I can't do that.",
+        "start": 69.202,
+        "end": 69.983
+      },
+      {
+        "text": "It went one from there to there, but it would be five to three, but that's not how that works.",
+        "start": 75.731,
+        "end": 84.804
+      },
+      {
+        "text": "That's four.",
+        "start": 85.665,
+        "end": 86.306
+      },
+      {
+        "text": "That's four minus four.",
+        "start": 86.907,
+        "end": 87.968
+      },
+      {
+        "text": "I can't put the L on the other side.",
+        "start": 89.511,
+        "end": 91.193
+      },
+      {
+        "text": " of x equals, let's try, plus four.",
+        "start": 97.889,
+        "end": 111.493
+      },
+      {
+        "text": "Okay, I can't even think no more.",
+        "start": 113.717,
+        "end": 120.91
+      },
+      {
+        "text": " x equals v i plus v damn let's try x i equals oh it's not right v i plus v oh and that did no good",
+        "start": 123.067,
+        "end": 149.968
+      },
+      {
+        "text": " Oops.",
+        "start": 152.227,
+        "end": 153.895
+      },
+      {
+        "text": "That's not right.",
+        "start": 153.915,
+        "end": 154.599
+      },
+      {
+        "text": "Xr equals e. Oh, come on.",
+        "start": 154.619,
+        "end": 158.136
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh my god, I'm never getting that. What was that, 9 equals 7 plus 4? Really? Can I take that one off of there? That wouldn't work though, would it? X equals minus 4. X, nine equals. Oh, I gotta move that one, so. Let's try. Let's try, what was that? Eight equals. No, that's seven. I can't do that. It went one from there to there, but it would be five to three, but that's not how that works. That's four. That's four minus four. I can't put the L on the other side. of x equals, let's try, plus four. Okay, I can't even think no more. x equals v i plus v damn let's try x i equals oh it's not right v i plus v oh and that did no good Oops. That's not right. Xr equals e. Oh, come on."
+  }
+}

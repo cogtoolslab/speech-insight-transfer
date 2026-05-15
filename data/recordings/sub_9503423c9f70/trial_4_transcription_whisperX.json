@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_9503423c9f70/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 4 equals, it's the same thing.So 1, 5 equals 1, 5 equals 1, 5.",
+    "segments": [
+      {
+        "text": " Okay, 4 equals, it's the same thing.",
+        "start": 2.073,
+        "end": 7.109
+      },
+      {
+        "text": "So 1, 5 equals 1, 5 equals 1, 5.",
+        "start": 9.095,
+        "end": 16.318
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 4 equals, it's the same thing. So 1, 5 equals 1, 5 equals 1, 5."
+  }
+}

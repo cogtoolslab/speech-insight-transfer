@@ -1,0 +1,351 @@
+{
+  "file": "data/recordings/sub_b57438af5250/trial_2.wav",
+  "with_timestamps": {
+    "text": " 11 equals 2 plus 5 is 6.Wait a minute, that's not right.11, 10, and that would be 9.So let's try to make it as 9.And nope. five, make this a four, make that a four, make it a six.Shoot.Oh, gosh.Nine, or I should say 11.This is a spore.So, Seven.Nope.I think I missed six.Seven.Eight.Oops.That would be a nice one.I can't remember what line.Um.Can't see me.I see nine.Minus.Nope.Nine.Minus.Five.Nope.That'd be four. No, no, no, no, no, no, no, no, no, I guess I can move a straight or straight is that what I said Dang it.Okay Hey 11 11 11 minus.Okay. I got it.I got it.I got it.Um, the nine is, um, I got a huge one at nine minus this is made this thing.I didn't even make that counted that into a V do the one and the V equals that.I did not.I only think I see.Yeah.Okay.Damn it.Dang it.Shoot. That's a plus, anyway.I changed that.I just wanted to change that.Let's see, okay, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.Nope.Yeah, yeah, yeah, yeah, damn it.I think I still got it backwards.I know what I'm gonna do, I just can't.X1, I'm gonna time out.X1, shit, X1 equals, Then we have, make that, that's the same as it was?No.Shoot.I just had it in my head, what I was gonna do.Fuck.Okay, yeah.I can't, I gotta move that around.Hmm.Cause then I said I was gonna put the V back in the work.That moves that around and it's just switching, you know, it's switching it already. I guess that won't work.All right.Four.",
+    "segments": [
+      {
+        "text": " 11 equals 2 plus 5 is 6.",
+        "start": 0.385,
+        "end": 7.355
+      },
+      {
+        "text": "Wait a minute, that's not right.",
+        "start": 8.296,
+        "end": 10.379
+      },
+      {
+        "text": "11, 10, and that would be 9.",
+        "start": 11.02,
+        "end": 15.726
+      },
+      {
+        "text": "So let's try to make it as 9.",
+        "start": 18.189,
+        "end": 23.216
+      },
+      {
+        "text": "And nope.",
+        "start": 23.236,
+        "end": 24.418
+      },
+      {
+        "text": " five, make this a four, make that a four, make it a six.",
+        "start": 26.423,
+        "end": 31.01
+      },
+      {
+        "text": "Shoot.",
+        "start": 33.313,
+        "end": 40.763
+      },
+      {
+        "text": "Oh, gosh.",
+        "start": 41.825,
+        "end": 43.728
+      },
+      {
+        "text": "Nine, or I should say 11.",
+        "start": 47.934,
+        "end": 49.716
+      },
+      {
+        "text": "This is a spore.",
+        "start": 50.137,
+        "end": 51.599
+      },
+      {
+        "text": "So,",
+        "start": 55.344,
+        "end": 56.025
+      },
+      {
+        "text": " Seven.",
+        "start": 59.195,
+        "end": 60.036
+      },
+      {
+        "text": "Nope.",
+        "start": 60.337,
+        "end": 60.557
+      },
+      {
+        "text": "I think I missed six.",
+        "start": 63.221,
+        "end": 64.523
+      },
+      {
+        "text": "Seven.",
+        "start": 65.604,
+        "end": 67.206
+      },
+      {
+        "text": "Eight.",
+        "start": 67.226,
+        "end": 67.427
+      },
+      {
+        "text": "Oops.",
+        "start": 69.029,
+        "end": 69.149
+      },
+      {
+        "text": "That would be a nice one.",
+        "start": 69.169,
+        "end": 70.111
+      },
+      {
+        "text": "I can't remember what line.",
+        "start": 70.551,
+        "end": 71.793
+      },
+      {
+        "text": "Um.",
+        "start": 72.714,
+        "end": 77.02
+      },
+      {
+        "text": "Can't see me.",
+        "start": 77.04,
+        "end": 77.781
+      },
+      {
+        "text": "I see nine.",
+        "start": 77.862,
+        "end": 78.382
+      },
+      {
+        "text": "Minus.",
+        "start": 79.484,
+        "end": 80.986
+      },
+      {
+        "text": "Nope.",
+        "start": 81.006,
+        "end": 82.408
+      },
+      {
+        "text": "Nine.",
+        "start": 82.568,
+        "end": 82.949
+      },
+      {
+        "text": "Minus.",
+        "start": 83.47,
+        "end": 83.95
+      },
+      {
+        "text": "Five.",
+        "start": 85.412,
+        "end": 86.173
+      },
+      {
+        "text": "Nope.",
+        "start": 86.414,
+        "end": 86.614
+      },
+      {
+        "text": "That'd be four.",
+        "start": 86.634,
+        "end": 87.295
+      },
+      {
+        "text": " No, no, no, no, no, no, no, no, no, I guess I can move a straight or straight is that what I said Dang it.",
+        "start": 88.372,
+        "end": 101.647
+      },
+      {
+        "text": "Okay Hey 11 11",
+        "start": 104.43,
+        "end": 116.404
+      },
+      {
+        "text": " 11 minus.",
+        "start": 117.667,
+        "end": 118.448
+      },
+      {
+        "text": "Okay.",
+        "start": 123.255,
+        "end": 136.114
+      },
+      {
+        "text": " I got it.",
+        "start": 137.326,
+        "end": 138.507
+      },
+      {
+        "text": "I got it.",
+        "start": 138.527,
+        "end": 138.808
+      },
+      {
+        "text": "I got it.",
+        "start": 138.828,
+        "end": 139.048
+      },
+      {
+        "text": "Um, the nine is, um, I got a huge one at nine minus this is made this thing.",
+        "start": 139.789,
+        "end": 147.516
+      },
+      {
+        "text": "I didn't even make that counted that into a V do the one and the V equals that.",
+        "start": 147.536,
+        "end": 153.903
+      },
+      {
+        "text": "I did not.",
+        "start": 154.764,
+        "end": 156.005
+      },
+      {
+        "text": "I only think I see.",
+        "start": 156.105,
+        "end": 160.129
+      },
+      {
+        "text": "Yeah.",
+        "start": 161.631,
+        "end": 161.891
+      },
+      {
+        "text": "Okay.",
+        "start": 162.151,
+        "end": 162.652
+      },
+      {
+        "text": "Damn it.",
+        "start": 162.672,
+        "end": 163.032
+      },
+      {
+        "text": "Dang it.",
+        "start": 163.373,
+        "end": 163.733
+      },
+      {
+        "text": "Shoot.",
+        "start": 164.454,
+        "end": 164.734
+      },
+      {
+        "text": " That's a plus, anyway.",
+        "start": 168.14,
+        "end": 169.301
+      },
+      {
+        "text": "I changed that.",
+        "start": 169.321,
+        "end": 171.504
+      },
+      {
+        "text": "I just wanted to change that.",
+        "start": 171.524,
+        "end": 176.329
+      },
+      {
+        "text": "Let's see, okay, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.",
+        "start": 176.349,
+        "end": 183.317
+      },
+      {
+        "text": "Nope.",
+        "start": 183.337,
+        "end": 183.437
+      },
+      {
+        "text": "Yeah, yeah, yeah, yeah, damn it.",
+        "start": 183.457,
+        "end": 184.638
+      },
+      {
+        "text": "I think I still got it backwards.",
+        "start": 184.658,
+        "end": 185.579
+      },
+      {
+        "text": "I know what I'm gonna do, I just can't.",
+        "start": 186.48,
+        "end": 189.503
+      },
+      {
+        "text": "X1, I'm gonna time out.",
+        "start": 189.784,
+        "end": 191.586
+      },
+      {
+        "text": "X1, shit, X1 equals,",
+        "start": 191.606,
+        "end": 196.611
+      },
+      {
+        "text": " Then we have, make that, that's the same as it was?",
+        "start": 198.211,
+        "end": 201.136
+      },
+      {
+        "text": "No.",
+        "start": 201.256,
+        "end": 201.476
+      },
+      {
+        "text": "Shoot.",
+        "start": 203.379,
+        "end": 204.06
+      },
+      {
+        "text": "I just had it in my head, what I was gonna do.",
+        "start": 204.08,
+        "end": 211.331
+      },
+      {
+        "text": "Fuck.",
+        "start": 211.351,
+        "end": 211.512
+      },
+      {
+        "text": "Okay, yeah.",
+        "start": 211.532,
+        "end": 211.832
+      },
+      {
+        "text": "I can't, I gotta move that around.",
+        "start": 212.834,
+        "end": 214.176
+      },
+      {
+        "text": "Hmm.",
+        "start": 220.966,
+        "end": 221.046
+      },
+      {
+        "text": "Cause then I said I was gonna put the V back in the work.",
+        "start": 221.066,
+        "end": 223.751
+      },
+      {
+        "text": "That moves that around and it's just switching, you know, it's switching it already.",
+        "start": 223.771,
+        "end": 226.615
+      },
+      {
+        "text": " I guess that won't work.",
+        "start": 228.046,
+        "end": 228.809
+      },
+      {
+        "text": "All right.",
+        "start": 231.497,
+        "end": 231.819
+      },
+      {
+        "text": "Four.",
+        "start": 235.651,
+        "end": 237.718
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 11 equals 2 plus 5 is 6. Wait a minute, that's not right. 11, 10, and that would be 9. So let's try to make it as 9. And nope. five, make this a four, make that a four, make it a six. Shoot. Oh, gosh. Nine, or I should say 11. This is a spore. So, Seven. Nope. I think I missed six. Seven. Eight. Oops. That would be a nice one. I can't remember what line. Um. Can't see me. I see nine. Minus. Nope. Nine. Minus. Five. Nope. That'd be four. No, no, no, no, no, no, no, no, no, I guess I can move a straight or straight is that what I said Dang it. Okay Hey 11 11 11 minus. Okay. I got it. I got it. I got it. Um, the nine is, um, I got a huge one at nine minus this is made this thing. I didn't even make that counted that into a V do the one and the V equals that. I did not. I only think I see. Yeah. Okay. Damn it. Dang it. Shoot. That's a plus, anyway. I changed that. I just wanted to change that. Let's see, okay, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah. Nope. Yeah, yeah, yeah, yeah, damn it. I think I still got it backwards. I know what I'm gonna do, I just can't. X1, I'm gonna time out. X1, shit, X1 equals, Then we have, make that, that's the same as it was? No. Shoot. I just had it in my head, what I was gonna do. Fuck. Okay, yeah. I can't, I gotta move that around. Hmm. Cause then I said I was gonna put the V back in the work. That moves that around and it's just switching, you know, it's switching it already. I guess that won't work. All right. Four."
+  }
+}

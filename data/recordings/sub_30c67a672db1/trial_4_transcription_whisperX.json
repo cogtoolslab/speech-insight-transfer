@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_30c67a672db1/trial_4.wav",
+  "with_timestamps": {
+    "text": " I am doing it.3 equals 11 plus 9.20.Okay, that's 20.20.20. So 11 plus 9 equals 23.Let's see.I could put 12, xii, xii equals 1, 1 plus That's not true.12 minus 1 equals 11.No, 12.Okay.That's 20.I only can move one.Four equals, no, it's 20. 3, 4, 12 equals 1 plus 9.Yes.xii equals 1 plus ix. 12 equals 10 plus 4.Nope, it does not.It's 14.Ugh.11 plus 9 is 20.3.Get rid of one of those. 12, or get rid of that one, and it's 8.Get rid of that one, and it is 9. I'm stumped at this.Let's see.23 equals 11 plus 9.That's 20.So I can make this 20x. 12 equals 11 plus 1.That's a 1.1.12.",
+    "segments": [
+      {
+        "text": " I am doing it.",
+        "start": 0.031,
+        "end": 0.812
+      },
+      {
+        "text": "3 equals 11 plus 9.",
+        "start": 0.832,
+        "end": 9.144
+      },
+      {
+        "text": "20.",
+        "start": 9.164,
+        "end": 17.296
+      },
+      {
+        "text": "Okay, that's 20.",
+        "start": 17.316,
+        "end": 18.598
+      },
+      {
+        "text": "20.",
+        "start": 18.618,
+        "end": 19.099
+      },
+      {
+        "text": "20.",
+        "start": 19.119,
+        "end": 28.232
+      },
+      {
+        "text": " So 11 plus 9 equals 23.",
+        "start": 32.988,
+        "end": 39.916
+      },
+      {
+        "text": "Let's see.",
+        "start": 43.921,
+        "end": 44.501
+      },
+      {
+        "text": "I could put 12, xii, xii equals 1, 1 plus",
+        "start": 44.521,
+        "end": 61.341
+      },
+      {
+        "text": " That's not true.",
+        "start": 63.363,
+        "end": 65.365
+      },
+      {
+        "text": "12 minus 1 equals 11.",
+        "start": 65.385,
+        "end": 70.932
+      },
+      {
+        "text": "No, 12.",
+        "start": 70.992,
+        "end": 73.756
+      },
+      {
+        "text": "Okay.",
+        "start": 76.84,
+        "end": 79.463
+      },
+      {
+        "text": "That's 20.",
+        "start": 79.483,
+        "end": 80.404
+      },
+      {
+        "text": "I only can move one.",
+        "start": 82.206,
+        "end": 83.528
+      },
+      {
+        "text": "Four equals, no, it's 20.",
+        "start": 85.31,
+        "end": 90.957
+      },
+      {
+        "text": " 3, 4, 12 equals 1 plus 9.",
+        "start": 93.637,
+        "end": 104.911
+      },
+      {
+        "text": "Yes.",
+        "start": 105.011,
+        "end": 105.392
+      },
+      {
+        "text": "xii equals 1 plus ix.",
+        "start": 107.154,
+        "end": 118.328
+      },
+      {
+        "text": " 12 equals 10 plus 4.",
+        "start": 126.34,
+        "end": 137.713
+      },
+      {
+        "text": "Nope, it does not.",
+        "start": 139.414,
+        "end": 140.616
+      },
+      {
+        "text": "It's 14.",
+        "start": 142.938,
+        "end": 143.339
+      },
+      {
+        "text": "Ugh.",
+        "start": 144.16,
+        "end": 144.28
+      },
+      {
+        "text": "11 plus 9 is 20.",
+        "start": 144.3,
+        "end": 148.064
+      },
+      {
+        "text": "3.",
+        "start": 148.084,
+        "end": 151.768
+      },
+      {
+        "text": "Get rid of one of those.",
+        "start": 153.49,
+        "end": 155.352
+      },
+      {
+        "text": " 12, or get rid of that one, and it's 8.",
+        "start": 157.475,
+        "end": 164.285
+      },
+      {
+        "text": "Get rid of that one, and it is 9.",
+        "start": 171.396,
+        "end": 179.128
+      },
+      {
+        "text": " I'm stumped at this.",
+        "start": 190.803,
+        "end": 191.965
+      },
+      {
+        "text": "Let's see.",
+        "start": 196.952,
+        "end": 198.294
+      },
+      {
+        "text": "23 equals 11 plus 9.",
+        "start": 198.314,
+        "end": 203.501
+      },
+      {
+        "text": "That's 20.",
+        "start": 207.807,
+        "end": 208.708
+      },
+      {
+        "text": "So I can make this 20x.",
+        "start": 210.15,
+        "end": 214.937
+      },
+      {
+        "text": " 12 equals 11 plus 1.",
+        "start": 217.988,
+        "end": 230.493
+      },
+      {
+        "text": "That's a 1.",
+        "start": 232.036,
+        "end": 233.118
+      },
+      {
+        "text": "1.",
+        "start": 233.138,
+        "end": 233.178
+      },
+      {
+        "text": "12.",
+        "start": 233.198,
+        "end": 238.849
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I am doing it. 3 equals 11 plus 9. 20. Okay, that's 20. 20. 20. So 11 plus 9 equals 23. Let's see. I could put 12, xii, xii equals 1, 1 plus That's not true. 12 minus 1 equals 11. No, 12. Okay. That's 20. I only can move one. Four equals, no, it's 20. 3, 4, 12 equals 1 plus 9. Yes. xii equals 1 plus ix. 12 equals 10 plus 4. Nope, it does not. It's 14. Ugh. 11 plus 9 is 20. 3. Get rid of one of those. 12, or get rid of that one, and it's 8. Get rid of that one, and it is 9. I'm stumped at this. Let's see. 23 equals 11 plus 9. That's 20. So I can make this 20x. 12 equals 11 plus 1. That's a 1. 1. 12."
+  }
+}

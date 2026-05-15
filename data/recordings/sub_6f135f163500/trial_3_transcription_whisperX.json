@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_6f135f163500/trial_3.wav",
+  "with_timestamps": {
+    "text": " Puzzle 3.9 equals 9 plus 9.No it doesn't.9 equals 9.So I'm just going to do the exact same thing.I'm going to change this plus sign to an equals sign.Equals 9.I'm mad at myself for not trying",
+    "segments": [
+      {
+        "text": " Puzzle 3.",
+        "start": 0.402,
+        "end": 2.027
+      },
+      {
+        "text": "9 equals 9 plus 9.",
+        "start": 2.047,
+        "end": 6.901
+      },
+      {
+        "text": "No it doesn't.",
+        "start": 7.021,
+        "end": 7.804
+      },
+      {
+        "text": "9 equals 9.",
+        "start": 7.824,
+        "end": 13.661
+      },
+      {
+        "text": "So I'm just going to do the exact same thing.",
+        "start": 13.681,
+        "end": 15.366
+      },
+      {
+        "text": "I'm going to change this plus sign to an equals sign.",
+        "start": 15.406,
+        "end": 17.632
+      },
+      {
+        "text": "Equals 9.",
+        "start": 18.254,
+        "end": 19.418
+      },
+      {
+        "text": "I'm mad at myself for not trying",
+        "start": 20.22,
+        "end": 21.263
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle 3. 9 equals 9 plus 9. No it doesn't. 9 equals 9. So I'm just going to do the exact same thing. I'm going to change this plus sign to an equals sign. Equals 9. I'm mad at myself for not trying"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_41bde21ec10e/trial_5.wav",
+  "with_timestamps": {
+    "text": " Alright, so 4 equals IV equals 4 minus 2, so I need to get to 6, VI minus 2, VI minus 2.So that's 4, 6 minus 2 is 2.",
+    "segments": [
+      {
+        "text": " Alright, so 4 equals IV equals 4 minus 2, so I need to get to 6, VI minus 2, VI minus",
+        "start": 2.073,
+        "end": 27.928
+      },
+      {
+        "text": " 2.",
+        "start": 29.292,
+        "end": 29.616
+      },
+      {
+        "text": "So that's 4, 6 minus 2 is 2.",
+        "start": 29.636,
+        "end": 33.987
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so 4 equals IV equals 4 minus 2, so I need to get to 6, VI minus 2, VI minus 2. So that's 4, 6 minus 2 is 2."
+  }
+}

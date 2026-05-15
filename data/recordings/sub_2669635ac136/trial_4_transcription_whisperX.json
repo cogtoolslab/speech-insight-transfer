@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_2669635ac136/trial_4.wav",
+  "with_timestamps": {
+    "text": " Nine equals 12 plus four, which is obviously not true.So I could move the one and make it 11 equals 12 plus four.Or I can move, I can't do anything with the X, so I can make it a V, four equals, I can turn this into a seven plus four.That makes it 11, that's still not right.12 minus four would be eight, which is still not nine.I think I got it.Nine equals 13 minus four, yep.IX equals XII minus IV.",
+    "segments": [
+      {
+        "text": " Nine equals 12 plus four, which is obviously not true.",
+        "start": 1.212,
+        "end": 6.76
+      },
+      {
+        "text": "So I could move the one and make it 11 equals 12 plus four.",
+        "start": 15.452,
+        "end": 20.86
+      },
+      {
+        "text": "Or I can move, I can't do anything with the X, so I can make it a V, four equals,",
+        "start": 23.904,
+        "end": 30.173
+      },
+      {
+        "text": " I can turn this into a seven plus four.",
+        "start": 36.245,
+        "end": 38.967
+      },
+      {
+        "text": "That makes it 11, that's still not right.",
+        "start": 40.689,
+        "end": 42.671
+      },
+      {
+        "text": "12 minus four would be eight, which is still not nine.",
+        "start": 42.691,
+        "end": 49.357
+      },
+      {
+        "text": "I think I got it.",
+        "start": 53.3,
+        "end": 53.861
+      },
+      {
+        "text": "Nine equals 13 minus four, yep.",
+        "start": 54.782,
+        "end": 57.644
+      },
+      {
+        "text": "IX equals XII minus IV.",
+        "start": 58.085,
+        "end": 63.99
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Nine equals 12 plus four, which is obviously not true. So I could move the one and make it 11 equals 12 plus four. Or I can move, I can't do anything with the X, so I can make it a V, four equals, I can turn this into a seven plus four. That makes it 11, that's still not right. 12 minus four would be eight, which is still not nine. I think I got it. Nine equals 13 minus four, yep. IX equals XII minus IV."
+  }
+}

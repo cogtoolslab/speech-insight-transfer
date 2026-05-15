@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_2bb26305655f/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so six equals six plus one.I'm not sure. So, 6 equals 7. Okay, so I'm wondering about moving one of the matchsticks after the 6 over but 7 does not equal 5 plus 1 and 5 does not equal 7 plus 1 So... And now I'm wondering about moving to... But that wouldn't work.I have no idea how to solve this.Maybe if I moved the matchstick from the plus sign And, ooh, if I move the match tick from the plus sign to... No, that's wrong.",
+    "segments": [
+      {
+        "text": " Okay, so six equals six plus one.",
+        "start": 3.794,
+        "end": 8.661
+      },
+      {
+        "text": "I'm not sure.",
+        "start": 8.701,
+        "end": 26.325
+      },
+      {
+        "text": " So, 6 equals 7.",
+        "start": 43.67,
+        "end": 53.511
+      },
+      {
+        "text": " Okay, so I'm wondering about moving",
+        "start": 83.984,
+        "end": 106.92
+      },
+      {
+        "text": " one of the matchsticks after the 6 over but 7 does not equal 5 plus 1 and 5 does not equal 7 plus 1",
+        "start": 109.87,
+        "end": 133.566
+      },
+      {
+        "text": " So... And now I'm wondering about moving to...",
+        "start": 145.207,
+        "end": 174.555
+      },
+      {
+        "text": " But that wouldn't work.",
+        "start": 178.265,
+        "end": 180.988
+      },
+      {
+        "text": "I have no idea how to solve this.",
+        "start": 189.639,
+        "end": 191.341
+      },
+      {
+        "text": "Maybe if I moved the matchstick from the plus sign",
+        "start": 199.932,
+        "end": 204.778
+      },
+      {
+        "text": " And, ooh, if I move the match tick from the plus sign to... No, that's wrong.",
+        "start": 210.85,
+        "end": 235.812
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so six equals six plus one. I'm not sure. So, 6 equals 7. Okay, so I'm wondering about moving one of the matchsticks after the 6 over but 7 does not equal 5 plus 1 and 5 does not equal 7 plus 1 So... And now I'm wondering about moving to... But that wouldn't work. I have no idea how to solve this. Maybe if I moved the matchstick from the plus sign And, ooh, if I move the match tick from the plus sign to... No, that's wrong."
+  }
+}

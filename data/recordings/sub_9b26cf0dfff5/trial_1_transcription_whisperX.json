@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_9b26cf0dfff5/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so you can only move one matchstick to make this equation correct.The equation is currently showing 3 equals 9 minus 4.So 9 minus 4 equals 5. So 3 equals 9 minus 4 is incorrect.To make that correct, I can only move one matchstick.So I'm trying to think where I can move the one matchstick.9 minus 4. You could move the 1 that's on the left side of the 5 to the right side and it would be 3 equals 9 minus 6, which would be correct.So let's see.1, 2, 3 equals 9. My ass.",
+    "segments": [
+      {
+        "text": " Okay, so you can only move one matchstick to make this equation correct.",
+        "start": 0.908,
+        "end": 5.255
+      },
+      {
+        "text": "The equation is currently showing 3 equals 9 minus 4.",
+        "start": 5.295,
+        "end": 15.05
+      },
+      {
+        "text": "So 9 minus 4 equals 5.",
+        "start": 17.453,
+        "end": 26.427
+      },
+      {
+        "text": " So 3 equals 9 minus 4 is incorrect.",
+        "start": 31.452,
+        "end": 37.682
+      },
+      {
+        "text": "To make that correct, I can only move one matchstick.",
+        "start": 38.743,
+        "end": 42.489
+      },
+      {
+        "text": "So I'm trying to think where I can move the one matchstick.",
+        "start": 51.403,
+        "end": 58.113
+      },
+      {
+        "text": "9 minus 4.",
+        "start": 58.213,
+        "end": 59.856
+      },
+      {
+        "text": " You could move the 1 that's on the left side of the 5 to the right side and it would be 3 equals 9 minus 6, which would be correct.",
+        "start": 60.41,
+        "end": 80.339
+      },
+      {
+        "text": "So let's see.",
+        "start": 80.479,
+        "end": 82.402
+      },
+      {
+        "text": "1, 2, 3 equals 9.",
+        "start": 82.542,
+        "end": 88.29
+      },
+      {
+        "text": " My ass.",
+        "start": 90.937,
+        "end": 91.936
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so you can only move one matchstick to make this equation correct. The equation is currently showing 3 equals 9 minus 4. So 9 minus 4 equals 5. So 3 equals 9 minus 4 is incorrect. To make that correct, I can only move one matchstick. So I'm trying to think where I can move the one matchstick. 9 minus 4. You could move the 1 that's on the left side of the 5 to the right side and it would be 3 equals 9 minus 6, which would be correct. So let's see. 1, 2, 3 equals 9. My ass."
+  }
+}

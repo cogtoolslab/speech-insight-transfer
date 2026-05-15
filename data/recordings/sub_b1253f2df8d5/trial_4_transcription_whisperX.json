@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_b1253f2df8d5/trial_4.wav",
+  "with_timestamps": {
+    "text": " So you have 7 equals 12 plus 6.So 12 plus 6 is 18.That's not really helping us.12 minus 6 would be 6.So that's not getting us.Well, I guess if we do 13. Minus six, you get seven, yep.",
+    "segments": [
+      {
+        "text": " So you have 7 equals 12 plus 6.",
+        "start": 0.959,
+        "end": 6.084
+      },
+      {
+        "text": "So 12 plus 6 is 18.",
+        "start": 6.184,
+        "end": 11.13
+      },
+      {
+        "text": "That's not really helping us.",
+        "start": 11.15,
+        "end": 12.371
+      },
+      {
+        "text": "12 minus 6 would be 6.",
+        "start": 12.391,
+        "end": 20.8
+      },
+      {
+        "text": "So that's not getting us.",
+        "start": 22.722,
+        "end": 24.023
+      },
+      {
+        "text": "Well, I guess if we do 13.",
+        "start": 28.347,
+        "end": 29.869
+      },
+      {
+        "text": " Minus six, you get seven, yep.",
+        "start": 31.165,
+        "end": 34.122
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So you have 7 equals 12 plus 6. So 12 plus 6 is 18. That's not really helping us. 12 minus 6 would be 6. So that's not getting us. Well, I guess if we do 13. Minus six, you get seven, yep."
+  }
+}

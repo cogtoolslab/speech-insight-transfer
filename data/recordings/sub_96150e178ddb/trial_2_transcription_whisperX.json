@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_96150e178ddb/trial_2.wav",
+  "with_timestamps": {
+    "text": " Here I've got 4 equals 7 plus 4.Again, I know I've got to make this a minus.I've got to move this again.So I've got to move this minus sign, so I get 4 equals 7. Okay.Yeah.Sorry.Four equals eight minus four.Yeah.That's it.So I just got to move again this year.Um, so four equals eight minus four.",
+    "segments": [
+      {
+        "text": " Here I've got 4 equals 7 plus 4.",
+        "start": 1.28,
+        "end": 9.571
+      },
+      {
+        "text": "Again, I know I've got to make this a minus.",
+        "start": 9.671,
+        "end": 11.173
+      },
+      {
+        "text": "I've got to move this again.",
+        "start": 20.104,
+        "end": 21.106
+      },
+      {
+        "text": "So I've got to move this minus sign, so I get 4 equals 7.",
+        "start": 21.126,
+        "end": 26.933
+      },
+      {
+        "text": " Okay.",
+        "start": 29.748,
+        "end": 30.489
+      },
+      {
+        "text": "Yeah.",
+        "start": 30.509,
+        "end": 32.533
+      },
+      {
+        "text": "Sorry.",
+        "start": 32.553,
+        "end": 33.054
+      },
+      {
+        "text": "Four equals eight minus four.",
+        "start": 33.795,
+        "end": 36.841
+      },
+      {
+        "text": "Yeah.",
+        "start": 37.181,
+        "end": 37.462
+      },
+      {
+        "text": "That's it.",
+        "start": 37.482,
+        "end": 38.063
+      },
+      {
+        "text": "So I just got to move again this year.",
+        "start": 38.083,
+        "end": 40.227
+      },
+      {
+        "text": "Um, so four equals eight minus four.",
+        "start": 41.97,
+        "end": 49.984
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Here I've got 4 equals 7 plus 4. Again, I know I've got to make this a minus. I've got to move this again. So I've got to move this minus sign, so I get 4 equals 7. Okay. Yeah. Sorry. Four equals eight minus four. Yeah. That's it. So I just got to move again this year. Um, so four equals eight minus four."
+  }
+}

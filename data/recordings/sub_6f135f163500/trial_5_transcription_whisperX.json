@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_6f135f163500/trial_5.wav",
+  "with_timestamps": {
+    "text": " Same exact equation.8 equals 8 plus 8.We're going to change that plus sign to an equal sign and we're going to end up with 8 equals 8.I don't see how this is an equation though.Equals 8.",
+    "segments": [
+      {
+        "text": " Same exact equation.",
+        "start": 1.55,
+        "end": 2.853
+      },
+      {
+        "text": "8 equals 8 plus 8.",
+        "start": 2.873,
+        "end": 6.3
+      },
+      {
+        "text": "We're going to change that plus sign to an equal sign and we're going to end up with 8 equals 8.",
+        "start": 6.36,
+        "end": 13.936
+      },
+      {
+        "text": "I don't see how this is an equation though.",
+        "start": 17.243,
+        "end": 18.626
+      },
+      {
+        "text": "Equals 8.",
+        "start": 19.227,
+        "end": 22.714
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Same exact equation. 8 equals 8 plus 8. We're going to change that plus sign to an equal sign and we're going to end up with 8 equals 8. I don't see how this is an equation though. Equals 8."
+  }
+}

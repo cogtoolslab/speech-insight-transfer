@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_9889ea88dba9/trial_4.wav",
+  "with_timestamps": {
+    "text": " all right next one so we got uh x equal that x equal that x so which one are we going to move here let's see maybe this one here that would be right Um, we have the x i here, x i here, and the x i here.And we want to know about this one, about x equals x.",
+    "segments": [
+      {
+        "text": " all right next one so we got uh x equal that x equal that x so which one are we going to move here let's see maybe this one here that would be right",
+        "start": 6.612,
+        "end": 30.544
+      },
+      {
+        "text": " Um, we have the x i here, x i here, and the x i here.",
+        "start": 31.857,
+        "end": 42.011
+      },
+      {
+        "text": "And we want to know about this one, about x equals x.",
+        "start": 44.314,
+        "end": 52.245
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " all right next one so we got uh x equal that x equal that x so which one are we going to move here let's see maybe this one here that would be right Um, we have the x i here, x i here, and the x i here. And we want to know about this one, about x equals x."
+  }
+}

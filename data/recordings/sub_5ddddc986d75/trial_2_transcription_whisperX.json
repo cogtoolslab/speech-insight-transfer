@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_5ddddc986d75/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one is 7 equals 3 minus 4.Okay, so. If we move the equals over, it would be 7 minus 3 equals 4.So let's try that.It would be 7 minus 3 equals 4.",
+    "segments": [
+      {
+        "text": " Okay, so this one is 7 equals 3 minus 4.",
+        "start": 4.621,
+        "end": 17.061
+      },
+      {
+        "text": "Okay, so.",
+        "start": 21.248,
+        "end": 22.41
+      },
+      {
+        "text": " If we move the equals over, it would be 7 minus 3 equals 4.",
+        "start": 27.807,
+        "end": 35.061
+      },
+      {
+        "text": "So let's try that.",
+        "start": 39.449,
+        "end": 40.471
+      },
+      {
+        "text": "It would be 7 minus 3 equals 4.",
+        "start": 40.491,
+        "end": 50.811
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one is 7 equals 3 minus 4. Okay, so. If we move the equals over, it would be 7 minus 3 equals 4. So let's try that. It would be 7 minus 3 equals 4."
+  }
+}

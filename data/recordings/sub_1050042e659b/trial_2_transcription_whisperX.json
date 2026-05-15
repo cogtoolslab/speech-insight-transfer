@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_1050042e659b/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so now we have 10 equals 7 minus 3.That's actually correct.So we have 10 equals 7 minus 3.Huh?OK, so this is 10.So if we did minus 7, that does equal 3.",
+    "segments": [
+      {
+        "text": " All right, so now we have 10 equals 7 minus 3.",
+        "start": 0.824,
+        "end": 4.392
+      },
+      {
+        "text": "That's actually correct.",
+        "start": 4.573,
+        "end": 6.998
+      },
+      {
+        "text": "So we have 10 equals 7 minus 3.",
+        "start": 9.223,
+        "end": 14.676
+      },
+      {
+        "text": "Huh?",
+        "start": 16.28,
+        "end": 16.621
+      },
+      {
+        "text": "OK, so this is 10.",
+        "start": 19.788,
+        "end": 20.65
+      },
+      {
+        "text": "So if we did minus 7, that does equal 3.",
+        "start": 22.354,
+        "end": 28.468
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so now we have 10 equals 7 minus 3. That's actually correct. So we have 10 equals 7 minus 3. Huh? OK, so this is 10. So if we did minus 7, that does equal 3."
+  }
+}

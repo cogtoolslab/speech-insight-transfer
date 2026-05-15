@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_05af81e6e698/trial_1.wav",
+  "with_timestamps": {
+    "text": " So 7 equals 9 plus 3.So 9 plus 3 is 7.No.Uh.I don't know.So 7 equals. uh wait a minute uh okay xii xii equals ix plus three equals i x plus one two three",
+    "segments": [
+      {
+        "text": " So 7 equals 9 plus 3.",
+        "start": 1.55,
+        "end": 10.763
+      },
+      {
+        "text": "So 9 plus 3 is 7.",
+        "start": 11.905,
+        "end": 13.247
+      },
+      {
+        "text": "No.",
+        "start": 15.19,
+        "end": 15.25
+      },
+      {
+        "text": "Uh.",
+        "start": 19.416,
+        "end": 19.516
+      },
+      {
+        "text": "I don't know.",
+        "start": 22.4,
+        "end": 22.861
+      },
+      {
+        "text": "So 7 equals.",
+        "start": 27.267,
+        "end": 31.253
+      },
+      {
+        "text": " uh wait a minute uh okay xii xii equals ix plus three equals i x plus one two three",
+        "start": 31.84,
+        "end": 57.493
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 equals 9 plus 3. So 9 plus 3 is 7. No. Uh. I don't know. So 7 equals. uh wait a minute uh okay xii xii equals ix plus three equals i x plus one two three"
+  }
+}

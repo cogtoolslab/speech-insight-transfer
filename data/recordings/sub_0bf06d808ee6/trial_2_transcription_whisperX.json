@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_0bf06d808ee6/trial_2.wav",
+  "with_timestamps": {
+    "text": " Next one, you can only move one stick again.So we got two equals nine.So we got two equals nine.Actually, no, not nine, 11.11 minus seven, that would equal four.So let's see.Take one here. Let's see, we've got two here on this side.Let's see here.We've got 10, is it 11? nine, eight, five, six, okay, there we go.Then we got it there.Let's try this.Close. equals X. So what we do is we're going to take the 10, take the match tick right next to X, we'll shift it over to the 7, so that will create an 8. then we got 10 minus 8 which are equal to 2 so x minus v 1 2",
+    "segments": [
+      {
+        "text": " Next one, you can only move one stick again.",
+        "start": 1.28,
+        "end": 3.302
+      },
+      {
+        "text": "So we got two equals nine.",
+        "start": 3.322,
+        "end": 7.267
+      },
+      {
+        "text": "So we got two equals nine.",
+        "start": 7.287,
+        "end": 12.713
+      },
+      {
+        "text": "Actually, no, not nine, 11.",
+        "start": 12.753,
+        "end": 17.239
+      },
+      {
+        "text": "11 minus seven, that would equal four.",
+        "start": 17.259,
+        "end": 21.263
+      },
+      {
+        "text": "So let's see.",
+        "start": 23.626,
+        "end": 25.208
+      },
+      {
+        "text": "Take one here.",
+        "start": 27.37,
+        "end": 28.772
+      },
+      {
+        "text": " Let's see, we've got two here on this side.",
+        "start": 32.853,
+        "end": 41.324
+      },
+      {
+        "text": "Let's see here.",
+        "start": 41.344,
+        "end": 51.638
+      },
+      {
+        "text": "We've got 10, is it 11?",
+        "start": 53.22,
+        "end": 58.287
+      },
+      {
+        "text": " nine, eight, five, six, okay, there we go.",
+        "start": 69.168,
+        "end": 76.658
+      },
+      {
+        "text": "Then we got it there.",
+        "start": 76.719,
+        "end": 80.284
+      },
+      {
+        "text": "Let's try this.",
+        "start": 82.487,
+        "end": 87.233
+      },
+      {
+        "text": "Close.",
+        "start": 87.253,
+        "end": 93.522
+      },
+      {
+        "text": " equals X. So what we do is we're going to take the 10, take the match tick right next to X, we'll shift it over to the 7, so that will create an 8.",
+        "start": 96.168,
+        "end": 117.417
+      },
+      {
+        "text": " then we got 10 minus 8 which are equal to 2 so x minus v 1 2",
+        "start": 117.616,
+        "end": 128.453
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Next one, you can only move one stick again. So we got two equals nine. So we got two equals nine. Actually, no, not nine, 11. 11 minus seven, that would equal four. So let's see. Take one here. Let's see, we've got two here on this side. Let's see here. We've got 10, is it 11? nine, eight, five, six, okay, there we go. Then we got it there. Let's try this. Close. equals X. So what we do is we're going to take the 10, take the match tick right next to X, we'll shift it over to the 7, so that will create an 8. then we got 10 minus 8 which are equal to 2 so x minus v 1 2"
+  }
+}

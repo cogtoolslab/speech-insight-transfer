@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_b87bf837c6ae/trial_5.wav",
+  "with_timestamps": {
+    "text": " 13 minus seven equals six.",
+    "segments": [
+      {
+        "text": " 13 minus seven equals six.",
+        "start": 0.318,
+        "end": 16.15
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 13 minus seven equals six."
+  }
+}

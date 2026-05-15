@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_cdce09da305b/trial_2.wav",
+  "with_timestamps": {
+    "text": " it's 6 equal to 9 minus 3 no this is 4 4 equal to 6 11 minus 2 well 4 4 4 equal to 11 minus 2, 11 minus 2 is 11 minus 2 11 minus 2 that's 9 if we move this one here that will make it that if I move that there if I move the 1 here so 11 11 minus 3 11 minus 3 that's 8 it's still not the same I can only move one I move the equal sign now that will make it negative so this has to be this equal sign cannot be changed because otherwise it will be it will be negative So this has to stay.10 minus 3?No, 10 minus 3 is still... 10 minus 3 is 8.But I need a 4.Well, I can make this larger.I cannot.I can't make it larger.If I move it this way, they'll make it 6.But 11... minus 2 I can only move one I can only move one I can only move one Oh, if I move the X make the V so that will make 6 minus 2, okay That should work I move it so that will become this, this, minus 2",
+    "segments": [
+      {
+        "text": " it's 6 equal to 9 minus 3 no this is 4 4 equal to 6 11 minus 2 well 4 4 4 equal to",
+        "start": 1.499,
+        "end": 31.101
+      },
+      {
+        "text": " 11 minus 2, 11 minus 2 is 11 minus 2 11 minus 2 that's 9 if we move this one here that will make it that if I move that there if I move the 1 here so 11",
+        "start": 33.325,
+        "end": 61.206
+      },
+      {
+        "text": " 11 minus 3 11 minus 3 that's 8 it's still not the same I can only move one I move the equal sign now that will make it negative so this has to be this equal sign cannot be changed because otherwise it will be it will be negative",
+        "start": 63.076,
+        "end": 89.792
+      },
+      {
+        "text": " So this has to stay.",
+        "start": 91.848,
+        "end": 93.289
+      },
+      {
+        "text": "10 minus 3?",
+        "start": 93.309,
+        "end": 96.572
+      },
+      {
+        "text": "No, 10 minus 3 is still... 10 minus 3 is 8.",
+        "start": 96.873,
+        "end": 100.936
+      },
+      {
+        "text": "But I need a 4.",
+        "start": 100.956,
+        "end": 103.018
+      },
+      {
+        "text": "Well, I can make this larger.",
+        "start": 104.84,
+        "end": 106.942
+      },
+      {
+        "text": "I cannot.",
+        "start": 108.904,
+        "end": 109.464
+      },
+      {
+        "text": "I can't make it larger.",
+        "start": 109.484,
+        "end": 111.986
+      },
+      {
+        "text": "If I move it this way, they'll make it 6.",
+        "start": 112.707,
+        "end": 116.911
+      },
+      {
+        "text": "But 11...",
+        "start": 119.373,
+        "end": 120.454
+      },
+      {
+        "text": " minus 2 I can only move one I can only move one I can only move one Oh, if I move the X make the V so that will make 6 minus 2, okay That should work I move it so that will become this, this, minus 2",
+        "start": 122.122,
+        "end": 149.479
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " it's 6 equal to 9 minus 3 no this is 4 4 equal to 6 11 minus 2 well 4 4 4 equal to 11 minus 2, 11 minus 2 is 11 minus 2 11 minus 2 that's 9 if we move this one here that will make it that if I move that there if I move the 1 here so 11 11 minus 3 11 minus 3 that's 8 it's still not the same I can only move one I move the equal sign now that will make it negative so this has to be this equal sign cannot be changed because otherwise it will be it will be negative So this has to stay. 10 minus 3? No, 10 minus 3 is still... 10 minus 3 is 8. But I need a 4. Well, I can make this larger. I cannot. I can't make it larger. If I move it this way, they'll make it 6. But 11... minus 2 I can only move one I can only move one I can only move one Oh, if I move the X make the V so that will make 6 minus 2, okay That should work I move it so that will become this, this, minus 2"
+  }
+}

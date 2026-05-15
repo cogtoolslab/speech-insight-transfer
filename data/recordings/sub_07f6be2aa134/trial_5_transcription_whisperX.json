@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_07f6be2aa134/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, so then three equals 11 minus three.So let's see what we can do with this one.So three equals 11 minus three.So maybe we could do, you can only move one.Hmm. I'm thinking here.So this could be a 4 or not a 4, a 6.3 equals 6 minus 3.That's easy.1, 2, 3 equals Vi minus 3.",
+    "segments": [
+      {
+        "text": " Okay, so then three equals 11 minus three.",
+        "start": 0.706,
+        "end": 6.873
+      },
+      {
+        "text": "So let's see what we can do with this one.",
+        "start": 6.913,
+        "end": 12.619
+      },
+      {
+        "text": "So three equals 11 minus three.",
+        "start": 12.64,
+        "end": 16.724
+      },
+      {
+        "text": "So maybe we could do, you can only move one.",
+        "start": 16.744,
+        "end": 25.134
+      },
+      {
+        "text": "Hmm.",
+        "start": 25.194,
+        "end": 28.097
+      },
+      {
+        "text": " I'm thinking here.",
+        "start": 34.22,
+        "end": 37.125
+      },
+      {
+        "text": "So this could be a 4 or not a 4, a 6.",
+        "start": 37.185,
+        "end": 44.178
+      },
+      {
+        "text": "3 equals 6 minus 3.",
+        "start": 44.198,
+        "end": 45.641
+      },
+      {
+        "text": "That's easy.",
+        "start": 45.721,
+        "end": 46.242
+      },
+      {
+        "text": "1, 2, 3 equals Vi minus 3.",
+        "start": 46.262,
+        "end": 57.763
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so then three equals 11 minus three. So let's see what we can do with this one. So three equals 11 minus three. So maybe we could do, you can only move one. Hmm. I'm thinking here. So this could be a 4 or not a 4, a 6. 3 equals 6 minus 3. That's easy. 1, 2, 3 equals Vi minus 3."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "file": "data/recordings/sub_db1a7a0e869f/trial_1.wav",
+  "with_timestamps": {
+    "text": " 3 equals 11 minus 3.3 equals 9 minus 3.3 equals 9 minus 4.So 2 equals 11 minus 9.2 equals 11 minus 4.Oh my gosh, this is going to mess me up.3, let's see, 4 equals 9, no, 11 minus 2.No, 2 equals 11 minus 3.OK, 13 equals, man. Let's see.9.Wow, okay.1, 1, 1 equals x.39 minus 3, that wouldn't work. 4 equals 9 minus 2.That won't work.2 equals... Okay, that won't work.Let's see.3 equals... I only need one matchstick.X is two matchsticks. Oh, I'm so lost on this.So 1x would be 9 minus 3 is 6.How the heck?I got the first one.The example was easy.4 equals 10 minus 3.That won't work. 2 equals 12 minus 3, that won't work.Oh, no, this is bad.OK.3 plus 11.What?How in the world?4 equals 11. Minus 2.What?I can only move one matchstick.I don't know.This is frustrating.Plus.What?",
+    "segments": [
+      {
+        "text": " 3 equals 11 minus 3.",
+        "start": 1.077,
+        "end": 5.163
+      },
+      {
+        "text": "3 equals 9 minus 3.",
+        "start": 5.183,
+        "end": 13.596
+      },
+      {
+        "text": "3 equals 9 minus 4.",
+        "start": 13.616,
+        "end": 28.479
+      },
+      {
+        "text": "So 2 equals",
+        "start": 28.5,
+        "end": 29.481
+      },
+      {
+        "text": " 11 minus 9.",
+        "start": 30.743,
+        "end": 37.812
+      },
+      {
+        "text": "2 equals 11 minus 4.",
+        "start": 37.832,
+        "end": 47.183
+      },
+      {
+        "text": "Oh my gosh, this is going to mess me up.",
+        "start": 47.203,
+        "end": 50.327
+      },
+      {
+        "text": "3, let's see, 4 equals",
+        "start": 53.39,
+        "end": 59.738
+      },
+      {
+        "text": " 9, no, 11 minus 2.",
+        "start": 61.22,
+        "end": 67.129
+      },
+      {
+        "text": "No, 2 equals 11 minus 3.",
+        "start": 67.149,
+        "end": 76.244
+      },
+      {
+        "text": "OK, 13 equals, man.",
+        "start": 78.908,
+        "end": 88.223
+      },
+      {
+        "text": " Let's see.",
+        "start": 91.325,
+        "end": 99.496
+      },
+      {
+        "text": "9.",
+        "start": 99.516,
+        "end": 99.556
+      },
+      {
+        "text": "Wow, okay.",
+        "start": 101.519,
+        "end": 102.861
+      },
+      {
+        "text": "1, 1, 1 equals x.",
+        "start": 102.881,
+        "end": 108.108
+      },
+      {
+        "text": "39 minus 3, that wouldn't work.",
+        "start": 110.732,
+        "end": 112.995
+      },
+      {
+        "text": " 4 equals 9 minus 2.",
+        "start": 118.898,
+        "end": 121.201
+      },
+      {
+        "text": "That won't work.",
+        "start": 121.361,
+        "end": 126.207
+      },
+      {
+        "text": "2 equals... Okay, that won't work.",
+        "start": 126.227,
+        "end": 134.477
+      },
+      {
+        "text": "Let's see.",
+        "start": 135.058,
+        "end": 138.382
+      },
+      {
+        "text": "3 equals... I only need one matchstick.",
+        "start": 138.542,
+        "end": 144.309
+      },
+      {
+        "text": "X is two matchsticks.",
+        "start": 144.91,
+        "end": 146.492
+      },
+      {
+        "text": " Oh, I'm so lost on this.",
+        "start": 151.501,
+        "end": 153.164
+      },
+      {
+        "text": "So 1x would be 9 minus 3 is 6.",
+        "start": 157.851,
+        "end": 162.738
+      },
+      {
+        "text": "How the heck?",
+        "start": 166.163,
+        "end": 167.265
+      },
+      {
+        "text": "I got the first one.",
+        "start": 167.285,
+        "end": 168.026
+      },
+      {
+        "text": "The example was easy.",
+        "start": 168.567,
+        "end": 173.634
+      },
+      {
+        "text": "4 equals 10 minus 3.",
+        "start": 173.654,
+        "end": 177.2
+      },
+      {
+        "text": "That won't work.",
+        "start": 177.26,
+        "end": 177.981
+      },
+      {
+        "text": " 2 equals 12 minus 3, that won't work.",
+        "start": 184.053,
+        "end": 189.598
+      },
+      {
+        "text": "Oh, no, this is bad.",
+        "start": 192.861,
+        "end": 194.062
+      },
+      {
+        "text": "OK.",
+        "start": 194.362,
+        "end": 198.606
+      },
+      {
+        "text": "3 plus 11.",
+        "start": 198.626,
+        "end": 202.429
+      },
+      {
+        "text": "What?",
+        "start": 202.689,
+        "end": 203.03
+      },
+      {
+        "text": "How in the world?",
+        "start": 203.87,
+        "end": 204.831
+      },
+      {
+        "text": "4 equals 11.",
+        "start": 204.851,
+        "end": 213.739
+      },
+      {
+        "text": " Minus 2.",
+        "start": 214.057,
+        "end": 215.0
+      },
+      {
+        "text": "What?",
+        "start": 216.705,
+        "end": 217.026
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 220.898,
+        "end": 222.643
+      },
+      {
+        "text": "I don't know.",
+        "start": 228.281,
+        "end": 229.003
+      },
+      {
+        "text": "This is frustrating.",
+        "start": 229.023,
+        "end": 229.946
+      },
+      {
+        "text": "Plus.",
+        "start": 233.477,
+        "end": 233.938
+      },
+      {
+        "text": "What?",
+        "start": 237.69,
+        "end": 237.87
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 11 minus 3. 3 equals 9 minus 3. 3 equals 9 minus 4. So 2 equals 11 minus 9. 2 equals 11 minus 4. Oh my gosh, this is going to mess me up. 3, let's see, 4 equals 9, no, 11 minus 2. No, 2 equals 11 minus 3. OK, 13 equals, man. Let's see. 9. Wow, okay. 1, 1, 1 equals x. 39 minus 3, that wouldn't work. 4 equals 9 minus 2. That won't work. 2 equals... Okay, that won't work. Let's see. 3 equals... I only need one matchstick. X is two matchsticks. Oh, I'm so lost on this. So 1x would be 9 minus 3 is 6. How the heck? I got the first one. The example was easy. 4 equals 10 minus 3. That won't work. 2 equals 12 minus 3, that won't work. Oh, no, this is bad. OK. 3 plus 11. What? How in the world? 4 equals 11. Minus 2. What? I can only move one matchstick. I don't know. This is frustrating. Plus. What?"
+  }
+}

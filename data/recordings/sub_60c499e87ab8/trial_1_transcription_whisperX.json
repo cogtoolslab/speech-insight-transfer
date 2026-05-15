@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_60c499e87ab8/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, 7 equals 12 plus 6. Okay.So, I would say, I'm going to report the correct version of Okay. Okay.Okay, I think. Okay, now I know I gotta work left to right.Okay, so six equals.Incorrect. Seven equals 12 minus six minus five.Hmm.",
+    "segments": [
+      {
+        "text": " OK, 7 equals 12 plus 6.",
+        "start": 0.031,
+        "end": 16.572
+      },
+      {
+        "text": " Okay.",
+        "start": 45.458,
+        "end": 46.039
+      },
+      {
+        "text": "So, I would say, I'm going to report the correct version of",
+        "start": 50.124,
+        "end": 71.871
+      },
+      {
+        "text": " Okay.",
+        "start": 78.078,
+        "end": 78.74
+      },
+      {
+        "text": " Okay.",
+        "start": 121.514,
+        "end": 122.095
+      },
+      {
+        "text": "Okay, I think.",
+        "start": 134.562,
+        "end": 137.228
+      },
+      {
+        "text": " Okay, now I know I gotta work left to right.",
+        "start": 162.925,
+        "end": 165.69
+      },
+      {
+        "text": "Okay, so six equals.",
+        "start": 165.71,
+        "end": 181.862
+      },
+      {
+        "text": "Incorrect.",
+        "start": 181.882,
+        "end": 182.824
+      },
+      {
+        "text": " Seven equals 12 minus six minus five.",
+        "start": 210.327,
+        "end": 227.867
+      },
+      {
+        "text": "Hmm.",
+        "start": 235.276,
+        "end": 235.356
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 7 equals 12 plus 6. Okay. So, I would say, I'm going to report the correct version of Okay. Okay. Okay, I think. Okay, now I know I gotta work left to right. Okay, so six equals. Incorrect. Seven equals 12 minus six minus five. Hmm."
+  }
+}

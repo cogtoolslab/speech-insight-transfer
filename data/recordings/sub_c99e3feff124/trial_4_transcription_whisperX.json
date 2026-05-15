@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_c99e3feff124/trial_4.wav",
+  "with_timestamps": {
+    "text": " Next one.13 equals 9 minus 4.Okay.Let's see.12 would equal 9 plus 4.No, that's not right.Let's see. 11 to 13 equals, make an 11 minus 4, and then we have a 7.12, 9 plus 4 is 13. Oh, let's see.13 is equal to nine plus five.So take the, yes, there we go.13 is equal to nine plus five.So take the match, take away.And that's, wait, I don't know how this equals 14. 10 plus, hmm.Nine plus four.11 minus. 9 equals 4, 11 minus, no, I can't figure this out.This one doesn't make any sense, huh?Because if I take a matchstick away from the left, it turns the 13 to 12, 12 is equal to And then if you have 13 minus nine equals four.Wow, Jesus.13 minus nine equals four.",
+    "segments": [
+      {
+        "text": " Next one.",
+        "start": 0.301,
+        "end": 0.902
+      },
+      {
+        "text": "13 equals 9 minus 4.",
+        "start": 1.724,
+        "end": 5.793
+      },
+      {
+        "text": "Okay.",
+        "start": 6.575,
+        "end": 7.216
+      },
+      {
+        "text": "Let's see.",
+        "start": 10.163,
+        "end": 10.523
+      },
+      {
+        "text": "12 would equal 9 plus 4.",
+        "start": 10.543,
+        "end": 12.408
+      },
+      {
+        "text": "No, that's not right.",
+        "start": 12.468,
+        "end": 13.891
+      },
+      {
+        "text": "Let's see.",
+        "start": 17.9,
+        "end": 19.002
+      },
+      {
+        "text": " 11 to 13 equals, make an 11 minus 4, and then we have a 7.",
+        "start": 31.722,
+        "end": 38.999
+      },
+      {
+        "text": "12, 9 plus 4 is 13.",
+        "start": 39.019,
+        "end": 50.625
+      },
+      {
+        "text": " Oh, let's see.",
+        "start": 63.295,
+        "end": 65.358
+      },
+      {
+        "text": "13 is equal to nine plus five.",
+        "start": 65.378,
+        "end": 70.124
+      },
+      {
+        "text": "So take the, yes, there we go.",
+        "start": 70.145,
+        "end": 72.328
+      },
+      {
+        "text": "13 is equal to nine plus five.",
+        "start": 74.01,
+        "end": 83.743
+      },
+      {
+        "text": "So take the match, take away.",
+        "start": 83.944,
+        "end": 85.526
+      },
+      {
+        "text": "And that's, wait, I don't know how this equals 14.",
+        "start": 86.808,
+        "end": 90.653
+      },
+      {
+        "text": " 10 plus, hmm.",
+        "start": 93.62,
+        "end": 101.153
+      },
+      {
+        "text": "Nine plus four.",
+        "start": 103.878,
+        "end": 104.74
+      },
+      {
+        "text": "11 minus.",
+        "start": 114.617,
+        "end": 117.923
+      },
+      {
+        "text": " 9 equals 4, 11 minus, no, I can't figure this out.",
+        "start": 120.164,
+        "end": 129.056
+      },
+      {
+        "text": "This one doesn't make any sense, huh?",
+        "start": 129.076,
+        "end": 132.581
+      },
+      {
+        "text": "Because if I take a matchstick away from the left, it turns the 13 to 12, 12 is equal to",
+        "start": 134.644,
+        "end": 142.695
+      },
+      {
+        "text": " And then if you have 13 minus nine equals four.",
+        "start": 145.814,
+        "end": 150.889
+      },
+      {
+        "text": "Wow, Jesus.",
+        "start": 151.19,
+        "end": 151.992
+      },
+      {
+        "text": "13 minus nine equals four.",
+        "start": 152.634,
+        "end": 157.107
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Next one. 13 equals 9 minus 4. Okay. Let's see. 12 would equal 9 plus 4. No, that's not right. Let's see. 11 to 13 equals, make an 11 minus 4, and then we have a 7. 12, 9 plus 4 is 13. Oh, let's see. 13 is equal to nine plus five. So take the, yes, there we go. 13 is equal to nine plus five. So take the match, take away. And that's, wait, I don't know how this equals 14. 10 plus, hmm. Nine plus four. 11 minus. 9 equals 4, 11 minus, no, I can't figure this out. This one doesn't make any sense, huh? Because if I take a matchstick away from the left, it turns the 13 to 12, 12 is equal to And then if you have 13 minus nine equals four. Wow, Jesus. 13 minus nine equals four."
+  }
+}

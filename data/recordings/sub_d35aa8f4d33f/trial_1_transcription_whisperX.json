@@ -1,0 +1,161 @@
+{
+  "file": "data/recordings/sub_d35aa8f4d33f/trial_1.wav",
+  "with_timestamps": {
+    "text": " okay this is 8 equals 8 plus 8 so I'm going to let's see Let's see, so I'm putting V11 equals.Let's see.Oh, V11.This is eight.Let's see. Let's see.Oh, let's see.I'm trying to figure.I'm still in the process of figuring it out.V, that's 8, equals 8 plus 8, which is 16.So that's not right.So I need to switch. Oh, I think I can do.Minus. So I can do.So I did V1, V3 minus X3 minus V3 is 8.No, it's not.Let's see. Here we go.Let's see.That's equal to 10 minus 8.Oh, wait a minute.So 10 plus 8 is 18. Oh, so V11 is equal to, let me see, something plus 8 is equal to 8.So 18 minus 8, let's see.Minus V11. No, it's not.It's not it either.Let's see.",
+    "segments": [
+      {
+        "text": " okay this is 8 equals 8 plus 8 so I'm going to let's see",
+        "start": 0.537,
+        "end": 28.232
+      },
+      {
+        "text": " Let's see, so I'm putting V11 equals.",
+        "start": 43.197,
+        "end": 50.586
+      },
+      {
+        "text": "Let's see.",
+        "start": 58.957,
+        "end": 59.277
+      },
+      {
+        "text": "Oh, V11.",
+        "start": 59.417,
+        "end": 59.938
+      },
+      {
+        "text": "This is eight.",
+        "start": 68.309,
+        "end": 71.533
+      },
+      {
+        "text": "Let's see.",
+        "start": 71.553,
+        "end": 71.753
+      },
+      {
+        "text": " Let's see.",
+        "start": 73.724,
+        "end": 74.725
+      },
+      {
+        "text": "Oh, let's see.",
+        "start": 81.774,
+        "end": 83.817
+      },
+      {
+        "text": "I'm trying to figure.",
+        "start": 83.897,
+        "end": 84.658
+      },
+      {
+        "text": "I'm still in the process of figuring it out.",
+        "start": 84.938,
+        "end": 86.861
+      },
+      {
+        "text": "V, that's 8, equals 8 plus 8, which is 16.",
+        "start": 87.882,
+        "end": 92.929
+      },
+      {
+        "text": "So that's not right.",
+        "start": 93.91,
+        "end": 94.991
+      },
+      {
+        "text": "So I need to switch.",
+        "start": 99.597,
+        "end": 101.74
+      },
+      {
+        "text": " Oh, I think I can do.",
+        "start": 113.296,
+        "end": 122.552
+      },
+      {
+        "text": "Minus.",
+        "start": 137.499,
+        "end": 138.24
+      },
+      {
+        "text": " So I can do.",
+        "start": 142.912,
+        "end": 144.154
+      },
+      {
+        "text": "So I did V1, V3 minus X3 minus V3 is 8.",
+        "start": 152.625,
+        "end": 163.479
+      },
+      {
+        "text": "No, it's not.",
+        "start": 163.86,
+        "end": 168.206
+      },
+      {
+        "text": "Let's see.",
+        "start": 168.226,
+        "end": 171.45
+      },
+      {
+        "text": " Here we go.",
+        "start": 174.113,
+        "end": 174.854
+      },
+      {
+        "text": "Let's see.",
+        "start": 174.874,
+        "end": 182.825
+      },
+      {
+        "text": "That's equal to 10 minus 8.",
+        "start": 182.845,
+        "end": 193.078
+      },
+      {
+        "text": "Oh, wait a minute.",
+        "start": 193.098,
+        "end": 193.819
+      },
+      {
+        "text": "So 10 plus 8 is 18.",
+        "start": 194.56,
+        "end": 200.408
+      },
+      {
+        "text": " Oh, so V11 is equal to, let me see, something plus 8 is equal to 8.",
+        "start": 201.215,
+        "end": 213.609
+      },
+      {
+        "text": "So 18 minus 8, let's see.",
+        "start": 213.629,
+        "end": 216.092
+      },
+      {
+        "text": "Minus V11.",
+        "start": 224.662,
+        "end": 226.564
+      },
+      {
+        "text": " No, it's not.",
+        "start": 233.598,
+        "end": 234.525
+      },
+      {
+        "text": "It's not it either.",
+        "start": 234.545,
+        "end": 235.31
+      },
+      {
+        "text": "Let's see.",
+        "start": 236.036,
+        "end": 238.191
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay this is 8 equals 8 plus 8 so I'm going to let's see Let's see, so I'm putting V11 equals. Let's see. Oh, V11. This is eight. Let's see. Let's see. Oh, let's see. I'm trying to figure. I'm still in the process of figuring it out. V, that's 8, equals 8 plus 8, which is 16. So that's not right. So I need to switch. Oh, I think I can do. Minus. So I can do. So I did V1, V3 minus X3 minus V3 is 8. No, it's not. Let's see. Here we go. Let's see. That's equal to 10 minus 8. Oh, wait a minute. So 10 plus 8 is 18. Oh, so V11 is equal to, let me see, something plus 8 is equal to 8. So 18 minus 8, let's see. Minus V11. No, it's not. It's not it either. Let's see."
+  }
+}

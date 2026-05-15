@@ -1,0 +1,331 @@
+{
+  "file": "data/recordings/sub_fb51b65a2596/trial_3.wav",
+  "with_timestamps": {
+    "text": " Now we have 8 equals 8 plus 8.Well, obviously, that's not right.8 plus 8 equals 16.But also 4 plus 4 could equal 8.So can we make these a 4?4 would be no, because it would be just IV.And we have 2 left over.So can we make this a 16?Yes.Oh, no, we can't. Because we can only move one matchstick.Hmm, this one's tougher.Okay, so eight.Have I taken one away from here?No, that's not going to work.I can't make that an axe.We can make a thirteen.Nope.That's not going to be helpful.Thirteen isn't going to work.I don't know what the answer. No.9.No.I can't think.I don't know how to do this one.Hmm.Because it would have to be 8 plus 8 equals 16.But.Because it's 8.Hmm.8 minus 8.No, that would be nothing. Hmm.Um, if I take one of them from here... No, that's not gonna work.What if we make it 13?No.I don't know what this is.Um, I'm just gonna guess.The... Wait, can we make that an X?X?1, 2... 3... equals v i i plus v i i i that's so wrong i don't even know but that's totally wrong i don't know what the answer is hmm neat so can we make this 16 somehow wait we can so it'll be x v i equals v here we go eight plus eight oops oops that was wrong one two three four okay sorry v i i i damn it i forgot the v v There.One more.Yay.No?But that would be right.X, V, I. Right?Because I can't make that.No, I can't.If we make that an X, we make 13.Eight minus eight.No. Seven.I don't know.I give up.I give up!Because I can't make that sixteen.Equals.Eight.V. I I I. Plus.V. I I I. Huh.",
+    "segments": [
+      {
+        "text": " Now we have 8 equals 8 plus 8.",
+        "start": 1.55,
+        "end": 4.533
+      },
+      {
+        "text": "Well, obviously, that's not right.",
+        "start": 4.833,
+        "end": 5.915
+      },
+      {
+        "text": "8 plus 8 equals 16.",
+        "start": 5.935,
+        "end": 7.636
+      },
+      {
+        "text": "But also 4 plus 4 could equal 8.",
+        "start": 8.217,
+        "end": 10.539
+      },
+      {
+        "text": "So can we make these a 4?",
+        "start": 10.599,
+        "end": 12.161
+      },
+      {
+        "text": "4 would be no, because it would be just IV.",
+        "start": 12.802,
+        "end": 16.145
+      },
+      {
+        "text": "And we have 2 left over.",
+        "start": 16.786,
+        "end": 17.747
+      },
+      {
+        "text": "So can we make this a 16?",
+        "start": 18.608,
+        "end": 21.671
+      },
+      {
+        "text": "Yes.",
+        "start": 23.253,
+        "end": 23.453
+      },
+      {
+        "text": "Oh, no, we can't.",
+        "start": 25.315,
+        "end": 26.376
+      },
+      {
+        "text": " Because we can only move one matchstick.",
+        "start": 28.516,
+        "end": 30.919
+      },
+      {
+        "text": "Hmm, this one's tougher.",
+        "start": 31.681,
+        "end": 32.842
+      },
+      {
+        "text": "Okay, so eight.",
+        "start": 32.862,
+        "end": 35.406
+      },
+      {
+        "text": "Have I taken one away from here?",
+        "start": 37.729,
+        "end": 38.971
+      },
+      {
+        "text": "No, that's not going to work.",
+        "start": 39.031,
+        "end": 41.034
+      },
+      {
+        "text": "I can't make that an axe.",
+        "start": 44.419,
+        "end": 45.761
+      },
+      {
+        "text": "We can make a thirteen.",
+        "start": 47.964,
+        "end": 48.825
+      },
+      {
+        "text": "Nope.",
+        "start": 48.846,
+        "end": 49.987
+      },
+      {
+        "text": "That's not going to be helpful.",
+        "start": 51.009,
+        "end": 51.97
+      },
+      {
+        "text": "Thirteen isn't going to work.",
+        "start": 52.851,
+        "end": 54.474
+      },
+      {
+        "text": "I don't know what the answer.",
+        "start": 54.914,
+        "end": 56.076
+      },
+      {
+        "text": " No.",
+        "start": 59.06,
+        "end": 59.741
+      },
+      {
+        "text": "9.",
+        "start": 59.761,
+        "end": 62.945
+      },
+      {
+        "text": "No.",
+        "start": 63.686,
+        "end": 64.027
+      },
+      {
+        "text": "I can't think.",
+        "start": 65.709,
+        "end": 66.49
+      },
+      {
+        "text": "I don't know how to do this one.",
+        "start": 66.87,
+        "end": 68.372
+      },
+      {
+        "text": "Hmm.",
+        "start": 73.8,
+        "end": 74.641
+      },
+      {
+        "text": "Because it would have to be 8 plus 8 equals 16.",
+        "start": 74.661,
+        "end": 76.804
+      },
+      {
+        "text": "But.",
+        "start": 76.984,
+        "end": 77.685
+      },
+      {
+        "text": "Because it's 8.",
+        "start": 81.149,
+        "end": 82.01
+      },
+      {
+        "text": "Hmm.",
+        "start": 83.352,
+        "end": 84.474
+      },
+      {
+        "text": "8 minus 8.",
+        "start": 84.494,
+        "end": 87.378
+      },
+      {
+        "text": "No, that would be nothing.",
+        "start": 87.458,
+        "end": 88.459
+      },
+      {
+        "text": " Hmm.",
+        "start": 91.072,
+        "end": 92.674
+      },
+      {
+        "text": "Um, if I take one of them from here... No, that's not gonna work.",
+        "start": 92.694,
+        "end": 97.801
+      },
+      {
+        "text": "What if we make it 13?",
+        "start": 98.222,
+        "end": 99.584
+      },
+      {
+        "text": "No.",
+        "start": 99.964,
+        "end": 100.224
+      },
+      {
+        "text": "I don't know what this is.",
+        "start": 103.329,
+        "end": 104.39
+      },
+      {
+        "text": "Um, I'm just gonna guess.",
+        "start": 105.652,
+        "end": 108.536
+      },
+      {
+        "text": "The... Wait, can we make that an X?",
+        "start": 108.556,
+        "end": 113.102
+      },
+      {
+        "text": "X?",
+        "start": 115.365,
+        "end": 115.525
+      },
+      {
+        "text": "1, 2... 3...",
+        "start": 116.667,
+        "end": 119.931
+      },
+      {
+        "text": " equals v i i plus v i i i that's so wrong i don't even know but that's totally wrong i don't know what the answer is hmm neat so can we make this 16 somehow",
+        "start": 121.852,
+        "end": 149.209
+      },
+      {
+        "text": " wait we can so it'll be x v i equals v here we go eight plus eight oops oops that was wrong one two three four okay sorry v i i i damn it i forgot the v v",
+        "start": 150.235,
+        "end": 178.521
+      },
+      {
+        "text": " There.",
+        "start": 181.37,
+        "end": 181.71
+      },
+      {
+        "text": "One more.",
+        "start": 182.191,
+        "end": 182.452
+      },
+      {
+        "text": "Yay.",
+        "start": 182.472,
+        "end": 184.314
+      },
+      {
+        "text": "No?",
+        "start": 185.776,
+        "end": 186.077
+      },
+      {
+        "text": "But that would be right.",
+        "start": 190.222,
+        "end": 191.104
+      },
+      {
+        "text": "X, V, I. Right?",
+        "start": 191.644,
+        "end": 198.214
+      },
+      {
+        "text": "Because I can't make that.",
+        "start": 198.234,
+        "end": 199.095
+      },
+      {
+        "text": "No, I can't.",
+        "start": 199.115,
+        "end": 199.876
+      },
+      {
+        "text": "If we make that an X, we make 13.",
+        "start": 203.461,
+        "end": 205.684
+      },
+      {
+        "text": "Eight minus eight.",
+        "start": 205.704,
+        "end": 208.989
+      },
+      {
+        "text": "No.",
+        "start": 209.009,
+        "end": 209.149
+      },
+      {
+        "text": " Seven.",
+        "start": 211.07,
+        "end": 211.751
+      },
+      {
+        "text": "I don't know.",
+        "start": 213.814,
+        "end": 214.255
+      },
+      {
+        "text": "I give up.",
+        "start": 215.096,
+        "end": 216.318
+      },
+      {
+        "text": "I give up!",
+        "start": 216.338,
+        "end": 216.979
+      },
+      {
+        "text": "Because I can't make that sixteen.",
+        "start": 220.604,
+        "end": 221.906
+      },
+      {
+        "text": "Equals.",
+        "start": 223.148,
+        "end": 223.569
+      },
+      {
+        "text": "Eight.",
+        "start": 224.891,
+        "end": 225.111
+      },
+      {
+        "text": "V. I I I. Plus.",
+        "start": 226.714,
+        "end": 231.22
+      },
+      {
+        "text": "V. I I I. Huh.",
+        "start": 231.241,
+        "end": 238.191
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Now we have 8 equals 8 plus 8. Well, obviously, that's not right. 8 plus 8 equals 16. But also 4 plus 4 could equal 8. So can we make these a 4? 4 would be no, because it would be just IV. And we have 2 left over. So can we make this a 16? Yes. Oh, no, we can't. Because we can only move one matchstick. Hmm, this one's tougher. Okay, so eight. Have I taken one away from here? No, that's not going to work. I can't make that an axe. We can make a thirteen. Nope. That's not going to be helpful. Thirteen isn't going to work. I don't know what the answer. No. 9. No. I can't think. I don't know how to do this one. Hmm. Because it would have to be 8 plus 8 equals 16. But. Because it's 8. Hmm. 8 minus 8. No, that would be nothing. Hmm. Um, if I take one of them from here... No, that's not gonna work. What if we make it 13? No. I don't know what this is. Um, I'm just gonna guess. The... Wait, can we make that an X? X? 1, 2... 3... equals v i i plus v i i i that's so wrong i don't even know but that's totally wrong i don't know what the answer is hmm neat so can we make this 16 somehow wait we can so it'll be x v i equals v here we go eight plus eight oops oops that was wrong one two three four okay sorry v i i i damn it i forgot the v v There. One more. Yay. No? But that would be right. X, V, I. Right? Because I can't make that. No, I can't. If we make that an X, we make 13. Eight minus eight. No. Seven. I don't know. I give up. I give up! Because I can't make that sixteen. Equals. Eight. V. I I I. Plus. V. I I I. Huh."
+  }
+}

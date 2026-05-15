@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_22e46408b7d2/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, we're gonna get one of these.We're definitely gonna get one of these right.Not my strong suit, but damn, I'm gonna try.So we got what, eight, no that's 10, 11, 12, 13 equals nine minus four. 13 equals 9 minus 4.So how can I make that correct?13 minus 9 equals 4?Yeah.So if I do 13 minus 9 equals 4.",
+    "segments": [
+      {
+        "text": " Okay, we're gonna get one of these.",
+        "start": 1.651,
+        "end": 3.715
+      },
+      {
+        "text": "We're definitely gonna get one of these right.",
+        "start": 4.376,
+        "end": 5.719
+      },
+      {
+        "text": "Not my strong suit, but damn, I'm gonna try.",
+        "start": 7.562,
+        "end": 9.666
+      },
+      {
+        "text": "So we got what, eight, no that's 10, 11, 12, 13 equals nine minus four.",
+        "start": 13.012,
+        "end": 23.271
+      },
+      {
+        "text": " 13 equals 9 minus 4.",
+        "start": 28.533,
+        "end": 31.818
+      },
+      {
+        "text": "So how can I make that correct?",
+        "start": 39.872,
+        "end": 43.959
+      },
+      {
+        "text": "13 minus 9 equals 4?",
+        "start": 43.979,
+        "end": 50.369
+      },
+      {
+        "text": "Yeah.",
+        "start": 51.03,
+        "end": 51.411
+      },
+      {
+        "text": "So if I do",
+        "start": 53.675,
+        "end": 54.456
+      },
+      {
+        "text": " 13 minus 9 equals 4.",
+        "start": 56.596,
+        "end": 63.855
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we're gonna get one of these. We're definitely gonna get one of these right. Not my strong suit, but damn, I'm gonna try. So we got what, eight, no that's 10, 11, 12, 13 equals nine minus four. 13 equals 9 minus 4. So how can I make that correct? 13 minus 9 equals 4? Yeah. So if I do 13 minus 9 equals 4."
+  }
+}

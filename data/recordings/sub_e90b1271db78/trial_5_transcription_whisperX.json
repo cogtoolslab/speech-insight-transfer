@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_e90b1271db78/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 equals 4 minus 2, so that's already right though.Oh wait, no, that's 9 minus 2, okay.So maybe if we just change that to 4 minus 2.2 minus, equals 4 minus 2.",
+    "segments": [
+      {
+        "text": " 2 equals 4 minus 2, so that's already right though.",
+        "start": 1.381,
+        "end": 11.715
+      },
+      {
+        "text": "Oh wait, no, that's 9 minus 2, okay.",
+        "start": 11.735,
+        "end": 13.998
+      },
+      {
+        "text": "So maybe if we just change that to 4 minus 2.",
+        "start": 15.84,
+        "end": 23.15
+      },
+      {
+        "text": "2 minus, equals 4 minus 2.",
+        "start": 23.17,
+        "end": 27.135
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 4 minus 2, so that's already right though. Oh wait, no, that's 9 minus 2, okay. So maybe if we just change that to 4 minus 2. 2 minus, equals 4 minus 2."
+  }
+}

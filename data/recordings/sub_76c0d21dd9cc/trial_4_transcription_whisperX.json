@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_4.wav",
+  "with_timestamps": {
+    "text": " 3 equals 9 minus 4 9 minus 4 9 minus 6",
+    "segments": [
+      {
+        "text": " 3 equals 9 minus 4 9 minus 4",
+        "start": 1.718,
+        "end": 27.591
+      },
+      {
+        "text": " 9 minus 6",
+        "start": 29.444,
+        "end": 31.843
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 9 minus 4 9 minus 4 9 minus 6"
+  }
+}

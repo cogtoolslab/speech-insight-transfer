@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_b7ff146d8536/trial_5.wav",
+  "with_timestamps": {
+    "text": " okay this one three three equals eleven minus three eleven minus three is eight so how do we make this side If I were to make this into a five, that would be six minus three, there we go.All right, so we're gonna do one, two, three equals, we're gonna change this into a five and leave that.So that's six minus three, one, two, three, there we go.",
+    "segments": [
+      {
+        "text": " okay this one three three equals eleven minus three eleven minus three is eight so how do we make this side",
+        "start": 0.807,
+        "end": 20.875
+      },
+      {
+        "text": " If I were to make this into a five, that would be six minus three, there we go.",
+        "start": 23.015,
+        "end": 30.923
+      },
+      {
+        "text": "All right, so we're gonna do one, two, three equals, we're gonna change this into a five and leave that.",
+        "start": 31.944,
+        "end": 41.853
+      },
+      {
+        "text": "So that's six minus three, one, two, three, there we go.",
+        "start": 41.873,
+        "end": 49.14
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay this one three three equals eleven minus three eleven minus three is eight so how do we make this side If I were to make this into a five, that would be six minus three, there we go. All right, so we're gonna do one, two, three equals, we're gonna change this into a five and leave that. So that's six minus three, one, two, three, there we go."
+  }
+}

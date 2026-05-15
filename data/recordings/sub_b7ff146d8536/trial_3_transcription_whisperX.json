@@ -1,0 +1,181 @@
+{
+  "file": "data/recordings/sub_b7ff146d8536/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, I see that's 2, and this one is 9 minus 2, which is 9, 2.Now, if I make the X over here, 9 minus 2, right?9 minus 2 equals 7. Now, what if I want to change this into... No, can't do that.How do I change that to a five?I don't think I can change that to a five.All right, so if I put this... Oh, that's not... X, put it here.That'd be too much, that'd be 13. The one over here, three, still not enough.Put the X over here.None of these work.X. Let me just play around and see here.All right, so if I put the X and made it one, one, equals... See, that doesn't make any sense.That's not it.Could I make it into a five somehow? I wonder if I could make it into a five, because they just said add one, but they didn't say, I don't remember the angle.So, nine.Nine minus, but still, even if I added one, it won't work.Hold on.Nine, one, one. But if I move this one over here to make it a, because that's right now that's a nine minus, but I would have to make that into eight to make it equal.So how would I make that into an eight, right?Nine minus, Or even if I made it into an 11, that's still two, that's still off.Let's see.Six equals nine minus two, still off. Hold on, let's see this.Let's do... No, let's do 6 equals 9 minus 1.No, see?It doesn't work.6 equals... I think I got it but I don't have enough time.Yeah, I think I got it but I don't have enough time.",
+    "segments": [
+      {
+        "text": " Okay, I see that's 2, and this one is 9 minus 2, which is 9, 2.",
+        "start": 2.022,
+        "end": 11.158
+      },
+      {
+        "text": "Now, if I make the X over here, 9 minus 2, right?",
+        "start": 12.58,
+        "end": 24.401
+      },
+      {
+        "text": "9 minus 2 equals 7.",
+        "start": 24.421,
+        "end": 25.583
+      },
+      {
+        "text": " Now, what if I want to change this into... No, can't do that.",
+        "start": 31.469,
+        "end": 38.318
+      },
+      {
+        "text": "How do I change that to a five?",
+        "start": 39.339,
+        "end": 40.721
+      },
+      {
+        "text": "I don't think I can change that to a five.",
+        "start": 40.741,
+        "end": 42.383
+      },
+      {
+        "text": "All right, so if I put this... Oh, that's not... X, put it here.",
+        "start": 43.444,
+        "end": 56.621
+      },
+      {
+        "text": "That'd be too much, that'd be 13.",
+        "start": 56.661,
+        "end": 60.025
+      },
+      {
+        "text": " The one over here, three, still not enough.",
+        "start": 62.165,
+        "end": 65.329
+      },
+      {
+        "text": "Put the X over here.",
+        "start": 67.331,
+        "end": 68.593
+      },
+      {
+        "text": "None of these work.",
+        "start": 68.633,
+        "end": 70.095
+      },
+      {
+        "text": "X. Let me just play around and see here.",
+        "start": 74.02,
+        "end": 81.629
+      },
+      {
+        "text": "All right, so if I put the X and made it one, one,",
+        "start": 82.871,
+        "end": 90.4
+      },
+      {
+        "text": " equals... See, that doesn't make any sense.",
+        "start": 92.32,
+        "end": 98.952
+      },
+      {
+        "text": "That's not it.",
+        "start": 99.914,
+        "end": 100.555
+      },
+      {
+        "text": "Could I make it into a five somehow?",
+        "start": 106.326,
+        "end": 108.49
+      },
+      {
+        "text": " I wonder if I could make it into a five, because they just said add one, but they didn't say, I don't remember the angle.",
+        "start": 113.887,
+        "end": 121.158
+      },
+      {
+        "text": "So, nine.",
+        "start": 122.32,
+        "end": 127.908
+      },
+      {
+        "text": "Nine minus, but still, even if I added one, it won't work.",
+        "start": 127.988,
+        "end": 130.732
+      },
+      {
+        "text": "Hold on.",
+        "start": 133.276,
+        "end": 135.019
+      },
+      {
+        "text": "Nine, one, one.",
+        "start": 138.303,
+        "end": 140.046
+      },
+      {
+        "text": " But if I move this one over here to make it a, because that's right now that's a nine minus, but I would have to make that into eight to make it equal.",
+        "start": 142.81,
+        "end": 159.752
+      },
+      {
+        "text": "So how would I make that into an eight, right?",
+        "start": 161.394,
+        "end": 165.48
+      },
+      {
+        "text": "Nine minus,",
+        "start": 166.041,
+        "end": 167.923
+      },
+      {
+        "text": " Or even if I made it into an 11, that's still two, that's still off.",
+        "start": 169.0,
+        "end": 173.785
+      },
+      {
+        "text": "Let's see.",
+        "start": 178.411,
+        "end": 178.851
+      },
+      {
+        "text": "Six equals nine minus two, still off.",
+        "start": 182.876,
+        "end": 191.245
+      },
+      {
+        "text": " Hold on, let's see this.",
+        "start": 195.899,
+        "end": 198.521
+      },
+      {
+        "text": "Let's do... No, let's do 6 equals 9 minus 1.",
+        "start": 199.402,
+        "end": 211.854
+      },
+      {
+        "text": "No, see?",
+        "start": 214.637,
+        "end": 215.958
+      },
+      {
+        "text": "It doesn't work.",
+        "start": 216.959,
+        "end": 218.14
+      },
+      {
+        "text": "6 equals...",
+        "start": 221.323,
+        "end": 223.645
+      },
+      {
+        "text": " I think I got it but I don't have enough time.",
+        "start": 227.59,
+        "end": 235.358
+      },
+      {
+        "text": "Yeah, I think I got it but I don't have enough time.",
+        "start": 235.399,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, I see that's 2, and this one is 9 minus 2, which is 9, 2. Now, if I make the X over here, 9 minus 2, right? 9 minus 2 equals 7. Now, what if I want to change this into... No, can't do that. How do I change that to a five? I don't think I can change that to a five. All right, so if I put this... Oh, that's not... X, put it here. That'd be too much, that'd be 13. The one over here, three, still not enough. Put the X over here. None of these work. X. Let me just play around and see here. All right, so if I put the X and made it one, one, equals... See, that doesn't make any sense. That's not it. Could I make it into a five somehow? I wonder if I could make it into a five, because they just said add one, but they didn't say, I don't remember the angle. So, nine. Nine minus, but still, even if I added one, it won't work. Hold on. Nine, one, one. But if I move this one over here to make it a, because that's right now that's a nine minus, but I would have to make that into eight to make it equal. So how would I make that into an eight, right? Nine minus, Or even if I made it into an 11, that's still two, that's still off. Let's see. Six equals nine minus two, still off. Hold on, let's see this. Let's do... No, let's do 6 equals 9 minus 1. No, see? It doesn't work. 6 equals... I think I got it but I don't have enough time. Yeah, I think I got it but I don't have enough time."
+  }
+}

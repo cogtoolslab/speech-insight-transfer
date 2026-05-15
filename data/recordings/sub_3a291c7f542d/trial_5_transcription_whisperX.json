@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_3a291c7f542d/trial_5.wav",
+  "with_timestamps": {
+    "text": " Nine equals 12 plus four.So let's see.12 plus four, 12 minus four.Let's see.All right, let me see. 10 equals, let's see, 13 minus five, no.Okay, let's, 11 equals 12 minus, Let's see.Nine equals, okay, let me see.Nine equals, nine equals 11, let's see, 12 minus, Seven, let's see.Minus four.Nope, I turned it off with my own hands.No, no, let's see.13 minus four.Okay.13 minus four.",
+    "segments": [
+      {
+        "text": " Nine equals 12 plus four.",
+        "start": 0.031,
+        "end": 9.002
+      },
+      {
+        "text": "So let's see.",
+        "start": 11.426,
+        "end": 14.91
+      },
+      {
+        "text": "12 plus four, 12 minus four.",
+        "start": 14.93,
+        "end": 17.253
+      },
+      {
+        "text": "Let's see.",
+        "start": 18.435,
+        "end": 19.075
+      },
+      {
+        "text": "All right, let me see.",
+        "start": 27.206,
+        "end": 29.008
+      },
+      {
+        "text": " 10 equals, let's see, 13 minus five, no.",
+        "start": 31.587,
+        "end": 45.367
+      },
+      {
+        "text": "Okay, let's, 11 equals 12 minus,",
+        "start": 47.871,
+        "end": 58.607
+      },
+      {
+        "text": " Let's see.",
+        "start": 64.088,
+        "end": 64.869
+      },
+      {
+        "text": "Nine equals, okay, let me see.",
+        "start": 70.075,
+        "end": 71.617
+      },
+      {
+        "text": "Nine equals, nine equals 11, let's see, 12 minus,",
+        "start": 73.459,
+        "end": 93.302
+      },
+      {
+        "text": " Seven, let's see.",
+        "start": 101.45,
+        "end": 107.219
+      },
+      {
+        "text": "Minus four.",
+        "start": 107.239,
+        "end": 108.661
+      },
+      {
+        "text": "Nope, I turned it off with my own hands.",
+        "start": 108.721,
+        "end": 113.228
+      },
+      {
+        "text": "No, no, let's see.",
+        "start": 114.79,
+        "end": 115.912
+      },
+      {
+        "text": "13 minus four.",
+        "start": 117.134,
+        "end": 118.256
+      },
+      {
+        "text": "Okay.",
+        "start": 120.279,
+        "end": 120.619
+      },
+      {
+        "text": "13 minus four.",
+        "start": 122.743,
+        "end": 126.208
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Nine equals 12 plus four. So let's see. 12 plus four, 12 minus four. Let's see. All right, let me see. 10 equals, let's see, 13 minus five, no. Okay, let's, 11 equals 12 minus, Let's see. Nine equals, okay, let me see. Nine equals, nine equals 11, let's see, 12 minus, Seven, let's see. Minus four. Nope, I turned it off with my own hands. No, no, let's see. 13 minus four. Okay. 13 minus four."
+  }
+}

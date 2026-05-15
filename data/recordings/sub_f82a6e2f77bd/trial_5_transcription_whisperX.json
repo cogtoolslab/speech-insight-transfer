@@ -1,0 +1,281 @@
+{
+  "file": "data/recordings/sub_f82a6e2f77bd/trial_5.wav",
+  "with_timestamps": {
+    "text": " Here we go.7 equals 3 minus 4.7 equals 3 minus 4.3 minus 4 would technically be negative 1, right?Because 4 minus 3 is 1.You're supposed to do like 4 minus 3.So like, it's 1. So the answer is 1, but we're saying that the answer is 7.So how can I make it?OK.6, 5, 4, 3, 5, 6, 7.I feel like I should be able to get this one.7.7 equals 4, 5, 6, 7.OK.I just got to add the stick to make it an addition, right?I, I, I plus. Take it in.Oh, what?Okay, 7 equals 3.Isn't it 4?5, 6, 7.Did I type it in right?5, 6, 7 equals 3 plus 4.Why is that incorrect?3 plus 4 is 7, right?7, oh wait, my bad. Yeah, wait, 7, 8, 9, 10, 11.8, 9, 10, 11.5, 6, 7.Wait, what am I doing?I keep seeing the two sticks and thinking it's 11.I'm so sorry.7.Yeah.1, 2, 3.4, 5, 6, 7. 5, 6, 7.1, 2, 3, 4, 5, 6, 7.But can I, what isn't that working?Is it because it's not like properly typed?I don't know.I might not be typing it in properly.Okay, that should be it, right?7, 4, 5, 6, 7.Why is that incorrect?I'm going to try typing it in the proper way because it's not proper, it would be IV plus III.Well, we can only move one match.Oh, we can move.Okay, let me do this.I'm going to do it like this.7 minus 3 equals Oh, boy.",
+    "segments": [
+      {
+        "text": " Here we go.",
+        "start": 0.031,
+        "end": 1.513
+      },
+      {
+        "text": "7 equals 3 minus 4.",
+        "start": 2.735,
+        "end": 6.621
+      },
+      {
+        "text": "7 equals 3 minus 4.",
+        "start": 6.641,
+        "end": 12.029
+      },
+      {
+        "text": "3 minus 4 would technically be negative 1, right?",
+        "start": 12.049,
+        "end": 19.7
+      },
+      {
+        "text": "Because 4 minus 3 is 1.",
+        "start": 21.423,
+        "end": 22.745
+      },
+      {
+        "text": "You're supposed to do like 4 minus 3.",
+        "start": 23.065,
+        "end": 24.728
+      },
+      {
+        "text": "So like, it's 1.",
+        "start": 26.21,
+        "end": 28.333
+      },
+      {
+        "text": " So the answer is 1, but we're saying that the answer is 7.",
+        "start": 30.693,
+        "end": 34.377
+      },
+      {
+        "text": "So how can I make it?",
+        "start": 35.197,
+        "end": 36.218
+      },
+      {
+        "text": "OK.",
+        "start": 36.979,
+        "end": 37.359
+      },
+      {
+        "text": "6, 5, 4, 3, 5, 6, 7.",
+        "start": 37.379,
+        "end": 42.865
+      },
+      {
+        "text": "I feel like I should be able to get this one.",
+        "start": 42.985,
+        "end": 44.326
+      },
+      {
+        "text": "7.",
+        "start": 45.007,
+        "end": 45.167
+      },
+      {
+        "text": "7 equals 4, 5, 6, 7.",
+        "start": 45.187,
+        "end": 49.171
+      },
+      {
+        "text": "OK.",
+        "start": 49.231,
+        "end": 49.731
+      },
+      {
+        "text": "I just got to add the stick to make it an addition, right?",
+        "start": 49.771,
+        "end": 54.556
+      },
+      {
+        "text": "I, I, I plus.",
+        "start": 57.058,
+        "end": 59.721
+      },
+      {
+        "text": " Take it in.",
+        "start": 60.258,
+        "end": 61.66
+      },
+      {
+        "text": "Oh, what?",
+        "start": 64.883,
+        "end": 65.424
+      },
+      {
+        "text": "Okay, 7 equals 3.",
+        "start": 66.285,
+        "end": 69.409
+      },
+      {
+        "text": "Isn't it 4?",
+        "start": 70.65,
+        "end": 71.191
+      },
+      {
+        "text": "5, 6, 7.",
+        "start": 71.211,
+        "end": 71.591
+      },
+      {
+        "text": "Did I type it in right?",
+        "start": 72.172,
+        "end": 73.313
+      },
+      {
+        "text": "5, 6, 7 equals 3 plus 4.",
+        "start": 73.333,
+        "end": 81.543
+      },
+      {
+        "text": "Why is that incorrect?",
+        "start": 84.887,
+        "end": 85.848
+      },
+      {
+        "text": "3 plus 4 is 7, right?",
+        "start": 85.968,
+        "end": 87.35
+      },
+      {
+        "text": "7, oh wait, my bad.",
+        "start": 87.37,
+        "end": 89.472
+      },
+      {
+        "text": " Yeah, wait, 7, 8, 9, 10, 11.",
+        "start": 90.008,
+        "end": 91.27
+      },
+      {
+        "text": "8, 9, 10, 11.",
+        "start": 91.29,
+        "end": 92.091
+      },
+      {
+        "text": "5, 6, 7.",
+        "start": 92.111,
+        "end": 95.335
+      },
+      {
+        "text": "Wait, what am I doing?",
+        "start": 95.736,
+        "end": 97.278
+      },
+      {
+        "text": "I keep seeing the two sticks and thinking it's 11.",
+        "start": 97.318,
+        "end": 100.382
+      },
+      {
+        "text": "I'm so sorry.",
+        "start": 100.483,
+        "end": 101.103
+      },
+      {
+        "text": "7.",
+        "start": 101.123,
+        "end": 101.824
+      },
+      {
+        "text": "Yeah.",
+        "start": 101.844,
+        "end": 102.125
+      },
+      {
+        "text": "1, 2, 3.",
+        "start": 102.145,
+        "end": 106.13
+      },
+      {
+        "text": "4, 5, 6, 7.",
+        "start": 106.15,
+        "end": 113.08
+      },
+      {
+        "text": " 5, 6, 7.",
+        "start": 114.663,
+        "end": 115.043
+      },
+      {
+        "text": "1, 2, 3, 4, 5, 6, 7.",
+        "start": 115.064,
+        "end": 117.607
+      },
+      {
+        "text": "But can I, what isn't that working?",
+        "start": 118.188,
+        "end": 119.69
+      },
+      {
+        "text": "Is it because it's not like properly typed?",
+        "start": 119.73,
+        "end": 125.217
+      },
+      {
+        "text": "I don't know.",
+        "start": 125.637,
+        "end": 126.038
+      },
+      {
+        "text": "I might not be typing it in properly.",
+        "start": 128.421,
+        "end": 130.604
+      },
+      {
+        "text": "Okay, that should be it, right?",
+        "start": 131.745,
+        "end": 133.047
+      },
+      {
+        "text": "7, 4, 5, 6, 7.",
+        "start": 133.067,
+        "end": 136.532
+      },
+      {
+        "text": "Why is that incorrect?",
+        "start": 137.292,
+        "end": 138.374
+      },
+      {
+        "text": "I'm going to try typing it in the proper way because it's not",
+        "start": 140.957,
+        "end": 144.602
+      },
+      {
+        "text": " proper, it would be IV plus III.",
+        "start": 144.92,
+        "end": 150.985
+      },
+      {
+        "text": "Well, we can only move one match.",
+        "start": 154.068,
+        "end": 161.235
+      },
+      {
+        "text": "Oh, we can move.",
+        "start": 161.255,
+        "end": 161.835
+      },
+      {
+        "text": "Okay, let me do this.",
+        "start": 161.855,
+        "end": 163.477
+      },
+      {
+        "text": "I'm going to do it like this.",
+        "start": 166.019,
+        "end": 171.143
+      },
+      {
+        "text": "7 minus 3 equals",
+        "start": 171.163,
+        "end": 174.066
+      },
+      {
+        "text": " Oh, boy.",
+        "start": 174.687,
+        "end": 175.67
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Here we go. 7 equals 3 minus 4. 7 equals 3 minus 4. 3 minus 4 would technically be negative 1, right? Because 4 minus 3 is 1. You're supposed to do like 4 minus 3. So like, it's 1. So the answer is 1, but we're saying that the answer is 7. So how can I make it? OK. 6, 5, 4, 3, 5, 6, 7. I feel like I should be able to get this one. 7. 7 equals 4, 5, 6, 7. OK. I just got to add the stick to make it an addition, right? I, I, I plus. Take it in. Oh, what? Okay, 7 equals 3. Isn't it 4? 5, 6, 7. Did I type it in right? 5, 6, 7 equals 3 plus 4. Why is that incorrect? 3 plus 4 is 7, right? 7, oh wait, my bad. Yeah, wait, 7, 8, 9, 10, 11. 8, 9, 10, 11. 5, 6, 7. Wait, what am I doing? I keep seeing the two sticks and thinking it's 11. I'm so sorry. 7. Yeah. 1, 2, 3. 4, 5, 6, 7. 5, 6, 7. 1, 2, 3, 4, 5, 6, 7. But can I, what isn't that working? Is it because it's not like properly typed? I don't know. I might not be typing it in properly. Okay, that should be it, right? 7, 4, 5, 6, 7. Why is that incorrect? I'm going to try typing it in the proper way because it's not proper, it would be IV plus III. Well, we can only move one match. Oh, we can move. Okay, let me do this. I'm going to do it like this. 7 minus 3 equals Oh, boy."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_2dba0fd1be9e/trial_2.wav",
+  "with_timestamps": {
+    "text": " 2 equals 11 minus 7 would be 9 minus 7.So 2 equals IX minus VI.",
+    "segments": [
+      {
+        "text": " 2 equals 11 minus 7 would be 9 minus 7.",
+        "start": 1.634,
+        "end": 13.987
+      },
+      {
+        "text": "So 2 equals IX minus VI.",
+        "start": 14.828,
+        "end": 26.68
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 11 minus 7 would be 9 minus 7. So 2 equals IX minus VI."
+  }
+}

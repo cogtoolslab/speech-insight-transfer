@@ -1,0 +1,286 @@
+{
+  "file": "data/recordings/sub_1931b225acb4/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so we have four equals 11 minus 11.So, oh boy.Or 11 minus two, which is nine.Six.Okay.Hmm.Let me think.What would make this work?Well, we have a four equals, 11 minus 2, which is 9.Hmm.4.11.Let's see.11, 10.I just can't seem to get it there. Let's see.Four minus 11, then that would be negative, so I don't think that would work.Let's see.I can't seem to figure this out.11 minus 11, let's see, 10, 11 minus 11 is zero, so four I wish I could get this to be zero.Five, four, three, two, one, zero.Let's see.Four equals 11 minus 11.Well, we could do 11 plus 11, which is 22, but that wouldn't work because four plus, it'd have to be a big number. Um, let's see.And it's just moving one max, like, if it could be more than one.Oh, wow.12 minus 11, minus 2.Let's see, 10, 11.12 minus 11 is 1.So, but that wouldn't equal 4. Oh, boy.Let's see.This one's tricky, too.Four.Maybe we could do something that that matched it.Two equals, oh, 12 minus one.Oh, yes.I think this might not be right. 2 equals 11 minus 11.That would be zero.I feel like I need to get it to zero.And I've already moved one of the matchsticks.5 equals 11 minus 11 now. Let's see, 11 minus 1 is 10.10 equals 11 minus 1.Oh, boy.Let's see.10 equals 11 minus 1.But that's moving more than one map. Oh, boy.Well, I tried.It's probably more than one, I think.",
+    "segments": [
+      {
+        "text": " Okay, so we have four equals 11 minus 11.",
+        "start": 1.398,
+        "end": 4.682
+      },
+      {
+        "text": "So, oh boy.",
+        "start": 5.103,
+        "end": 7.726
+      },
+      {
+        "text": "Or 11 minus two, which is nine.",
+        "start": 8.707,
+        "end": 10.529
+      },
+      {
+        "text": "Six.",
+        "start": 12.712,
+        "end": 13.152
+      },
+      {
+        "text": "Okay.",
+        "start": 14.774,
+        "end": 15.135
+      },
+      {
+        "text": "Hmm.",
+        "start": 20.221,
+        "end": 20.622
+      },
+      {
+        "text": "Let me think.",
+        "start": 22.864,
+        "end": 25.407
+      },
+      {
+        "text": "What would make this work?",
+        "start": 25.427,
+        "end": 27.009
+      },
+      {
+        "text": "Well, we have a four equals,",
+        "start": 29.132,
+        "end": 30.814
+      },
+      {
+        "text": " 11 minus 2, which is 9.",
+        "start": 31.334,
+        "end": 37.082
+      },
+      {
+        "text": "Hmm.",
+        "start": 40.526,
+        "end": 46.594
+      },
+      {
+        "text": "4.",
+        "start": 46.614,
+        "end": 46.915
+      },
+      {
+        "text": "11.",
+        "start": 46.935,
+        "end": 47.195
+      },
+      {
+        "text": "Let's see.",
+        "start": 47.215,
+        "end": 50.379
+      },
+      {
+        "text": "11, 10.",
+        "start": 50.399,
+        "end": 50.9
+      },
+      {
+        "text": "I just can't seem to get it there.",
+        "start": 51.36,
+        "end": 57.949
+      },
+      {
+        "text": " Let's see.",
+        "start": 61.372,
+        "end": 63.615
+      },
+      {
+        "text": "Four minus 11, then that would be negative, so I don't think that would work.",
+        "start": 64.195,
+        "end": 71.984
+      },
+      {
+        "text": "Let's see.",
+        "start": 75.468,
+        "end": 78.192
+      },
+      {
+        "text": "I can't seem to figure this out.",
+        "start": 81.776,
+        "end": 83.538
+      },
+      {
+        "text": "11 minus 11, let's see, 10, 11 minus 11 is zero, so four",
+        "start": 83.558,
+        "end": 89.725
+      },
+      {
+        "text": " I wish I could get this to be zero.",
+        "start": 90.194,
+        "end": 92.136
+      },
+      {
+        "text": "Five, four, three, two, one, zero.",
+        "start": 92.156,
+        "end": 97.16
+      },
+      {
+        "text": "Let's see.",
+        "start": 99.762,
+        "end": 100.203
+      },
+      {
+        "text": "Four equals 11 minus 11.",
+        "start": 104.827,
+        "end": 107.789
+      },
+      {
+        "text": "Well, we could do 11 plus 11, which is 22, but that wouldn't work because four plus, it'd have to be a big number.",
+        "start": 109.791,
+        "end": 119.239
+      },
+      {
+        "text": " Um, let's see.",
+        "start": 120.13,
+        "end": 124.136
+      },
+      {
+        "text": "And it's just moving one max, like, if it could be more than one.",
+        "start": 124.176,
+        "end": 128.542
+      },
+      {
+        "text": "Oh, wow.",
+        "start": 128.562,
+        "end": 130.384
+      },
+      {
+        "text": "12 minus 11, minus 2.",
+        "start": 131.065,
+        "end": 134.75
+      },
+      {
+        "text": "Let's see, 10, 11.",
+        "start": 137.174,
+        "end": 137.955
+      },
+      {
+        "text": "12 minus 11 is 1.",
+        "start": 137.975,
+        "end": 142.081
+      },
+      {
+        "text": "So, but that wouldn't equal 4.",
+        "start": 144.744,
+        "end": 147.488
+      },
+      {
+        "text": " Oh, boy.",
+        "start": 149.577,
+        "end": 150.558
+      },
+      {
+        "text": "Let's see.",
+        "start": 153.801,
+        "end": 154.282
+      },
+      {
+        "text": "This one's tricky, too.",
+        "start": 157.325,
+        "end": 158.626
+      },
+      {
+        "text": "Four.",
+        "start": 163.631,
+        "end": 164.051
+      },
+      {
+        "text": "Maybe we could do something that that matched it.",
+        "start": 164.111,
+        "end": 168.836
+      },
+      {
+        "text": "Two equals, oh, 12 minus one.",
+        "start": 168.856,
+        "end": 173.26
+      },
+      {
+        "text": "Oh, yes.",
+        "start": 173.28,
+        "end": 174.562
+      },
+      {
+        "text": "I think this might not be right.",
+        "start": 175.182,
+        "end": 178.926
+      },
+      {
+        "text": " 2 equals 11 minus 11.",
+        "start": 179.176,
+        "end": 188.766
+      },
+      {
+        "text": "That would be zero.",
+        "start": 188.806,
+        "end": 193.671
+      },
+      {
+        "text": "I feel like I need to get it to zero.",
+        "start": 193.691,
+        "end": 195.993
+      },
+      {
+        "text": "And I've already moved one of the matchsticks.",
+        "start": 196.093,
+        "end": 200.658
+      },
+      {
+        "text": "5 equals 11 minus 11 now.",
+        "start": 200.678,
+        "end": 208.626
+      },
+      {
+        "text": " Let's see, 11 minus 1 is 10.",
+        "start": 208.943,
+        "end": 212.687
+      },
+      {
+        "text": "10 equals 11 minus 1.",
+        "start": 212.707,
+        "end": 223.02
+      },
+      {
+        "text": "Oh, boy.",
+        "start": 223.961,
+        "end": 224.501
+      },
+      {
+        "text": "Let's see.",
+        "start": 225.663,
+        "end": 227.545
+      },
+      {
+        "text": "10 equals 11 minus 1.",
+        "start": 227.565,
+        "end": 234.273
+      },
+      {
+        "text": "But that's moving more than one map.",
+        "start": 234.673,
+        "end": 237.837
+      },
+      {
+        "text": " Oh, boy.",
+        "start": 239.977,
+        "end": 240.643
+      },
+      {
+        "text": "Well, I tried.",
+        "start": 241.128,
+        "end": 243.147
+      },
+      {
+        "text": "It's probably more than one, I think.",
+        "start": 245.267,
+        "end": 246.882
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so we have four equals 11 minus 11. So, oh boy. Or 11 minus two, which is nine. Six. Okay. Hmm. Let me think. What would make this work? Well, we have a four equals, 11 minus 2, which is 9. Hmm. 4. 11. Let's see. 11, 10. I just can't seem to get it there. Let's see. Four minus 11, then that would be negative, so I don't think that would work. Let's see. I can't seem to figure this out. 11 minus 11, let's see, 10, 11 minus 11 is zero, so four I wish I could get this to be zero. Five, four, three, two, one, zero. Let's see. Four equals 11 minus 11. Well, we could do 11 plus 11, which is 22, but that wouldn't work because four plus, it'd have to be a big number. Um, let's see. And it's just moving one max, like, if it could be more than one. Oh, wow. 12 minus 11, minus 2. Let's see, 10, 11. 12 minus 11 is 1. So, but that wouldn't equal 4. Oh, boy. Let's see. This one's tricky, too. Four. Maybe we could do something that that matched it. Two equals, oh, 12 minus one. Oh, yes. I think this might not be right. 2 equals 11 minus 11. That would be zero. I feel like I need to get it to zero. And I've already moved one of the matchsticks. 5 equals 11 minus 11 now. Let's see, 11 minus 1 is 10. 10 equals 11 minus 1. Oh, boy. Let's see. 10 equals 11 minus 1. But that's moving more than one map. Oh, boy. Well, I tried. It's probably more than one, I think."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_41bde21ec10e/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, 3 equals 11 minus 3.That's not right.9 minus 3.So I need to get 6.OK, 111 equals vi minus 123.",
+    "segments": [
+      {
+        "text": " OK, 3 equals 11 minus 3.",
+        "start": 1.769,
+        "end": 8.398
+      },
+      {
+        "text": "That's not right.",
+        "start": 8.438,
+        "end": 9.44
+      },
+      {
+        "text": "9 minus 3.",
+        "start": 9.46,
+        "end": 11.903
+      },
+      {
+        "text": "So I need to get 6.",
+        "start": 14.627,
+        "end": 15.688
+      },
+      {
+        "text": "OK, 111 equals vi minus 123.",
+        "start": 16.349,
+        "end": 28.806
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 3 equals 11 minus 3. That's not right. 9 minus 3. So I need to get 6. OK, 111 equals vi minus 123."
+  }
+}

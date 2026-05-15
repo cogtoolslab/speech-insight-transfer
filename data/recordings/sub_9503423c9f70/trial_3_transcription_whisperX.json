@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_9503423c9f70/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 3 plus 3, this same thing.So, I'm going to do 1, 1, 1 equals 1, 1, 1 equals 1, 1, 1.",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 3 plus 3, this same thing.",
+        "start": 1.55,
+        "end": 4.536
+      },
+      {
+        "text": "So, I'm going to do 1, 1, 1 equals 1, 1, 1 equals 1, 1, 1.",
+        "start": 7.101,
+        "end": 16.318
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 3 plus 3, this same thing. So, I'm going to do 1, 1, 1 equals 1, 1, 1 equals 1, 1, 1."
+  }
+}

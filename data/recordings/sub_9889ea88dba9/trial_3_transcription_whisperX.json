@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_9889ea88dba9/trial_3.wav",
+  "with_timestamps": {
+    "text": " Next, 7 equals 7 plus 7.So, which one are we going to use?Use the button below to report.I'm talking!Use the button below to report the version of the equation. x 1 1 equals x 1 plus x 2 1 so 5 6 7 so 7 put the x leave that one there equals leave that one there equals leave that one there",
+    "segments": [
+      {
+        "text": " Next, 7 equals 7 plus 7.",
+        "start": 4.165,
+        "end": 11.038
+      },
+      {
+        "text": "So, which one are we going to use?",
+        "start": 17.35,
+        "end": 20.136
+      },
+      {
+        "text": "Use the button below to report.",
+        "start": 20.156,
+        "end": 21.599
+      },
+      {
+        "text": "I'm talking!",
+        "start": 21.719,
+        "end": 22.44
+      },
+      {
+        "text": "Use the button below to report the version of the equation.",
+        "start": 23.582,
+        "end": 26.528
+      },
+      {
+        "text": " x 1 1 equals x 1 plus x 2 1 so 5 6 7 so 7 put the x leave that one there equals leave that one there equals leave that one there",
+        "start": 30.473,
+        "end": 53.578
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Next, 7 equals 7 plus 7. So, which one are we going to use? Use the button below to report. I'm talking! Use the button below to report the version of the equation. x 1 1 equals x 1 plus x 2 1 so 5 6 7 so 7 put the x leave that one there equals leave that one there equals leave that one there"
+  }
+}

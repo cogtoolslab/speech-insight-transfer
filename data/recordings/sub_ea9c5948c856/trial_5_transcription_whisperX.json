@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_ea9c5948c856/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, let's see, we have 7 equals 9 plus, yeah, 7 equals 9 plus 3.So I think what I'm going to do is make that 7 into a 12 by turning the v into an x. So I think I'm allowed to do that.And that should be that one solved.",
+    "segments": [
+      {
+        "text": " All right, let's see, we have 7 equals 9 plus, yeah, 7 equals 9 plus 3.",
+        "start": 0.74,
+        "end": 6.601
+      },
+      {
+        "text": "So I think what I'm going to do is make that 7 into a 12 by turning the v into an x. So I think I'm allowed to do that.",
+        "start": 6.701,
+        "end": 13.927
+      },
+      {
+        "text": "And that should be that one solved.",
+        "start": 15.432,
+        "end": 16.757
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see, we have 7 equals 9 plus, yeah, 7 equals 9 plus 3. So I think what I'm going to do is make that 7 into a 12 by turning the v into an x. So I think I'm allowed to do that. And that should be that one solved."
+  }
+}

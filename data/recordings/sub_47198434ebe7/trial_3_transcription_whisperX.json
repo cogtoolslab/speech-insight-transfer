@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_47198434ebe7/trial_3.wav",
+  "with_timestamps": {
+    "text": " you can only move one matchstick okay let's see 7 equals 12 plus 6 that's okay that's 18 7 equals 18 that's okay we write 12 minus 7.7.What if we change this one to 11 plus 7?Okay, we can change that into a 12 equals 12 minus 7, 5.12 minus 11, 1.12. 3 plus 6, 12 plus 6, 18, 12 minus, Okay, this one's harder.Okay, four plus six.Eleven.Twelve. If I change that to 12 minus 7, I keep saying that. Equals 12. plus 7.That is not correct.This one's tricky.",
+    "segments": [
+      {
+        "text": " you can only move one matchstick okay let's see 7 equals 12 plus 6 that's okay that's 18 7 equals 18 that's okay we write 12 minus",
+        "start": 1.972,
+        "end": 28.3
+      },
+      {
+        "text": " 7.",
+        "start": 31.84,
+        "end": 32.421
+      },
+      {
+        "text": "7.",
+        "start": 32.441,
+        "end": 42.276
+      },
+      {
+        "text": "What if we change this one to 11 plus 7?",
+        "start": 46.042,
+        "end": 50.449
+      },
+      {
+        "text": "Okay, we can change that into a 12 equals",
+        "start": 56.398,
+        "end": 59.282
+      },
+      {
+        "text": " 12 minus 7, 5.",
+        "start": 61.523,
+        "end": 66.989
+      },
+      {
+        "text": "12 minus 11, 1.",
+        "start": 67.009,
+        "end": 84.229
+      },
+      {
+        "text": "12.",
+        "start": 84.249,
+        "end": 89.134
+      },
+      {
+        "text": " 3 plus 6, 12 plus 6, 18, 12 minus,",
+        "start": 98.362,
+        "end": 124.183
+      },
+      {
+        "text": " Okay, this one's harder.",
+        "start": 127.977,
+        "end": 139.773
+      },
+      {
+        "text": "Okay, four plus six.",
+        "start": 140.054,
+        "end": 142.177
+      },
+      {
+        "text": "Eleven.",
+        "start": 149.827,
+        "end": 150.348
+      },
+      {
+        "text": "Twelve.",
+        "start": 155.275,
+        "end": 155.655
+      },
+      {
+        "text": " If I change that to 12 minus 7, I keep saying that.",
+        "start": 161.356,
+        "end": 175.045
+      },
+      {
+        "text": " Equals 12.",
+        "start": 192.17,
+        "end": 218.498
+      },
+      {
+        "text": " plus 7.",
+        "start": 223.473,
+        "end": 224.656
+      },
+      {
+        "text": "That is not correct.",
+        "start": 226.641,
+        "end": 234.46
+      },
+      {
+        "text": "This one's tricky.",
+        "start": 235.402,
+        "end": 236.284
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " you can only move one matchstick okay let's see 7 equals 12 plus 6 that's okay that's 18 7 equals 18 that's okay we write 12 minus 7. 7. What if we change this one to 11 plus 7? Okay, we can change that into a 12 equals 12 minus 7, 5. 12 minus 11, 1. 12. 3 plus 6, 12 plus 6, 18, 12 minus, Okay, this one's harder. Okay, four plus six. Eleven. Twelve. If I change that to 12 minus 7, I keep saying that. Equals 12. plus 7. That is not correct. This one's tricky."
+  }
+}

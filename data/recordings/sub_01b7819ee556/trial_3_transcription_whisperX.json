@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_01b7819ee556/trial_3.wav",
+  "with_timestamps": {
+    "text": " So puzzle three of five, you can only move one match stick to make this equation correct.What is the final correct equation?So on the left is a four and then equals on the right side of the equal is four plus four.Well, four plus four does not equal four. I'm gonna have to... You can only move one stick, so... Oh, this is really difficult too.That first one was the easiest.The second one, couldn't figure that out.The third one is just as hard.Because the V is a five. I'll be standing alone.Um... 4 equals... I got an idea.Four minus, no we can't remove it.But I'm gonna try anyway.Okay. four equals.",
+    "segments": [
+      {
+        "text": " So puzzle three of five, you can only move one match stick to make this equation correct.",
+        "start": 1.617,
+        "end": 9.866
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 10.567,
+        "end": 13.23
+      },
+      {
+        "text": "So on the left is a four and then equals on the right side of the equal is four plus four.",
+        "start": 14.131,
+        "end": 23.841
+      },
+      {
+        "text": "Well, four plus four does not equal four.",
+        "start": 25.984,
+        "end": 30.088
+      },
+      {
+        "text": " I'm gonna have to... You can only move one stick, so...",
+        "start": 32.279,
+        "end": 55.536
+      },
+      {
+        "text": " Oh, this is really difficult too.",
+        "start": 67.531,
+        "end": 72.237
+      },
+      {
+        "text": "That first one was the easiest.",
+        "start": 76.001,
+        "end": 77.823
+      },
+      {
+        "text": "The second one, couldn't figure that out.",
+        "start": 77.883,
+        "end": 81.828
+      },
+      {
+        "text": "The third one is just as hard.",
+        "start": 81.888,
+        "end": 84.511
+      },
+      {
+        "text": "Because the V is a five.",
+        "start": 95.264,
+        "end": 97.487
+      },
+      {
+        "text": " I'll be standing alone.",
+        "start": 98.8,
+        "end": 100.502
+      },
+      {
+        "text": "Um...",
+        "start": 100.522,
+        "end": 123.289
+      },
+      {
+        "text": " 4 equals...",
+        "start": 142.878,
+        "end": 157.866
+      },
+      {
+        "text": " I got an idea.",
+        "start": 175.902,
+        "end": 177.163
+      },
+      {
+        "text": "Four minus, no we can't remove it.",
+        "start": 177.624,
+        "end": 182.969
+      },
+      {
+        "text": "But I'm gonna try anyway.",
+        "start": 190.816,
+        "end": 192.098
+      },
+      {
+        "text": "Okay.",
+        "start": 192.118,
+        "end": 201.927
+      },
+      {
+        "text": " four equals.",
+        "start": 206.733,
+        "end": 211.14
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So puzzle three of five, you can only move one match stick to make this equation correct. What is the final correct equation? So on the left is a four and then equals on the right side of the equal is four plus four. Well, four plus four does not equal four. I'm gonna have to... You can only move one stick, so... Oh, this is really difficult too. That first one was the easiest. The second one, couldn't figure that out. The third one is just as hard. Because the V is a five. I'll be standing alone. Um... 4 equals... I got an idea. Four minus, no we can't remove it. But I'm gonna try anyway. Okay. four equals."
+  }
+}

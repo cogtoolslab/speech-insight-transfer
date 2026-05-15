@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_5b4669f64394/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, nine equals four plus two.Nine equals five plus three.That's not right.Nine equals six plus three.So I need to move the matchstick in front of the V to behind the V. Wait, that's not nine, that's 11.So let's try this again.11 equals four plus two, no.Nine equals four plus two, no.10 equals four plus three, no. So let's see.10 equals 4 plus 3.No.10.Let's see.9 equals 7. 11 equals 4 plus 7.V?Maybe I move the V. No.Hmm.Let's see.If I move the X over Take one of these.No, that doesn't work.One equals.Hmm.V. Let's see, so 11. equals seven plus four.But that makes too many movements, so let's see.Eleven equals four plus two is what it says right now.So X equals three plus two, no.X equals four plus three, no.X 11 minus four, No, that one's not right either.This one's a hard one.Let's see.11 equals 4 plus 2.",
+    "segments": [
+      {
+        "text": " Okay, nine equals four plus two.",
+        "start": 1.938,
+        "end": 8.569
+      },
+      {
+        "text": "Nine equals five plus three.",
+        "start": 13.376,
+        "end": 17.903
+      },
+      {
+        "text": "That's not right.",
+        "start": 18.084,
+        "end": 18.985
+      },
+      {
+        "text": "Nine equals six plus three.",
+        "start": 19.806,
+        "end": 23.292
+      },
+      {
+        "text": "So I need to move the matchstick in front of the V to behind the V.",
+        "start": 23.372,
+        "end": 28.3
+      },
+      {
+        "text": " Wait, that's not nine, that's 11.",
+        "start": 32.026,
+        "end": 34.269
+      },
+      {
+        "text": "So let's try this again.",
+        "start": 34.67,
+        "end": 35.912
+      },
+      {
+        "text": "11 equals four plus two, no.",
+        "start": 35.932,
+        "end": 42.08
+      },
+      {
+        "text": "Nine equals four plus two, no.",
+        "start": 45.225,
+        "end": 52.936
+      },
+      {
+        "text": "10 equals four plus three, no.",
+        "start": 52.956,
+        "end": 60.767
+      },
+      {
+        "text": " So let's see.",
+        "start": 62.063,
+        "end": 67.991
+      },
+      {
+        "text": "10 equals 4 plus 3.",
+        "start": 68.011,
+        "end": 79.086
+      },
+      {
+        "text": "No.",
+        "start": 79.306,
+        "end": 79.626
+      },
+      {
+        "text": "10.",
+        "start": 79.647,
+        "end": 82.991
+      },
+      {
+        "text": "Let's see.",
+        "start": 86.436,
+        "end": 89.58
+      },
+      {
+        "text": "9 equals 7.",
+        "start": 89.6,
+        "end": 92.003
+      },
+      {
+        "text": " 11 equals 4 plus 7.",
+        "start": 95.324,
+        "end": 100.791
+      },
+      {
+        "text": "V?",
+        "start": 104.196,
+        "end": 104.536
+      },
+      {
+        "text": "Maybe I move the V. No.",
+        "start": 105.177,
+        "end": 109.383
+      },
+      {
+        "text": "Hmm.",
+        "start": 111.425,
+        "end": 115.431
+      },
+      {
+        "text": "Let's see.",
+        "start": 115.451,
+        "end": 116.071
+      },
+      {
+        "text": "If I move the X over",
+        "start": 116.111,
+        "end": 122.58
+      },
+      {
+        "text": " Take one of these.",
+        "start": 123.826,
+        "end": 125.308
+      },
+      {
+        "text": "No, that doesn't work.",
+        "start": 127.832,
+        "end": 129.734
+      },
+      {
+        "text": "One equals.",
+        "start": 135.182,
+        "end": 136.424
+      },
+      {
+        "text": "Hmm.",
+        "start": 136.484,
+        "end": 145.076
+      },
+      {
+        "text": "V. Let's see, so 11.",
+        "start": 145.096,
+        "end": 153.208
+      },
+      {
+        "text": " equals seven plus four.",
+        "start": 153.813,
+        "end": 168.951
+      },
+      {
+        "text": "But that makes too many movements, so let's see.",
+        "start": 170.513,
+        "end": 173.857
+      },
+      {
+        "text": "Eleven equals",
+        "start": 173.897,
+        "end": 176.8
+      },
+      {
+        "text": " four plus two is what it says right now.",
+        "start": 184.61,
+        "end": 188.616
+      },
+      {
+        "text": "So X equals three plus two, no.",
+        "start": 189.657,
+        "end": 197.108
+      },
+      {
+        "text": "X equals four plus three, no.",
+        "start": 198.11,
+        "end": 200.954
+      },
+      {
+        "text": "X 11 minus four,",
+        "start": 200.974,
+        "end": 213.773
+      },
+      {
+        "text": " No, that one's not right either.",
+        "start": 216.605,
+        "end": 219.129
+      },
+      {
+        "text": "This one's a hard one.",
+        "start": 219.149,
+        "end": 221.292
+      },
+      {
+        "text": "Let's see.",
+        "start": 222.173,
+        "end": 222.734
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 222.754,
+        "end": 236.453
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, nine equals four plus two. Nine equals five plus three. That's not right. Nine equals six plus three. So I need to move the matchstick in front of the V to behind the V. Wait, that's not nine, that's 11. So let's try this again. 11 equals four plus two, no. Nine equals four plus two, no. 10 equals four plus three, no. So let's see. 10 equals 4 plus 3. No. 10. Let's see. 9 equals 7. 11 equals 4 plus 7. V? Maybe I move the V. No. Hmm. Let's see. If I move the X over Take one of these. No, that doesn't work. One equals. Hmm. V. Let's see, so 11. equals seven plus four. But that makes too many movements, so let's see. Eleven equals four plus two is what it says right now. So X equals three plus two, no. X equals four plus three, no. X 11 minus four, No, that one's not right either. This one's a hard one. Let's see. 11 equals 4 plus 2."
+  }
+}

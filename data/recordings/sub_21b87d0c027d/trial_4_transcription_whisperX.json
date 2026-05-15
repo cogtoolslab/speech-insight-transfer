@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_21b87d0c027d/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, four equals four plus four.That's wrong.It would be eight.So one, can I make it an eight with just moving one thing? I think if I'm trying to subtract, wait, hold on.Every time you do that, it makes me, it distracts me.So that's four equals, no.I'm trying to get, What do I want here?I want... You can't put two fives together.You can't put... What if it is... The only way to make this This would have to be five, no.So that's six equals, nope, none of this checks out.Am I that dumb?Yeah, I am. I really don't know what to say.All right, what about four equals five minus, wait. I'm okay.I'm equal.Okay.So that's three.So I took the one plus five.This is really not my jam. How about I just do this, 10 equals, no, hold on.I'm gonna just do what I want because I, yeah, it's incorrect.I don't know the answers to these and I'm getting really agitated. No, that's not what I, that doesn't even make sense.Okay, so.",
+    "segments": [
+      {
+        "text": " Okay, four equals four plus four.",
+        "start": 1.465,
+        "end": 5.432
+      },
+      {
+        "text": "That's wrong.",
+        "start": 5.472,
+        "end": 8.457
+      },
+      {
+        "text": "It would be eight.",
+        "start": 8.477,
+        "end": 10.2
+      },
+      {
+        "text": "So one, can I make it an eight with just moving one thing?",
+        "start": 11.041,
+        "end": 23.963
+      },
+      {
+        "text": " I think if I'm trying to subtract, wait, hold on.",
+        "start": 33.005,
+        "end": 42.976
+      },
+      {
+        "text": "Every time you do that, it makes me, it distracts me.",
+        "start": 43.296,
+        "end": 46.72
+      },
+      {
+        "text": "So that's four equals, no.",
+        "start": 46.74,
+        "end": 55.329
+      },
+      {
+        "text": "I'm trying to get,",
+        "start": 61.996,
+        "end": 62.877
+      },
+      {
+        "text": " What do I want here?",
+        "start": 68.071,
+        "end": 69.292
+      },
+      {
+        "text": "I want... You can't put two fives together.",
+        "start": 69.312,
+        "end": 80.562
+      },
+      {
+        "text": "You can't put... What if it is... The only way to make this",
+        "start": 80.582,
+        "end": 96.897
+      },
+      {
+        "text": " This would have to be five, no.",
+        "start": 98.26,
+        "end": 103.646
+      },
+      {
+        "text": "So that's six equals, nope, none of this checks out.",
+        "start": 107.27,
+        "end": 119.483
+      },
+      {
+        "text": "Am I that dumb?",
+        "start": 120.184,
+        "end": 121.725
+      },
+      {
+        "text": "Yeah, I am.",
+        "start": 122.987,
+        "end": 124.048
+      },
+      {
+        "text": " I really don't know what to say.",
+        "start": 130.998,
+        "end": 132.901
+      },
+      {
+        "text": "All right, what about four equals five minus, wait.",
+        "start": 132.921,
+        "end": 156.398
+      },
+      {
+        "text": " I'm okay.",
+        "start": 163.06,
+        "end": 165.262
+      },
+      {
+        "text": "I'm equal.",
+        "start": 165.723,
+        "end": 167.966
+      },
+      {
+        "text": "Okay.",
+        "start": 168.106,
+        "end": 168.426
+      },
+      {
+        "text": "So that's three.",
+        "start": 168.446,
+        "end": 169.607
+      },
+      {
+        "text": "So I took the one plus five.",
+        "start": 169.627,
+        "end": 178.017
+      },
+      {
+        "text": "This is really not my jam.",
+        "start": 183.002,
+        "end": 187.127
+      },
+      {
+        "text": " How about I just do this, 10 equals, no, hold on.",
+        "start": 192.153,
+        "end": 208.336
+      },
+      {
+        "text": "I'm gonna just do what I want because I, yeah, it's incorrect.",
+        "start": 208.636,
+        "end": 214.084
+      },
+      {
+        "text": "I don't know the answers to these and I'm getting really agitated.",
+        "start": 214.304,
+        "end": 219.291
+      },
+      {
+        "text": " No, that's not what I, that doesn't even make sense.",
+        "start": 230.965,
+        "end": 236.825
+      },
+      {
+        "text": "Okay, so.",
+        "start": 238.999,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, four equals four plus four. That's wrong. It would be eight. So one, can I make it an eight with just moving one thing? I think if I'm trying to subtract, wait, hold on. Every time you do that, it makes me, it distracts me. So that's four equals, no. I'm trying to get, What do I want here? I want... You can't put two fives together. You can't put... What if it is... The only way to make this This would have to be five, no. So that's six equals, nope, none of this checks out. Am I that dumb? Yeah, I am. I really don't know what to say. All right, what about four equals five minus, wait. I'm okay. I'm equal. Okay. So that's three. So I took the one plus five. This is really not my jam. How about I just do this, 10 equals, no, hold on. I'm gonna just do what I want because I, yeah, it's incorrect. I don't know the answers to these and I'm getting really agitated. No, that's not what I, that doesn't even make sense. Okay, so."
+  }
+}

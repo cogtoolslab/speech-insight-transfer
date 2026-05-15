@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_5854b75f83c8/trial_4.wav",
+  "with_timestamps": {
+    "text": " All these look the same.It's going to come out to 9 equals 9 equals 9.So it would be 1.I keep double clicking.That's why I'm getting frustrated.My mouse has double click issues.1x equals 1x equals 1x. Check into it.",
+    "segments": [
+      {
+        "text": " All these look the same.",
+        "start": 4.115,
+        "end": 5.477
+      },
+      {
+        "text": "It's going to come out to 9 equals 9 equals 9.",
+        "start": 5.517,
+        "end": 10.803
+      },
+      {
+        "text": "So it would be 1.",
+        "start": 11.023,
+        "end": 14.127
+      },
+      {
+        "text": "I keep double clicking.",
+        "start": 14.147,
+        "end": 16.99
+      },
+      {
+        "text": "That's why I'm getting frustrated.",
+        "start": 17.01,
+        "end": 18.572
+      },
+      {
+        "text": "My mouse has double click issues.",
+        "start": 18.772,
+        "end": 20.134
+      },
+      {
+        "text": "1x equals 1x equals 1x.",
+        "start": 21.075,
+        "end": 31.287
+      },
+      {
+        "text": " Check into it.",
+        "start": 34.0,
+        "end": 34.663
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All these look the same. It's going to come out to 9 equals 9 equals 9. So it would be 1. I keep double clicking. That's why I'm getting frustrated. My mouse has double click issues. 1x equals 1x equals 1x. Check into it."
+  }
+}

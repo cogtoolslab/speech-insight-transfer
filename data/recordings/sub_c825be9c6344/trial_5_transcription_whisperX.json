@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_c825be9c6344/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, five out of five here we have nine equals 12 plus four, or nine equals 16, which is not correct.What can we do to make this accurate?We have nine. I think the solution here is to take the plus sign of match sticks and move the match over to the left side of the equation.So you have eight equals 12 minus four, where it's eight equals eight.So this would be IIX equals XII minus IV.What? I-I-X equals X-I-I minus I-V.Hold on.That's saying it's not correct.Let me just, one more time.I-I-X equals X-I-I minus I-V.Okay, so eight equals 12 minus four. And all I did was move one of the match sticks from the plus over to the left side of the equation.So, okay, I-I-X is eight.X-I-I is 12 minus IV is four.I-I-X equals X-I-I minus IV.Am I missing something here?Why is it telling me it's incorrect? I think this, if forever is listening to this, I think this might be an error with the equation, unless I'm being completely oblivious.Oh wait.Um, I X is not an actual number.It would be V I I instead.I see.Hmm.What do we have then? What if we did 11?No, that wouldn't work.So we have 12 plus four.How do we make this eight equals eight or something similar?Let's see. What do we have?We have, what if we removed one of the, well, if we swap the X for V, in the middle we'd have Vii, which is seven plus four, that gives you 11, but still doesn't equal nine.Can't swap the, Nine, turning it into a V or IV does not work because it's four.Swapping the equal sign isn't an option because you'd have to move multiple ones, multiple matchsticks for that to work out.12 minus three, oh, oh, it's IX. equals X, I, I, minus I, I, V, shit.",
+    "segments": [
+      {
+        "text": " Okay, five out of five here we have nine equals 12 plus four, or nine equals 16, which is not correct.",
+        "start": 0.892,
+        "end": 10.009
+      },
+      {
+        "text": "What can we do to make this accurate?",
+        "start": 11.531,
+        "end": 14.497
+      },
+      {
+        "text": "We have nine.",
+        "start": 15.178,
+        "end": 19.626
+      },
+      {
+        "text": " I think the solution here is to take the plus sign of match sticks and move the match over to the left side of the equation.",
+        "start": 26.491,
+        "end": 34.9
+      },
+      {
+        "text": "So you have eight equals 12 minus four, where it's eight equals eight.",
+        "start": 34.92,
+        "end": 39.726
+      },
+      {
+        "text": "So this would be IIX equals XII minus IV.",
+        "start": 39.746,
+        "end": 47.294
+      },
+      {
+        "text": "What?",
+        "start": 49.416,
+        "end": 49.917
+      },
+      {
+        "text": " I-I-X equals X-I-I minus I-V.",
+        "start": 52.057,
+        "end": 58.045
+      },
+      {
+        "text": "Hold on.",
+        "start": 60.628,
+        "end": 60.989
+      },
+      {
+        "text": "That's saying it's not correct.",
+        "start": 64.934,
+        "end": 66.295
+      },
+      {
+        "text": "Let me just, one more time.",
+        "start": 66.436,
+        "end": 68.779
+      },
+      {
+        "text": "I-I-X equals X-I-I minus I-V.",
+        "start": 68.979,
+        "end": 74.566
+      },
+      {
+        "text": "Okay, so eight equals 12 minus four.",
+        "start": 74.907,
+        "end": 78.351
+      },
+      {
+        "text": " And all I did was move one of the match sticks from the plus over to the left side of the equation.",
+        "start": 81.014,
+        "end": 87.042
+      },
+      {
+        "text": "So, okay, I-I-X is eight.",
+        "start": 88.484,
+        "end": 90.206
+      },
+      {
+        "text": "X-I-I is 12 minus IV is four.",
+        "start": 91.528,
+        "end": 94.371
+      },
+      {
+        "text": "I-I-X equals X-I-I minus IV.",
+        "start": 99.478,
+        "end": 101.781
+      },
+      {
+        "text": "Am I missing something here?",
+        "start": 103.283,
+        "end": 104.124
+      },
+      {
+        "text": "Why is it telling me it's incorrect?",
+        "start": 104.184,
+        "end": 105.486
+      },
+      {
+        "text": " I think this, if forever is listening to this, I think this might be an error with the equation, unless I'm being completely oblivious.",
+        "start": 106.681,
+        "end": 116.171
+      },
+      {
+        "text": "Oh wait.",
+        "start": 117.292,
+        "end": 117.812
+      },
+      {
+        "text": "Um, I X is not an actual number.",
+        "start": 118.333,
+        "end": 123.618
+      },
+      {
+        "text": "It would be V I I instead.",
+        "start": 123.718,
+        "end": 126.161
+      },
+      {
+        "text": "I see.",
+        "start": 126.261,
+        "end": 126.601
+      },
+      {
+        "text": "Hmm.",
+        "start": 130.285,
+        "end": 130.365
+      },
+      {
+        "text": "What do we have then?",
+        "start": 131.246,
+        "end": 132.047
+      },
+      {
+        "text": " What if we did 11?",
+        "start": 135.082,
+        "end": 136.023
+      },
+      {
+        "text": "No, that wouldn't work.",
+        "start": 136.043,
+        "end": 138.487
+      },
+      {
+        "text": "So we have 12 plus four.",
+        "start": 147.501,
+        "end": 148.703
+      },
+      {
+        "text": "How do we make this eight equals eight or something similar?",
+        "start": 153.03,
+        "end": 157.998
+      },
+      {
+        "text": "Let's see.",
+        "start": 159.841,
+        "end": 160.802
+      },
+      {
+        "text": " What do we have?",
+        "start": 170.907,
+        "end": 171.588
+      },
+      {
+        "text": "We have, what if we removed one of the, well, if we swap the X for V, in the middle we'd have Vii, which is seven plus four, that gives you 11, but still doesn't equal nine.",
+        "start": 171.628,
+        "end": 187.729
+      },
+      {
+        "text": "Can't swap the,",
+        "start": 199.203,
+        "end": 200.425
+      },
+      {
+        "text": " Nine, turning it into a V or IV does not work because it's four.",
+        "start": 202.48,
+        "end": 207.889
+      },
+      {
+        "text": "Swapping the equal sign isn't an option because you'd have to move multiple ones, multiple matchsticks for that to work out.",
+        "start": 211.174,
+        "end": 218.806
+      },
+      {
+        "text": "12 minus three, oh, oh, it's IX.",
+        "start": 218.826,
+        "end": 228.522
+      },
+      {
+        "text": " equals X, I, I, minus I, I, V, shit.",
+        "start": 229.193,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, five out of five here we have nine equals 12 plus four, or nine equals 16, which is not correct. What can we do to make this accurate? We have nine. I think the solution here is to take the plus sign of match sticks and move the match over to the left side of the equation. So you have eight equals 12 minus four, where it's eight equals eight. So this would be IIX equals XII minus IV. What? I-I-X equals X-I-I minus I-V. Hold on. That's saying it's not correct. Let me just, one more time. I-I-X equals X-I-I minus I-V. Okay, so eight equals 12 minus four. And all I did was move one of the match sticks from the plus over to the left side of the equation. So, okay, I-I-X is eight. X-I-I is 12 minus IV is four. I-I-X equals X-I-I minus IV. Am I missing something here? Why is it telling me it's incorrect? I think this, if forever is listening to this, I think this might be an error with the equation, unless I'm being completely oblivious. Oh wait. Um, I X is not an actual number. It would be V I I instead. I see. Hmm. What do we have then? What if we did 11? No, that wouldn't work. So we have 12 plus four. How do we make this eight equals eight or something similar? Let's see. What do we have? We have, what if we removed one of the, well, if we swap the X for V, in the middle we'd have Vii, which is seven plus four, that gives you 11, but still doesn't equal nine. Can't swap the, Nine, turning it into a V or IV does not work because it's four. Swapping the equal sign isn't an option because you'd have to move multiple ones, multiple matchsticks for that to work out. 12 minus three, oh, oh, it's IX. equals X, I, I, minus I, I, V, shit."
+  }
+}

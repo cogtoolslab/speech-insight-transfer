@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_17d3b5b800b6/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 equals 11 minus 7 2 equals 11 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 yes whoa huh two equals maybe i input it wrong two equals oh i must do x i nine minus v i i two equals nine minus seven yes",
+    "segments": [
+      {
+        "text": " 2 equals 11 minus 7 2 equals 11 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 yes",
+        "start": 1.027,
+        "end": 26.697
+      },
+      {
+        "text": " whoa huh two equals maybe i input it wrong two equals oh i must do x i nine minus v i i two equals nine minus seven yes",
+        "start": 29.157,
+        "end": 51.925
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 11 minus 7 2 equals 11 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 2 equals 9 minus 7 yes whoa huh two equals maybe i input it wrong two equals oh i must do x i nine minus v i i two equals nine minus seven yes"
+  }
+}

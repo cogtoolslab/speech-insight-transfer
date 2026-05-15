@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_eb19178b58f7/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 1, so 3 equals 9 minus 4, 5.Okay, if I bring this 2 equals 9 minus 7, yeah.All right, that was easy. equals 9, oops, 9 minus 7.Is that correct?No.No, no, no, because I can only move one.So if I move, so I have three, 11 3 equals 11 minus 4 nope 3 equals hold on 3 equals I don't know.Oh, I could do 2 equals 9 minus.2 equals 9 minus.No, that'd be 3.2.Nope, 3 equals 10. Minus... Nope, 3 equals 3.Okay, what if I do... Oh god, okay, wait, wait, wait.3 minus 9 equals 4.Nope.Um... 11 minus 4 equals 3.No, it does not.11 minus 4.Hold on.1.So.Okay.Okay.Okay.If I lift this as a 5 at the end of here and I took a 1 and I had to do 8.8 minus 5 equals 3.Yep.Okay.Yep.Okay.I had to work it backwards.So I have 3. equals eight, which was that minus five.No, no, no, no, no, no.I swear I did it right.Three equals eight minus five.Oh no, no, no, no, no.Okay. I have no idea then.If I moved 1 to 6, if I change that into a 6, this is a 9.Yep, okay, got it.Oh, come on, come on, come on.1, 2, 3 equals 9, oh gosh, minus 6.I got",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 1, so 3 equals 9 minus 4, 5.",
+        "start": 1.82,
+        "end": 12.897
+      },
+      {
+        "text": "Okay, if I bring this 2 equals 9 minus 7, yeah.",
+        "start": 12.937,
+        "end": 25.776
+      },
+      {
+        "text": "All right, that was easy.",
+        "start": 27.418,
+        "end": 28.62
+      },
+      {
+        "text": " equals 9, oops, 9 minus 7.",
+        "start": 30.777,
+        "end": 41.615
+      },
+      {
+        "text": "Is that correct?",
+        "start": 41.635,
+        "end": 45.16
+      },
+      {
+        "text": "No.",
+        "start": 46.282,
+        "end": 47.745
+      },
+      {
+        "text": "No, no, no, because I can only move one.",
+        "start": 47.765,
+        "end": 49.528
+      },
+      {
+        "text": "So if I move, so I have three,",
+        "start": 51.11,
+        "end": 55.958
+      },
+      {
+        "text": " 11 3 equals 11 minus 4 nope 3 equals hold on 3 equals",
+        "start": 58.908,
+        "end": 77.71
+      },
+      {
+        "text": " I don't know.",
+        "start": 81.925,
+        "end": 82.566
+      },
+      {
+        "text": "Oh, I could do 2 equals 9 minus.",
+        "start": 83.627,
+        "end": 88.993
+      },
+      {
+        "text": "2 equals 9 minus.",
+        "start": 93.638,
+        "end": 96.601
+      },
+      {
+        "text": "No, that'd be 3.",
+        "start": 100.726,
+        "end": 102.808
+      },
+      {
+        "text": "2.",
+        "start": 102.828,
+        "end": 105.471
+      },
+      {
+        "text": "Nope, 3 equals 10.",
+        "start": 107.293,
+        "end": 111.358
+      },
+      {
+        "text": " Minus... Nope, 3 equals 3.",
+        "start": 112.992,
+        "end": 118.742
+      },
+      {
+        "text": "Okay, what if I do... Oh god, okay, wait, wait, wait.",
+        "start": 121.066,
+        "end": 130.864
+      },
+      {
+        "text": "3 minus 9 equals 4.",
+        "start": 130.884,
+        "end": 132.567
+      },
+      {
+        "text": "Nope.",
+        "start": 132.827,
+        "end": 133.028
+      },
+      {
+        "text": "Um...",
+        "start": 135.793,
+        "end": 136.013
+      },
+      {
+        "text": " 11 minus 4 equals 3.",
+        "start": 139.672,
+        "end": 142.435
+      },
+      {
+        "text": "No, it does not.",
+        "start": 142.555,
+        "end": 143.196
+      },
+      {
+        "text": "11 minus 4.",
+        "start": 143.216,
+        "end": 145.598
+      },
+      {
+        "text": "Hold on.",
+        "start": 145.618,
+        "end": 147.32
+      },
+      {
+        "text": "1.",
+        "start": 147.34,
+        "end": 147.38
+      },
+      {
+        "text": "So.",
+        "start": 148.742,
+        "end": 148.942
+      },
+      {
+        "text": "Okay.",
+        "start": 150.263,
+        "end": 150.684
+      },
+      {
+        "text": "Okay.",
+        "start": 151.325,
+        "end": 151.765
+      },
+      {
+        "text": "Okay.",
+        "start": 151.785,
+        "end": 151.885
+      },
+      {
+        "text": "If I lift this as a 5 at the end of here and I took a 1 and I had to do 8.",
+        "start": 151.925,
+        "end": 157.291
+      },
+      {
+        "text": "8 minus 5 equals 3.",
+        "start": 157.311,
+        "end": 163.498
+      },
+      {
+        "text": "Yep.",
+        "start": 163.698,
+        "end": 164.279
+      },
+      {
+        "text": "Okay.",
+        "start": 164.299,
+        "end": 165.039
+      },
+      {
+        "text": "Yep.",
+        "start": 165.059,
+        "end": 165.54
+      },
+      {
+        "text": "Okay.",
+        "start": 165.56,
+        "end": 165.88
+      },
+      {
+        "text": "I had to work it backwards.",
+        "start": 165.9,
+        "end": 166.841
+      },
+      {
+        "text": "So I have 3.",
+        "start": 167.562,
+        "end": 168.463
+      },
+      {
+        "text": " equals eight, which was that minus five.",
+        "start": 169.709,
+        "end": 178.161
+      },
+      {
+        "text": "No, no, no, no, no, no.",
+        "start": 178.181,
+        "end": 180.505
+      },
+      {
+        "text": "I swear I did it right.",
+        "start": 180.645,
+        "end": 181.426
+      },
+      {
+        "text": "Three equals eight minus five.",
+        "start": 182.788,
+        "end": 194.946
+      },
+      {
+        "text": "Oh no, no, no, no, no.",
+        "start": 194.966,
+        "end": 196.308
+      },
+      {
+        "text": "Okay.",
+        "start": 197.49,
+        "end": 197.59
+      },
+      {
+        "text": " I have no idea then.",
+        "start": 204.556,
+        "end": 205.438
+      },
+      {
+        "text": "If I moved 1 to 6, if I change that into a 6, this is a 9.",
+        "start": 207.463,
+        "end": 216.684
+      },
+      {
+        "text": "Yep, okay, got it.",
+        "start": 217.546,
+        "end": 219.11
+      },
+      {
+        "text": "Oh, come on, come on, come on.",
+        "start": 219.671,
+        "end": 220.894
+      },
+      {
+        "text": "1, 2, 3 equals 9, oh gosh, minus 6.",
+        "start": 220.914,
+        "end": 229.474
+      },
+      {
+        "text": "I got",
+        "start": 230.457,
+        "end": 230.597
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 1, so 3 equals 9 minus 4, 5. Okay, if I bring this 2 equals 9 minus 7, yeah. All right, that was easy. equals 9, oops, 9 minus 7. Is that correct? No. No, no, no, because I can only move one. So if I move, so I have three, 11 3 equals 11 minus 4 nope 3 equals hold on 3 equals I don't know. Oh, I could do 2 equals 9 minus. 2 equals 9 minus. No, that'd be 3. 2. Nope, 3 equals 10. Minus... Nope, 3 equals 3. Okay, what if I do... Oh god, okay, wait, wait, wait. 3 minus 9 equals 4. Nope. Um... 11 minus 4 equals 3. No, it does not. 11 minus 4. Hold on. 1. So. Okay. Okay. Okay. If I lift this as a 5 at the end of here and I took a 1 and I had to do 8. 8 minus 5 equals 3. Yep. Okay. Yep. Okay. I had to work it backwards. So I have 3. equals eight, which was that minus five. No, no, no, no, no, no. I swear I did it right. Three equals eight minus five. Oh no, no, no, no, no. Okay. I have no idea then. If I moved 1 to 6, if I change that into a 6, this is a 9. Yep, okay, got it. Oh, come on, come on, come on. 1, 2, 3 equals 9, oh gosh, minus 6. I got"
+  }
+}

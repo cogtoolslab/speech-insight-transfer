@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_59b367bae56c/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, so 9 equals 7 plus 4.So I guess that is 9, right?Yeah, that's 9.9 equals 7 plus 4. Um, I could.Seven.My guess is I have to do something with the four over here.So, I mean, if I made it seven plus three, that would be 10.That wouldn't be right. move that that's oh wait I can just make it 11 lol so I can just make it 11 equals 7 plus",
+    "segments": [
+      {
+        "text": " OK, so 9 equals 7 plus 4.",
+        "start": 1.752,
+        "end": 4.434
+      },
+      {
+        "text": "So I guess that is 9, right?",
+        "start": 22.691,
+        "end": 27.035
+      },
+      {
+        "text": "Yeah, that's 9.",
+        "start": 27.336,
+        "end": 27.916
+      },
+      {
+        "text": "9 equals 7 plus 4.",
+        "start": 27.936,
+        "end": 30.038
+      },
+      {
+        "text": " Um, I could.",
+        "start": 31.57,
+        "end": 33.034
+      },
+      {
+        "text": "Seven.",
+        "start": 33.094,
+        "end": 36.863
+      },
+      {
+        "text": "My guess is I have to do something with the four over here.",
+        "start": 40.973,
+        "end": 43.359
+      },
+      {
+        "text": "So, I mean, if I made it seven plus three, that would be 10.",
+        "start": 43.419,
+        "end": 48.271
+      },
+      {
+        "text": "That wouldn't be right.",
+        "start": 48.311,
+        "end": 49.073
+      },
+      {
+        "text": " move that that's oh wait I can just make it 11 lol so I can just make it 11 equals 7 plus",
+        "start": 50.875,
+        "end": 61.695
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so 9 equals 7 plus 4. So I guess that is 9, right? Yeah, that's 9. 9 equals 7 plus 4. Um, I could. Seven. My guess is I have to do something with the four over here. So, I mean, if I made it seven plus three, that would be 10. That wouldn't be right. move that that's oh wait I can just make it 11 lol so I can just make it 11 equals 7 plus"
+  }
+}

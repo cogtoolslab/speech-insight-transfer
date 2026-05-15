@@ -1,0 +1,166 @@
+{
+  "file": "data/recordings/sub_d333fc109d39/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, so we have 10 equals 7 minus 3.So 10 cannot be changed.So we have 6 minus 4 equals 10.We can have 6 I think we can do minus, what's wrong?What can we move?One equals, Seven minus, seven minus four.We can only move one.So, X equals, that's seven plus, That would be 9.7 plus 2 would be 9.6 plus 3 would still be 9.X equals 12 minus 3.12 minus 3. Three.Is that right?Yes.Incorrect.All right, so it will be X equals, can we do eight, two, 10 minus two. We can only move one.Sorry.Plus two.Incorrect again.X equals Oh, we can do 9.So IX 9 equals.Oh, but then we couldn't.It's not that.X equals. Bye.",
+    "segments": [
+      {
+        "text": " All right, so we have 10 equals 7 minus 3.",
+        "start": 1.938,
+        "end": 7.664
+      },
+      {
+        "text": "So 10 cannot be changed.",
+        "start": 9.846,
+        "end": 13.33
+      },
+      {
+        "text": "So we have 6 minus 4 equals 10.",
+        "start": 16.012,
+        "end": 22.679
+      },
+      {
+        "text": "We can have 6",
+        "start": 23.9,
+        "end": 26.443
+      },
+      {
+        "text": " I think we can do minus, what's wrong?",
+        "start": 31.857,
+        "end": 46.991
+      },
+      {
+        "text": "What can we move?",
+        "start": 50.815,
+        "end": 52.056
+      },
+      {
+        "text": "One equals,",
+        "start": 56.78,
+        "end": 59.603
+      },
+      {
+        "text": " Seven minus, seven minus four.",
+        "start": 71.092,
+        "end": 76.62
+      },
+      {
+        "text": "We can only move one.",
+        "start": 77.601,
+        "end": 78.723
+      },
+      {
+        "text": "So, X equals, that's seven plus,",
+        "start": 79.905,
+        "end": 98.331
+      },
+      {
+        "text": " That would be 9.",
+        "start": 111.71,
+        "end": 112.752
+      },
+      {
+        "text": "7 plus 2 would be 9.",
+        "start": 112.772,
+        "end": 116.757
+      },
+      {
+        "text": "6 plus 3 would still be 9.",
+        "start": 116.777,
+        "end": 121.164
+      },
+      {
+        "text": "X equals 12 minus 3.",
+        "start": 126.492,
+        "end": 134.724
+      },
+      {
+        "text": "12 minus 3.",
+        "start": 134.744,
+        "end": 140.232
+      },
+      {
+        "text": " Three.",
+        "start": 141.882,
+        "end": 142.263
+      },
+      {
+        "text": "Is that right?",
+        "start": 142.283,
+        "end": 147.71
+      },
+      {
+        "text": "Yes.",
+        "start": 148.751,
+        "end": 149.052
+      },
+      {
+        "text": "Incorrect.",
+        "start": 153.938,
+        "end": 154.539
+      },
+      {
+        "text": "All right, so it will be X equals, can we do eight, two, 10 minus two.",
+        "start": 155.661,
+        "end": 170.421
+      },
+      {
+        "text": " We can only move one.",
+        "start": 173.506,
+        "end": 188.429
+      },
+      {
+        "text": "Sorry.",
+        "start": 188.449,
+        "end": 188.87
+      },
+      {
+        "text": "Plus two.",
+        "start": 191.474,
+        "end": 192.235
+      },
+      {
+        "text": "Incorrect again.",
+        "start": 194.638,
+        "end": 195.78
+      },
+      {
+        "text": "X equals",
+        "start": 199.486,
+        "end": 200.948
+      },
+      {
+        "text": " Oh, we can do 9.",
+        "start": 208.792,
+        "end": 210.475
+      },
+      {
+        "text": "So IX 9 equals.",
+        "start": 210.495,
+        "end": 219.151
+      },
+      {
+        "text": "Oh, but then we couldn't.",
+        "start": 219.512,
+        "end": 220.674
+      },
+      {
+        "text": "It's not that.",
+        "start": 224.501,
+        "end": 225.022
+      },
+      {
+        "text": "X equals.",
+        "start": 229.13,
+        "end": 230.192
+      },
+      {
+        "text": " Bye.",
+        "start": 239.082,
+        "end": 239.492
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so we have 10 equals 7 minus 3. So 10 cannot be changed. So we have 6 minus 4 equals 10. We can have 6 I think we can do minus, what's wrong? What can we move? One equals, Seven minus, seven minus four. We can only move one. So, X equals, that's seven plus, That would be 9. 7 plus 2 would be 9. 6 plus 3 would still be 9. X equals 12 minus 3. 12 minus 3. Three. Is that right? Yes. Incorrect. All right, so it will be X equals, can we do eight, two, 10 minus two. We can only move one. Sorry. Plus two. Incorrect again. X equals Oh, we can do 9. So IX 9 equals. Oh, but then we couldn't. It's not that. X equals. Bye."
+  }
+}

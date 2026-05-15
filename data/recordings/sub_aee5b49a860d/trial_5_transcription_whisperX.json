@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_aee5b49a860d/trial_5.wav",
+  "with_timestamps": {
+    "text": " I got it.Yes, dude.Fuck yeah.Okay.Okay, this isn't as hard as I thought it was.Okay, so that's 7 equals 11 plus 7.That's 6.7 equals 11 plus 6.No, it don't.But 8 equals 11 minus 6.No.No, it don't.Okay. What if I did 4, 7 equals, or wait, 7 equals, oh wait, 8 equals 11 minus, 11 plus, wait, wait, wait, wait, wait, wait, 3, xv, So 10, 5, 15, 16, 17 equals 2 plus 6.No, fuck.3 equals 11 plus Damn it.7 equals 10 minus 6.No, but 3 equals Damn it.13 minus 6.Yes, yes.Equals 13 minus 6, bitch.",
+    "segments": [
+      {
+        "text": " I got it.",
+        "start": 0.031,
+        "end": 0.872
+      },
+      {
+        "text": "Yes, dude.",
+        "start": 0.892,
+        "end": 1.513
+      },
+      {
+        "text": "Fuck yeah.",
+        "start": 2.054,
+        "end": 2.534
+      },
+      {
+        "text": "Okay.",
+        "start": 3.375,
+        "end": 3.736
+      },
+      {
+        "text": "Okay, this isn't as hard as I thought it was.",
+        "start": 3.956,
+        "end": 5.078
+      },
+      {
+        "text": "Okay, so that's 7 equals 11 plus 7.",
+        "start": 5.678,
+        "end": 10.805
+      },
+      {
+        "text": "That's 6.",
+        "start": 10.925,
+        "end": 11.366
+      },
+      {
+        "text": "7 equals 11 plus 6.",
+        "start": 11.386,
+        "end": 13.969
+      },
+      {
+        "text": "No, it don't.",
+        "start": 14.59,
+        "end": 15.171
+      },
+      {
+        "text": "But 8 equals 11 minus 6.",
+        "start": 16.192,
+        "end": 20.258
+      },
+      {
+        "text": "No.",
+        "start": 22.34,
+        "end": 22.561
+      },
+      {
+        "text": "No, it don't.",
+        "start": 23.902,
+        "end": 24.303
+      },
+      {
+        "text": "Okay.",
+        "start": 24.483,
+        "end": 28.148
+      },
+      {
+        "text": " What if I did 4, 7 equals, or wait, 7 equals, oh wait, 8 equals 11 minus, 11 plus, wait, wait, wait, wait, wait, wait, 3, xv,",
+        "start": 29.107,
+        "end": 56.076
+      },
+      {
+        "text": " So 10, 5, 15, 16, 17 equals 2 plus 6.",
+        "start": 57.575,
+        "end": 73.193
+      },
+      {
+        "text": "No, fuck.",
+        "start": 75.016,
+        "end": 75.817
+      },
+      {
+        "text": "3 equals 11 plus",
+        "start": 75.837,
+        "end": 83.025
+      },
+      {
+        "text": " Damn it.",
+        "start": 91.78,
+        "end": 92.22
+      },
+      {
+        "text": "7 equals 10 minus 6.",
+        "start": 92.24,
+        "end": 113.262
+      },
+      {
+        "text": "No, but 3 equals",
+        "start": 115.484,
+        "end": 120.589
+      },
+      {
+        "text": " Damn it.",
+        "start": 123.623,
+        "end": 124.185
+      },
+      {
+        "text": "13 minus 6.",
+        "start": 124.627,
+        "end": 127.399
+      },
+      {
+        "text": "Yes, yes.",
+        "start": 129.046,
+        "end": 129.829
+      },
+      {
+        "text": "Equals 13 minus 6, bitch.",
+        "start": 132.34,
+        "end": 138.747
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I got it. Yes, dude. Fuck yeah. Okay. Okay, this isn't as hard as I thought it was. Okay, so that's 7 equals 11 plus 7. That's 6. 7 equals 11 plus 6. No, it don't. But 8 equals 11 minus 6. No. No, it don't. Okay. What if I did 4, 7 equals, or wait, 7 equals, oh wait, 8 equals 11 minus, 11 plus, wait, wait, wait, wait, wait, wait, 3, xv, So 10, 5, 15, 16, 17 equals 2 plus 6. No, fuck. 3 equals 11 plus Damn it. 7 equals 10 minus 6. No, but 3 equals Damn it. 13 minus 6. Yes, yes. Equals 13 minus 6, bitch."
+  }
+}

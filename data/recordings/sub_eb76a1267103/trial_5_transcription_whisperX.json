@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_eb76a1267103/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, we have 7 equals 12 plus 6.12 plus 6.12 minus 6 is 6.So we just move.So we do 7 equals 13 minus 6.",
+    "segments": [
+      {
+        "text": " OK, we have 7 equals 12 plus 6.",
+        "start": 1.735,
+        "end": 5.679
+      },
+      {
+        "text": "12 plus 6.",
+        "start": 5.699,
+        "end": 8.903
+      },
+      {
+        "text": "12 minus 6 is 6.",
+        "start": 8.923,
+        "end": 15.33
+      },
+      {
+        "text": "So we just move.",
+        "start": 17.292,
+        "end": 18.554
+      },
+      {
+        "text": "So we do 7 equals 13 minus 6.",
+        "start": 19.495,
+        "end": 31.168
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, we have 7 equals 12 plus 6. 12 plus 6. 12 minus 6 is 6. So we just move. So we do 7 equals 13 minus 6."
+  }
+}

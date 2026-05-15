@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_016ef5cb53d0/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, so 4 equals 4 plus 4.OK.4 plus 4 is 8. But you can only move one.So if I change the answer to 6 equals 4 plus 4, that still is not correct. Um... I really don't understand because they're all 4 and if I move one of the vertical matches over to make it 6 it's still going to be incorrect either way and if I make the plus a minus and add it to any of the fours that would make it five and then it would just be the letter V and technically that's moving more than one match so I'm confused I don't know.These are very hard.I'm just going to make a guess because I cannot figure this out. So I don't know.5 equals.",
+    "segments": [
+      {
+        "text": " OK, so 4 equals 4 plus 4.",
+        "start": 2.798,
+        "end": 10.109
+      },
+      {
+        "text": "OK.",
+        "start": 13.794,
+        "end": 14.175
+      },
+      {
+        "text": "4 plus 4 is 8.",
+        "start": 14.195,
+        "end": 32.502
+      },
+      {
+        "text": " But you can only move one.",
+        "start": 34.287,
+        "end": 42.896
+      },
+      {
+        "text": "So if I change the answer to 6 equals 4 plus 4, that still is not correct.",
+        "start": 44.858,
+        "end": 60.835
+      },
+      {
+        "text": " Um...",
+        "start": 63.43,
+        "end": 64.633
+      },
+      {
+        "text": " I really don't understand because they're all 4 and if I move one of the vertical matches over to make it 6",
+        "start": 97.501,
+        "end": 120.538
+      },
+      {
+        "text": " it's still going to be incorrect either way and if I make the plus a minus and add it to any of the fours that would make it",
+        "start": 126.239,
+        "end": 156.178
+      },
+      {
+        "text": " five and then it would just be the letter V and technically that's moving more than one match so I'm confused",
+        "start": 158.842,
+        "end": 175.652
+      },
+      {
+        "text": " I don't know.",
+        "start": 193.047,
+        "end": 193.668
+      },
+      {
+        "text": "These are very hard.",
+        "start": 193.688,
+        "end": 196.57
+      },
+      {
+        "text": "I'm just going to make a guess because I cannot figure this out.",
+        "start": 218.35,
+        "end": 222.514
+      },
+      {
+        "text": " So I don't know.",
+        "start": 224.283,
+        "end": 235.137
+      },
+      {
+        "text": "5 equals.",
+        "start": 235.157,
+        "end": 237.043
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so 4 equals 4 plus 4. OK. 4 plus 4 is 8. But you can only move one. So if I change the answer to 6 equals 4 plus 4, that still is not correct. Um... I really don't understand because they're all 4 and if I move one of the vertical matches over to make it 6 it's still going to be incorrect either way and if I make the plus a minus and add it to any of the fours that would make it five and then it would just be the letter V and technically that's moving more than one match so I'm confused I don't know. These are very hard. I'm just going to make a guess because I cannot figure this out. So I don't know. 5 equals."
+  }
+}

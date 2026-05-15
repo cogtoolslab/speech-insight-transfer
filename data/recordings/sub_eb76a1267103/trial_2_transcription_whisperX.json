@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_eb76a1267103/trial_2.wav",
+  "with_timestamps": {
+    "text": " That last one was very difficult.I felt like an idiot.You can only move one matchstick to make this equation correct.Find the correct solution.So we have four equals 11 minus two.11 minus two is nine.So four. So if we swap the x and the b, it would be 9 equals 6 minus 2, which is 4.This doesn't work. Maybe if we, can we move the vertical?So could it be, you make it instead of a V and make it a nine.So it would be nine equals 11 minus two.Yeah.Let's see if that works.So it would be boom, boom, boom.Actually, I didn't even think about that for the last one.So maybe that was why it was wrong.",
+    "segments": [
+      {
+        "text": " That last one was very difficult.",
+        "start": 0.841,
+        "end": 2.524
+      },
+      {
+        "text": "I felt like an idiot.",
+        "start": 2.605,
+        "end": 3.306
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 3.446,
+        "end": 5.811
+      },
+      {
+        "text": "Find the correct solution.",
+        "start": 5.871,
+        "end": 7.334
+      },
+      {
+        "text": "So we have four equals 11 minus two.",
+        "start": 7.374,
+        "end": 13.567
+      },
+      {
+        "text": "11 minus two is nine.",
+        "start": 13.587,
+        "end": 16.253
+      },
+      {
+        "text": "So four.",
+        "start": 17.595,
+        "end": 21.263
+      },
+      {
+        "text": " So if we swap the x and the b, it would be 9 equals 6 minus 2, which is 4.",
+        "start": 29.545,
+        "end": 37.144
+      },
+      {
+        "text": "This doesn't work.",
+        "start": 37.204,
+        "end": 40.753
+      },
+      {
+        "text": " Maybe if we, can we move the vertical?",
+        "start": 61.085,
+        "end": 63.309
+      },
+      {
+        "text": "So could it be, you make it instead of a V and make it a nine.",
+        "start": 63.469,
+        "end": 68.117
+      },
+      {
+        "text": "So it would be nine equals 11 minus two.",
+        "start": 68.197,
+        "end": 75.85
+      },
+      {
+        "text": "Yeah.",
+        "start": 76.09,
+        "end": 76.39
+      },
+      {
+        "text": "Let's see if that works.",
+        "start": 76.41,
+        "end": 77.232
+      },
+      {
+        "text": "So it would be boom, boom, boom.",
+        "start": 77.312,
+        "end": 80.417
+      },
+      {
+        "text": "Actually, I didn't even think about that for the last one.",
+        "start": 81.198,
+        "end": 83.843
+      },
+      {
+        "text": "So maybe that was why it was wrong.",
+        "start": 83.903,
+        "end": 85.185
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " That last one was very difficult. I felt like an idiot. You can only move one matchstick to make this equation correct. Find the correct solution. So we have four equals 11 minus two. 11 minus two is nine. So four. So if we swap the x and the b, it would be 9 equals 6 minus 2, which is 4. This doesn't work. Maybe if we, can we move the vertical? So could it be, you make it instead of a V and make it a nine. So it would be nine equals 11 minus two. Yeah. Let's see if that works. So it would be boom, boom, boom. Actually, I didn't even think about that for the last one. So maybe that was why it was wrong."
+  }
+}

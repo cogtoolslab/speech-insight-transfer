@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_598b8785c9a4/trial_4.wav",
+  "with_timestamps": {
+    "text": " Wow, that was incredible.Oh, I didn't know I could do that.I'm shocked at myself.So what is this one?This is 12 plus six, which would equal 18, but it's saying, saying it's seven. 12 plus... 12 plus 6 is 18, but it's saying it's 7.Hmm.So what do we do here?Would it be... This is scaring me.I wish I could write this down.Can I write this down?12, 6.12, 6.12, 6.12 minus 5. 12 minus 5.Ugh!Um... 12 minus 5?Wait, that's not even... Yeah, it is.7. 12 minus five would be seven.Okay, 11 minus... Okay, I'm going as quick as I can.Seven, okay, so we're gonna start with 11.Minus.Okay.And then add.Lord, help me.Lord, hear my prayers.We could do 12. We could just keep, you know, 10 and then add 10 plus.Okay.10 plus.Okay.Let's go.Okay.We're going to 10. Plus, I'm never gonna get it.I'm never gonna make it.I'm sorry.",
+    "segments": [
+      {
+        "text": " Wow, that was incredible.",
+        "start": 0.655,
+        "end": 2.858
+      },
+      {
+        "text": "Oh, I didn't know I could do that.",
+        "start": 4.46,
+        "end": 6.003
+      },
+      {
+        "text": "I'm shocked at myself.",
+        "start": 6.063,
+        "end": 8.486
+      },
+      {
+        "text": "So what is this one?",
+        "start": 9.588,
+        "end": 10.809
+      },
+      {
+        "text": "This is 12 plus six, which would equal 18, but it's saying, saying it's seven.",
+        "start": 10.829,
+        "end": 28.755
+      },
+      {
+        "text": " 12 plus... 12 plus 6 is 18, but it's saying it's 7.",
+        "start": 36.683,
+        "end": 50.158
+      },
+      {
+        "text": "Hmm.",
+        "start": 54.042,
+        "end": 54.122
+      },
+      {
+        "text": "So what do we do here?",
+        "start": 54.142,
+        "end": 55.243
+      },
+      {
+        "text": "Would it be...",
+        "start": 61.59,
+        "end": 63.012
+      },
+      {
+        "text": " This is scaring me.",
+        "start": 66.502,
+        "end": 67.864
+      },
+      {
+        "text": "I wish I could write this down.",
+        "start": 71.328,
+        "end": 72.79
+      },
+      {
+        "text": "Can I write this down?",
+        "start": 72.93,
+        "end": 76.075
+      },
+      {
+        "text": "12, 6.",
+        "start": 76.095,
+        "end": 78.838
+      },
+      {
+        "text": "12, 6.",
+        "start": 80.22,
+        "end": 80.681
+      },
+      {
+        "text": "12, 6.",
+        "start": 80.701,
+        "end": 82.783
+      },
+      {
+        "text": "12 minus 5.",
+        "start": 83.685,
+        "end": 89.252
+      },
+      {
+        "text": " 12 minus 5.",
+        "start": 96.067,
+        "end": 102.397
+      },
+      {
+        "text": "Ugh!",
+        "start": 104.341,
+        "end": 104.501
+      },
+      {
+        "text": "Um... 12 minus 5?",
+        "start": 107.466,
+        "end": 113.576
+      },
+      {
+        "text": "Wait, that's not even... Yeah, it is.",
+        "start": 115.439,
+        "end": 122.351
+      },
+      {
+        "text": "7.",
+        "start": 122.371,
+        "end": 122.631
+      },
+      {
+        "text": " 12 minus five would be seven.",
+        "start": 124.282,
+        "end": 126.344
+      },
+      {
+        "text": "Okay, 11 minus... Okay, I'm going as quick as I can.",
+        "start": 136.836,
+        "end": 145.926
+      },
+      {
+        "text": "Seven, okay, so we're gonna start with",
+        "start": 147.748,
+        "end": 151.572
+      },
+      {
+        "text": " 11.",
+        "start": 152.598,
+        "end": 152.918
+      },
+      {
+        "text": "Minus.",
+        "start": 154.461,
+        "end": 155.182
+      },
+      {
+        "text": "Okay.",
+        "start": 158.347,
+        "end": 158.747
+      },
+      {
+        "text": "And then add.",
+        "start": 159.268,
+        "end": 160.21
+      },
+      {
+        "text": "Lord, help me.",
+        "start": 167.581,
+        "end": 168.803
+      },
+      {
+        "text": "Lord, hear my prayers.",
+        "start": 169.063,
+        "end": 170.245
+      },
+      {
+        "text": "We could do 12.",
+        "start": 173.871,
+        "end": 181.322
+      },
+      {
+        "text": " We could just keep, you know, 10 and then add 10 plus.",
+        "start": 182.753,
+        "end": 191.606
+      },
+      {
+        "text": "Okay.",
+        "start": 194.45,
+        "end": 194.931
+      },
+      {
+        "text": "10 plus.",
+        "start": 195.312,
+        "end": 196.994
+      },
+      {
+        "text": "Okay.",
+        "start": 204.185,
+        "end": 204.585
+      },
+      {
+        "text": "Let's go.",
+        "start": 206.208,
+        "end": 206.648
+      },
+      {
+        "text": "Okay.",
+        "start": 206.688,
+        "end": 207.169
+      },
+      {
+        "text": "We're going to 10.",
+        "start": 208.351,
+        "end": 209.773
+      },
+      {
+        "text": " Plus, I'm never gonna get it.",
+        "start": 213.145,
+        "end": 219.94
+      },
+      {
+        "text": "I'm never gonna make it.",
+        "start": 219.96,
+        "end": 221.103
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 238.923,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Wow, that was incredible. Oh, I didn't know I could do that. I'm shocked at myself. So what is this one? This is 12 plus six, which would equal 18, but it's saying, saying it's seven. 12 plus... 12 plus 6 is 18, but it's saying it's 7. Hmm. So what do we do here? Would it be... This is scaring me. I wish I could write this down. Can I write this down? 12, 6. 12, 6. 12, 6. 12 minus 5. 12 minus 5. Ugh! Um... 12 minus 5? Wait, that's not even... Yeah, it is. 7. 12 minus five would be seven. Okay, 11 minus... Okay, I'm going as quick as I can. Seven, okay, so we're gonna start with 11. Minus. Okay. And then add. Lord, help me. Lord, hear my prayers. We could do 12. We could just keep, you know, 10 and then add 10 plus. Okay. 10 plus. Okay. Let's go. Okay. We're going to 10. Plus, I'm never gonna get it. I'm never gonna make it. I'm sorry."
+  }
+}

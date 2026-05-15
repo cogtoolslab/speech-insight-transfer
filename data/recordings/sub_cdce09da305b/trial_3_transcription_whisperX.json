@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_cdce09da305b/trial_3.wav",
+  "with_timestamps": {
+    "text": " 3 equal to 9 minus 4 9 minus 4 is 5 and this is my 9 is 4 9 minus 4 okay 9 minus 6 is 3 so the same thing I move this 1 to the right side make it times bigger so I'll have 3 equal to I still have 9 minus 3 I mean 6 9 minus 6 equal to 3",
+    "segments": [
+      {
+        "text": " 3 equal to 9 minus 4 9 minus 4 is 5 and this is my 9 is 4 9 minus 4 okay 9 minus 6 is 3 so the same thing I move this 1 to the right side make it",
+        "start": 0.031,
+        "end": 27.608
+      },
+      {
+        "text": " times bigger so I'll have 3 equal to I still have 9 minus 3 I mean 6 9 minus 6 equal to 3",
+        "start": 28.094,
+        "end": 41.31
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equal to 9 minus 4 9 minus 4 is 5 and this is my 9 is 4 9 minus 4 okay 9 minus 6 is 3 so the same thing I move this 1 to the right side make it times bigger so I'll have 3 equal to I still have 9 minus 3 I mean 6 9 minus 6 equal to 3"
+  }
+}

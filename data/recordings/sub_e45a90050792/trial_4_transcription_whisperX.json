@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e45a90050792/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay.This one's easy.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 3.22,
+        "end": 3.743
+      },
+      {
+        "text": "This one's easy.",
+        "start": 8.887,
+        "end": 9.872
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. This one's easy."
+  }
+}

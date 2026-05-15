@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_c99e3feff124/trial_2.wav",
+  "with_timestamps": {
+    "text": " Next one.10 equals seven minus three.Okay.So this is going to be really similar.I'm just going to have to make it be 10 minus seven equals three.So 10 minus seven equals three.",
+    "segments": [
+      {
+        "text": " Next one.",
+        "start": 1.651,
+        "end": 3.194
+      },
+      {
+        "text": "10 equals seven minus three.",
+        "start": 3.214,
+        "end": 7.001
+      },
+      {
+        "text": "Okay.",
+        "start": 7.943,
+        "end": 8.404
+      },
+      {
+        "text": "So this is going to be really similar.",
+        "start": 10.368,
+        "end": 13.214
+      },
+      {
+        "text": "I'm just going to have to make it be 10 minus seven equals three.",
+        "start": 13.554,
+        "end": 18.664
+      },
+      {
+        "text": "So 10 minus seven equals three.",
+        "start": 19.646,
+        "end": 24.115
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Next one. 10 equals seven minus three. Okay. So this is going to be really similar. I'm just going to have to make it be 10 minus seven equals three. So 10 minus seven equals three."
+  }
+}

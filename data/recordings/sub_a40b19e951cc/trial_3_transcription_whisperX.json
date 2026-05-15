@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_a40b19e951cc/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, two equals nine, or two equals 11 minus seven, which would be three.Three equals, 10 minus, yeah, 10 minus 7.",
+    "segments": [
+      {
+        "text": " All right, two equals nine, or two equals 11 minus seven, which would be three.",
+        "start": 2.427,
+        "end": 12.999
+      },
+      {
+        "text": "Three equals,",
+        "start": 13.059,
+        "end": 31.759
+      },
+      {
+        "text": " 10 minus, yeah, 10 minus 7.",
+        "start": 33.258,
+        "end": 41.428
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, two equals nine, or two equals 11 minus seven, which would be three. Three equals, 10 minus, yeah, 10 minus 7."
+  }
+}

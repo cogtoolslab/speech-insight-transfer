@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_3156a94353ea/trial_4.wav",
+  "with_timestamps": {
+    "text": " Let's see, we have two equal nine minus seven.Nine minus, oh, wait, sorry, that's 11 minus seven.So easy, that will make it two equal nine minus seven.So just move this matchstick to change from 11 to nine and we have our answer.",
+    "segments": [
+      {
+        "text": " Let's see, we have two equal nine minus seven.",
+        "start": 0.47,
+        "end": 6.359
+      },
+      {
+        "text": "Nine minus, oh, wait, sorry, that's 11 minus seven.",
+        "start": 8.162,
+        "end": 12.188
+      },
+      {
+        "text": "So easy, that will make it two equal nine minus seven.",
+        "start": 12.209,
+        "end": 17.216
+      },
+      {
+        "text": "So just move this matchstick to change from 11 to nine and we have our answer.",
+        "start": 17.297,
+        "end": 25.87
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's see, we have two equal nine minus seven. Nine minus, oh, wait, sorry, that's 11 minus seven. So easy, that will make it two equal nine minus seven. So just move this matchstick to change from 11 to nine and we have our answer."
+  }
+}

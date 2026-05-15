@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_112df383350c/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, let's see if I can get at least one of these right.So... 3 is equal to 4... Wait, 3 is equal to 9 minus 4.So 9 minus 4 is 5.And I need to make it equal 3.10 minus... 11 minus 4 is equal... No, that's not true. How does this even work?Jesus!Okay, so if I move that... Hold on, I have to read the instructions again.I feel like I'm not understanding it.Let's see... 3 is equal to 9 minus 4... 9 minus 4 is 5.Let's see.So if I only move one match... Oh, okay, so I can do 9 minus 6.Okay, this is easy, then. I think this is one I actually have, so it's 3 is equal to 9, right?Minus 6.There you go.I just moved the match over.Oh my god.",
+    "segments": [
+      {
+        "text": " Okay, let's see if I can get at least one of these right.",
+        "start": 2.545,
+        "end": 4.788
+      },
+      {
+        "text": "So... 3 is equal to 4... Wait, 3 is equal to 9 minus 4.",
+        "start": 5.569,
+        "end": 11.398
+      },
+      {
+        "text": "So 9 minus 4 is 5.",
+        "start": 12.339,
+        "end": 15.664
+      },
+      {
+        "text": "And I need to make it equal 3.",
+        "start": 15.684,
+        "end": 17.767
+      },
+      {
+        "text": "10 minus... 11 minus 4 is equal... No, that's not true.",
+        "start": 17.787,
+        "end": 30.865
+      },
+      {
+        "text": " How does this even work?",
+        "start": 35.047,
+        "end": 37.51
+      },
+      {
+        "text": "Jesus!",
+        "start": 37.53,
+        "end": 37.93
+      },
+      {
+        "text": "Okay, so if I move that... Hold on, I have to read the instructions again.",
+        "start": 39.952,
+        "end": 47.18
+      },
+      {
+        "text": "I feel like I'm not understanding it.",
+        "start": 47.2,
+        "end": 49.082
+      },
+      {
+        "text": "Let's see... 3 is equal to 9 minus 4...",
+        "start": 59.413,
+        "end": 64.378
+      },
+      {
+        "text": " 9 minus 4 is 5.",
+        "start": 65.523,
+        "end": 76.483
+      },
+      {
+        "text": "Let's see.",
+        "start": 76.503,
+        "end": 76.943
+      },
+      {
+        "text": "So if I only move one match... Oh, okay, so I can do 9 minus 6.",
+        "start": 79.408,
+        "end": 85.338
+      },
+      {
+        "text": "Okay, this is easy, then.",
+        "start": 85.739,
+        "end": 87.362
+      },
+      {
+        "text": " I think this is one I actually have, so it's 3 is equal to 9, right?",
+        "start": 88.0,
+        "end": 94.07
+      },
+      {
+        "text": "Minus 6.",
+        "start": 95.035,
+        "end": 97.548
+      },
+      {
+        "text": "There you go.",
+        "start": 98.251,
+        "end": 98.693
+      },
+      {
+        "text": "I just moved the match over.",
+        "start": 98.774,
+        "end": 99.859
+      },
+      {
+        "text": "Oh my god.",
+        "start": 99.919,
+        "end": 101.065
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let's see if I can get at least one of these right. So... 3 is equal to 4... Wait, 3 is equal to 9 minus 4. So 9 minus 4 is 5. And I need to make it equal 3. 10 minus... 11 minus 4 is equal... No, that's not true. How does this even work? Jesus! Okay, so if I move that... Hold on, I have to read the instructions again. I feel like I'm not understanding it. Let's see... 3 is equal to 9 minus 4... 9 minus 4 is 5. Let's see. So if I only move one match... Oh, okay, so I can do 9 minus 6. Okay, this is easy, then. I think this is one I actually have, so it's 3 is equal to 9, right? Minus 6. There you go. I just moved the match over. Oh my god."
+  }
+}

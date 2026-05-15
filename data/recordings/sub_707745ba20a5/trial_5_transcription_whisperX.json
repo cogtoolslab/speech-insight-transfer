@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_707745ba20a5/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, we have C7 is equal to 12 plus 6.Again, same solution as the other puzzles.Vii is equal to Xiii minus Vi.So that's 13 minus 6, which is 7.",
+    "segments": [
+      {
+        "text": " Okay, we have C7 is equal to 12 plus 6.",
+        "start": 1.027,
+        "end": 7.179
+      },
+      {
+        "text": "Again, same solution as the other puzzles.",
+        "start": 8.641,
+        "end": 11.226
+      },
+      {
+        "text": "Vii is equal to Xiii minus Vi.",
+        "start": 12.308,
+        "end": 17.959
+      },
+      {
+        "text": "So that's 13 minus 6, which is 7.",
+        "start": 19.241,
+        "end": 22.748
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we have C7 is equal to 12 plus 6. Again, same solution as the other puzzles. Vii is equal to Xiii minus Vi. So that's 13 minus 6, which is 7."
+  }
+}

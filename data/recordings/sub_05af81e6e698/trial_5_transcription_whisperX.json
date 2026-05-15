@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_05af81e6e698/trial_5.wav",
+  "with_timestamps": {
+    "text": " This is crazy.I don't like that.I don't like that.So, 11 minus 7 equals 2.So this equals 4.So, IV.IV. equals x i minus v i i. Incorrect.Equal 2. So what would equal two?Six, no.Minus seven, what would equal one?What about five?Oh, wait a minute.Okay.I equals V minus V-I-I.How is that correct?2.So right now we have 11 minus 7.8, 9, 10, 11.It's 4.So 4. V, I can make it an X, make it 10.10 equals 11 minus 7 now.Oh, excuse me. Oh, no.This is... Man, this one's rough, dude.Those last three were rough.So... Two... Hold on, hold on, hold on.Two plus... Eleven, now that's thirteen.Two plus one.Okay.Boom.Boom.Plus... That's I equals... Oh, that's a lot of shit.That's... no.I don't think I did it right.Dammit, dude.Two.That's two equals... 11 minus 7.11 minus 7.11 minus 7.11 minus 7.11 minus 7.That's it.That's the only thing I can think of.I V. I V equals X I minus V I I. That is the only, that's the only thing that works to you. One.",
+    "segments": [
+      {
+        "text": " This is crazy.",
+        "start": 0.031,
+        "end": 2.034
+      },
+      {
+        "text": "I don't like that.",
+        "start": 2.054,
+        "end": 2.815
+      },
+      {
+        "text": "I don't like that.",
+        "start": 2.835,
+        "end": 3.376
+      },
+      {
+        "text": "So, 11 minus 7 equals 2.",
+        "start": 6.942,
+        "end": 12.31
+      },
+      {
+        "text": "So this equals 4.",
+        "start": 12.33,
+        "end": 16.917
+      },
+      {
+        "text": "So, IV.",
+        "start": 23.948,
+        "end": 27.133
+      },
+      {
+        "text": "IV.",
+        "start": 27.914,
+        "end": 28.755
+      },
+      {
+        "text": " equals x i minus v i i. Incorrect.",
+        "start": 29.731,
+        "end": 55.775
+      },
+      {
+        "text": "Equal 2.",
+        "start": 57.076,
+        "end": 58.017
+      },
+      {
+        "text": " So what would equal two?",
+        "start": 58.705,
+        "end": 59.987
+      },
+      {
+        "text": "Six, no.",
+        "start": 64.313,
+        "end": 66.015
+      },
+      {
+        "text": "Minus seven, what would equal one?",
+        "start": 66.496,
+        "end": 67.838
+      },
+      {
+        "text": "What about five?",
+        "start": 75.649,
+        "end": 76.59
+      },
+      {
+        "text": "Oh, wait a minute.",
+        "start": 77.912,
+        "end": 79.114
+      },
+      {
+        "text": "Okay.",
+        "start": 79.635,
+        "end": 79.955
+      },
+      {
+        "text": "I equals V minus",
+        "start": 81.077,
+        "end": 86.805
+      },
+      {
+        "text": " V-I-I.",
+        "start": 87.275,
+        "end": 88.877
+      },
+      {
+        "text": "How is that correct?",
+        "start": 90.959,
+        "end": 100.088
+      },
+      {
+        "text": "2.",
+        "start": 100.108,
+        "end": 100.148
+      },
+      {
+        "text": "So right now we have 11 minus 7.",
+        "start": 100.168,
+        "end": 104.132
+      },
+      {
+        "text": "8, 9, 10, 11.",
+        "start": 104.152,
+        "end": 106.294
+      },
+      {
+        "text": "It's 4.",
+        "start": 106.434,
+        "end": 107.095
+      },
+      {
+        "text": "So 4.",
+        "start": 108.737,
+        "end": 114.042
+      },
+      {
+        "text": " V, I can make it an X, make it 10.",
+        "start": 119.793,
+        "end": 122.198
+      },
+      {
+        "text": "10 equals 11 minus 7 now.",
+        "start": 122.218,
+        "end": 129.733
+      },
+      {
+        "text": "Oh, excuse me.",
+        "start": 131.316,
+        "end": 133.06
+      },
+      {
+        "text": " Oh, no.",
+        "start": 149.392,
+        "end": 149.953
+      },
+      {
+        "text": "This is... Man, this one's rough, dude.",
+        "start": 150.473,
+        "end": 152.735
+      },
+      {
+        "text": "Those last three were rough.",
+        "start": 152.755,
+        "end": 155.938
+      },
+      {
+        "text": "So... Two... Hold on, hold on, hold on.",
+        "start": 157.86,
+        "end": 164.967
+      },
+      {
+        "text": "Two plus... Eleven, now that's thirteen.",
+        "start": 164.987,
+        "end": 171.273
+      },
+      {
+        "text": "Two plus one.",
+        "start": 171.293,
+        "end": 172.655
+      },
+      {
+        "text": "Okay.",
+        "start": 173.816,
+        "end": 174.176
+      },
+      {
+        "text": "Boom.",
+        "start": 174.837,
+        "end": 175.237
+      },
+      {
+        "text": "Boom.",
+        "start": 175.958,
+        "end": 176.338
+      },
+      {
+        "text": "Plus...",
+        "start": 177.459,
+        "end": 178.2
+      },
+      {
+        "text": " That's I equals... Oh, that's a lot of shit.",
+        "start": 179.294,
+        "end": 186.304
+      },
+      {
+        "text": "That's... no.",
+        "start": 187.646,
+        "end": 188.647
+      },
+      {
+        "text": "I don't think I did it right.",
+        "start": 190.79,
+        "end": 193.013
+      },
+      {
+        "text": "Dammit, dude.",
+        "start": 193.033,
+        "end": 193.634
+      },
+      {
+        "text": "Two.",
+        "start": 201.605,
+        "end": 202.807
+      },
+      {
+        "text": "That's two equals...",
+        "start": 202.827,
+        "end": 204.93
+      },
+      {
+        "text": " 11 minus 7.",
+        "start": 206.8,
+        "end": 209.343
+      },
+      {
+        "text": "11 minus 7.",
+        "start": 209.363,
+        "end": 210.905
+      },
+      {
+        "text": "11 minus 7.",
+        "start": 212.227,
+        "end": 212.928
+      },
+      {
+        "text": "11 minus 7.",
+        "start": 212.948,
+        "end": 213.929
+      },
+      {
+        "text": "11 minus 7.",
+        "start": 213.949,
+        "end": 214.73
+      },
+      {
+        "text": "That's it.",
+        "start": 216.793,
+        "end": 217.113
+      },
+      {
+        "text": "That's the only thing I can think of.",
+        "start": 217.133,
+        "end": 217.994
+      },
+      {
+        "text": "I V. I V equals X I minus V I I. That is the only, that's the only thing that works to you.",
+        "start": 218.014,
+        "end": 235.457
+      },
+      {
+        "text": " One.",
+        "start": 240.263,
+        "end": 241.01
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This is crazy. I don't like that. I don't like that. So, 11 minus 7 equals 2. So this equals 4. So, IV. IV. equals x i minus v i i. Incorrect. Equal 2. So what would equal two? Six, no. Minus seven, what would equal one? What about five? Oh, wait a minute. Okay. I equals V minus V-I-I. How is that correct? 2. So right now we have 11 minus 7. 8, 9, 10, 11. It's 4. So 4. V, I can make it an X, make it 10. 10 equals 11 minus 7 now. Oh, excuse me. Oh, no. This is... Man, this one's rough, dude. Those last three were rough. So... Two... Hold on, hold on, hold on. Two plus... Eleven, now that's thirteen. Two plus one. Okay. Boom. Boom. Plus... That's I equals... Oh, that's a lot of shit. That's... no. I don't think I did it right. Dammit, dude. Two. That's two equals... 11 minus 7. 11 minus 7. 11 minus 7. 11 minus 7. 11 minus 7. That's it. That's the only thing I can think of. I V. I V equals X I minus V I I. That is the only, that's the only thing that works to you. One."
+  }
+}

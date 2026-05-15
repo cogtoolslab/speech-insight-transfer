@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_86228aa12863/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so nine equals 12, what?Nine equals 12 plus four.So, hold on, I need to like, okay, so I need to move, 12 minus 4 is 8.That doesn't work.If I'm adding 12 plus something, even if I get 12 minus something, Oh, so what if I move the minus matchstick, but then that wouldn't be a 3.12 minus 3 is 9.But I don't think in order to do a 3, I can't do it that way.I could do 8.No, that's not how you do 8.I am like massively stuck on this one. Even if I move, I can only move one.I could do 13, oh I figured it out, 13 minus 4 equals 13 minus, for.",
+    "segments": [
+      {
+        "text": " Okay, so nine equals 12, what?",
+        "start": 1.668,
+        "end": 10.702
+      },
+      {
+        "text": "Nine equals 12 plus four.",
+        "start": 10.722,
+        "end": 18.194
+      },
+      {
+        "text": "So, hold on, I need to like, okay, so I need to move,",
+        "start": 22.4,
+        "end": 30.072
+      },
+      {
+        "text": " 12 minus 4 is 8.",
+        "start": 32.026,
+        "end": 34.909
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 35.39,
+        "end": 37.131
+      },
+      {
+        "text": "If I'm adding 12 plus something, even if I get 12 minus something,",
+        "start": 41.496,
+        "end": 56.312
+      },
+      {
+        "text": " Oh, so what if I move the minus matchstick, but then that wouldn't be a 3.",
+        "start": 61.709,
+        "end": 69.259
+      },
+      {
+        "text": "12 minus 3 is 9.",
+        "start": 69.279,
+        "end": 71.762
+      },
+      {
+        "text": "But I don't think in order to do a 3, I can't do it that way.",
+        "start": 74.066,
+        "end": 80.114
+      },
+      {
+        "text": "I could do 8.",
+        "start": 80.855,
+        "end": 81.676
+      },
+      {
+        "text": "No, that's not how you do 8.",
+        "start": 86.422,
+        "end": 88.485
+      },
+      {
+        "text": "I am like massively stuck on this one.",
+        "start": 88.505,
+        "end": 90.788
+      },
+      {
+        "text": " Even if I move, I can only move one.",
+        "start": 94.058,
+        "end": 100.187
+      },
+      {
+        "text": "I could do 13, oh I figured it out, 13 minus 4 equals 13 minus,",
+        "start": 106.757,
+        "end": 122.58
+      },
+      {
+        "text": " for.",
+        "start": 124.636,
+        "end": 125.146
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so nine equals 12, what? Nine equals 12 plus four. So, hold on, I need to like, okay, so I need to move, 12 minus 4 is 8. That doesn't work. If I'm adding 12 plus something, even if I get 12 minus something, Oh, so what if I move the minus matchstick, but then that wouldn't be a 3. 12 minus 3 is 9. But I don't think in order to do a 3, I can't do it that way. I could do 8. No, that's not how you do 8. I am like massively stuck on this one. Even if I move, I can only move one. I could do 13, oh I figured it out, 13 minus 4 equals 13 minus, for."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_5e8f2feeceb3/trial_4.wav",
+  "with_timestamps": {
+    "text": " Yes. It's another hard one.Hmm, I don't know.3X... Maybe if I tilt this one, I don't know. 11 minus 3 is 8.9 minus, if I remove that 9, minus 3 is 6. That is 11.That's 11 minus, let's see.Eight.Um. Yeah, I don't know about this one.",
+    "segments": [
+      {
+        "text": " Yes.",
+        "start": 0.284,
+        "end": 24.807
+      },
+      {
+        "text": " It's another hard one.",
+        "start": 68.392,
+        "end": 79.004
+      },
+      {
+        "text": "Hmm, I don't know.",
+        "start": 83.269,
+        "end": 96.745
+      },
+      {
+        "text": "3X...",
+        "start": 96.765,
+        "end": 97.926
+      },
+      {
+        "text": " Maybe if I tilt this one, I don't know.",
+        "start": 105.668,
+        "end": 123.002
+      },
+      {
+        "text": " 11 minus 3 is 8.",
+        "start": 140.549,
+        "end": 144.013
+      },
+      {
+        "text": "9 minus, if I remove that 9, minus 3 is 6.",
+        "start": 144.033,
+        "end": 161.055
+      },
+      {
+        "text": " That is 11.",
+        "start": 177.472,
+        "end": 179.155
+      },
+      {
+        "text": "That's 11 minus, let's see.",
+        "start": 181.118,
+        "end": 185.905
+      },
+      {
+        "text": "Eight.",
+        "start": 192.215,
+        "end": 192.475
+      },
+      {
+        "text": "Um.",
+        "start": 203.132,
+        "end": 203.192
+      },
+      {
+        "text": " Yeah, I don't know about this one.",
+        "start": 227.067,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Yes. It's another hard one. Hmm, I don't know. 3X... Maybe if I tilt this one, I don't know. 11 minus 3 is 8. 9 minus, if I remove that 9, minus 3 is 6. That is 11. That's 11 minus, let's see. Eight. Um. Yeah, I don't know about this one."
+  }
+}

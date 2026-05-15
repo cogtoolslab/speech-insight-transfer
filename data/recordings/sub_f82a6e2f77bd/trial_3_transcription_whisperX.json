@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_f82a6e2f77bd/trial_3.wav",
+  "with_timestamps": {
+    "text": " Oh, there's another one.2 equals 11 minus 7.11 minus 7, 11, 10, 9, 8, 7, 6, 5, 4.11 plus 7 isn't going to make it 2.If I get 2 more, 5, 6, 7, 8, 9. It's not going to do it, because she can't do it like that.If I had two more, could I switch it?Let's see.The 1, 1 equals Ix minus Vii.Did I get it right?",
+    "segments": [
+      {
+        "text": " Oh, there's another one.",
+        "start": 0.47,
+        "end": 1.391
+      },
+      {
+        "text": "2 equals 11 minus 7.",
+        "start": 1.411,
+        "end": 5.976
+      },
+      {
+        "text": "11 minus 7, 11, 10, 9, 8, 7, 6, 5, 4.",
+        "start": 5.996,
+        "end": 11.923
+      },
+      {
+        "text": "11 plus 7 isn't going to make it 2.",
+        "start": 11.983,
+        "end": 21.053
+      },
+      {
+        "text": "If I get 2 more, 5, 6, 7, 8, 9.",
+        "start": 22.555,
+        "end": 29.903
+      },
+      {
+        "text": " It's not going to do it, because she can't do it like that.",
+        "start": 31.486,
+        "end": 37.334
+      },
+      {
+        "text": "If I had two more, could I switch it?",
+        "start": 37.354,
+        "end": 39.837
+      },
+      {
+        "text": "Let's see.",
+        "start": 39.857,
+        "end": 40.278
+      },
+      {
+        "text": "The 1, 1 equals Ix minus Vii.",
+        "start": 40.939,
+        "end": 49.35
+      },
+      {
+        "text": "Did I get it right?",
+        "start": 49.37,
+        "end": 50.271
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh, there's another one. 2 equals 11 minus 7. 11 minus 7, 11, 10, 9, 8, 7, 6, 5, 4. 11 plus 7 isn't going to make it 2. If I get 2 more, 5, 6, 7, 8, 9. It's not going to do it, because she can't do it like that. If I had two more, could I switch it? Let's see. The 1, 1 equals Ix minus Vii. Did I get it right?"
+  }
+}

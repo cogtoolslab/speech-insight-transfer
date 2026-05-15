@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e3934e9a123e/trial_3.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 8 equals 2 plus 4.It should be 2 plus 6, so we'll turn IV into VI.",
+    "segments": [
+      {
+        "text": " In this equation, we have 8 equals 2 plus 4.",
+        "start": 0.031,
+        "end": 4.449
+      },
+      {
+        "text": "It should be 2 plus 6, so we'll turn IV into VI.",
+        "start": 5.151,
+        "end": 8.826
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 8 equals 2 plus 4. It should be 2 plus 6, so we'll turn IV into VI."
+  }
+}

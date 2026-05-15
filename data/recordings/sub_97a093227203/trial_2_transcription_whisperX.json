@@ -1,0 +1,281 @@
+{
+  "file": "data/recordings/sub_97a093227203/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, I hope to do better on this one.The equation as it stands says 4 equals 7 plus 4, which obviously is wrong.So let's see.7 plus 4 would be 12.Nope.Let's see.7 minus 4 would be 3.That's no good. Uh, let's see.Let's see.What about, what if I, what about if I made it six plus four equals 10?No, can't do that.What if that's six.Okay.That's seven plus four equals 11.Um, Seven plus six equals 13.Let's see.What if I made it seven minus four equals three?No, that's not going to do it.Let me see.Seven, wait a minute.Seven minus three equals four.Okay, I got it.Let's see.So it's going to be, 4 equals 7.Oh no, 7.7 minus 3 and that's it.I just moved one matchstick.What?That wasn't correct.Oh my God.Oh, that's true.No. Let's see.Hmm.Let's see.Seven plus four equals that's a four.What if it was six plus four equals that would be 10.I can't do that. Oh, let me see.7 minus 4 equals 3.What if it was Now let me see.What if it was okay?What if this was 3 equals then 7 minus 4.Is that the same thing I did before?That's incorrect.Jeez, let me think. 6 equals 7 plus 4 is 11.That's not right either.I just\u2026 I can't.I mean I can't come up with the answer.",
+    "segments": [
+      {
+        "text": " OK, I hope to do better on this one.",
+        "start": 0.959,
+        "end": 3.282
+      },
+      {
+        "text": "The equation as it stands says 4 equals 7 plus 4, which obviously is wrong.",
+        "start": 3.302,
+        "end": 13.977
+      },
+      {
+        "text": "So let's see.",
+        "start": 14.958,
+        "end": 18.463
+      },
+      {
+        "text": "7 plus 4 would be 12.",
+        "start": 18.483,
+        "end": 21.487
+      },
+      {
+        "text": "Nope.",
+        "start": 22.308,
+        "end": 23.13
+      },
+      {
+        "text": "Let's see.",
+        "start": 23.15,
+        "end": 25.192
+      },
+      {
+        "text": "7 minus 4 would be 3.",
+        "start": 25.212,
+        "end": 29.578
+      },
+      {
+        "text": "That's no good.",
+        "start": 29.679,
+        "end": 30.78
+      },
+      {
+        "text": " Uh, let's see.",
+        "start": 31.823,
+        "end": 34.545
+      },
+      {
+        "text": "Let's see.",
+        "start": 36.968,
+        "end": 37.368
+      },
+      {
+        "text": "What about, what if I, what about if I made it six plus four equals 10?",
+        "start": 37.448,
+        "end": 42.433
+      },
+      {
+        "text": "No, can't do that.",
+        "start": 42.553,
+        "end": 43.614
+      },
+      {
+        "text": "What if that's six.",
+        "start": 48.238,
+        "end": 53.683
+      },
+      {
+        "text": "Okay.",
+        "start": 54.824,
+        "end": 55.184
+      },
+      {
+        "text": "That's seven plus four equals 11.",
+        "start": 55.204,
+        "end": 58.688
+      },
+      {
+        "text": "Um,",
+        "start": 60.95,
+        "end": 61.29
+      },
+      {
+        "text": " Seven plus six equals 13.",
+        "start": 63.38,
+        "end": 66.443
+      },
+      {
+        "text": "Let's see.",
+        "start": 68.065,
+        "end": 68.745
+      },
+      {
+        "text": "What if I made it seven minus four equals three?",
+        "start": 69.266,
+        "end": 74.15
+      },
+      {
+        "text": "No, that's not going to do it.",
+        "start": 74.21,
+        "end": 80.356
+      },
+      {
+        "text": "Let me see.",
+        "start": 80.376,
+        "end": 80.937
+      },
+      {
+        "text": "Seven, wait a minute.",
+        "start": 81.918,
+        "end": 84.18
+      },
+      {
+        "text": "Seven minus three equals four.",
+        "start": 84.2,
+        "end": 87.944
+      },
+      {
+        "text": "Okay, I got it.",
+        "start": 88.244,
+        "end": 88.945
+      },
+      {
+        "text": "Let's see.",
+        "start": 89.405,
+        "end": 89.846
+      },
+      {
+        "text": "So it's going to be,",
+        "start": 91.347,
+        "end": 92.408
+      },
+      {
+        "text": " 4 equals 7.",
+        "start": 96.016,
+        "end": 101.585
+      },
+      {
+        "text": "Oh no, 7.",
+        "start": 101.605,
+        "end": 104.75
+      },
+      {
+        "text": "7 minus 3 and that's it.",
+        "start": 104.77,
+        "end": 113.363
+      },
+      {
+        "text": "I just moved one matchstick.",
+        "start": 113.383,
+        "end": 114.786
+      },
+      {
+        "text": "What?",
+        "start": 115.867,
+        "end": 116.188
+      },
+      {
+        "text": "That wasn't correct.",
+        "start": 116.368,
+        "end": 117.43
+      },
+      {
+        "text": "Oh my God.",
+        "start": 117.91,
+        "end": 118.732
+      },
+      {
+        "text": "Oh, that's true.",
+        "start": 120.655,
+        "end": 121.536
+      },
+      {
+        "text": "No.",
+        "start": 121.777,
+        "end": 122.057
+      },
+      {
+        "text": " Let's see.",
+        "start": 125.918,
+        "end": 135.973
+      },
+      {
+        "text": "Hmm.",
+        "start": 135.993,
+        "end": 136.173
+      },
+      {
+        "text": "Let's see.",
+        "start": 136.193,
+        "end": 136.974
+      },
+      {
+        "text": "Seven plus four equals that's a four.",
+        "start": 138.356,
+        "end": 142.843
+      },
+      {
+        "text": "What if it was six plus four equals that would be 10.",
+        "start": 145.387,
+        "end": 152.657
+      },
+      {
+        "text": "I can't do that.",
+        "start": 152.757,
+        "end": 153.799
+      },
+      {
+        "text": " Oh, let me see.",
+        "start": 154.943,
+        "end": 167.301
+      },
+      {
+        "text": "7 minus 4 equals 3.",
+        "start": 167.321,
+        "end": 171.106
+      },
+      {
+        "text": "What if it was",
+        "start": 177.416,
+        "end": 178.437
+      },
+      {
+        "text": " Now let me see.",
+        "start": 181.943,
+        "end": 183.845
+      },
+      {
+        "text": "What if it was okay?",
+        "start": 183.865,
+        "end": 185.067
+      },
+      {
+        "text": "What if this was 3 equals then 7 minus 4.",
+        "start": 185.227,
+        "end": 197.802
+      },
+      {
+        "text": "Is that the same thing I did before?",
+        "start": 198.583,
+        "end": 200.566
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 200.606,
+        "end": 203.509
+      },
+      {
+        "text": "Jeez, let me think.",
+        "start": 204.13,
+        "end": 208.255
+      },
+      {
+        "text": " 6 equals 7 plus 4 is 11.",
+        "start": 217.178,
+        "end": 221.449
+      },
+      {
+        "text": "That's not right either.",
+        "start": 221.55,
+        "end": 225.6
+      },
+      {
+        "text": "I just\u2026 I can't.",
+        "start": 236.188,
+        "end": 237.953
+      },
+      {
+        "text": "I mean I can't come up with the answer.",
+        "start": 239.216,
+        "end": 241.482
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, I hope to do better on this one. The equation as it stands says 4 equals 7 plus 4, which obviously is wrong. So let's see. 7 plus 4 would be 12. Nope. Let's see. 7 minus 4 would be 3. That's no good. Uh, let's see. Let's see. What about, what if I, what about if I made it six plus four equals 10? No, can't do that. What if that's six. Okay. That's seven plus four equals 11. Um, Seven plus six equals 13. Let's see. What if I made it seven minus four equals three? No, that's not going to do it. Let me see. Seven, wait a minute. Seven minus three equals four. Okay, I got it. Let's see. So it's going to be, 4 equals 7. Oh no, 7. 7 minus 3 and that's it. I just moved one matchstick. What? That wasn't correct. Oh my God. Oh, that's true. No. Let's see. Hmm. Let's see. Seven plus four equals that's a four. What if it was six plus four equals that would be 10. I can't do that. Oh, let me see. 7 minus 4 equals 3. What if it was Now let me see. What if it was okay? What if this was 3 equals then 7 minus 4. Is that the same thing I did before? That's incorrect. Jeez, let me think. 6 equals 7 plus 4 is 11. That's not right either. I just\u2026 I can't. I mean I can't come up with the answer."
+  }
+}

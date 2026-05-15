@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_655cf71a7946/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, so you can only move one matchstick to make this equation correct.What is the final answer?So what we have is we have 3 equals, and remember x is 10, so this is 11, minus 3.So that does not make sense.So if we were saying 3 equals 11 minus 3, which 11 minus 3 is 8, is 8.So we would have to do, now we moved the matchstick, so 3 equals 9 minus 3, that equals 6. so that also doesn't make sense.All right, so use the buttons below to report the correct version of the equation.We can do, we can do three plus, so now my other question is, am I able to move these matchsticks.You can only move one matchstick to make this equation correct.So I would say, okay, we can only move one matchstick.This one is getting me for sure.I can only move one matchstick.Maybe I missed something. because I would want to move a few more.Use buttons below to report the correct version of this equation.I can only move one matchstick.So 3 equals 11 minus 3.So only move one.Even if I made it 9, it wouldn't make sense. So if I made a plus sign.No, that doesn't even make sense too.Three.Oh, I can move the X. Could be X. Three.So we're running out of time.But I only know one.So I'm going to do equals.Oops. That actually doesn't make sense either.This one doesn't make sense either.I know that's incorrect.I think I'm getting stumped by the fact that I can only move one matchstick.I want to move X. X is what I want to move.I just don't know how. but it does not make",
+    "segments": [
+      {
+        "text": " All right, so you can only move one matchstick to make this equation correct.",
+        "start": 3.49,
+        "end": 9.258
+      },
+      {
+        "text": "What is the final answer?",
+        "start": 9.818,
+        "end": 10.94
+      },
+      {
+        "text": "So what we have is we have 3 equals, and remember x is 10, so this is 11, minus 3.",
+        "start": 10.98,
+        "end": 22.375
+      },
+      {
+        "text": "So that does not make sense.",
+        "start": 22.395,
+        "end": 26.761
+      },
+      {
+        "text": "So if we were saying 3 equals 11 minus 3, which",
+        "start": 27.803,
+        "end": 33.43
+      },
+      {
+        "text": " 11 minus 3 is 8, is 8.",
+        "start": 33.663,
+        "end": 41.533
+      },
+      {
+        "text": "So we would have to do, now we moved the matchstick, so 3 equals 9 minus 3, that equals 6.",
+        "start": 43.276,
+        "end": 58.776
+      },
+      {
+        "text": " so that also doesn't make sense.",
+        "start": 59.785,
+        "end": 61.787
+      },
+      {
+        "text": "All right, so use the buttons below to report the correct version of the equation.",
+        "start": 62.167,
+        "end": 67.453
+      },
+      {
+        "text": "We can do, we can do three plus, so now my other question is, am I able",
+        "start": 69.295,
+        "end": 86.653
+      },
+      {
+        "text": " to move these matchsticks.",
+        "start": 87.393,
+        "end": 88.976
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 89.016,
+        "end": 93.723
+      },
+      {
+        "text": "So I would say, okay, we can only move one matchstick.",
+        "start": 95.967,
+        "end": 101.896
+      },
+      {
+        "text": "This one is getting me for sure.",
+        "start": 104.64,
+        "end": 106.824
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 106.844,
+        "end": 112.934
+      },
+      {
+        "text": "Maybe I missed something.",
+        "start": 112.954,
+        "end": 114.396
+      },
+      {
+        "text": " because I would want to move a few more.",
+        "start": 116.603,
+        "end": 119.266
+      },
+      {
+        "text": "Use buttons below to report the correct version of this equation.",
+        "start": 119.827,
+        "end": 123.811
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 123.832,
+        "end": 127.175
+      },
+      {
+        "text": "So 3 equals 11 minus 3.",
+        "start": 129.959,
+        "end": 133.883
+      },
+      {
+        "text": "So only move one.",
+        "start": 137.928,
+        "end": 140.291
+      },
+      {
+        "text": "Even if I made it 9, it wouldn't make sense.",
+        "start": 140.311,
+        "end": 144.636
+      },
+      {
+        "text": " So if I made a plus sign.",
+        "start": 145.274,
+        "end": 151.802
+      },
+      {
+        "text": "No, that doesn't even make sense too.",
+        "start": 154.244,
+        "end": 157.508
+      },
+      {
+        "text": "Three.",
+        "start": 157.528,
+        "end": 162.374
+      },
+      {
+        "text": "Oh, I can move the X. Could be X.",
+        "start": 162.394,
+        "end": 174.488
+      },
+      {
+        "text": " Three.",
+        "start": 176.476,
+        "end": 177.237
+      },
+      {
+        "text": "So we're running out of time.",
+        "start": 180.021,
+        "end": 181.863
+      },
+      {
+        "text": "But I only know one.",
+        "start": 189.914,
+        "end": 191.276
+      },
+      {
+        "text": "So I'm going to do equals.",
+        "start": 193.8,
+        "end": 197.625
+      },
+      {
+        "text": "Oops.",
+        "start": 202.471,
+        "end": 202.872
+      },
+      {
+        "text": " That actually doesn't make sense either.",
+        "start": 204.573,
+        "end": 206.476
+      },
+      {
+        "text": "This one doesn't make sense either.",
+        "start": 206.516,
+        "end": 217.251
+      },
+      {
+        "text": "I know that's incorrect.",
+        "start": 217.291,
+        "end": 220.716
+      },
+      {
+        "text": "I think I'm getting stumped by the fact that I can only move one matchstick.",
+        "start": 222.258,
+        "end": 227.165
+      },
+      {
+        "text": "I want to move X. X is what I want to move.",
+        "start": 227.325,
+        "end": 232.051
+      },
+      {
+        "text": "I just don't know how.",
+        "start": 232.152,
+        "end": 233.213
+      },
+      {
+        "text": " but it does not make",
+        "start": 237.867,
+        "end": 239.846
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so you can only move one matchstick to make this equation correct. What is the final answer? So what we have is we have 3 equals, and remember x is 10, so this is 11, minus 3. So that does not make sense. So if we were saying 3 equals 11 minus 3, which 11 minus 3 is 8, is 8. So we would have to do, now we moved the matchstick, so 3 equals 9 minus 3, that equals 6. so that also doesn't make sense. All right, so use the buttons below to report the correct version of the equation. We can do, we can do three plus, so now my other question is, am I able to move these matchsticks. You can only move one matchstick to make this equation correct. So I would say, okay, we can only move one matchstick. This one is getting me for sure. I can only move one matchstick. Maybe I missed something. because I would want to move a few more. Use buttons below to report the correct version of this equation. I can only move one matchstick. So 3 equals 11 minus 3. So only move one. Even if I made it 9, it wouldn't make sense. So if I made a plus sign. No, that doesn't even make sense too. Three. Oh, I can move the X. Could be X. Three. So we're running out of time. But I only know one. So I'm going to do equals. Oops. That actually doesn't make sense either. This one doesn't make sense either. I know that's incorrect. I think I'm getting stumped by the fact that I can only move one matchstick. I want to move X. X is what I want to move. I just don't know how. but it does not make"
+  }
+}

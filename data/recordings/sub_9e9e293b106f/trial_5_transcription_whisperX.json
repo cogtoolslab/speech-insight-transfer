@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_9e9e293b106f/trial_5.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make... Let's see.So this is now saying 9 equals 7 plus 4.So that's not going to work.So this is a little harder when we add. What, geez.What is the, five, six, seven, plus six would be 15, so that wouldn't work.11, so let's say that's 12. OK, I got it.Let's see.I think I got it.x1 equals, we're just moving that over, right?",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make... Let's see.",
+        "start": 30.288,
+        "end": 43.285
+      },
+      {
+        "text": "So this is now saying 9 equals 7 plus 4.",
+        "start": 43.866,
+        "end": 51.376
+      },
+      {
+        "text": "So that's not going to work.",
+        "start": 51.396,
+        "end": 52.417
+      },
+      {
+        "text": "So this is a little harder when we add.",
+        "start": 53.178,
+        "end": 56.042
+      },
+      {
+        "text": " What, geez.",
+        "start": 63.599,
+        "end": 67.343
+      },
+      {
+        "text": "What is the, five, six, seven, plus six would be 15, so that wouldn't work.",
+        "start": 72.868,
+        "end": 84.639
+      },
+      {
+        "text": "11, so let's say that's 12.",
+        "start": 85.52,
+        "end": 93.488
+      },
+      {
+        "text": " OK, I got it.",
+        "start": 96.556,
+        "end": 97.801
+      },
+      {
+        "text": "Let's see.",
+        "start": 98.142,
+        "end": 98.524
+      },
+      {
+        "text": "I think I got it.",
+        "start": 98.544,
+        "end": 99.287
+      },
+      {
+        "text": "x1 equals, we're just moving that over, right?",
+        "start": 100.11,
+        "end": 107.157
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make... Let's see. So this is now saying 9 equals 7 plus 4. So that's not going to work. So this is a little harder when we add. What, geez. What is the, five, six, seven, plus six would be 15, so that wouldn't work. 11, so let's say that's 12. OK, I got it. Let's see. I think I got it. x1 equals, we're just moving that over, right?"
+  }
+}

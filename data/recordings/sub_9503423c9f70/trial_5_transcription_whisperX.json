@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_9503423c9f70/trial_5.wav",
+  "with_timestamps": {
+    "text": " And the same thing again, 9 equals 9 equals 9.So 110 equals 110 equals 110.",
+    "segments": [
+      {
+        "text": " And the same thing again, 9 equals 9 equals 9.",
+        "start": 1.297,
+        "end": 6.554
+      },
+      {
+        "text": "So 110 equals 110 equals 110.",
+        "start": 7.617,
+        "end": 14.8
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " And the same thing again, 9 equals 9 equals 9. So 110 equals 110 equals 110."
+  }
+}

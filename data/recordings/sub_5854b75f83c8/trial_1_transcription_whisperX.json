@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_5854b75f83c8/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, we've got three equals three plus three.If I change one matchstick, if I change one matchstick, it said I couldn't change the angle.I can only change one matchstick, With that, with the plus sign, like, I don't know if that works.I wanna change the plus sign to equal, so it'd be three equals three equals three.But I don't think, I think that would fall under the category of changing an angle.Let's try to see if it works really quick. I gotta go backwards.This double click is killing me.333 equals 333 equals 333.Now is this going to work?",
+    "segments": [
+      {
+        "text": " Okay, we've got three equals three plus three.",
+        "start": 1.837,
+        "end": 12.387
+      },
+      {
+        "text": "If I change one matchstick, if I change one matchstick, it said I couldn't change the angle.",
+        "start": 12.427,
+        "end": 22.917
+      },
+      {
+        "text": "I can only change one matchstick,",
+        "start": 26.501,
+        "end": 28.823
+      },
+      {
+        "text": " With that, with the plus sign, like, I don't know if that works.",
+        "start": 33.055,
+        "end": 42.224
+      },
+      {
+        "text": "I wanna change the plus sign to equal, so it'd be three equals three equals three.",
+        "start": 42.925,
+        "end": 49.331
+      },
+      {
+        "text": "But I don't think, I think that would fall under the category of changing an angle.",
+        "start": 50.312,
+        "end": 58.139
+      },
+      {
+        "text": "Let's try to see if it works really quick.",
+        "start": 58.199,
+        "end": 62.944
+      },
+      {
+        "text": " I gotta go backwards.",
+        "start": 67.278,
+        "end": 68.302
+      },
+      {
+        "text": "This double click is killing me.",
+        "start": 69.547,
+        "end": 70.952
+      },
+      {
+        "text": "333 equals 333 equals 333.",
+        "start": 70.972,
+        "end": 78.14
+      },
+      {
+        "text": "Now is this going to work?",
+        "start": 79.164,
+        "end": 80.308
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we've got three equals three plus three. If I change one matchstick, if I change one matchstick, it said I couldn't change the angle. I can only change one matchstick, With that, with the plus sign, like, I don't know if that works. I wanna change the plus sign to equal, so it'd be three equals three equals three. But I don't think, I think that would fall under the category of changing an angle. Let's try to see if it works really quick. I gotta go backwards. This double click is killing me. 333 equals 333 equals 333. Now is this going to work?"
+  }
+}

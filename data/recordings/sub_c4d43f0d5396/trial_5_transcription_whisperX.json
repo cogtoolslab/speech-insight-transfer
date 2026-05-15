@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_c4d43f0d5396/trial_5.wav",
+  "with_timestamps": {
+    "text": " Last one.Let's do it.Last one.Okay.This is saying 4 equals 4 minus, oh boy.Well, 4 minus 0.I don't think there's a Roman numeral for 0.I swear there's not.Is there?This is confusing.Wait.4 equals 4 minus 2. Well, I can't make a zero and I can only move one thing.4 plus 1 isn't a thing.Oh wait, it is.Hold on.4 equals 5 minus 2.That doesn't work though because I can only move one.Why?I don't see a way to solve this.Why are some easy and some are so hard? No, and I can't change that.5 equals 4 minus 2.That's not right.I can't add anything.I have to move something.So it's either 4 equals 4 minus 2, or 5 equals 4 minus 2, or it's going to be 4 equals, or wait a minute, what am I saying?Hold on. What, okay, 6 equals, no that's not right, 6, 6 equals 4 minus 2, that's not quite right.5 equals 4 plus 2, no.4 equals 6 minus 2, I did it!Okay, hang on.4. Okay, if we move this, if it's not a 4 and we move that over to the other side, it's 6.So we need Vi minus the 2.Why did I not see that before?Okay, 4 out of 5 isn't bad.",
+    "segments": [
+      {
+        "text": " Last one.",
+        "start": 0.031,
+        "end": 0.812
+      },
+      {
+        "text": "Let's do it.",
+        "start": 2.334,
+        "end": 2.995
+      },
+      {
+        "text": "Last one.",
+        "start": 3.255,
+        "end": 3.775
+      },
+      {
+        "text": "Okay.",
+        "start": 3.795,
+        "end": 4.116
+      },
+      {
+        "text": "This is saying 4 equals 4 minus, oh boy.",
+        "start": 4.136,
+        "end": 7.68
+      },
+      {
+        "text": "Well, 4 minus 0.",
+        "start": 9.823,
+        "end": 10.804
+      },
+      {
+        "text": "I don't think there's a Roman numeral for 0.",
+        "start": 10.824,
+        "end": 12.706
+      },
+      {
+        "text": "I swear there's not.",
+        "start": 12.726,
+        "end": 14.528
+      },
+      {
+        "text": "Is there?",
+        "start": 14.628,
+        "end": 15.069
+      },
+      {
+        "text": "This is confusing.",
+        "start": 18.853,
+        "end": 19.835
+      },
+      {
+        "text": "Wait.",
+        "start": 22.478,
+        "end": 23.639
+      },
+      {
+        "text": "4 equals 4 minus 2.",
+        "start": 23.659,
+        "end": 25.161
+      },
+      {
+        "text": " Well, I can't make a zero and I can only move one thing.",
+        "start": 27.419,
+        "end": 30.403
+      },
+      {
+        "text": "4 plus 1 isn't a thing.",
+        "start": 30.423,
+        "end": 35.931
+      },
+      {
+        "text": "Oh wait, it is.",
+        "start": 35.951,
+        "end": 38.335
+      },
+      {
+        "text": "Hold on.",
+        "start": 38.395,
+        "end": 38.815
+      },
+      {
+        "text": "4 equals 5 minus 2.",
+        "start": 39.276,
+        "end": 42.681
+      },
+      {
+        "text": "That doesn't work though because I can only move one.",
+        "start": 42.761,
+        "end": 44.844
+      },
+      {
+        "text": "Why?",
+        "start": 44.884,
+        "end": 44.964
+      },
+      {
+        "text": "I don't see a way to solve this.",
+        "start": 45.004,
+        "end": 48.249
+      },
+      {
+        "text": "Why are some easy and some are so hard?",
+        "start": 49.751,
+        "end": 51.874
+      },
+      {
+        "text": " No, and I can't change that.",
+        "start": 56.849,
+        "end": 57.991
+      },
+      {
+        "text": "5 equals 4 minus 2.",
+        "start": 58.011,
+        "end": 60.616
+      },
+      {
+        "text": "That's not right.",
+        "start": 60.716,
+        "end": 61.859
+      },
+      {
+        "text": "I can't add anything.",
+        "start": 64.043,
+        "end": 65.265
+      },
+      {
+        "text": "I have to move something.",
+        "start": 65.325,
+        "end": 66.968
+      },
+      {
+        "text": "So it's either 4 equals 4 minus 2, or 5 equals 4 minus 2, or it's going to be 4 equals, or wait a minute, what am I saying?",
+        "start": 68.812,
+        "end": 79.132
+      },
+      {
+        "text": "Hold on.",
+        "start": 79.152,
+        "end": 79.853
+      },
+      {
+        "text": " What, okay, 6 equals, no that's not right, 6, 6 equals 4 minus 2, that's not quite right.",
+        "start": 81.014,
+        "end": 88.486
+      },
+      {
+        "text": "5 equals 4 plus 2, no.",
+        "start": 89.647,
+        "end": 92.332
+      },
+      {
+        "text": "4 equals 6 minus 2, I did it!",
+        "start": 92.993,
+        "end": 98.201
+      },
+      {
+        "text": "Okay, hang on.",
+        "start": 98.681,
+        "end": 99.102
+      },
+      {
+        "text": "4.",
+        "start": 99.122,
+        "end": 101.065
+      },
+      {
+        "text": " Okay, if we move this, if it's not a 4 and we move that over to the other side, it's 6.",
+        "start": 101.686,
+        "end": 108.205
+      },
+      {
+        "text": "So we need Vi minus the 2.",
+        "start": 108.285,
+        "end": 113.3
+      },
+      {
+        "text": "Why did I not see that before?",
+        "start": 114.544,
+        "end": 116.028
+      },
+      {
+        "text": "Okay, 4 out of 5 isn't bad.",
+        "start": 116.068,
+        "end": 118.395
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Last one. Let's do it. Last one. Okay. This is saying 4 equals 4 minus, oh boy. Well, 4 minus 0. I don't think there's a Roman numeral for 0. I swear there's not. Is there? This is confusing. Wait. 4 equals 4 minus 2. Well, I can't make a zero and I can only move one thing. 4 plus 1 isn't a thing. Oh wait, it is. Hold on. 4 equals 5 minus 2. That doesn't work though because I can only move one. Why? I don't see a way to solve this. Why are some easy and some are so hard? No, and I can't change that. 5 equals 4 minus 2. That's not right. I can't add anything. I have to move something. So it's either 4 equals 4 minus 2, or 5 equals 4 minus 2, or it's going to be 4 equals, or wait a minute, what am I saying? Hold on. What, okay, 6 equals, no that's not right, 6, 6 equals 4 minus 2, that's not quite right. 5 equals 4 plus 2, no. 4 equals 6 minus 2, I did it! Okay, hang on. 4. Okay, if we move this, if it's not a 4 and we move that over to the other side, it's 6. So we need Vi minus the 2. Why did I not see that before? Okay, 4 out of 5 isn't bad."
+  }
+}

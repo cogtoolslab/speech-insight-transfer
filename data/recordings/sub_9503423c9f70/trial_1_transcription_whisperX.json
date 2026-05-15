@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_9503423c9f70/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so the equation says 8 equals 8 plus 8.Use the buttons below to report the correct version.8 equals 8 plus 8.So we're going to say, Oh wait, I can only move one.Use the button below to the correct version of the equation.Can I do 8 equals 8 equals 8?That has to be it.So I'm going to say 8. eight because I'm only moving one which would be the plus sign to an equal sign and this has to be",
+    "segments": [
+      {
+        "text": " Okay, so the equation says 8 equals 8 plus 8.",
+        "start": 2.107,
+        "end": 9.938
+      },
+      {
+        "text": "Use the buttons below to report the correct version.",
+        "start": 12.522,
+        "end": 19.151
+      },
+      {
+        "text": "8 equals 8 plus 8.",
+        "start": 19.171,
+        "end": 26.141
+      },
+      {
+        "text": "So we're going to say,",
+        "start": 29.686,
+        "end": 31.489
+      },
+      {
+        "text": " Oh wait, I can only move one.",
+        "start": 32.161,
+        "end": 33.823
+      },
+      {
+        "text": "Use the button below to the correct version of the equation.",
+        "start": 38.689,
+        "end": 43.715
+      },
+      {
+        "text": "Can I do 8 equals 8 equals 8?",
+        "start": 45.677,
+        "end": 47.579
+      },
+      {
+        "text": "That has to be it.",
+        "start": 55.769,
+        "end": 56.77
+      },
+      {
+        "text": "So I'm going to say 8.",
+        "start": 58.472,
+        "end": 61.476
+      },
+      {
+        "text": " eight because I'm only moving one which would be the plus sign to an equal sign and this has to be",
+        "start": 65.708,
+        "end": 82.637
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so the equation says 8 equals 8 plus 8. Use the buttons below to report the correct version. 8 equals 8 plus 8. So we're going to say, Oh wait, I can only move one. Use the button below to the correct version of the equation. Can I do 8 equals 8 equals 8? That has to be it. So I'm going to say 8. eight because I'm only moving one which would be the plus sign to an equal sign and this has to be"
+  }
+}

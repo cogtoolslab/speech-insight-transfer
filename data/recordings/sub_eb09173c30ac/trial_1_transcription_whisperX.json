@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_eb09173c30ac/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct.What is the final correct equation?So we have three is equal to X is a 10, I believe.So this is nine minus four, nine minus four, which equals five, six, seven, eight, nine, that equals five.So that's incorrect.And we want it to equal three. So let's see.If I put this matchstick behind the 5, that'll be 6, 7, 8, 9.So I can do that.I can make it 6.So do 1, 2, 3.It's equal to 1x minus v1.",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick to make this equation correct.",
+        "start": 0.031,
+        "end": 3.616
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 3.656,
+        "end": 5.358
+      },
+      {
+        "text": "So we have three is equal to X is a 10, I believe.",
+        "start": 5.939,
+        "end": 12.527
+      },
+      {
+        "text": "So this is nine minus four, nine minus four, which equals five, six, seven, eight, nine, that equals five.",
+        "start": 12.568,
+        "end": 25.485
+      },
+      {
+        "text": "So that's incorrect.",
+        "start": 25.885,
+        "end": 27.007
+      },
+      {
+        "text": "And we want it to equal three.",
+        "start": 27.547,
+        "end": 29.65
+      },
+      {
+        "text": " So let's see.",
+        "start": 30.17,
+        "end": 31.613
+      },
+      {
+        "text": "If I put this matchstick behind the 5, that'll be 6, 7, 8, 9.",
+        "start": 31.633,
+        "end": 39.75
+      },
+      {
+        "text": "So I can do that.",
+        "start": 39.891,
+        "end": 40.692
+      },
+      {
+        "text": "I can make it 6.",
+        "start": 40.792,
+        "end": 41.835
+      },
+      {
+        "text": "So do 1, 2, 3.",
+        "start": 42.777,
+        "end": 43.598
+      },
+      {
+        "text": "It's equal to 1x minus v1.",
+        "start": 44.721,
+        "end": 53.359
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct. What is the final correct equation? So we have three is equal to X is a 10, I believe. So this is nine minus four, nine minus four, which equals five, six, seven, eight, nine, that equals five. So that's incorrect. And we want it to equal three. So let's see. If I put this matchstick behind the 5, that'll be 6, 7, 8, 9. So I can do that. I can make it 6. So do 1, 2, 3. It's equal to 1x minus v1."
+  }
+}

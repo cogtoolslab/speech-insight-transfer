@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_c0359a5fa512/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so we have 9 equals 12 plus 4.That is not correct.So 12 plus 4 is 16.So 12 plus 4. is 9.Let's see, how can I get... The left can either be 9, 10, 11, or... I have to move one matchstick only.Let's see.I could make it a subtraction problem, so 12 minus 4. 12 minus four is eight.But I don't have the proper lines for eight.I could... Hmm.I mean, that first number is so big, so I feel like that has to be reduced a little bit. It could be 11.No, but those two have lines on the left.In Roman numerals, you only have one straight line on the left, usually.So what about 10?10.Or what about 13? I feel like this has to be a subtraction problem.So it could be something minus 4.13 minus 4 is 9.OK, there we go.So 9 equals 13 minus 4.So I just moved the plus. to 13.Okay, there we go.",
+    "segments": [
+      {
+        "text": " All right, so we have 9 equals 12 plus 4.",
+        "start": 0.031,
+        "end": 5.64
+      },
+      {
+        "text": "That is not correct.",
+        "start": 8.665,
+        "end": 9.626
+      },
+      {
+        "text": "So 12 plus 4 is 16.",
+        "start": 9.987,
+        "end": 17.118
+      },
+      {
+        "text": "So 12 plus 4.",
+        "start": 21.946,
+        "end": 27.034
+      },
+      {
+        "text": " is 9.",
+        "start": 28.448,
+        "end": 29.289
+      },
+      {
+        "text": "Let's see, how can I get... The left can either be 9, 10, 11, or... I have to move one matchstick only.",
+        "start": 29.349,
+        "end": 44.09
+      },
+      {
+        "text": "Let's see.",
+        "start": 49.798,
+        "end": 50.219
+      },
+      {
+        "text": "I could make it a subtraction problem, so 12 minus 4.",
+        "start": 50.279,
+        "end": 54.625
+      },
+      {
+        "text": " 12 minus four is eight.",
+        "start": 57.98,
+        "end": 59.402
+      },
+      {
+        "text": "But I don't have the proper lines for eight.",
+        "start": 65.208,
+        "end": 67.891
+      },
+      {
+        "text": "I could... Hmm.",
+        "start": 70.675,
+        "end": 78.443
+      },
+      {
+        "text": "I mean, that first number is so big, so I feel like that has to be reduced a little bit.",
+        "start": 80.346,
+        "end": 86.873
+      },
+      {
+        "text": " It could be 11.",
+        "start": 88.068,
+        "end": 89.13
+      },
+      {
+        "text": "No, but those two have lines on the left.",
+        "start": 89.15,
+        "end": 99.104
+      },
+      {
+        "text": "In Roman numerals, you only have one straight line on the left, usually.",
+        "start": 100.926,
+        "end": 104.231
+      },
+      {
+        "text": "So what about 10?",
+        "start": 104.271,
+        "end": 108.357
+      },
+      {
+        "text": "10.",
+        "start": 108.377,
+        "end": 108.437
+      },
+      {
+        "text": "Or what about 13?",
+        "start": 113.204,
+        "end": 117.67
+      },
+      {
+        "text": " I feel like this has to be a subtraction problem.",
+        "start": 121.666,
+        "end": 123.609
+      },
+      {
+        "text": "So it could be something minus 4.",
+        "start": 123.689,
+        "end": 127.315
+      },
+      {
+        "text": "13 minus 4 is 9.",
+        "start": 127.335,
+        "end": 135.048
+      },
+      {
+        "text": "OK, there we go.",
+        "start": 135.368,
+        "end": 136.31
+      },
+      {
+        "text": "So 9 equals 13 minus 4.",
+        "start": 136.33,
+        "end": 143.281
+      },
+      {
+        "text": "So I just moved the plus.",
+        "start": 143.301,
+        "end": 148.129
+      },
+      {
+        "text": " to 13.",
+        "start": 151.838,
+        "end": 152.307
+      },
+      {
+        "text": "Okay, there we go.",
+        "start": 153.55,
+        "end": 154.997
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so we have 9 equals 12 plus 4. That is not correct. So 12 plus 4 is 16. So 12 plus 4. is 9. Let's see, how can I get... The left can either be 9, 10, 11, or... I have to move one matchstick only. Let's see. I could make it a subtraction problem, so 12 minus 4. 12 minus four is eight. But I don't have the proper lines for eight. I could... Hmm. I mean, that first number is so big, so I feel like that has to be reduced a little bit. It could be 11. No, but those two have lines on the left. In Roman numerals, you only have one straight line on the left, usually. So what about 10? 10. Or what about 13? I feel like this has to be a subtraction problem. So it could be something minus 4. 13 minus 4 is 9. OK, there we go. So 9 equals 13 minus 4. So I just moved the plus. to 13. Okay, there we go."
+  }
+}

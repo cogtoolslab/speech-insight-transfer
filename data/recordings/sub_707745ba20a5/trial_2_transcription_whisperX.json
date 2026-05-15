@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_707745ba20a5/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, let's see, we have four is equal to seven plus four.Obviously, that can't be correct because we have four on both sides of the equation and you're adding something that's non-zero, which means this must be a subtraction.Similar to last time, I can move the matchstick from the plus sign to the item on the left to make it a minus, so we'll have 4 is equal to viii, which is 8, minus iv, which is 4.",
+    "segments": [
+      {
+        "text": " Okay, let's see, we have four is equal to seven plus four.",
+        "start": 1.246,
+        "end": 7.854
+      },
+      {
+        "text": "Obviously, that can't be correct because we have four on both sides of the equation and you're adding something that's non-zero, which means this must be a subtraction.",
+        "start": 8.254,
+        "end": 19.928
+      },
+      {
+        "text": "Similar to last time, I can move the matchstick from the plus sign to the item on the left to make it a minus, so we'll have",
+        "start": 20.008,
+        "end": 31.101
+      },
+      {
+        "text": " 4 is equal to viii, which is 8, minus iv, which is 4.",
+        "start": 31.958,
+        "end": 42.508
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let's see, we have four is equal to seven plus four. Obviously, that can't be correct because we have four on both sides of the equation and you're adding something that's non-zero, which means this must be a subtraction. Similar to last time, I can move the matchstick from the plus sign to the item on the left to make it a minus, so we'll have 4 is equal to viii, which is 8, minus iv, which is 4."
+  }
+}

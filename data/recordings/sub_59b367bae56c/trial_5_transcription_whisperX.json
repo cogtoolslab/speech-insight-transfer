@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_59b367bae56c/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 12 equals 12 plus 12.Can I just make it 12 equals 12 equals 12?",
+    "segments": [
+      {
+        "text": " Okay, 12 equals 12 plus 12.",
+        "start": 1.33,
+        "end": 3.957
+      },
+      {
+        "text": "Can I just make it 12 equals 12 equals 12?",
+        "start": 9.552,
+        "end": 19.339
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 12 equals 12 plus 12. Can I just make it 12 equals 12 equals 12?"
+  }
+}

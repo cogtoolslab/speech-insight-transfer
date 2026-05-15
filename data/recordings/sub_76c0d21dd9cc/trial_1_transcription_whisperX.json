@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_1.wav",
+  "with_timestamps": {
+    "text": " 2 plus 4 equals 6 VI 2 plus 4. 4, 4 MMMMMMMMMMMMMMMM You're wrong.You're wrong.I'm the one who survived.",
+    "segments": [
+      {
+        "text": " 2 plus 4 equals 6",
+        "start": 3.828,
+        "end": 12.015
+      },
+      {
+        "text": " VI 2 plus 4.",
+        "start": 38.708,
+        "end": 40.905
+      },
+      {
+        "text": " 4, 4",
+        "start": 76.475,
+        "end": 84.139
+      },
+      {
+        "text": " MMMMMMMMMMMMMMMM",
+        "start": 128.332,
+        "end": 130.495
+      },
+      {
+        "text": " You're wrong.",
+        "start": 154.505,
+        "end": 155.415
+      },
+      {
+        "text": "You're wrong.",
+        "start": 155.455,
+        "end": 156.344
+      },
+      {
+        "text": "I'm the one who survived.",
+        "start": 157.011,
+        "end": 158.608
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 plus 4 equals 6 VI 2 plus 4. 4, 4 MMMMMMMMMMMMMMMM You're wrong. You're wrong. I'm the one who survived."
+  }
+}

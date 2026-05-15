@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_9e9e293b106f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Now I have 4 equals 4 minus 2.That's not right.So we need to figure out.I moved the 1 over.It would be 5 minus 2, but that's not what we're looking for.So. What if... I move one.I don't know if I can do it.That wouldn't work.What if I did... 5 equals 4 minus 3.That wouldn't work.This one's kind of hard.5 minus That wouldn't be it.What if I don't know?Because you can only move one matchstick.So obviously this doesn't work.And if I move. And you can't leave an angled one by itself because that wouldn't work either.Just doesn't seem like I don't think I could put two ones in front of each other, right?Because that wouldn't be a number.But what if I can make a What if I moved that one and made it a... 9... 7 minus 2 equals... wait... 9 minus 2 equals 7.That wouldn't work either.Um... This one's got me. Or if I change this one to make it say 9 equals 4 minus 2,",
+    "segments": [
+      {
+        "text": " Now I have 4 equals 4 minus 2.",
+        "start": 1.195,
+        "end": 12.113
+      },
+      {
+        "text": "That's not right.",
+        "start": 12.273,
+        "end": 13.515
+      },
+      {
+        "text": "So we need to figure out.",
+        "start": 13.535,
+        "end": 15.498
+      },
+      {
+        "text": "I moved the 1 over.",
+        "start": 20.126,
+        "end": 22.029
+      },
+      {
+        "text": "It would be 5 minus 2, but that's not what we're looking for.",
+        "start": 22.089,
+        "end": 24.973
+      },
+      {
+        "text": "So.",
+        "start": 25.033,
+        "end": 27.878
+      },
+      {
+        "text": " What if... I move one.",
+        "start": 38.185,
+        "end": 52.687
+      },
+      {
+        "text": "I don't know if I can do it.",
+        "start": 52.707,
+        "end": 59.377
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 59.397,
+        "end": 60.219
+      },
+      {
+        "text": "What if I did...",
+        "start": 61.641,
+        "end": 64.345
+      },
+      {
+        "text": " 5 equals 4 minus 3.",
+        "start": 68.105,
+        "end": 72.029
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 76.013,
+        "end": 78.215
+      },
+      {
+        "text": "This one's kind of hard.",
+        "start": 78.335,
+        "end": 79.236
+      },
+      {
+        "text": "5 minus",
+        "start": 79.256,
+        "end": 96.593
+      },
+      {
+        "text": " That wouldn't be it.",
+        "start": 98.075,
+        "end": 103.483
+      },
+      {
+        "text": "What if I don't know?",
+        "start": 104.445,
+        "end": 105.646
+      },
+      {
+        "text": "Because you can only move one matchstick.",
+        "start": 106.227,
+        "end": 112.777
+      },
+      {
+        "text": "So obviously this doesn't work.",
+        "start": 112.797,
+        "end": 117.044
+      },
+      {
+        "text": "And if I move.",
+        "start": 125.657,
+        "end": 126.478
+      },
+      {
+        "text": " And you can't leave an angled one by itself because that wouldn't work either.",
+        "start": 130.188,
+        "end": 133.932
+      },
+      {
+        "text": "Just doesn't seem like I don't think I could put two ones in front of each other, right?",
+        "start": 143.864,
+        "end": 154.516
+      },
+      {
+        "text": "Because that wouldn't be",
+        "start": 157.439,
+        "end": 158.44
+      },
+      {
+        "text": " a number.",
+        "start": 159.517,
+        "end": 160.758
+      },
+      {
+        "text": "But what if I can make a",
+        "start": 170.57,
+        "end": 182.824
+      },
+      {
+        "text": " What if I moved that one and made it a... 9... 7 minus 2 equals... wait... 9 minus 2 equals 7.",
+        "start": 192.794,
+        "end": 211.336
+      },
+      {
+        "text": "That wouldn't work either.",
+        "start": 211.376,
+        "end": 212.617
+      },
+      {
+        "text": "Um... This one's got me.",
+        "start": 212.637,
+        "end": 220.827
+      },
+      {
+        "text": " Or if I change this one to make it say 9 equals 4 minus 2,",
+        "start": 223.675,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Now I have 4 equals 4 minus 2. That's not right. So we need to figure out. I moved the 1 over. It would be 5 minus 2, but that's not what we're looking for. So. What if... I move one. I don't know if I can do it. That wouldn't work. What if I did... 5 equals 4 minus 3. That wouldn't work. This one's kind of hard. 5 minus That wouldn't be it. What if I don't know? Because you can only move one matchstick. So obviously this doesn't work. And if I move. And you can't leave an angled one by itself because that wouldn't work either. Just doesn't seem like I don't think I could put two ones in front of each other, right? Because that wouldn't be a number. But what if I can make a What if I moved that one and made it a... 9... 7 minus 2 equals... wait... 9 minus 2 equals 7. That wouldn't work either. Um... This one's got me. Or if I change this one to make it say 9 equals 4 minus 2,"
+  }
+}

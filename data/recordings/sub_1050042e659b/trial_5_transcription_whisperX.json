@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_1050042e659b/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, so last one here, Puzzle 505, BII equals, so 7 equals 3 minus 4.So 7 minus 3 equals 4.We could do that.So if we did 7 minus, that's just moving 1 and then over.So minus 3 equals 4, right?7 minus 3, uh-uh.",
+    "segments": [
+      {
+        "text": " All right, so last one here, Puzzle 505, BII equals, so 7 equals 3 minus 4.",
+        "start": 1.094,
+        "end": 7.084
+      },
+      {
+        "text": "So 7 minus 3 equals 4.",
+        "start": 7.885,
+        "end": 10.109
+      },
+      {
+        "text": "We could do that.",
+        "start": 10.189,
+        "end": 10.89
+      },
+      {
+        "text": "So if we did 7 minus, that's just moving 1 and then over.",
+        "start": 11.491,
+        "end": 15.558
+      },
+      {
+        "text": "So minus 3 equals 4, right?",
+        "start": 16.58,
+        "end": 26.777
+      },
+      {
+        "text": "7 minus 3, uh-uh.",
+        "start": 27.337,
+        "end": 29.481
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so last one here, Puzzle 505, BII equals, so 7 equals 3 minus 4. So 7 minus 3 equals 4. We could do that. So if we did 7 minus, that's just moving 1 and then over. So minus 3 equals 4, right? 7 minus 3, uh-uh."
+  }
+}

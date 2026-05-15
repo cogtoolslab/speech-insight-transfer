@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_8b6bc95cabb0/trial_4.wav",
+  "with_timestamps": {
+    "text": " 3 equals 11 minus 3.11 minus 3 equals 8.6 minus 3 does equal 3.And I can make this into a 6 by removing one matchstick from the X and making it into a V, which then would be 5 plus 1, 6.6 minus 3 equals 3. So one, two, three, equal.I've moved the one matchstick from X to form a V, V, I, which is six, and then minus.",
+    "segments": [
+      {
+        "text": " 3 equals 11 minus 3.",
+        "start": 1.229,
+        "end": 5.955
+      },
+      {
+        "text": "11 minus 3 equals 8.",
+        "start": 5.975,
+        "end": 9.86
+      },
+      {
+        "text": "6 minus 3 does equal 3.",
+        "start": 10.601,
+        "end": 13.364
+      },
+      {
+        "text": "And I can make this into a 6 by removing one matchstick from the X and making it into a V, which then would be 5 plus 1, 6.",
+        "start": 14.245,
+        "end": 24.578
+      },
+      {
+        "text": "6 minus 3 equals 3.",
+        "start": 24.778,
+        "end": 27.962
+      },
+      {
+        "text": " So one, two, three, equal.",
+        "start": 29.343,
+        "end": 32.271
+      },
+      {
+        "text": "I've moved the one matchstick from X to form a V, V, I, which is six, and then minus.",
+        "start": 34.176,
+        "end": 42.458
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 11 minus 3. 11 minus 3 equals 8. 6 minus 3 does equal 3. And I can make this into a 6 by removing one matchstick from the X and making it into a V, which then would be 5 plus 1, 6. 6 minus 3 equals 3. So one, two, three, equal. I've moved the one matchstick from X to form a V, V, I, which is six, and then minus."
+  }
+}

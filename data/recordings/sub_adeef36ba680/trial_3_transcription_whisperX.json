@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_adeef36ba680/trial_3.wav",
+  "with_timestamps": {
+    "text": " Alright, this seems to be a more simplistic puzzle, but still has the same issue.So... 3 equals 3 plus 3.I'm assuming there must be a common thread to all of these puzzles that I haven't solved yet, because each one is presented in the exact same way. the number equals the number added to itself.So there must be a common theme that I'm not seeing.Four, let's see. 4 plus 2 equals 6, but then the other side of the equation is still only 4.And then I can't move one exactly vertical stick to make a V or an X in this case, so making a 5 or a 10 or a 6 or a 4 or a 9 isn't going to work. Hmm, perhaps.Not making the other, the left side of the equation two doesn't seem to solve it either.Hmm. Let's see, if the left side of the equation stays 3, it would have to be 0 plus 3.That doesn't add up, so the left side of the equation must have to change. And changing the addition symbol kind of doesn't work either.Let's see, if it was 2, it would have to be 6 minus 4.Yeah, there's really no way to get 6 or 4 either. I could do 4 equals 2 plus 2, but then you'd have to move two matchsticks and not just one, so that doesn't work either.And once again, I'm not sure. Even as simple as a puzzle is only threes.That's probably kind of embarrassing.",
+    "segments": [
+      {
+        "text": " Alright, this seems to be a more simplistic puzzle, but still has the same issue.",
+        "start": 3.76,
+        "end": 8.066
+      },
+      {
+        "text": "So... 3 equals 3 plus 3.",
+        "start": 11.992,
+        "end": 19.683
+      },
+      {
+        "text": "I'm assuming there must be a common thread to all of these puzzles that I haven't solved yet, because each one is presented in the exact same way.",
+        "start": 19.724,
+        "end": 32.923
+      },
+      {
+        "text": " the number equals the number added to itself.",
+        "start": 34.372,
+        "end": 38.88
+      },
+      {
+        "text": "So there must be a common theme that I'm not seeing.",
+        "start": 40.764,
+        "end": 43.649
+      },
+      {
+        "text": "Four, let's see.",
+        "start": 54.028,
+        "end": 55.35
+      },
+      {
+        "text": " 4 plus 2 equals 6, but then the other side of the equation is still only 4.",
+        "start": 66.89,
+        "end": 72.237
+      },
+      {
+        "text": "And then I can't move one exactly vertical stick to make a V or an X in this case, so making a 5 or a 10 or a 6 or a 4 or a 9 isn't going to work.",
+        "start": 79.987,
+        "end": 96.508
+      },
+      {
+        "text": " Hmm, perhaps.",
+        "start": 110.107,
+        "end": 111.449
+      },
+      {
+        "text": "Not making the other, the left side of the equation two doesn't seem to solve it either.",
+        "start": 119.741,
+        "end": 124.508
+      },
+      {
+        "text": "Hmm.",
+        "start": 124.568,
+        "end": 133.06
+      },
+      {
+        "text": " Let's see, if the left side of the equation stays 3, it would have to be 0 plus 3.",
+        "start": 144.768,
+        "end": 156.627
+      },
+      {
+        "text": "That doesn't add up, so the left side of the equation must have to change.",
+        "start": 157.048,
+        "end": 161.595
+      },
+      {
+        "text": " And changing the addition symbol kind of doesn't work either.",
+        "start": 173.827,
+        "end": 179.133
+      },
+      {
+        "text": "Let's see, if it was 2, it would have to be 6 minus 4.",
+        "start": 179.173,
+        "end": 191.026
+      },
+      {
+        "text": "Yeah, there's really no way to get 6 or 4 either.",
+        "start": 191.046,
+        "end": 203.58
+      },
+      {
+        "text": " I could do 4 equals 2 plus 2, but then you'd have to move two matchsticks and not just one, so that doesn't work either.",
+        "start": 209.416,
+        "end": 218.847
+      },
+      {
+        "text": "And once again, I'm not sure.",
+        "start": 218.867,
+        "end": 233.044
+      },
+      {
+        "text": " Even as simple as a puzzle is only threes.",
+        "start": 234.307,
+        "end": 237.53
+      },
+      {
+        "text": "That's probably kind of embarrassing.",
+        "start": 238.396,
+        "end": 240.148
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, this seems to be a more simplistic puzzle, but still has the same issue. So... 3 equals 3 plus 3. I'm assuming there must be a common thread to all of these puzzles that I haven't solved yet, because each one is presented in the exact same way. the number equals the number added to itself. So there must be a common theme that I'm not seeing. Four, let's see. 4 plus 2 equals 6, but then the other side of the equation is still only 4. And then I can't move one exactly vertical stick to make a V or an X in this case, so making a 5 or a 10 or a 6 or a 4 or a 9 isn't going to work. Hmm, perhaps. Not making the other, the left side of the equation two doesn't seem to solve it either. Hmm. Let's see, if the left side of the equation stays 3, it would have to be 0 plus 3. That doesn't add up, so the left side of the equation must have to change. And changing the addition symbol kind of doesn't work either. Let's see, if it was 2, it would have to be 6 minus 4. Yeah, there's really no way to get 6 or 4 either. I could do 4 equals 2 plus 2, but then you'd have to move two matchsticks and not just one, so that doesn't work either. And once again, I'm not sure. Even as simple as a puzzle is only threes. That's probably kind of embarrassing."
+  }
+}

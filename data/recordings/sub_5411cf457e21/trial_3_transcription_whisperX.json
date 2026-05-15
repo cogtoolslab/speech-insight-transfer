@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_5411cf457e21/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, let me move one match.Okay, so 11 equals 4, 2.So 4 plus 2 equals 6.So 11, 4.11 and 4.11 minus 4 is 7, right?So 11 minus 4.So 11. 4, okay so we have 4, 4 plus 3 is 7, 4 minus 11 minus 2 is 9, minus 2 is 9, but if we can get 9 plus 2 is, okay, so let's see, 2 equals 6. So we want the V and the 1.Let's see if it'll let me do that.So V1 equals 1 V plus 1 1.",
+    "segments": [
+      {
+        "text": " Okay, let me move one match.",
+        "start": 0.47,
+        "end": 1.932
+      },
+      {
+        "text": "Okay, so 11 equals 4, 2.",
+        "start": 2.433,
+        "end": 7.601
+      },
+      {
+        "text": "So 4 plus 2 equals 6.",
+        "start": 7.621,
+        "end": 9.684
+      },
+      {
+        "text": "So 11, 4.",
+        "start": 10.625,
+        "end": 11.106
+      },
+      {
+        "text": "11 and 4.",
+        "start": 11.126,
+        "end": 14.07
+      },
+      {
+        "text": "11 minus 4 is 7, right?",
+        "start": 14.09,
+        "end": 23.985
+      },
+      {
+        "text": "So 11 minus 4.",
+        "start": 25.106,
+        "end": 26.528
+      },
+      {
+        "text": "So 11.",
+        "start": 26.889,
+        "end": 28.992
+      },
+      {
+        "text": " 4, okay so we have 4, 4 plus 3 is 7, 4 minus 11 minus 2 is 9, minus 2 is 9, but if we can get 9 plus 2 is, okay, so let's see, 2 equals 6.",
+        "start": 32.482,
+        "end": 62.083
+      },
+      {
+        "text": " So we want the V and the 1.",
+        "start": 63.869,
+        "end": 66.274
+      },
+      {
+        "text": "Let's see if it'll let me do that.",
+        "start": 66.895,
+        "end": 68.037
+      },
+      {
+        "text": "So V1 equals 1 V plus 1 1.",
+        "start": 69.119,
+        "end": 80.562
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let me move one match. Okay, so 11 equals 4, 2. So 4 plus 2 equals 6. So 11, 4. 11 and 4. 11 minus 4 is 7, right? So 11 minus 4. So 11. 4, okay so we have 4, 4 plus 3 is 7, 4 minus 11 minus 2 is 9, minus 2 is 9, but if we can get 9 plus 2 is, okay, so let's see, 2 equals 6. So we want the V and the 1. Let's see if it'll let me do that. So V1 equals 1 V plus 1 1."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_9a3868181699/trial_3.wav",
+  "with_timestamps": {
+    "text": " The puzzle shows xi equals iv plus 2, which reads as 11 equals 4 plus 2, 11 equals 6.Incorrect.By moving one vertical matchstick from the xi, 11 on the left, you can change it into a vx6.That makes the equation vi equals v plus 2, which translates to 6 equals 4 plus 2, 6, 6, 30-word explanation.",
+    "segments": [
+      {
+        "text": " The puzzle shows xi equals iv plus 2, which reads as 11 equals 4 plus 2, 11 equals 6.",
+        "start": 77.825,
+        "end": 83.216
+      },
+      {
+        "text": "Incorrect.",
+        "start": 83.296,
+        "end": 83.737
+      },
+      {
+        "text": "By moving one vertical matchstick from the xi, 11 on the left, you can change it into a vx6.",
+        "start": 84.438,
+        "end": 89.287
+      },
+      {
+        "text": "That makes the equation vi equals v plus 2, which translates to 6 equals 4 plus 2, 6, 6, 30-word explanation.",
+        "start": 89.869,
+        "end": 96.762
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " The puzzle shows xi equals iv plus 2, which reads as 11 equals 4 plus 2, 11 equals 6. Incorrect. By moving one vertical matchstick from the xi, 11 on the left, you can change it into a vx6. That makes the equation vi equals v plus 2, which translates to 6 equals 4 plus 2, 6, 6, 30-word explanation."
+  }
+}

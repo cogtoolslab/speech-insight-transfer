@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_5fec732bb147/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so eight equals two plus four.Two plus four is six, so that's not right.So I need, let's see.I can move it so it's eight equals Hmm.Or maybe seven.No, that doesn't work.I was thinking I would just put the four with the mesh stick on the other side and make them four.Will that be eight?Or that would work.I can just put it on the other side.Okay.Eight. equals 1 plus 2 plus 6.",
+    "segments": [
+      {
+        "text": " Okay, so eight equals two plus four.",
+        "start": 2.377,
+        "end": 7.364
+      },
+      {
+        "text": "Two plus four is six, so that's not right.",
+        "start": 7.384,
+        "end": 11.389
+      },
+      {
+        "text": "So I need, let's see.",
+        "start": 11.47,
+        "end": 17.578
+      },
+      {
+        "text": "I can move it so it's eight equals",
+        "start": 17.598,
+        "end": 29.194
+      },
+      {
+        "text": " Hmm.",
+        "start": 31.942,
+        "end": 32.342
+      },
+      {
+        "text": "Or maybe seven.",
+        "start": 36.127,
+        "end": 37.188
+      },
+      {
+        "text": "No, that doesn't work.",
+        "start": 37.208,
+        "end": 40.532
+      },
+      {
+        "text": "I was thinking I would just put the four with the mesh stick on the other side and make them four.",
+        "start": 48.402,
+        "end": 54.349
+      },
+      {
+        "text": "Will that be eight?",
+        "start": 54.369,
+        "end": 55.15
+      },
+      {
+        "text": "Or that would work.",
+        "start": 57.753,
+        "end": 58.434
+      },
+      {
+        "text": "I can just put it on the other side.",
+        "start": 58.494,
+        "end": 59.495
+      },
+      {
+        "text": "Okay.",
+        "start": 59.555,
+        "end": 59.916
+      },
+      {
+        "text": "Eight.",
+        "start": 61.177,
+        "end": 61.678
+      },
+      {
+        "text": " equals 1 plus 2 plus 6.",
+        "start": 62.823,
+        "end": 70.892
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so eight equals two plus four. Two plus four is six, so that's not right. So I need, let's see. I can move it so it's eight equals Hmm. Or maybe seven. No, that doesn't work. I was thinking I would just put the four with the mesh stick on the other side and make them four. Will that be eight? Or that would work. I can just put it on the other side. Okay. Eight. equals 1 plus 2 plus 6."
+  }
+}

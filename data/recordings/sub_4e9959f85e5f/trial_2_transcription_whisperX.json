@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_4e9959f85e5f/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright, so that's 4 equals 4 plus 4 again.Okay.Um... 4 equals... Oh wait, okay.4 equals... What if I did... 4 equals 6 minus 4.I move 7.Nope. Oh my goodness, four equals, okay what if I moved one, six equals, no, okay wait.Four equals four, plus no um so let's see six plus how in the world Yeah.Okay.Six equals four.No, this isn't going to work.Okay.So four equals equals. 6 wait 4 equals 7 minus 5, nope what if I 7 Six equals... I just don't... Why can I not see this?Seven... Okay, I... Alright, four equals... um b i plus i nope minus one dang it these are hard",
+    "segments": [
+      {
+        "text": " Alright, so that's 4 equals 4 plus 4 again.",
+        "start": 0.031,
+        "end": 9.382
+      },
+      {
+        "text": "Okay.",
+        "start": 10.684,
+        "end": 11.104
+      },
+      {
+        "text": "Um... 4 equals... Oh wait, okay.",
+        "start": 13.307,
+        "end": 24.58
+      },
+      {
+        "text": "4 equals... What if I did...",
+        "start": 24.88,
+        "end": 29.025
+      },
+      {
+        "text": " 4 equals 6 minus 4.",
+        "start": 30.845,
+        "end": 48.121
+      },
+      {
+        "text": "I move 7.",
+        "start": 54.126,
+        "end": 58.43
+      },
+      {
+        "text": "Nope.",
+        "start": 58.45,
+        "end": 59.451
+      },
+      {
+        "text": " Oh my goodness, four equals, okay what if I moved one, six equals, no, okay wait.",
+        "start": 62.924,
+        "end": 79.391
+      },
+      {
+        "text": "Four equals four,",
+        "start": 84.86,
+        "end": 89.387
+      },
+      {
+        "text": " plus no um so let's see six plus how in the world",
+        "start": 93.805,
+        "end": 121.382
+      },
+      {
+        "text": " Yeah.",
+        "start": 123.286,
+        "end": 123.987
+      },
+      {
+        "text": "Okay.",
+        "start": 124.587,
+        "end": 129.573
+      },
+      {
+        "text": "Six equals four.",
+        "start": 129.593,
+        "end": 139.304
+      },
+      {
+        "text": "No, this isn't going to work.",
+        "start": 140.685,
+        "end": 142.187
+      },
+      {
+        "text": "Okay.",
+        "start": 144.75,
+        "end": 145.23
+      },
+      {
+        "text": "So four equals equals.",
+        "start": 146.452,
+        "end": 152.078
+      },
+      {
+        "text": " 6 wait 4 equals 7 minus 5, nope what if I 7",
+        "start": 157.272,
+        "end": 186.638
+      },
+      {
+        "text": " Six equals... I just don't... Why can I not see this?",
+        "start": 190.043,
+        "end": 200.598
+      },
+      {
+        "text": "Seven... Okay, I... Alright, four equals...",
+        "start": 205.305,
+        "end": 219.004
+      },
+      {
+        "text": " um b i plus i nope minus one dang it these are hard",
+        "start": 221.313,
+        "end": 239.288
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so that's 4 equals 4 plus 4 again. Okay. Um... 4 equals... Oh wait, okay. 4 equals... What if I did... 4 equals 6 minus 4. I move 7. Nope. Oh my goodness, four equals, okay what if I moved one, six equals, no, okay wait. Four equals four, plus no um so let's see six plus how in the world Yeah. Okay. Six equals four. No, this isn't going to work. Okay. So four equals equals. 6 wait 4 equals 7 minus 5, nope what if I 7 Six equals... I just don't... Why can I not see this? Seven... Okay, I... Alright, four equals... um b i plus i nope minus one dang it these are hard"
+  }
+}

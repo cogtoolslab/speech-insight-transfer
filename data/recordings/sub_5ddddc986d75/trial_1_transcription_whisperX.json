@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_5ddddc986d75/trial_1.wav",
+  "with_timestamps": {
+    "text": " Alright, so the equation 6 equals 4 minus 2.Okay, so 6 equals 2, which is not correct.So, let's see here, we could move the equals sign, one of the matchsticks from the equals sign to make a plus, so that it says 6.Oh, no, that wouldn't work. move the one matchstick from the left all the way over to the right so it's five equals no that wouldn't work either If we remove the matchstick from the 4, we can make it either a 5 or a 6.We can also move the matchstick over to the left.So it would be 7 equals 5.No, that wouldn't work either. Okay, if I move the one matchstick and the equals sign over to the minus sign so that it's 6 minus 4 equals 2.So it would be 6 minus 4 equals 2.",
+    "segments": [
+      {
+        "text": " Alright, so the equation 6 equals 4 minus 2.",
+        "start": 3.22,
+        "end": 11.631
+      },
+      {
+        "text": "Okay, so 6 equals 2, which is not correct.",
+        "start": 13.433,
+        "end": 16.196
+      },
+      {
+        "text": "So, let's see here, we could move the equals sign, one of the matchsticks from the equals sign to make a plus, so that it says 6.",
+        "start": 16.817,
+        "end": 26.55
+      },
+      {
+        "text": "Oh, no, that wouldn't work.",
+        "start": 29.774,
+        "end": 30.915
+      },
+      {
+        "text": " move the one matchstick from the left all the way over to the right so it's five equals no that wouldn't work either",
+        "start": 52.647,
+        "end": 62.944
+      },
+      {
+        "text": " If we remove the matchstick from the 4, we can make it either a 5 or a 6.",
+        "start": 87.038,
+        "end": 94.071
+      },
+      {
+        "text": "We can also move the matchstick over to the left.",
+        "start": 94.572,
+        "end": 99.802
+      },
+      {
+        "text": "So it would be 7 equals 5.",
+        "start": 101.364,
+        "end": 104.39
+      },
+      {
+        "text": "No, that wouldn't work either.",
+        "start": 104.41,
+        "end": 108.237
+      },
+      {
+        "text": " Okay, if I move the one matchstick and the equals sign over to the minus sign so that it's 6 minus 4 equals 2.",
+        "start": 166.081,
+        "end": 176.167
+      },
+      {
+        "text": "So it would be 6 minus 4 equals 2.",
+        "start": 178.573,
+        "end": 186.132
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so the equation 6 equals 4 minus 2. Okay, so 6 equals 2, which is not correct. So, let's see here, we could move the equals sign, one of the matchsticks from the equals sign to make a plus, so that it says 6. Oh, no, that wouldn't work. move the one matchstick from the left all the way over to the right so it's five equals no that wouldn't work either If we remove the matchstick from the 4, we can make it either a 5 or a 6. We can also move the matchstick over to the left. So it would be 7 equals 5. No, that wouldn't work either. Okay, if I move the one matchstick and the equals sign over to the minus sign so that it's 6 minus 4 equals 2. So it would be 6 minus 4 equals 2."
+  }
+}

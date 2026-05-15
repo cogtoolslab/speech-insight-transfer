@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_016ef5cb53d0/trial_3.wav",
+  "with_timestamps": {
+    "text": " 9 equals 9 plus 9.I don't know. 9 equals 10 minus 1 equals 9.I don't know.Can I just write that?9 equals 10 minus 9.No.9 equals 10 minus 1.And... Submit. 9 equals 9 equals Six plus three.I don't know.I'm just guessing at this point.10 equals 5 plus 5. 9 equals 7 plus 2.9 equals.",
+    "segments": [
+      {
+        "text": " 9 equals 9 plus 9.",
+        "start": 6.325,
+        "end": 9.414
+      },
+      {
+        "text": "I don't know.",
+        "start": 18.86,
+        "end": 19.963
+      },
+      {
+        "text": " 9 equals 10 minus 1 equals 9.",
+        "start": 43.433,
+        "end": 56.467
+      },
+      {
+        "text": "I don't know.",
+        "start": 58.549,
+        "end": 58.91
+      },
+      {
+        "text": "Can I just write that?",
+        "start": 59.811,
+        "end": 60.832
+      },
+      {
+        "text": "9 equals 10 minus",
+        "start": 60.852,
+        "end": 71.483
+      },
+      {
+        "text": " 9.",
+        "start": 75.428,
+        "end": 75.789
+      },
+      {
+        "text": "No.",
+        "start": 75.809,
+        "end": 82.077
+      },
+      {
+        "text": "9 equals 10 minus 1.",
+        "start": 82.097,
+        "end": 87.585
+      },
+      {
+        "text": "And... Submit.",
+        "start": 91.551,
+        "end": 99.782
+      },
+      {
+        "text": " 9 equals 9 equals",
+        "start": 110.073,
+        "end": 138.122
+      },
+      {
+        "text": " Six plus three.",
+        "start": 144.397,
+        "end": 147.02
+      },
+      {
+        "text": "I don't know.",
+        "start": 152.645,
+        "end": 153.066
+      },
+      {
+        "text": "I'm just guessing at this point.",
+        "start": 153.146,
+        "end": 154.627
+      },
+      {
+        "text": "10 equals",
+        "start": 154.647,
+        "end": 171.805
+      },
+      {
+        "text": " 5 plus 5.",
+        "start": 174.046,
+        "end": 175.804
+      },
+      {
+        "text": " 9 equals 7 plus 2.",
+        "start": 205.383,
+        "end": 217.3
+      },
+      {
+        "text": "9 equals.",
+        "start": 217.32,
+        "end": 225.872
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 9 equals 9 plus 9. I don't know. 9 equals 10 minus 1 equals 9. I don't know. Can I just write that? 9 equals 10 minus 9. No. 9 equals 10 minus 1. And... Submit. 9 equals 9 equals Six plus three. I don't know. I'm just guessing at this point. 10 equals 5 plus 5. 9 equals 7 plus 2. 9 equals."
+  }
+}

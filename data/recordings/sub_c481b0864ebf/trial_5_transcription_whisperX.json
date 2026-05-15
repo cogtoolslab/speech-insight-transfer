@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_c481b0864ebf/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, here we go again.Let's see if I can do better this time.11 minus 7.Four z's, and that's not four z's.So 11 minus 9 minus 7, does it though?Equals 9 minus.",
+    "segments": [
+      {
+        "text": " OK, here we go again.",
+        "start": 1.28,
+        "end": 2.802
+      },
+      {
+        "text": "Let's see if I can do better this time.",
+        "start": 2.842,
+        "end": 4.845
+      },
+      {
+        "text": "11 minus 7.",
+        "start": 4.865,
+        "end": 9.912
+      },
+      {
+        "text": "Four z's, and that's not four z's.",
+        "start": 11.154,
+        "end": 13.397
+      },
+      {
+        "text": "So 11 minus 9 minus 7, does it though?",
+        "start": 13.477,
+        "end": 24.292
+      },
+      {
+        "text": "Equals 9 minus.",
+        "start": 24.332,
+        "end": 31.202
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, here we go again. Let's see if I can do better this time. 11 minus 7. Four z's, and that's not four z's. So 11 minus 9 minus 7, does it though? Equals 9 minus."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_269f3c10e2ec/trial_3.wav",
+  "with_timestamps": {
+    "text": " Oh my god.1x is 9 equals 12 plus 4. That's 11. Oh my god.That doesn't make sense either.Oh my god. Yeah, this is beyond me.Nine.Equals. 12.None of these add up. Like this is literally kind of hurting my head.I feel dumb. Oh my god.11 equals X at I. 11 equals",
+    "segments": [
+      {
+        "text": " Oh my god.",
+        "start": 0.048,
+        "end": 10.02
+      },
+      {
+        "text": "1x is 9 equals 12 plus 4.",
+        "start": 10.04,
+        "end": 27.642
+      },
+      {
+        "text": " That's 11.",
+        "start": 30.119,
+        "end": 55.198
+      },
+      {
+        "text": " Oh my god.",
+        "start": 60.41,
+        "end": 63.795
+      },
+      {
+        "text": "That doesn't make sense either.",
+        "start": 63.815,
+        "end": 87.328
+      },
+      {
+        "text": "Oh my god.",
+        "start": 87.348,
+        "end": 87.548
+      },
+      {
+        "text": " Yeah, this is beyond me.",
+        "start": 96.134,
+        "end": 99.178
+      },
+      {
+        "text": "Nine.",
+        "start": 99.218,
+        "end": 109.331
+      },
+      {
+        "text": "Equals.",
+        "start": 117.101,
+        "end": 118.463
+      },
+      {
+        "text": " 12.",
+        "start": 124.518,
+        "end": 126.08
+      },
+      {
+        "text": "None of these add up.",
+        "start": 142.321,
+        "end": 144.163
+      },
+      {
+        "text": " Like this is literally kind of hurting my head.",
+        "start": 153.779,
+        "end": 177.281
+      },
+      {
+        "text": "I feel dumb.",
+        "start": 181.705,
+        "end": 182.706
+      },
+      {
+        "text": " Oh my god.",
+        "start": 200.405,
+        "end": 210.225
+      },
+      {
+        "text": "11 equals X at I.",
+        "start": 210.245,
+        "end": 220.405
+      },
+      {
+        "text": " 11 equals",
+        "start": 228.738,
+        "end": 233.112
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh my god. 1x is 9 equals 12 plus 4. That's 11. Oh my god. That doesn't make sense either. Oh my god. Yeah, this is beyond me. Nine. Equals. 12. None of these add up. Like this is literally kind of hurting my head. I feel dumb. Oh my god. 11 equals X at I. 11 equals"
+  }
+}

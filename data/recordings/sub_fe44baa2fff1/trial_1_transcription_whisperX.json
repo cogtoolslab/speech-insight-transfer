@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_fe44baa2fff1/trial_1.wav",
+  "with_timestamps": {
+    "text": " all right let's see um four equals four plus four no uh let's put the equals in there first okay you can't move them well I'll just put a report to correct version.All right, I tried that.Yeah, it's gonna be a plop. x minus x minus x minus have equals have?will that work?nope okay I don't have the same ones, but okay. I have no idea.Four, I'm not good at these things.Four plus, I don't know.All right, let's try six minus, that wouldn't work either.Let's try seven minus four is, 8 1, 2, 3 8 I can only make 8 8, 7, 6, I have no idea only move one so put that there 7 plus 9 will equal a b7 b5 plus now hmm give me the that's too i don't know that number uh move that to seven equals um that would be what b64 no Yes, no, seven, I don't know.I have no idea, but it's not gonna take my answer, so I don't know.I don't know how to do this one, so it's really wasting my time here.",
+    "segments": [
+      {
+        "text": " all right let's see um four equals four plus four no uh let's put the equals in there first okay you can't move them well",
+        "start": 0.284,
+        "end": 29.869
+      },
+      {
+        "text": " I'll just put a report to correct version.",
+        "start": 33.005,
+        "end": 36.229
+      },
+      {
+        "text": "All right, I tried that.",
+        "start": 36.249,
+        "end": 37.45
+      },
+      {
+        "text": "Yeah, it's gonna be a plop.",
+        "start": 44.078,
+        "end": 57.274
+      },
+      {
+        "text": " x minus x minus x minus have equals have?",
+        "start": 63.937,
+        "end": 87.137
+      },
+      {
+        "text": "will that work?",
+        "start": 87.157,
+        "end": 93.182
+      },
+      {
+        "text": "nope okay",
+        "start": 93.202,
+        "end": 93.522
+      },
+      {
+        "text": " I don't have the same ones, but okay.",
+        "start": 93.907,
+        "end": 118.834
+      },
+      {
+        "text": " I have no idea.",
+        "start": 122.105,
+        "end": 122.846
+      },
+      {
+        "text": "Four, I'm not good at these things.",
+        "start": 123.527,
+        "end": 125.971
+      },
+      {
+        "text": "Four plus, I don't know.",
+        "start": 126.011,
+        "end": 128.054
+      },
+      {
+        "text": "All right, let's try six minus, that wouldn't work either.",
+        "start": 131.139,
+        "end": 141.294
+      },
+      {
+        "text": "Let's try seven minus four is,",
+        "start": 146.242,
+        "end": 149.867
+      },
+      {
+        "text": " 8 1, 2, 3 8 I can only make 8 8, 7, 6, I have no idea only move one so put that there",
+        "start": 151.079,
+        "end": 178.2
+      },
+      {
+        "text": " 7 plus 9 will equal a b7 b5 plus now hmm give me the that's too i don't know that number uh move that to seven equals um that would be what b64 no",
+        "start": 178.248,
+        "end": 206.162
+      },
+      {
+        "text": " Yes, no, seven, I don't know.",
+        "start": 208.37,
+        "end": 210.454
+      },
+      {
+        "text": "I have no idea, but it's not gonna take my answer, so I don't know.",
+        "start": 219.13,
+        "end": 222.757
+      },
+      {
+        "text": "I don't know how to do this one, so it's really wasting my time here.",
+        "start": 224.32,
+        "end": 229.45
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " all right let's see um four equals four plus four no uh let's put the equals in there first okay you can't move them well I'll just put a report to correct version. All right, I tried that. Yeah, it's gonna be a plop. x minus x minus x minus have equals have? will that work? nope okay I don't have the same ones, but okay. I have no idea. Four, I'm not good at these things. Four plus, I don't know. All right, let's try six minus, that wouldn't work either. Let's try seven minus four is, 8 1, 2, 3 8 I can only make 8 8, 7, 6, I have no idea only move one so put that there 7 plus 9 will equal a b7 b5 plus now hmm give me the that's too i don't know that number uh move that to seven equals um that would be what b64 no Yes, no, seven, I don't know. I have no idea, but it's not gonna take my answer, so I don't know. I don't know how to do this one, so it's really wasting my time here."
+  }
+}

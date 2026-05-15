@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_e4181714e3b3/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, 2 equals 9 minus 2.So how would you get that to be?2, 1 minus 9 equals 8. So I want x10, so 9.So this would have to be 7.So 9 minus 7.But that doesn't give me 2. So what if 1 equals 9 minus 8?But how do I get 8?Oh, man.9 minus 1.So if you can only move one matchstick, it wouldn't mess with the x. Oh, wait. So it would be 4 minus 2.So it would be 2 equals 4 minus 2.",
+    "segments": [
+      {
+        "text": " Okay, 2 equals 9 minus 2.",
+        "start": 0.841,
+        "end": 7.608
+      },
+      {
+        "text": "So how would you get that to be?",
+        "start": 9.63,
+        "end": 11.091
+      },
+      {
+        "text": "2, 1 minus 9 equals 8.",
+        "start": 11.111,
+        "end": 27.388
+      },
+      {
+        "text": " So I want x10, so 9.",
+        "start": 35.553,
+        "end": 39.96
+      },
+      {
+        "text": "So this would have to be 7.",
+        "start": 40.4,
+        "end": 42.123
+      },
+      {
+        "text": "So 9 minus 7.",
+        "start": 46.389,
+        "end": 47.931
+      },
+      {
+        "text": "But that doesn't give me 2.",
+        "start": 49.814,
+        "end": 59.248
+      },
+      {
+        "text": " So what if 1 equals 9 minus 8?",
+        "start": 63.582,
+        "end": 67.488
+      },
+      {
+        "text": "But how do I get 8?",
+        "start": 67.568,
+        "end": 71.494
+      },
+      {
+        "text": "Oh, man.",
+        "start": 71.514,
+        "end": 72.355
+      },
+      {
+        "text": "9 minus 1.",
+        "start": 75.881,
+        "end": 76.982
+      },
+      {
+        "text": "So if you can only move one matchstick, it wouldn't mess with the x. Oh, wait.",
+        "start": 79.306,
+        "end": 91.885
+      },
+      {
+        "text": " So it would be 4 minus 2.",
+        "start": 93.772,
+        "end": 95.795
+      },
+      {
+        "text": "So it would be 2 equals 4 minus 2.",
+        "start": 96.376,
+        "end": 114.261
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 2 equals 9 minus 2. So how would you get that to be? 2, 1 minus 9 equals 8. So I want x10, so 9. So this would have to be 7. So 9 minus 7. But that doesn't give me 2. So what if 1 equals 9 minus 8? But how do I get 8? Oh, man. 9 minus 1. So if you can only move one matchstick, it wouldn't mess with the x. Oh, wait. So it would be 4 minus 2. So it would be 2 equals 4 minus 2."
+  }
+}

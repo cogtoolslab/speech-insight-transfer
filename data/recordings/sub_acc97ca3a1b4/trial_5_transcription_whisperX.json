@@ -1,0 +1,166 @@
+{
+  "file": "data/recordings/sub_acc97ca3a1b4/trial_5.wav",
+  "with_timestamps": {
+    "text": " 10, 11, 12, 13 equals 5, 6, 7 minus 5, 6.Okay, this one is easy.X111 equals V11 plus V1.Now I see this one. Oh, that's not right.Oh, wait a minute.X, 10, 11, 12, 13, 5, 6, 7.What?10, X, 1, 1, 1, 10, 11, 12, 13 equals 5, 6, 7 plus V1, 10, 11, 12, 13 equal V2, V7 plus V1.Seven plus six is 13.What?Okay. Oh my God, why is that not right?X one, two, three equals.So changing the minus sign to a plus sign doesn't work. So what the heck am I supposed to change?So 6, 7 minus 6 is 1.7 plus 6 is 13.And if you're telling me x plus x and 3 is x 10 11 12 13 equals v 1 1 5 6 7 plus v 1 and that's not equal that's not equal to 13 3 10 11 12 13 equal v 1 1 5 6 7 plus 5 6 and you're telling me that that's not correct and I don't know what to change that to then.5 6 7 8 5 6 7 5 6.Why doesn't that work? X plus X, 10, 11, 12, 13, right?Equal.And I'm supposed to make one side equal to the other side.And the easiest thing to do is just to change the minus sign to a plus sign.But it's telling me that that's not correct.And I don't know what else to do.What else am I supposed to do if I can only remove one thing?",
+    "segments": [
+      {
+        "text": " 10, 11, 12, 13 equals 5, 6, 7 minus 5, 6.",
+        "start": 3.406,
+        "end": 14.022
+      },
+      {
+        "text": "Okay, this one is easy.",
+        "start": 14.683,
+        "end": 16.045
+      },
+      {
+        "text": "X111 equals V11 plus V1.",
+        "start": 16.786,
+        "end": 29.244
+      },
+      {
+        "text": "Now I see this one.",
+        "start": 29.264,
+        "end": 31.287
+      },
+      {
+        "text": " Oh, that's not right.",
+        "start": 32.768,
+        "end": 33.789
+      },
+      {
+        "text": "Oh, wait a minute.",
+        "start": 34.33,
+        "end": 35.17
+      },
+      {
+        "text": "X, 10, 11, 12, 13, 5, 6, 7.",
+        "start": 35.19,
+        "end": 45.881
+      },
+      {
+        "text": "What?",
+        "start": 45.901,
+        "end": 46.322
+      },
+      {
+        "text": "10, X, 1, 1, 1, 10, 11, 12, 13 equals 5, 6, 7 plus",
+        "start": 47.903,
+        "end": 62.758
+      },
+      {
+        "text": " V1, 10, 11, 12, 13 equal V2, V7 plus V1.",
+        "start": 68.678,
+        "end": 79.168
+      },
+      {
+        "text": "Seven plus six is 13.",
+        "start": 81.39,
+        "end": 90.778
+      },
+      {
+        "text": "What?",
+        "start": 92.4,
+        "end": 92.9
+      },
+      {
+        "text": "Okay.",
+        "start": 94.962,
+        "end": 95.783
+      },
+      {
+        "text": " Oh my God, why is that not right?",
+        "start": 96.64,
+        "end": 99.524
+      },
+      {
+        "text": "X one, two, three equals.",
+        "start": 99.985,
+        "end": 104.792
+      },
+      {
+        "text": "So changing the minus sign to a plus sign doesn't work.",
+        "start": 112.803,
+        "end": 119.172
+      },
+      {
+        "text": " So what the heck am I supposed to change?",
+        "start": 124.636,
+        "end": 127.721
+      },
+      {
+        "text": "So 6, 7 minus 6 is 1.",
+        "start": 129.323,
+        "end": 136.294
+      },
+      {
+        "text": "7 plus 6 is 13.",
+        "start": 136.314,
+        "end": 146.63
+      },
+      {
+        "text": "And if you're telling me x plus",
+        "start": 148.754,
+        "end": 152.179
+      },
+      {
+        "text": " x and 3 is x 10 11 12 13 equals v 1 1 5 6 7 plus v 1 and that's not equal that's not equal to 13 3 10 11 12 13 equal v",
+        "start": 153.779,
+        "end": 182.858
+      },
+      {
+        "text": " 1 1 5 6 7 plus 5 6 and you're telling me that that's not correct and I don't know what to change that to then.",
+        "start": 183.445,
+        "end": 198.443
+      },
+      {
+        "text": "5 6 7 8 5 6 7 5 6.",
+        "start": 198.463,
+        "end": 208.916
+      },
+      {
+        "text": "Why doesn't that work?",
+        "start": 211.098,
+        "end": 212.44
+      },
+      {
+        "text": " X plus X, 10, 11, 12, 13, right?",
+        "start": 213.922,
+        "end": 219.608
+      },
+      {
+        "text": "Equal.",
+        "start": 220.589,
+        "end": 220.989
+      },
+      {
+        "text": "And I'm supposed to make one side equal to the other side.",
+        "start": 222.611,
+        "end": 225.835
+      },
+      {
+        "text": "And the easiest thing to do is just to change the minus sign to a plus sign.",
+        "start": 226.555,
+        "end": 230.54
+      },
+      {
+        "text": "But it's telling me that that's not correct.",
+        "start": 231.36,
+        "end": 233.623
+      },
+      {
+        "text": "And I don't know what else to do.",
+        "start": 235.745,
+        "end": 238.228
+      },
+      {
+        "text": "What else am I supposed to do if I can only remove one thing?",
+        "start": 239.529,
+        "end": 243.253
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 10, 11, 12, 13 equals 5, 6, 7 minus 5, 6. Okay, this one is easy. X111 equals V11 plus V1. Now I see this one. Oh, that's not right. Oh, wait a minute. X, 10, 11, 12, 13, 5, 6, 7. What? 10, X, 1, 1, 1, 10, 11, 12, 13 equals 5, 6, 7 plus V1, 10, 11, 12, 13 equal V2, V7 plus V1. Seven plus six is 13. What? Okay. Oh my God, why is that not right? X one, two, three equals. So changing the minus sign to a plus sign doesn't work. So what the heck am I supposed to change? So 6, 7 minus 6 is 1. 7 plus 6 is 13. And if you're telling me x plus x and 3 is x 10 11 12 13 equals v 1 1 5 6 7 plus v 1 and that's not equal that's not equal to 13 3 10 11 12 13 equal v 1 1 5 6 7 plus 5 6 and you're telling me that that's not correct and I don't know what to change that to then. 5 6 7 8 5 6 7 5 6. Why doesn't that work? X plus X, 10, 11, 12, 13, right? Equal. And I'm supposed to make one side equal to the other side. And the easiest thing to do is just to change the minus sign to a plus sign. But it's telling me that that's not correct. And I don't know what else to do. What else am I supposed to do if I can only remove one thing?"
+  }
+}

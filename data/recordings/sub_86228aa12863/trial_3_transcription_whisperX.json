@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_86228aa12863/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, 13 equals two plus four.Oh no, sorry, eight.I don't know what I'm thinking.Eight equals, I would need two plus six.So what if I did, 8 equals 2 plus, and I did it this way.",
+    "segments": [
+      {
+        "text": " All right, 13 equals two plus four.",
+        "start": 3.794,
+        "end": 8.301
+      },
+      {
+        "text": "Oh no, sorry, eight.",
+        "start": 18.718,
+        "end": 19.679
+      },
+      {
+        "text": "I don't know what I'm thinking.",
+        "start": 20.16,
+        "end": 21.061
+      },
+      {
+        "text": "Eight equals, I would need two plus six.",
+        "start": 22.083,
+        "end": 29.394
+      },
+      {
+        "text": "So what if I did,",
+        "start": 29.815,
+        "end": 31.017
+      },
+      {
+        "text": " 8 equals 2 plus, and I did it this way.",
+        "start": 32.33,
+        "end": 37.227
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, 13 equals two plus four. Oh no, sorry, eight. I don't know what I'm thinking. Eight equals, I would need two plus six. So what if I did, 8 equals 2 plus, and I did it this way."
+  }
+}

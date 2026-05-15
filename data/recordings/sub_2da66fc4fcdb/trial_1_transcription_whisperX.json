@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_2da66fc4fcdb/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, 10 equals 7 minus 3.So, we can move one match puzzle.So, example.X equals 5, 6, 7 plus 1, 2. Oh, incorrect.OK.Move one.So 10, 7, 5, 6, 7, 8, 10.Version number.OK. So 10, 11 should be 6, 7 minus 2, 7. is equal to 7 ok so how about x 9 is equal to 5 6 7 plus 1 2 ok correct ok so 5 7 10 is equal to 7 minus 3 so if I put 6 plus 6 plus 2, 7 plus 2, 10, 11, so we got 5 I can't just move one.Let's do ten.Five, six, seven.Minus one, two, three.Three is four.Oh, I know.Seven.So, one, 4 is equal to 5, 6, 6, minus 2, 3.",
+    "segments": [
+      {
+        "text": " Okay, 10 equals 7 minus 3.",
+        "start": 1.195,
+        "end": 6.08
+      },
+      {
+        "text": "So, we can move one match puzzle.",
+        "start": 8.442,
+        "end": 12.646
+      },
+      {
+        "text": "So, example.",
+        "start": 15.248,
+        "end": 15.949
+      },
+      {
+        "text": "X equals 5, 6, 7 plus 1, 2.",
+        "start": 19.853,
+        "end": 30.443
+      },
+      {
+        "text": " Oh, incorrect.",
+        "start": 33.832,
+        "end": 35.194
+      },
+      {
+        "text": "OK.",
+        "start": 35.214,
+        "end": 35.854
+      },
+      {
+        "text": "Move one.",
+        "start": 37.577,
+        "end": 38.398
+      },
+      {
+        "text": "So 10, 7, 5, 6, 7, 8, 10.",
+        "start": 40.84,
+        "end": 52.775
+      },
+      {
+        "text": "Version number.",
+        "start": 61.526,
+        "end": 62.867
+      },
+      {
+        "text": "OK.",
+        "start": 62.887,
+        "end": 63.568
+      },
+      {
+        "text": " So 10, 11 should be 6, 7 minus 2, 7.",
+        "start": 64.493,
+        "end": 90.518
+      },
+      {
+        "text": " is equal to 7 ok so how about x 9 is equal to 5 6 7 plus 1 2 ok correct ok so",
+        "start": 97.535,
+        "end": 124.791
+      },
+      {
+        "text": " 5 7 10 is equal to 7 minus 3 so if I put 6 plus",
+        "start": 129.547,
+        "end": 156.01
+      },
+      {
+        "text": " 6 plus 2, 7 plus 2, 10, 11, so we got 5",
+        "start": 158.504,
+        "end": 178.656
+      },
+      {
+        "text": " I can't just move one.",
+        "start": 189.892,
+        "end": 191.293
+      },
+      {
+        "text": "Let's do ten.",
+        "start": 191.333,
+        "end": 194.056
+      },
+      {
+        "text": "Five, six, seven.",
+        "start": 196.218,
+        "end": 197.7
+      },
+      {
+        "text": "Minus one, two, three.",
+        "start": 199.562,
+        "end": 210.092
+      },
+      {
+        "text": "Three is four.",
+        "start": 210.112,
+        "end": 211.313
+      },
+      {
+        "text": "Oh, I know.",
+        "start": 212.574,
+        "end": 213.115
+      },
+      {
+        "text": "Seven.",
+        "start": 213.555,
+        "end": 214.036
+      },
+      {
+        "text": "So, one,",
+        "start": 215.437,
+        "end": 218.38
+      },
+      {
+        "text": " 4 is equal to 5, 6, 6, minus 2, 3.",
+        "start": 218.967,
+        "end": 228.943
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 10 equals 7 minus 3. So, we can move one match puzzle. So, example. X equals 5, 6, 7 plus 1, 2. Oh, incorrect. OK. Move one. So 10, 7, 5, 6, 7, 8, 10. Version number. OK. So 10, 11 should be 6, 7 minus 2, 7. is equal to 7 ok so how about x 9 is equal to 5 6 7 plus 1 2 ok correct ok so 5 7 10 is equal to 7 minus 3 so if I put 6 plus 6 plus 2, 7 plus 2, 10, 11, so we got 5 I can't just move one. Let's do ten. Five, six, seven. Minus one, two, three. Three is four. Oh, I know. Seven. So, one, 4 is equal to 5, 6, 6, minus 2, 3."
+  }
+}

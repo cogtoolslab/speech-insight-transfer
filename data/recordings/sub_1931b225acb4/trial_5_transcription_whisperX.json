@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_1931b225acb4/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, last one.I have done so terrifically that here I am on the last one because I don't know what I'm, I'm not doing a good job.Okay.I'm trying now.Four equals four minus 11.Okay.10 equals four minus 11.Uh, let's see. Let me think, 10, 9 minus 11 is 2, 6, that wouldn't work.1, 5, so that's 4 equals 4. minus 2, excuse me, not 11.Why am I saying 11?Okay.4 equals 4 minus 2.So we just need to change this one right here to a 2.Okay.So let me go change that match stick.Equals 4 minus 2.Ah! That can't be, let's see, four equals four minus two.Oh yeah, yeah, I need to make that two, okay.Two equals four minus two.How can that be wrong? 2 equals 4 minus 2.Well, that's the best I can come up with.Because I have, I moved the one stick, and I guess I'm moving it half of a stick, but I'm replacing it. Let me think.I guess it's replacing the whole thing.No, it can't be a half.2, 3 equals 4 minus 1.But then that's changing for 3 equals 2 minus 1.I guess I can try that. 3 equals 3 minus, I can't rewrite that.Let's see.4 equals 5 minus 1, but that's moving more than that. 3, oh wait, 3 equals 4 minus 1.That's not right either.Well, I don't know.Let's see.5 equals 7 minus 2.Yeah, 5 equals 7. Minus two.That's not right either.Okay, well, I tried really hard.",
+    "segments": [
+      {
+        "text": " Okay, last one.",
+        "start": 0.284,
+        "end": 1.165
+      },
+      {
+        "text": "I have done so terrifically that here I am on the last one because I don't know what I'm, I'm not doing a good job.",
+        "start": 1.225,
+        "end": 7.635
+      },
+      {
+        "text": "Okay.",
+        "start": 7.655,
+        "end": 7.755
+      },
+      {
+        "text": "I'm trying now.",
+        "start": 7.775,
+        "end": 8.336
+      },
+      {
+        "text": "Four equals four minus 11.",
+        "start": 9.878,
+        "end": 13.324
+      },
+      {
+        "text": "Okay.",
+        "start": 16.889,
+        "end": 17.39
+      },
+      {
+        "text": "10 equals four minus 11.",
+        "start": 17.41,
+        "end": 22.137
+      },
+      {
+        "text": "Uh, let's see.",
+        "start": 23.139,
+        "end": 26.123
+      },
+      {
+        "text": " Let me think, 10, 9 minus 11 is 2, 6, that wouldn't work.",
+        "start": 30.71,
+        "end": 39.288
+      },
+      {
+        "text": "1, 5, so that's 4 equals 4.",
+        "start": 39.308,
+        "end": 51.334
+      },
+      {
+        "text": " minus 2, excuse me, not 11.",
+        "start": 57.288,
+        "end": 60.091
+      },
+      {
+        "text": "Why am I saying 11?",
+        "start": 60.231,
+        "end": 60.932
+      },
+      {
+        "text": "Okay.",
+        "start": 61.092,
+        "end": 61.372
+      },
+      {
+        "text": "4 equals 4 minus 2.",
+        "start": 63.495,
+        "end": 65.056
+      },
+      {
+        "text": "So we just need to change this one right here to a 2.",
+        "start": 67.158,
+        "end": 70.402
+      },
+      {
+        "text": "Okay.",
+        "start": 71.883,
+        "end": 72.404
+      },
+      {
+        "text": "So let me go change that match stick.",
+        "start": 72.424,
+        "end": 74.266
+      },
+      {
+        "text": "Equals 4 minus 2.",
+        "start": 77.049,
+        "end": 82.094
+      },
+      {
+        "text": "Ah!",
+        "start": 86.639,
+        "end": 86.839
+      },
+      {
+        "text": " That can't be, let's see, four equals four minus two.",
+        "start": 88.287,
+        "end": 101.08
+      },
+      {
+        "text": "Oh yeah, yeah, I need to make that two, okay.",
+        "start": 102.801,
+        "end": 107.066
+      },
+      {
+        "text": "Two equals four minus two.",
+        "start": 107.086,
+        "end": 114.333
+      },
+      {
+        "text": "How can that be wrong?",
+        "start": 116.535,
+        "end": 117.636
+      },
+      {
+        "text": " 2 equals 4 minus 2.",
+        "start": 120.012,
+        "end": 128.226
+      },
+      {
+        "text": "Well, that's the best I can come up with.",
+        "start": 128.987,
+        "end": 131.672
+      },
+      {
+        "text": "Because I have, I moved the one stick, and I guess I'm moving it half of a stick, but I'm replacing it.",
+        "start": 131.692,
+        "end": 141.328
+      },
+      {
+        "text": " Let me think.",
+        "start": 145.747,
+        "end": 147.348
+      },
+      {
+        "text": "I guess it's replacing the whole thing.",
+        "start": 147.368,
+        "end": 149.07
+      },
+      {
+        "text": "No, it can't be a half.",
+        "start": 149.09,
+        "end": 150.831
+      },
+      {
+        "text": "2, 3 equals 4 minus 1.",
+        "start": 150.851,
+        "end": 160.66
+      },
+      {
+        "text": "But then that's changing for 3 equals 2 minus 1.",
+        "start": 162.261,
+        "end": 171.73
+      },
+      {
+        "text": "I guess I can try that.",
+        "start": 171.75,
+        "end": 174.252
+      },
+      {
+        "text": " 3 equals 3 minus, I can't rewrite that.",
+        "start": 174.755,
+        "end": 184.506
+      },
+      {
+        "text": "Let's see.",
+        "start": 190.553,
+        "end": 192.736
+      },
+      {
+        "text": "4 equals 5 minus 1, but that's moving more than that.",
+        "start": 192.756,
+        "end": 203.428
+      },
+      {
+        "text": " 3, oh wait, 3 equals 4 minus 1.",
+        "start": 206.345,
+        "end": 216.478
+      },
+      {
+        "text": "That's not right either.",
+        "start": 218.661,
+        "end": 219.843
+      },
+      {
+        "text": "Well, I don't know.",
+        "start": 219.863,
+        "end": 221.184
+      },
+      {
+        "text": "Let's see.",
+        "start": 221.224,
+        "end": 226.251
+      },
+      {
+        "text": "5 equals 7 minus 2.",
+        "start": 226.331,
+        "end": 230.637
+      },
+      {
+        "text": "Yeah, 5 equals 7.",
+        "start": 231.658,
+        "end": 236.284
+      },
+      {
+        "text": " Minus two.",
+        "start": 238.373,
+        "end": 240.202
+      },
+      {
+        "text": "That's not right either.",
+        "start": 241.851,
+        "end": 243.198
+      },
+      {
+        "text": "Okay, well, I tried really hard.",
+        "start": 243.218,
+        "end": 246.072
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, last one. I have done so terrifically that here I am on the last one because I don't know what I'm, I'm not doing a good job. Okay. I'm trying now. Four equals four minus 11. Okay. 10 equals four minus 11. Uh, let's see. Let me think, 10, 9 minus 11 is 2, 6, that wouldn't work. 1, 5, so that's 4 equals 4. minus 2, excuse me, not 11. Why am I saying 11? Okay. 4 equals 4 minus 2. So we just need to change this one right here to a 2. Okay. So let me go change that match stick. Equals 4 minus 2. Ah! That can't be, let's see, four equals four minus two. Oh yeah, yeah, I need to make that two, okay. Two equals four minus two. How can that be wrong? 2 equals 4 minus 2. Well, that's the best I can come up with. Because I have, I moved the one stick, and I guess I'm moving it half of a stick, but I'm replacing it. Let me think. I guess it's replacing the whole thing. No, it can't be a half. 2, 3 equals 4 minus 1. But then that's changing for 3 equals 2 minus 1. I guess I can try that. 3 equals 3 minus, I can't rewrite that. Let's see. 4 equals 5 minus 1, but that's moving more than that. 3, oh wait, 3 equals 4 minus 1. That's not right either. Well, I don't know. Let's see. 5 equals 7 minus 2. Yeah, 5 equals 7. Minus two. That's not right either. Okay, well, I tried really hard."
+  }
+}

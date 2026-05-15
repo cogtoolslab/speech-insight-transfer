@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_db1a7a0e869f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, we got it.So 12 equals 12 plus 12.Oh Lord.12 equals 12 plus 12.12 equals 12 plus 12.Hmm. I can only move one.Uh oh, uh oh.Oh shoot, you can't move two.Because it would be 22 equals... No, it won't work.Oh man. 13 minus 12, no.Okay, 13 equals.Okay, let's see.Equals. That doesn't work.Minus 611, that won't work.Let's see.1, so 11.No.13. equals 11.That won't work.It has to be some kind of minus.I have to subtract.12 equals 12.I can only move one.Oh!Okay, you can move So 15 equals 12 plus 12.No, it's 24.Hmm.I'm lost here.Ah. Oh, okay, okay, 20 equals, no.Still can't do that either, so.If you move one matchstick, you can't make an X, so.Oh, this is hard. 12 plus 12, I don't understand.I can't get this one.I'm so disappointed.",
+    "segments": [
+      {
+        "text": " Okay, we got it.",
+        "start": 0.031,
+        "end": 2.794
+      },
+      {
+        "text": "So 12 equals 12 plus 12.",
+        "start": 2.814,
+        "end": 4.917
+      },
+      {
+        "text": "Oh Lord.",
+        "start": 6.219,
+        "end": 6.779
+      },
+      {
+        "text": "12 equals 12 plus 12.",
+        "start": 12.086,
+        "end": 14.249
+      },
+      {
+        "text": "12 equals 12 plus 12.",
+        "start": 14.269,
+        "end": 25.142
+      },
+      {
+        "text": "Hmm.",
+        "start": 27.325,
+        "end": 27.405
+      },
+      {
+        "text": " I can only move one.",
+        "start": 31.942,
+        "end": 33.464
+      },
+      {
+        "text": "Uh oh, uh oh.",
+        "start": 33.484,
+        "end": 42.138
+      },
+      {
+        "text": "Oh shoot, you can't move two.",
+        "start": 42.158,
+        "end": 43.56
+      },
+      {
+        "text": "Because it would be 22 equals... No, it won't work.",
+        "start": 48.427,
+        "end": 53.936
+      },
+      {
+        "text": "Oh man.",
+        "start": 59.444,
+        "end": 60.025
+      },
+      {
+        "text": " 13 minus 12, no.",
+        "start": 63.532,
+        "end": 73.629
+      },
+      {
+        "text": "Okay, 13 equals.",
+        "start": 73.649,
+        "end": 75.512
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 85.209,
+        "end": 85.529
+      },
+      {
+        "text": "Equals.",
+        "start": 85.549,
+        "end": 86.451
+      },
+      {
+        "text": " That doesn't work.",
+        "start": 93.704,
+        "end": 94.445
+      },
+      {
+        "text": "Minus 611, that won't work.",
+        "start": 98.932,
+        "end": 104.58
+      },
+      {
+        "text": "Let's see.",
+        "start": 108.385,
+        "end": 109.086
+      },
+      {
+        "text": "1, so 11.",
+        "start": 109.106,
+        "end": 116.858
+      },
+      {
+        "text": "No.",
+        "start": 120.803,
+        "end": 120.864
+      },
+      {
+        "text": "13.",
+        "start": 120.884,
+        "end": 121.905
+      },
+      {
+        "text": " equals 11.",
+        "start": 125.176,
+        "end": 126.958
+      },
+      {
+        "text": "That won't work.",
+        "start": 126.978,
+        "end": 129.26
+      },
+      {
+        "text": "It has to be some kind of minus.",
+        "start": 129.34,
+        "end": 131.022
+      },
+      {
+        "text": "I have to subtract.",
+        "start": 131.923,
+        "end": 132.703
+      },
+      {
+        "text": "12 equals 12.",
+        "start": 140.091,
+        "end": 143.814
+      },
+      {
+        "text": "I can only move one.",
+        "start": 143.834,
+        "end": 151.502
+      },
+      {
+        "text": "Oh!",
+        "start": 152.943,
+        "end": 153.084
+      },
+      {
+        "text": "Okay, you can move",
+        "start": 153.624,
+        "end": 154.525
+      },
+      {
+        "text": " So 15 equals 12 plus 12.",
+        "start": 155.72,
+        "end": 161.549
+      },
+      {
+        "text": "No, it's 24.",
+        "start": 161.709,
+        "end": 162.911
+      },
+      {
+        "text": "Hmm.",
+        "start": 169.641,
+        "end": 169.941
+      },
+      {
+        "text": "I'm lost here.",
+        "start": 171.484,
+        "end": 172.305
+      },
+      {
+        "text": "Ah.",
+        "start": 179.335,
+        "end": 179.736
+      },
+      {
+        "text": " Oh, okay, okay, 20 equals, no.",
+        "start": 183.985,
+        "end": 186.969
+      },
+      {
+        "text": "Still can't do that either, so.",
+        "start": 193.437,
+        "end": 194.959
+      },
+      {
+        "text": "If you move one matchstick, you can't make an X, so.",
+        "start": 194.979,
+        "end": 200.987
+      },
+      {
+        "text": "Oh, this is hard.",
+        "start": 208.898,
+        "end": 210.6
+      },
+      {
+        "text": " 12 plus 12, I don't understand.",
+        "start": 215.71,
+        "end": 219.138
+      },
+      {
+        "text": "I can't get this one.",
+        "start": 224.492,
+        "end": 225.494
+      },
+      {
+        "text": "I'm so disappointed.",
+        "start": 226.898,
+        "end": 227.88
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we got it. So 12 equals 12 plus 12. Oh Lord. 12 equals 12 plus 12. 12 equals 12 plus 12. Hmm. I can only move one. Uh oh, uh oh. Oh shoot, you can't move two. Because it would be 22 equals... No, it won't work. Oh man. 13 minus 12, no. Okay, 13 equals. Okay, let's see. Equals. That doesn't work. Minus 611, that won't work. Let's see. 1, so 11. No. 13. equals 11. That won't work. It has to be some kind of minus. I have to subtract. 12 equals 12. I can only move one. Oh! Okay, you can move So 15 equals 12 plus 12. No, it's 24. Hmm. I'm lost here. Ah. Oh, okay, okay, 20 equals, no. Still can't do that either, so. If you move one matchstick, you can't make an X, so. Oh, this is hard. 12 plus 12, I don't understand. I can't get this one. I'm so disappointed."
+  }
+}

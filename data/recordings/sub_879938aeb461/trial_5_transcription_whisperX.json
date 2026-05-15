@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_879938aeb461/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, this one, the initial equation states 7 equals 3 minus 4.3 minus 4 is a negative 1, so 7 can't equal that.So, um... 3 plus 5 also does not work. Let's see here.So 2, 3 plus 4 would be 7. However, oh, maybe we could do it this way.So 7 minus 3 would equal to 4.",
+    "segments": [
+      {
+        "text": " Okay, this one, the initial equation states 7 equals 3 minus 4.",
+        "start": 1.33,
+        "end": 9.101
+      },
+      {
+        "text": "3 minus 4 is a negative 1, so 7 can't equal that.",
+        "start": 9.121,
+        "end": 15.309
+      },
+      {
+        "text": "So, um... 3 plus 5 also does not work.",
+        "start": 15.449,
+        "end": 26.224
+      },
+      {
+        "text": " Let's see here.",
+        "start": 31.891,
+        "end": 45.448
+      },
+      {
+        "text": "So 2, 3 plus 4 would be 7.",
+        "start": 45.929,
+        "end": 61.088
+      },
+      {
+        "text": " However, oh, maybe we could do it this way.",
+        "start": 64.392,
+        "end": 74.468
+      },
+      {
+        "text": "So 7 minus 3 would equal to 4.",
+        "start": 74.749,
+        "end": 81.76
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this one, the initial equation states 7 equals 3 minus 4. 3 minus 4 is a negative 1, so 7 can't equal that. So, um... 3 plus 5 also does not work. Let's see here. So 2, 3 plus 4 would be 7. However, oh, maybe we could do it this way. So 7 minus 3 would equal to 4."
+  }
+}

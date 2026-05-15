@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_d517dc5c5248/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so the equation reads 4 equals 7 plus 4.And 7 plus 4 is 11.So I want to see 4 equals something plus something together.Hmm.I'm thinking. If I change the equation on the left-hand side, it would be, if I added a matchstick to the left of four, I would have seven.So seven equals six plus one.No, that's not gonna work.All right, seven plus four on the right-hand side.I can only use one matchstick. Oh, I can use an angled matchstick.7 plus 4 equals 11.But I can't move one of the matchsticks near 4 because that is angled. And I can't move the left side of four over to the right because that's moving one and not, that would have to move two.Four equals seven plus four.What if I took the matchstick on the plus sign and made it a minus sign?So seven minus four would be three. Nope, can't do that because that would make no sense because it's four equals not five equals.This is kind of tricky actually.I'm trying to do it in my head and look and speak at the same time.If I move, The left side to the right side, on the left side of the equation, I would have six equals, but that still wouldn't really make a difference.Oh, wait, seven plus four is 11.Okay, so I'm gonna move.All right, I know what I'm doing.So we're gonna move.So here it is.So it's one X, which is, no, that's nine. Oh, darn it.Let me erase this.I was thinking 11.Oh, my gosh, I don't think I'm going to be able to figure this out.This is very hard.Four equals.So I would have to make the left side bigger no matter what I'm thinking.So I would have to move the left side of the four over to the right side of the four.So six equals. seven plus, but I can only move one.Oh my goodness.I don't think I'm going to be able to figure this out, but that's my thought process anyway, is to take out the horizontal match or the vertical matchstick. the plus sign to make a minus sign and make it three, but I don't know what to do with the other matchstick.",
+    "segments": [
+      {
+        "text": " OK, so the equation reads 4 equals 7 plus 4.",
+        "start": 1.955,
+        "end": 9.266
+      },
+      {
+        "text": "And 7 plus 4 is 11.",
+        "start": 10.247,
+        "end": 11.97
+      },
+      {
+        "text": "So I want to see 4 equals something plus something together.",
+        "start": 13.572,
+        "end": 23.928
+      },
+      {
+        "text": "Hmm.",
+        "start": 23.948,
+        "end": 24.028
+      },
+      {
+        "text": "I'm thinking.",
+        "start": 27.693,
+        "end": 28.755
+      },
+      {
+        "text": " If I change the equation on the left-hand side, it would be, if I added a matchstick to the left of four, I would have seven.",
+        "start": 31.553,
+        "end": 42.503
+      },
+      {
+        "text": "So seven equals six plus one.",
+        "start": 42.563,
+        "end": 50.169
+      },
+      {
+        "text": "No, that's not gonna work.",
+        "start": 50.189,
+        "end": 51.891
+      },
+      {
+        "text": "All right, seven plus four on the right-hand side.",
+        "start": 55.194,
+        "end": 58.176
+      },
+      {
+        "text": "I can only use one matchstick.",
+        "start": 58.196,
+        "end": 61.459
+      },
+      {
+        "text": " Oh, I can use an angled matchstick.",
+        "start": 63.295,
+        "end": 70.05
+      },
+      {
+        "text": "7 plus 4 equals 11.",
+        "start": 72.134,
+        "end": 74.76
+      },
+      {
+        "text": "But I can't move one of the matchsticks near 4 because that is angled.",
+        "start": 75.742,
+        "end": 81.675
+      },
+      {
+        "text": " And I can't move the left side of four over to the right because that's moving one and not, that would have to move two.",
+        "start": 87.95,
+        "end": 96.242
+      },
+      {
+        "text": "Four equals seven plus four.",
+        "start": 96.282,
+        "end": 101.889
+      },
+      {
+        "text": "What if I took the matchstick on the plus sign and made it a minus sign?",
+        "start": 106.516,
+        "end": 110.301
+      },
+      {
+        "text": "So seven minus four would be three.",
+        "start": 111.743,
+        "end": 116.59
+      },
+      {
+        "text": " Nope, can't do that because that would make no sense because it's four equals not five equals.",
+        "start": 118.679,
+        "end": 131.03
+      },
+      {
+        "text": "This is kind of tricky actually.",
+        "start": 131.151,
+        "end": 132.632
+      },
+      {
+        "text": "I'm trying to do it in my head and look and speak at the same time.",
+        "start": 132.672,
+        "end": 138.397
+      },
+      {
+        "text": "If I move,",
+        "start": 139.458,
+        "end": 146.745
+      },
+      {
+        "text": " The left side to the right side, on the left side of the equation, I would have six equals, but that still wouldn't really make a difference.",
+        "start": 148.447,
+        "end": 157.199
+      },
+      {
+        "text": "Oh, wait, seven plus four is 11.",
+        "start": 160.764,
+        "end": 163.107
+      },
+      {
+        "text": "Okay, so I'm gonna move.",
+        "start": 163.308,
+        "end": 164.649
+      },
+      {
+        "text": "All right, I know what I'm doing.",
+        "start": 165.471,
+        "end": 166.492
+      },
+      {
+        "text": "So we're gonna move.",
+        "start": 167.273,
+        "end": 169.055
+      },
+      {
+        "text": "So here it is.",
+        "start": 170.017,
+        "end": 170.718
+      },
+      {
+        "text": "So it's one X, which is, no, that's nine.",
+        "start": 170.838,
+        "end": 177.407
+      },
+      {
+        "text": " Oh, darn it.",
+        "start": 178.113,
+        "end": 178.934
+      },
+      {
+        "text": "Let me erase this.",
+        "start": 181.537,
+        "end": 182.839
+      },
+      {
+        "text": "I was thinking 11.",
+        "start": 183.88,
+        "end": 184.621
+      },
+      {
+        "text": "Oh, my gosh, I don't think I'm going to be able to figure this out.",
+        "start": 184.902,
+        "end": 190.91
+      },
+      {
+        "text": "This is very hard.",
+        "start": 191.45,
+        "end": 192.291
+      },
+      {
+        "text": "Four equals.",
+        "start": 196.617,
+        "end": 197.258
+      },
+      {
+        "text": "So I would have to make the left side bigger no matter what I'm thinking.",
+        "start": 197.318,
+        "end": 200.782
+      },
+      {
+        "text": "So I would have to move the left side of the four over to the right side of the four.",
+        "start": 200.983,
+        "end": 204.828
+      },
+      {
+        "text": "So six equals.",
+        "start": 205.589,
+        "end": 207.411
+      },
+      {
+        "text": " seven plus, but I can only move one.",
+        "start": 209.213,
+        "end": 212.499
+      },
+      {
+        "text": "Oh my goodness.",
+        "start": 215.404,
+        "end": 216.085
+      },
+      {
+        "text": "I don't think I'm going to be able to figure this out, but that's my thought process anyway, is to take out the horizontal match or the vertical matchstick.",
+        "start": 216.105,
+        "end": 229.028
+      },
+      {
+        "text": " the plus sign to make a minus sign and make it three, but I don't know what to do with the other matchstick.",
+        "start": 234.863,
+        "end": 239.457
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so the equation reads 4 equals 7 plus 4. And 7 plus 4 is 11. So I want to see 4 equals something plus something together. Hmm. I'm thinking. If I change the equation on the left-hand side, it would be, if I added a matchstick to the left of four, I would have seven. So seven equals six plus one. No, that's not gonna work. All right, seven plus four on the right-hand side. I can only use one matchstick. Oh, I can use an angled matchstick. 7 plus 4 equals 11. But I can't move one of the matchsticks near 4 because that is angled. And I can't move the left side of four over to the right because that's moving one and not, that would have to move two. Four equals seven plus four. What if I took the matchstick on the plus sign and made it a minus sign? So seven minus four would be three. Nope, can't do that because that would make no sense because it's four equals not five equals. This is kind of tricky actually. I'm trying to do it in my head and look and speak at the same time. If I move, The left side to the right side, on the left side of the equation, I would have six equals, but that still wouldn't really make a difference. Oh, wait, seven plus four is 11. Okay, so I'm gonna move. All right, I know what I'm doing. So we're gonna move. So here it is. So it's one X, which is, no, that's nine. Oh, darn it. Let me erase this. I was thinking 11. Oh, my gosh, I don't think I'm going to be able to figure this out. This is very hard. Four equals. So I would have to make the left side bigger no matter what I'm thinking. So I would have to move the left side of the four over to the right side of the four. So six equals. seven plus, but I can only move one. Oh my goodness. I don't think I'm going to be able to figure this out, but that's my thought process anyway, is to take out the horizontal match or the vertical matchstick. the plus sign to make a minus sign and make it three, but I don't know what to do with the other matchstick."
+  }
+}

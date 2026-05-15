@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_1fd86ec6bf44/trial_3.wav",
+  "with_timestamps": {
+    "text": " 3 equals 9 minus 4.9 minus 4 is 5.If we do x minus minus 4 that means 4 is 6 if we did 9 plus 4 is 13 3 equals 9 minus 4 We do X. We do pluses.13.We do 9 minus 6.Then it would be 3.So III equals x minus v.",
+    "segments": [
+      {
+        "text": " 3 equals 9 minus 4.",
+        "start": 3.575,
+        "end": 8.2
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 8.22,
+        "end": 12.344
+      },
+      {
+        "text": "If we do x minus",
+        "start": 17.11,
+        "end": 26.68
+      },
+      {
+        "text": " minus 4 that means 4 is 6 if we did 9 plus 4 is 13 3 equals 9 minus 4",
+        "start": 29.073,
+        "end": 55.772
+      },
+      {
+        "text": " We do X. We do pluses.",
+        "start": 61.743,
+        "end": 67.511
+      },
+      {
+        "text": "13.",
+        "start": 67.531,
+        "end": 71.517
+      },
+      {
+        "text": "We do 9 minus 6.",
+        "start": 78.227,
+        "end": 84.476
+      },
+      {
+        "text": "Then it would be 3.",
+        "start": 85.157,
+        "end": 86.719
+      },
+      {
+        "text": "So III equals",
+        "start": 87.641,
+        "end": 90.585
+      },
+      {
+        "text": " x minus v.",
+        "start": 91.865,
+        "end": 94.787
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 9 minus 4. 9 minus 4 is 5. If we do x minus minus 4 that means 4 is 6 if we did 9 plus 4 is 13 3 equals 9 minus 4 We do X. We do pluses. 13. We do 9 minus 6. Then it would be 3. So III equals x minus v."
+  }
+}

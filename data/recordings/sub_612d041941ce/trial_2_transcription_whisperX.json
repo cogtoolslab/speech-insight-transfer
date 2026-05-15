@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_612d041941ce/trial_2.wav",
+  "with_timestamps": {
+    "text": " okay so this one we have 2 equals 9 minus 2 so that's 2 equals 7 and I need to change one matchstick so Let's see, if I had that 2 equals 4 minus 2, so kind of the opposite of the last time where the x is crossed.If I change that to a v, that'll be 2 equals 4 minus 2.And that should give us the right solution while only moving one matchstick.",
+    "segments": [
+      {
+        "text": " okay so this one we have 2 equals 9 minus 2 so that's 2 equals 7 and I need to change one matchstick so",
+        "start": 0.436,
+        "end": 17.5
+      },
+      {
+        "text": " Let's see, if I had that 2 equals 4 minus 2, so kind of the opposite of the last time where the x is crossed.",
+        "start": 18.728,
+        "end": 26.257
+      },
+      {
+        "text": "If I change that to a v, that'll be 2 equals 4 minus 2.",
+        "start": 26.297,
+        "end": 30.582
+      },
+      {
+        "text": "And that should give us the right solution while only moving one matchstick.",
+        "start": 31.584,
+        "end": 40.855
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay so this one we have 2 equals 9 minus 2 so that's 2 equals 7 and I need to change one matchstick so Let's see, if I had that 2 equals 4 minus 2, so kind of the opposite of the last time where the x is crossed. If I change that to a v, that'll be 2 equals 4 minus 2. And that should give us the right solution while only moving one matchstick."
+  }
+}

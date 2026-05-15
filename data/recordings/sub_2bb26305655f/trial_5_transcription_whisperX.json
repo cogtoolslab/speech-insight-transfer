@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_2bb26305655f/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 4 equals 7 plus 4.7 plus 4 is 11, which I can't get by moving the changing the V into an X because that would be 9.4 equals 8 minus 4?Yeah, 8 minus 4.",
+    "segments": [
+      {
+        "text": " Okay, 4 equals 7 plus 4.",
+        "start": 1.28,
+        "end": 4.625
+      },
+      {
+        "text": "7 plus 4 is 11, which I can't get by moving the",
+        "start": 4.645,
+        "end": 29.464
+      },
+      {
+        "text": " changing the V into an X because that would be 9.",
+        "start": 29.866,
+        "end": 33.352
+      },
+      {
+        "text": "4 equals",
+        "start": 33.372,
+        "end": 52.144
+      },
+      {
+        "text": " 8 minus 4?",
+        "start": 58.553,
+        "end": 60.501
+      },
+      {
+        "text": "Yeah, 8 minus 4.",
+        "start": 61.284,
+        "end": 68.293
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 4 equals 7 plus 4. 7 plus 4 is 11, which I can't get by moving the changing the V into an X because that would be 9. 4 equals 8 minus 4? Yeah, 8 minus 4."
+  }
+}

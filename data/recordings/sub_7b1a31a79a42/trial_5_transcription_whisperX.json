@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_7b1a31a79a42/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 minus 11.2 minus 11.Now 2 is equals to 11 minus 7.2 is equals to 11 minus 7.What's this one going to be?I hope I'll be able to get this one as well too. is equals to 7 is equals to 11 minus 7 2 2, physical still level minus 7. move so what should i do okay two minus 11 2 minus 11",
+    "segments": [
+      {
+        "text": " 2 minus 11.",
+        "start": 0.031,
+        "end": 5.636
+      },
+      {
+        "text": "2 minus 11.",
+        "start": 5.656,
+        "end": 17.067
+      },
+      {
+        "text": "Now 2 is equals to 11 minus 7.",
+        "start": 20.65,
+        "end": 25.815
+      },
+      {
+        "text": "2 is equals to",
+        "start": 25.835,
+        "end": 27.557
+      },
+      {
+        "text": " 11 minus 7.",
+        "start": 28.482,
+        "end": 31.346
+      },
+      {
+        "text": "What's this one going to be?",
+        "start": 45.685,
+        "end": 47.588
+      },
+      {
+        "text": "I hope I'll be able to get this one as well too.",
+        "start": 47.608,
+        "end": 51.553
+      },
+      {
+        "text": " is equals to 7 is equals to 11 minus 7 2",
+        "start": 55.094,
+        "end": 67.365
+      },
+      {
+        "text": " 2, physical still level minus 7.",
+        "start": 84.676,
+        "end": 87.497
+      },
+      {
+        "text": " move so what should i do okay two",
+        "start": 115.304,
+        "end": 141.109
+      },
+      {
+        "text": " minus 11 2 minus 11",
+        "start": 143.384,
+        "end": 155.098
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 minus 11. 2 minus 11. Now 2 is equals to 11 minus 7. 2 is equals to 11 minus 7. What's this one going to be? I hope I'll be able to get this one as well too. is equals to 7 is equals to 11 minus 7 2 2, physical still level minus 7. move so what should i do okay two minus 11 2 minus 11"
+  }
+}

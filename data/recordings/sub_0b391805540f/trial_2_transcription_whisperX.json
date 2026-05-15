@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_0b391805540f/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, next one, currently reads 10 equals seven minus three.So no, that needs to be a plus.So you can only move one match stick to make it correct.So if I have six, no, so I need it to be, so if I make that eight, So 7 minus 3 is 4.So 10.If I moved that over there, that would be 6 plus 4 equals 10.OK, so I think I need to move that to make it a plus.So if I do x equals bi plus. Right, 6 plus, no, that would be 9.So if I do x is 10. So 10 minus seven, okay, so maybe if I do 10 minus Vii equals one, two, three.",
+    "segments": [
+      {
+        "text": " All right, next one, currently reads 10 equals seven minus three.",
+        "start": 1.212,
+        "end": 9.681
+      },
+      {
+        "text": "So no, that needs to be a plus.",
+        "start": 11.022,
+        "end": 12.844
+      },
+      {
+        "text": "So you can only move one match stick to make it correct.",
+        "start": 17.549,
+        "end": 21.894
+      },
+      {
+        "text": "So if I have six, no, so I need it to be, so if I make that eight,",
+        "start": 23.035,
+        "end": 30.223
+      },
+      {
+        "text": " So 7 minus 3 is 4.",
+        "start": 33.275,
+        "end": 34.796
+      },
+      {
+        "text": "So 10.",
+        "start": 34.857,
+        "end": 35.417
+      },
+      {
+        "text": "If I moved that over there, that would be 6 plus 4 equals 10.",
+        "start": 42.985,
+        "end": 51.613
+      },
+      {
+        "text": "OK, so I think I need to move that to make it a plus.",
+        "start": 51.673,
+        "end": 54.916
+      },
+      {
+        "text": "So if I do x equals bi plus.",
+        "start": 55.577,
+        "end": 61.763
+      },
+      {
+        "text": " Right, 6 plus, no, that would be 9.",
+        "start": 65.489,
+        "end": 67.733
+      },
+      {
+        "text": "So if I do x is 10.",
+        "start": 78.791,
+        "end": 86.704
+      },
+      {
+        "text": " So 10 minus seven, okay, so maybe if I do 10 minus Vii equals one, two, three.",
+        "start": 89.89,
+        "end": 102.718
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, next one, currently reads 10 equals seven minus three. So no, that needs to be a plus. So you can only move one match stick to make it correct. So if I have six, no, so I need it to be, so if I make that eight, So 7 minus 3 is 4. So 10. If I moved that over there, that would be 6 plus 4 equals 10. OK, so I think I need to move that to make it a plus. So if I do x equals bi plus. Right, 6 plus, no, that would be 9. So if I do x is 10. So 10 minus seven, okay, so maybe if I do 10 minus Vii equals one, two, three."
+  }
+}

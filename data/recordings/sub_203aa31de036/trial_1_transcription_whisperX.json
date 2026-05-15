@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_203aa31de036/trial_1.wav",
+  "with_timestamps": {
+    "text": " I don't think this is recording.Oh, it is recording.OK.So the x is 10.So that's 13 equals 9 minus 4.9 minus 4 is 5.So this basically says 13 equals 5, which is obviously not true. uh let's see 13 equals 13 equals so what if i flipped this around and it was if i flipped it around and it was if i flipped the first one around then it would be 11, then it would be 13 equals 11 minus 4.No.If I flip the second one around, it would be 13 equals 9 minus 6. No, that wouldn't work either.13 equals... 13 equals... This is so confusing.This is so confusing.11 plus, can I change that to a plus?Six, no.11 minus six, no.The first one is, I keep forgetting what the numbers are. Nine, the first one is nine.Nine plus, nine plus four would be it.So if I did 13, I don't know if I'm allowed to do that.13 equals nine plus, 4.Is that it?I can just change the plus, change it to a plus sign?What?X, 1, 2, 3, how's that incorrect?13 equals, and that is 10 minus 1, that's 9, plus 13 equals 9 plus 4.That is correct, but I guess that's not the right.I have to change something else.I'm going to try it again.13 equals 9 plus 4. I guess that's not right.I don't understand.This is confusing.",
+    "segments": [
+      {
+        "text": " I don't think this is recording.",
+        "start": 2.107,
+        "end": 3.309
+      },
+      {
+        "text": "Oh, it is recording.",
+        "start": 3.429,
+        "end": 4.11
+      },
+      {
+        "text": "OK.",
+        "start": 4.39,
+        "end": 5.031
+      },
+      {
+        "text": "So the x is 10.",
+        "start": 5.051,
+        "end": 11.38
+      },
+      {
+        "text": "So that's 13 equals 9 minus 4.",
+        "start": 11.921,
+        "end": 18.229
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 18.249,
+        "end": 24.738
+      },
+      {
+        "text": "So this basically says 13 equals 5, which is obviously not true.",
+        "start": 24.858,
+        "end": 31.067
+      },
+      {
+        "text": " uh let's see 13 equals 13 equals so what if i flipped this around and it was if i flipped it around and it was if i flipped the first one around then it would be",
+        "start": 32.988,
+        "end": 59.451
+      },
+      {
+        "text": " 11, then it would be 13 equals 11 minus 4.",
+        "start": 61.709,
+        "end": 72.082
+      },
+      {
+        "text": "No.",
+        "start": 72.102,
+        "end": 72.162
+      },
+      {
+        "text": "If I flip the second one around, it would be 13 equals 9 minus 6.",
+        "start": 75.706,
+        "end": 91.446
+      },
+      {
+        "text": " No, that wouldn't work either.",
+        "start": 92.54,
+        "end": 94.483
+      },
+      {
+        "text": "13 equals... 13 equals...",
+        "start": 94.503,
+        "end": 118.48
+      },
+      {
+        "text": " This is so confusing.",
+        "start": 121.632,
+        "end": 122.693
+      },
+      {
+        "text": "This is so confusing.",
+        "start": 123.754,
+        "end": 125.917
+      },
+      {
+        "text": "11 plus, can I change that to a plus?",
+        "start": 125.937,
+        "end": 133.645
+      },
+      {
+        "text": "Six, no.",
+        "start": 135.667,
+        "end": 136.949
+      },
+      {
+        "text": "11 minus six, no.",
+        "start": 136.969,
+        "end": 142.715
+      },
+      {
+        "text": "The first one is, I keep forgetting what the numbers are.",
+        "start": 145.618,
+        "end": 149.142
+      },
+      {
+        "text": " Nine, the first one is nine.",
+        "start": 150.59,
+        "end": 152.172
+      },
+      {
+        "text": "Nine plus, nine plus four would be it.",
+        "start": 153.573,
+        "end": 167.55
+      },
+      {
+        "text": "So if I did 13, I don't know if I'm allowed to do that.",
+        "start": 167.57,
+        "end": 171.474
+      },
+      {
+        "text": "13 equals nine plus,",
+        "start": 171.494,
+        "end": 179.263
+      },
+      {
+        "text": " 4.",
+        "start": 180.83,
+        "end": 181.15
+      },
+      {
+        "text": "Is that it?",
+        "start": 181.251,
+        "end": 185.236
+      },
+      {
+        "text": "I can just change the plus, change it to a plus sign?",
+        "start": 185.256,
+        "end": 187.859
+      },
+      {
+        "text": "What?",
+        "start": 191.784,
+        "end": 192.044
+      },
+      {
+        "text": "X, 1, 2, 3, how's that incorrect?",
+        "start": 193.806,
+        "end": 196.029
+      },
+      {
+        "text": "13 equals, and that is 10 minus 1, that's 9, plus",
+        "start": 196.049,
+        "end": 206.162
+      },
+      {
+        "text": " 13 equals 9 plus 4.",
+        "start": 208.657,
+        "end": 212.062
+      },
+      {
+        "text": "That is correct, but I guess that's not the right.",
+        "start": 212.102,
+        "end": 214.786
+      },
+      {
+        "text": "I have to change something else.",
+        "start": 215.187,
+        "end": 216.529
+      },
+      {
+        "text": "I'm going to try it again.",
+        "start": 222.377,
+        "end": 223.098
+      },
+      {
+        "text": "13 equals 9 plus 4.",
+        "start": 223.118,
+        "end": 235.356
+      },
+      {
+        "text": " I guess that's not right.",
+        "start": 236.77,
+        "end": 238.258
+      },
+      {
+        "text": "I don't understand.",
+        "start": 238.278,
+        "end": 239.444
+      },
+      {
+        "text": "This is confusing.",
+        "start": 239.464,
+        "end": 241.836
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I don't think this is recording. Oh, it is recording. OK. So the x is 10. So that's 13 equals 9 minus 4. 9 minus 4 is 5. So this basically says 13 equals 5, which is obviously not true. uh let's see 13 equals 13 equals so what if i flipped this around and it was if i flipped it around and it was if i flipped the first one around then it would be 11, then it would be 13 equals 11 minus 4. No. If I flip the second one around, it would be 13 equals 9 minus 6. No, that wouldn't work either. 13 equals... 13 equals... This is so confusing. This is so confusing. 11 plus, can I change that to a plus? Six, no. 11 minus six, no. The first one is, I keep forgetting what the numbers are. Nine, the first one is nine. Nine plus, nine plus four would be it. So if I did 13, I don't know if I'm allowed to do that. 13 equals nine plus, 4. Is that it? I can just change the plus, change it to a plus sign? What? X, 1, 2, 3, how's that incorrect? 13 equals, and that is 10 minus 1, that's 9, plus 13 equals 9 plus 4. That is correct, but I guess that's not the right. I have to change something else. I'm going to try it again. 13 equals 9 plus 4. I guess that's not right. I don't understand. This is confusing."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_0713e3620426/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 2 equals 9 minus 2.Let's see, if we move x equals, no, that would be 10, 9, 8, 7.1 equals, no, if we move the x. 1 minus 2, let's see.Let's see.2 equals 9 minus 2.8 minus two, eight, seven, six.So what if we take that x and put it over here, which equals twelve.Eleven minus one does not equal twelve, that equals ten.So what if I take that, that would be nine plus, nope. 9 minus 3 equals 6.No.9 minus 2.12 equals. So what if I take that one and put plus ten plus two no To What can give me the correct answer What can give me the correct answer?Oh? Can I move it around?10, 11, minus 2, that's 11.Minus 10, nope.11 minus 9.Let's try it out. equals x i minus i x no ah i don't know i don't know can i 10 minus 2 10 9 8 no crap why is this so hard nine minus two is seven and I don't know what to put don't know what to put oh so much harder than I thought",
+    "segments": [
+      {
+        "text": " Okay, 2 equals 9 minus 2.",
+        "start": 0.807,
+        "end": 6.256
+      },
+      {
+        "text": "Let's see, if we move x equals, no, that would be 10, 9, 8, 7.",
+        "start": 11.685,
+        "end": 21.601
+      },
+      {
+        "text": "1 equals, no, if we move the x.",
+        "start": 21.621,
+        "end": 27.27
+      },
+      {
+        "text": " 1 minus 2, let's see.",
+        "start": 30.659,
+        "end": 48.336
+      },
+      {
+        "text": "Let's see.",
+        "start": 48.356,
+        "end": 51.118
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 51.138,
+        "end": 53.0
+      },
+      {
+        "text": "8 minus",
+        "start": 53.02,
+        "end": 60.447
+      },
+      {
+        "text": " two, eight, seven, six.",
+        "start": 60.68,
+        "end": 62.382
+      },
+      {
+        "text": "So what if we take that x and put it over here, which equals twelve.",
+        "start": 63.082,
+        "end": 68.148
+      },
+      {
+        "text": "Eleven minus one does not equal twelve, that equals ten.",
+        "start": 74.094,
+        "end": 77.617
+      },
+      {
+        "text": "So what if I take that, that would be nine plus, nope.",
+        "start": 79.82,
+        "end": 88.088
+      },
+      {
+        "text": " 9 minus 3 equals 6.",
+        "start": 88.49,
+        "end": 93.896
+      },
+      {
+        "text": "No.",
+        "start": 95.478,
+        "end": 99.582
+      },
+      {
+        "text": "9 minus 2.",
+        "start": 99.602,
+        "end": 100.723
+      },
+      {
+        "text": "12 equals.",
+        "start": 100.743,
+        "end": 113.637
+      },
+      {
+        "text": " So what if I take that one and put plus ten plus two no To What can give me the correct answer What can give me the correct answer?",
+        "start": 116.283,
+        "end": 142.779
+      },
+      {
+        "text": "Oh?",
+        "start": 142.939,
+        "end": 142.999
+      },
+      {
+        "text": " Can I move it around?",
+        "start": 164.326,
+        "end": 165.848
+      },
+      {
+        "text": "10, 11, minus 2, that's 11.",
+        "start": 165.868,
+        "end": 172.417
+      },
+      {
+        "text": "Minus 10, nope.",
+        "start": 174.259,
+        "end": 175.541
+      },
+      {
+        "text": "11 minus 9.",
+        "start": 179.426,
+        "end": 181.349
+      },
+      {
+        "text": "Let's try it out.",
+        "start": 189.34,
+        "end": 191.903
+      },
+      {
+        "text": " equals x i minus i x no ah i don't know i don't know can i 10 minus 2 10 9 8 no crap why is this so hard",
+        "start": 192.507,
+        "end": 221.063
+      },
+      {
+        "text": " nine minus two is seven and I don't know what to put don't know what to put oh so much harder than I thought",
+        "start": 224.198,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 2 equals 9 minus 2. Let's see, if we move x equals, no, that would be 10, 9, 8, 7. 1 equals, no, if we move the x. 1 minus 2, let's see. Let's see. 2 equals 9 minus 2. 8 minus two, eight, seven, six. So what if we take that x and put it over here, which equals twelve. Eleven minus one does not equal twelve, that equals ten. So what if I take that, that would be nine plus, nope. 9 minus 3 equals 6. No. 9 minus 2. 12 equals. So what if I take that one and put plus ten plus two no To What can give me the correct answer What can give me the correct answer? Oh? Can I move it around? 10, 11, minus 2, that's 11. Minus 10, nope. 11 minus 9. Let's try it out. equals x i minus i x no ah i don't know i don't know can i 10 minus 2 10 9 8 no crap why is this so hard nine minus two is seven and I don't know what to put don't know what to put oh so much harder than I thought"
+  }
+}

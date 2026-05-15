@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_016ef5cb53d0/trial_4.wav",
+  "with_timestamps": {
+    "text": " 5, 6, 7, 8.8 equals 8 plus 8.OK.8 plus 8 is 16.10, 11. Oh, it only goes to 15, so never mind.8 equals. 6 plus 2.8 equals 5 plus 3.8 equals. 9 minus 1.8 equals 7 plus. 1, 8 equals 4 plus 4. 7 equals 5 plus 2.7 equals 6 plus. 1.7 equals 3 plus 4. 6 equals...",
+    "segments": [
+      {
+        "text": " 5, 6, 7, 8.",
+        "start": 4.25,
+        "end": 5.812
+      },
+      {
+        "text": "8 equals 8 plus 8.",
+        "start": 5.832,
+        "end": 11.337
+      },
+      {
+        "text": "OK.",
+        "start": 14.901,
+        "end": 15.322
+      },
+      {
+        "text": "8 plus 8 is 16.",
+        "start": 15.342,
+        "end": 25.773
+      },
+      {
+        "text": "10, 11.",
+        "start": 25.793,
+        "end": 33.801
+      },
+      {
+        "text": " Oh, it only goes to 15, so never mind.",
+        "start": 40.548,
+        "end": 43.996
+      },
+      {
+        "text": "8 equals.",
+        "start": 44.016,
+        "end": 57.848
+      },
+      {
+        "text": " 6 plus 2.",
+        "start": 71.716,
+        "end": 75.72
+      },
+      {
+        "text": "8 equals 5 plus 3.",
+        "start": 75.74,
+        "end": 88.974
+      },
+      {
+        "text": "8 equals.",
+        "start": 88.994,
+        "end": 95.361
+      },
+      {
+        "text": " 9 minus 1.",
+        "start": 104.909,
+        "end": 110.215
+      },
+      {
+        "text": "8 equals 7 plus.",
+        "start": 110.235,
+        "end": 131.878
+      },
+      {
+        "text": " 1, 8 equals 4 plus 4.",
+        "start": 134.204,
+        "end": 158.153
+      },
+      {
+        "text": " 7 equals 5 plus 2.",
+        "start": 167.127,
+        "end": 178.7
+      },
+      {
+        "text": "7 equals 6 plus.",
+        "start": 178.72,
+        "end": 194.738
+      },
+      {
+        "text": " 1.",
+        "start": 196.507,
+        "end": 196.767
+      },
+      {
+        "text": "7 equals 3 plus 4.",
+        "start": 196.788,
+        "end": 220.27
+      },
+      {
+        "text": " 6 equals...",
+        "start": 230.24,
+        "end": 232.892
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 5, 6, 7, 8. 8 equals 8 plus 8. OK. 8 plus 8 is 16. 10, 11. Oh, it only goes to 15, so never mind. 8 equals. 6 plus 2. 8 equals 5 plus 3. 8 equals. 9 minus 1. 8 equals 7 plus. 1, 8 equals 4 plus 4. 7 equals 5 plus 2. 7 equals 6 plus. 1. 7 equals 3 plus 4. 6 equals..."
+  }
+}

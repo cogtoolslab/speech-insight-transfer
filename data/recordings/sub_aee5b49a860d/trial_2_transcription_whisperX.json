@@ -1,0 +1,241 @@
+{
+  "file": "data/recordings/sub_aee5b49a860d/trial_2.wav",
+  "with_timestamps": {
+    "text": " Uh, so four equals four plus four.No.Six.What?Fuck.Six.How would I even? I don't think it makes any sense, dude.Equals three minus... Fuck, man, this is harder than shit.Three equals four plus... That's not possible, dude.Six equals four plus... Fuck. That's bullshit. So if I did, if I move that one to 1, that'd be 5, 6, that'd be 3, 5 plus 3, and 6 does not equal 5 plus 3.So if I moved this over, 5 plus 6, 6 minus, 6 plus, god damn, I don't know, dude.3 minus 6? Four.Four equals six minus.Four equals one plus.What?Three equals five.Three equals four plus.Damn it.Five. 5 equals 1.I don't know, man.Damn it.3 equals 5.4 minus. Four.No, dude.Fuck.Three equals four plus.No, man.I don't know.Fucking what?Three equals four minus.No. 5, 4, no dude.Fuck, 4 equals 4 minus 5?Minus 3?What?I don't know man, 4, I don't know. I don't know.I don't know, man.I don't know, man.This is hard.",
+    "segments": [
+      {
+        "text": " Uh, so four equals four plus four.",
+        "start": 0.993,
+        "end": 6.581
+      },
+      {
+        "text": "No.",
+        "start": 7.762,
+        "end": 8.043
+      },
+      {
+        "text": "Six.",
+        "start": 12.008,
+        "end": 12.288
+      },
+      {
+        "text": "What?",
+        "start": 19.498,
+        "end": 19.778
+      },
+      {
+        "text": "Fuck.",
+        "start": 21.501,
+        "end": 22.061
+      },
+      {
+        "text": "Six.",
+        "start": 26.287,
+        "end": 26.628
+      },
+      {
+        "text": "How would I even?",
+        "start": 28.35,
+        "end": 29.211
+      },
+      {
+        "text": " I don't think it makes any sense, dude.",
+        "start": 30.828,
+        "end": 32.63
+      },
+      {
+        "text": "Equals three minus... Fuck, man, this is harder than shit.",
+        "start": 34.232,
+        "end": 42.202
+      },
+      {
+        "text": "Three equals four plus... That's not possible, dude.",
+        "start": 44.665,
+        "end": 50.653
+      },
+      {
+        "text": "Six equals four plus... Fuck.",
+        "start": 53.236,
+        "end": 59.704
+      },
+      {
+        "text": " That's bullshit.",
+        "start": 61.405,
+        "end": 62.506
+      },
+      {
+        "text": " So if I did, if I move that one to 1, that'd be 5, 6, that'd be 3, 5 plus 3, and 6 does not equal 5 plus 3.",
+        "start": 76.137,
+        "end": 86.974
+      },
+      {
+        "text": "So if I moved this over, 5 plus 6, 6 minus, 6 plus, god damn, I don't know, dude.",
+        "start": 88.076,
+        "end": 100.555
+      },
+      {
+        "text": "3 minus 6?",
+        "start": 100.575,
+        "end": 104.541
+      },
+      {
+        "text": " Four.",
+        "start": 106.799,
+        "end": 107.14
+      },
+      {
+        "text": "Four equals six minus.",
+        "start": 108.902,
+        "end": 111.386
+      },
+      {
+        "text": "Four equals one plus.",
+        "start": 111.406,
+        "end": 113.99
+      },
+      {
+        "text": "What?",
+        "start": 120.079,
+        "end": 120.339
+      },
+      {
+        "text": "Three equals five.",
+        "start": 123.744,
+        "end": 124.806
+      },
+      {
+        "text": "Three equals four plus.",
+        "start": 126.669,
+        "end": 128.552
+      },
+      {
+        "text": "Damn it.",
+        "start": 129.093,
+        "end": 129.533
+      },
+      {
+        "text": "Five.",
+        "start": 134.961,
+        "end": 135.422
+      },
+      {
+        "text": " 5 equals 1.",
+        "start": 138.642,
+        "end": 139.563
+      },
+      {
+        "text": "I don't know, man.",
+        "start": 139.583,
+        "end": 145.77
+      },
+      {
+        "text": "Damn it.",
+        "start": 149.494,
+        "end": 149.814
+      },
+      {
+        "text": "3 equals 5.",
+        "start": 149.834,
+        "end": 161.607
+      },
+      {
+        "text": "4 minus.",
+        "start": 161.627,
+        "end": 166.692
+      },
+      {
+        "text": " Four.",
+        "start": 168.545,
+        "end": 169.066
+      },
+      {
+        "text": "No, dude.",
+        "start": 169.606,
+        "end": 170.347
+      },
+      {
+        "text": "Fuck.",
+        "start": 175.112,
+        "end": 175.212
+      },
+      {
+        "text": "Three equals four plus.",
+        "start": 175.232,
+        "end": 179.797
+      },
+      {
+        "text": "No, man.",
+        "start": 180.878,
+        "end": 181.559
+      },
+      {
+        "text": "I don't know.",
+        "start": 181.599,
+        "end": 182.219
+      },
+      {
+        "text": "Fucking what?",
+        "start": 182.279,
+        "end": 184.301
+      },
+      {
+        "text": "Three equals four minus.",
+        "start": 188.786,
+        "end": 194.112
+      },
+      {
+        "text": "No.",
+        "start": 194.132,
+        "end": 194.552
+      },
+      {
+        "text": " 5, 4, no dude.",
+        "start": 198.532,
+        "end": 199.874
+      },
+      {
+        "text": "Fuck, 4 equals 4 minus 5?",
+        "start": 206.123,
+        "end": 213.374
+      },
+      {
+        "text": "Minus 3?",
+        "start": 214.816,
+        "end": 220.024
+      },
+      {
+        "text": "What?",
+        "start": 220.044,
+        "end": 220.304
+      },
+      {
+        "text": "I don't know man, 4, I don't know.",
+        "start": 224.51,
+        "end": 226.513
+      },
+      {
+        "text": " I don't know.",
+        "start": 228.147,
+        "end": 228.89
+      },
+      {
+        "text": "I don't know, man.",
+        "start": 228.91,
+        "end": 233.992
+      },
+      {
+        "text": "I don't know, man.",
+        "start": 237.768,
+        "end": 238.612
+      },
+      {
+        "text": "This is hard.",
+        "start": 238.853,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Uh, so four equals four plus four. No. Six. What? Fuck. Six. How would I even? I don't think it makes any sense, dude. Equals three minus... Fuck, man, this is harder than shit. Three equals four plus... That's not possible, dude. Six equals four plus... Fuck. That's bullshit. So if I did, if I move that one to 1, that'd be 5, 6, that'd be 3, 5 plus 3, and 6 does not equal 5 plus 3. So if I moved this over, 5 plus 6, 6 minus, 6 plus, god damn, I don't know, dude. 3 minus 6? Four. Four equals six minus. Four equals one plus. What? Three equals five. Three equals four plus. Damn it. Five. 5 equals 1. I don't know, man. Damn it. 3 equals 5. 4 minus. Four. No, dude. Fuck. Three equals four plus. No, man. I don't know. Fucking what? Three equals four minus. No. 5, 4, no dude. Fuck, 4 equals 4 minus 5? Minus 3? What? I don't know man, 4, I don't know. I don't know. I don't know, man. I don't know, man. This is hard."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_05af81e6e698/trial_4.wav",
+  "with_timestamps": {
+    "text": " It's crazy.That was crazy.It's not right. So IV equals IV plus IV.Okay.Tricky, tricky.So this one, so four plus four would equal eight.So can it just, no problem.Let's go VII.Wait a minute, is that how you do it? Yeah.Okay.V-A-I equals... I-V... Shit.I-V... I-V plus... I-V.Right?That's incorrect, too.What the hell?Can only move one. Okay, so what if we do, what if we do IV plus IV equals VII.No, okay.Only one can be moved. Interesting, interesting, interesting.4 minus 4 would be 0.4 minus 4.OK. IV... no, that's not right.IV minus... VI?Equals... That'd be 6.That's just 4 minus 6 would be... oh, shit.That's not right either. That's baffling.To make this equation correct.I mean no matter how I move it. Nothing plus something... 4 plus anything is not going to equal 4.4 plus 4 is not going to equal 4.",
+    "segments": [
+      {
+        "text": " It's crazy.",
+        "start": 1.246,
+        "end": 1.968
+      },
+      {
+        "text": "That was crazy.",
+        "start": 2.168,
+        "end": 3.23
+      },
+      {
+        "text": "It's not right.",
+        "start": 3.25,
+        "end": 16.42
+      },
+      {
+        "text": " So IV equals IV plus IV.",
+        "start": 37.679,
+        "end": 44.926
+      },
+      {
+        "text": "Okay.",
+        "start": 45.166,
+        "end": 45.987
+      },
+      {
+        "text": "Tricky, tricky.",
+        "start": 46.007,
+        "end": 46.627
+      },
+      {
+        "text": "So this one, so four plus four would equal eight.",
+        "start": 47.748,
+        "end": 52.733
+      },
+      {
+        "text": "So can it just, no problem.",
+        "start": 59.299,
+        "end": 61.2
+      },
+      {
+        "text": "Let's go VII.",
+        "start": 61.22,
+        "end": 62.622
+      },
+      {
+        "text": "Wait a minute, is that how you do it?",
+        "start": 64.263,
+        "end": 65.104
+      },
+      {
+        "text": " Yeah.",
+        "start": 66.907,
+        "end": 67.729
+      },
+      {
+        "text": "Okay.",
+        "start": 67.749,
+        "end": 69.151
+      },
+      {
+        "text": "V-A-I equals... I-V... Shit.",
+        "start": 69.171,
+        "end": 74.02
+      },
+      {
+        "text": "I-V... I-V plus... I-V.",
+        "start": 74.862,
+        "end": 83.018
+      },
+      {
+        "text": "Right?",
+        "start": 83.859,
+        "end": 84.22
+      },
+      {
+        "text": "That's incorrect, too.",
+        "start": 85.542,
+        "end": 86.304
+      },
+      {
+        "text": "What the hell?",
+        "start": 86.424,
+        "end": 86.965
+      },
+      {
+        "text": "Can only move one.",
+        "start": 88.127,
+        "end": 89.59
+      },
+      {
+        "text": " Okay, so what if we do, what if we do IV plus IV equals VII.",
+        "start": 95.797,
+        "end": 111.214
+      },
+      {
+        "text": "No, okay.",
+        "start": 113.717,
+        "end": 118.963
+      },
+      {
+        "text": "Only one can be moved.",
+        "start": 122.507,
+        "end": 123.728
+      },
+      {
+        "text": " Interesting, interesting, interesting.",
+        "start": 127.42,
+        "end": 129.623
+      },
+      {
+        "text": "4 minus 4 would be 0.",
+        "start": 129.643,
+        "end": 137.213
+      },
+      {
+        "text": "4 minus 4.",
+        "start": 137.233,
+        "end": 142.08
+      },
+      {
+        "text": "OK.",
+        "start": 147.327,
+        "end": 147.387
+      },
+      {
+        "text": " IV... no, that's not right.",
+        "start": 162.233,
+        "end": 164.795
+      },
+      {
+        "text": "IV minus... VI?",
+        "start": 170.06,
+        "end": 177.987
+      },
+      {
+        "text": "Equals... That'd be 6.",
+        "start": 178.007,
+        "end": 182.611
+      },
+      {
+        "text": "That's just 4 minus 6 would be... oh, shit.",
+        "start": 182.631,
+        "end": 186.675
+      },
+      {
+        "text": "That's not right either.",
+        "start": 186.695,
+        "end": 190.418
+      },
+      {
+        "text": " That's baffling.",
+        "start": 191.917,
+        "end": 212.988
+      },
+      {
+        "text": "To make this equation correct.",
+        "start": 213.048,
+        "end": 217.034
+      },
+      {
+        "text": "I mean no matter how I move it.",
+        "start": 219.157,
+        "end": 220.219
+      },
+      {
+        "text": " Nothing plus something... 4 plus anything is not going to equal 4.",
+        "start": 222.832,
+        "end": 230.738
+      },
+      {
+        "text": "4 plus 4 is not going to equal 4.",
+        "start": 230.758,
+        "end": 241.313
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " It's crazy. That was crazy. It's not right. So IV equals IV plus IV. Okay. Tricky, tricky. So this one, so four plus four would equal eight. So can it just, no problem. Let's go VII. Wait a minute, is that how you do it? Yeah. Okay. V-A-I equals... I-V... Shit. I-V... I-V plus... I-V. Right? That's incorrect, too. What the hell? Can only move one. Okay, so what if we do, what if we do IV plus IV equals VII. No, okay. Only one can be moved. Interesting, interesting, interesting. 4 minus 4 would be 0. 4 minus 4. OK. IV... no, that's not right. IV minus... VI? Equals... That'd be 6. That's just 4 minus 6 would be... oh, shit. That's not right either. That's baffling. To make this equation correct. I mean no matter how I move it. Nothing plus something... 4 plus anything is not going to equal 4. 4 plus 4 is not going to equal 4."
+  }
+}

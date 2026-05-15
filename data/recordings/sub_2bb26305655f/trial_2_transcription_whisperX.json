@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_2bb26305655f/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, 9 equals 12 plus 4.9 equals 12 plus 4.Well, 12 plus 4 equals 16.So I need to find 5 somewhere.Um... So I'm wondering about 9 equals 13 minus 4, which would be correct.",
+    "segments": [
+      {
+        "text": " Okay, 9 equals 12 plus 4.",
+        "start": 2.022,
+        "end": 7.17
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 11.816,
+        "end": 18.707
+      },
+      {
+        "text": "Well, 12 plus 4 equals 16.",
+        "start": 18.807,
+        "end": 21.491
+      },
+      {
+        "text": "So I need to find 5 somewhere.",
+        "start": 21.511,
+        "end": 25.657
+      },
+      {
+        "text": "Um...",
+        "start": 29.202,
+        "end": 29.903
+      },
+      {
+        "text": " So I'm wondering about 9 equals 13 minus 4, which would be correct.",
+        "start": 51.736,
+        "end": 67.416
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 9 equals 12 plus 4. 9 equals 12 plus 4. Well, 12 plus 4 equals 16. So I need to find 5 somewhere. Um... So I'm wondering about 9 equals 13 minus 4, which would be correct."
+  }
+}

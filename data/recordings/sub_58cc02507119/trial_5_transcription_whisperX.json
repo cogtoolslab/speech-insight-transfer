@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_58cc02507119/trial_5.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make the equation correct.What is the final correct equation?I can't change the equation, that means I can't change the answer.I can only move one matchstick, so the answer has to stay the same, 12. you. Oh, shit.Oh, damn it.X, let me... X plus X. That's incorrect.Oh my god. This has to be a 13. I'm drawing a blank.There's really nothing going on in my head.I can't think of it.I thought I had it, it was wrong.Unless I do... No.It'll still be wrong. I can't change them.I can't change the equation.Can I move one matchstick?Um... Nope, incorrect also.I tried moving the",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make the equation correct.",
+        "start": 4.537,
+        "end": 8.202
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 8.222,
+        "end": 10.205
+      },
+      {
+        "text": "I can't change the equation, that means I can't change the answer.",
+        "start": 11.527,
+        "end": 17.215
+      },
+      {
+        "text": "I can only move one matchstick, so the answer has to stay the same, 12.",
+        "start": 17.235,
+        "end": 29.633
+      },
+      {
+        "text": " you.",
+        "start": 33.19,
+        "end": 35.674
+      },
+      {
+        "text": " Oh, shit.",
+        "start": 60.983,
+        "end": 64.266
+      },
+      {
+        "text": "Oh, damn it.",
+        "start": 86.808,
+        "end": 89.391
+      },
+      {
+        "text": "X, let me...",
+        "start": 89.411,
+        "end": 89.691
+      },
+      {
+        "text": " X plus X. That's incorrect.",
+        "start": 93.485,
+        "end": 109.945
+      },
+      {
+        "text": "Oh my god.",
+        "start": 110.345,
+        "end": 115.071
+      },
+      {
+        "text": " This has to be a 13.",
+        "start": 123.033,
+        "end": 145.311
+      },
+      {
+        "text": " I'm drawing a blank.",
+        "start": 155.247,
+        "end": 156.248
+      },
+      {
+        "text": "There's really nothing going on in my head.",
+        "start": 157.149,
+        "end": 159.432
+      },
+      {
+        "text": "I can't think of it.",
+        "start": 160.694,
+        "end": 161.695
+      },
+      {
+        "text": "I thought I had it, it was wrong.",
+        "start": 162.576,
+        "end": 163.858
+      },
+      {
+        "text": "Unless I do... No.",
+        "start": 164.739,
+        "end": 173.409
+      },
+      {
+        "text": "It'll still be wrong.",
+        "start": 181.139,
+        "end": 182.2
+      },
+      {
+        "text": " I can't change them.",
+        "start": 189.335,
+        "end": 190.437
+      },
+      {
+        "text": "I can't change the equation.",
+        "start": 198.033,
+        "end": 199.736
+      },
+      {
+        "text": "Can I move one matchstick?",
+        "start": 201.66,
+        "end": 202.943
+      },
+      {
+        "text": "Um...",
+        "start": 209.837,
+        "end": 210.178
+      },
+      {
+        "text": " Nope, incorrect also.",
+        "start": 234.239,
+        "end": 236.364
+      },
+      {
+        "text": "I tried moving the",
+        "start": 238.611,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make the equation correct. What is the final correct equation? I can't change the equation, that means I can't change the answer. I can only move one matchstick, so the answer has to stay the same, 12. you. Oh, shit. Oh, damn it. X, let me... X plus X. That's incorrect. Oh my god. This has to be a 13. I'm drawing a blank. There's really nothing going on in my head. I can't think of it. I thought I had it, it was wrong. Unless I do... No. It'll still be wrong. I can't change them. I can't change the equation. Can I move one matchstick? Um... Nope, incorrect also. I tried moving the"
+  }
+}

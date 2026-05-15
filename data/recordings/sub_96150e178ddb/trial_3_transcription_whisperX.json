@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_96150e178ddb/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, I've got 3 equals 11 plus 9.So again, I know I'm going to want to change that plus to a minus, right?The only place I can put that is after the x, so it's got to be 3 equals 12 minus 9, and that's it.So it's 1, 2, 3 equals 12 minus 9.",
+    "segments": [
+      {
+        "text": " Okay, I've got 3 equals 11 plus 9.",
+        "start": 0.942,
+        "end": 7.591
+      },
+      {
+        "text": "So again, I know I'm going to want to change that plus to a minus, right?",
+        "start": 7.651,
+        "end": 12.358
+      },
+      {
+        "text": "The only place I can put that is after the x, so it's got to be",
+        "start": 14.421,
+        "end": 19.828
+      },
+      {
+        "text": " 3 equals 12 minus 9, and that's it.",
+        "start": 20.956,
+        "end": 24.645
+      },
+      {
+        "text": "So it's 1, 2, 3 equals 12 minus 9.",
+        "start": 24.866,
+        "end": 31.523
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, I've got 3 equals 11 plus 9. So again, I know I'm going to want to change that plus to a minus, right? The only place I can put that is after the x, so it's got to be 3 equals 12 minus 9, and that's it. So it's 1, 2, 3 equals 12 minus 9."
+  }
+}

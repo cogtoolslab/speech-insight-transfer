@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_ea9c5948c856/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, so let's see.We've got 10 equals 7 minus 3.That is incorrect.7 plus 3 would be 10.But I would need to add a matchstick, and I can't do that.So that's not right.Let's see.7 minus 3 is 4.7 plus 2. There's 9, so that's not working.I'd have to move 2 to make that one.Let's see.10 equals... I want to make this 7 plus 3, but I don't have... 10 equals 7 or 6.Hmm.Yeah, everything I can think to do for this one, I would have to move more than one matchstick.Why are some of these so easy and some of them are so hard?Not to be whiny, sorry.Let's see.I could... IX is 9, so I can move one of those over there and make it 9 equals 6 minus 3.That's not right.Maybe let's just try doing 10 equals 7 plus 3.Maybe I'm wrong about how this works.Nope, it says it's incorrect.So that's not right. Let's see.9 equals 7 plus 2.That's not right.I think I had to move two things to make that happen, so that couldn't be right. I wonder if I just move one and I can make it... That still wouldn't work, because then it would be 5 equals 7 minus 3, which would be 4, so that's not... What I'm trying to say is if I turn the x into a v and 10 into a 5, that would be only moving one matchstick, I think, but it still doesn't work out in the equation.Hmm. 7 minus 3 is 4.7 plus 3 is 10.Oh, hey, hang on a second.10 minus 7, aha, I got it.10 minus 7 equals 3.We just had to switch the minus sign and the equal sign.",
+    "segments": [
+      {
+        "text": " All right, so let's see.",
+        "start": 0.402,
+        "end": 1.463
+      },
+      {
+        "text": "We've got 10 equals 7 minus 3.",
+        "start": 1.483,
+        "end": 4.107
+      },
+      {
+        "text": "That is incorrect.",
+        "start": 4.307,
+        "end": 5.349
+      },
+      {
+        "text": "7 plus 3 would be 10.",
+        "start": 5.369,
+        "end": 11.236
+      },
+      {
+        "text": "But I would need to add a matchstick, and I can't do that.",
+        "start": 12.438,
+        "end": 15.422
+      },
+      {
+        "text": "So that's not right.",
+        "start": 15.662,
+        "end": 16.584
+      },
+      {
+        "text": "Let's see.",
+        "start": 19.688,
+        "end": 20.168
+      },
+      {
+        "text": "7 minus 3 is 4.",
+        "start": 20.188,
+        "end": 21.23
+      },
+      {
+        "text": "7 plus 2.",
+        "start": 21.25,
+        "end": 27.338
+      },
+      {
+        "text": " There's 9, so that's not working.",
+        "start": 27.638,
+        "end": 29.42
+      },
+      {
+        "text": "I'd have to move 2 to make that one.",
+        "start": 29.52,
+        "end": 30.802
+      },
+      {
+        "text": "Let's see.",
+        "start": 32.284,
+        "end": 41.274
+      },
+      {
+        "text": "10 equals... I want to make this 7 plus 3, but I don't have...",
+        "start": 41.295,
+        "end": 55.772
+      },
+      {
+        "text": " 10 equals 7 or 6.",
+        "start": 62.435,
+        "end": 65.138
+      },
+      {
+        "text": "Hmm.",
+        "start": 66.539,
+        "end": 69.963
+      },
+      {
+        "text": "Yeah, everything I can think to do for this one, I would have to move more than one matchstick.",
+        "start": 69.983,
+        "end": 73.467
+      },
+      {
+        "text": "Why are some of these so easy and some of them are so hard?",
+        "start": 73.647,
+        "end": 75.909
+      },
+      {
+        "text": "Not to be whiny, sorry.",
+        "start": 77.491,
+        "end": 78.612
+      },
+      {
+        "text": "Let's see.",
+        "start": 79.413,
+        "end": 79.873
+      },
+      {
+        "text": "I could...",
+        "start": 85.579,
+        "end": 87.261
+      },
+      {
+        "text": " IX is 9, so I can move one of those over there and make it 9 equals 6 minus 3.",
+        "start": 91.578,
+        "end": 99.149
+      },
+      {
+        "text": "That's not right.",
+        "start": 99.209,
+        "end": 99.87
+      },
+      {
+        "text": "Maybe let's just try doing 10 equals 7 plus 3.",
+        "start": 103.636,
+        "end": 109.124
+      },
+      {
+        "text": "Maybe I'm wrong about how this works.",
+        "start": 110.526,
+        "end": 112.149
+      },
+      {
+        "text": "Nope, it says it's incorrect.",
+        "start": 112.369,
+        "end": 113.491
+      },
+      {
+        "text": "So that's not right.",
+        "start": 113.511,
+        "end": 117.737
+      },
+      {
+        "text": " Let's see.",
+        "start": 121.835,
+        "end": 126.041
+      },
+      {
+        "text": "9 equals 7 plus 2.",
+        "start": 126.061,
+        "end": 136.816
+      },
+      {
+        "text": "That's not right.",
+        "start": 138.299,
+        "end": 138.94
+      },
+      {
+        "text": "I think I had to move two things to make that happen, so that couldn't be right.",
+        "start": 140.522,
+        "end": 146.29
+      },
+      {
+        "text": " I wonder if I just move one and I can make it... That still wouldn't work, because then it would be 5 equals 7 minus 3, which would be 4, so that's not... What I'm trying to say is if I turn the x into a v and 10 into a 5, that would be only moving one matchstick, I think, but it still doesn't work out in the equation.",
+        "start": 150.083,
+        "end": 171.499
+      },
+      {
+        "text": "Hmm.",
+        "start": 175.606,
+        "end": 175.686
+      },
+      {
+        "text": " 7 minus 3 is 4.",
+        "start": 178.653,
+        "end": 180.576
+      },
+      {
+        "text": "7 plus 3 is 10.",
+        "start": 180.596,
+        "end": 184.984
+      },
+      {
+        "text": "Oh, hey, hang on a second.",
+        "start": 185.004,
+        "end": 191.635
+      },
+      {
+        "text": "10 minus 7, aha, I got it.",
+        "start": 191.656,
+        "end": 193.96
+      },
+      {
+        "text": "10 minus 7 equals 3.",
+        "start": 193.98,
+        "end": 198.027
+      },
+      {
+        "text": "We just had to switch the minus sign and the equal sign.",
+        "start": 198.067,
+        "end": 203.496
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so let's see. We've got 10 equals 7 minus 3. That is incorrect. 7 plus 3 would be 10. But I would need to add a matchstick, and I can't do that. So that's not right. Let's see. 7 minus 3 is 4. 7 plus 2. There's 9, so that's not working. I'd have to move 2 to make that one. Let's see. 10 equals... I want to make this 7 plus 3, but I don't have... 10 equals 7 or 6. Hmm. Yeah, everything I can think to do for this one, I would have to move more than one matchstick. Why are some of these so easy and some of them are so hard? Not to be whiny, sorry. Let's see. I could... IX is 9, so I can move one of those over there and make it 9 equals 6 minus 3. That's not right. Maybe let's just try doing 10 equals 7 plus 3. Maybe I'm wrong about how this works. Nope, it says it's incorrect. So that's not right. Let's see. 9 equals 7 plus 2. That's not right. I think I had to move two things to make that happen, so that couldn't be right. I wonder if I just move one and I can make it... That still wouldn't work, because then it would be 5 equals 7 minus 3, which would be 4, so that's not... What I'm trying to say is if I turn the x into a v and 10 into a 5, that would be only moving one matchstick, I think, but it still doesn't work out in the equation. Hmm. 7 minus 3 is 4. 7 plus 3 is 10. Oh, hey, hang on a second. 10 minus 7, aha, I got it. 10 minus 7 equals 3. We just had to switch the minus sign and the equal sign."
+  }
+}

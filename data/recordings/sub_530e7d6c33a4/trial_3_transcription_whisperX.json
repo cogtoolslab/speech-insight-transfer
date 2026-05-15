@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_530e7d6c33a4/trial_3.wav",
+  "with_timestamps": {
+    "text": " Three plus three is six.Now, okay, let's try something.Now, let's go, because VI, right?Can I go VI equals three plus three.Does that work? No?VI is 6 and 3 plus 3 is 6.You want me to move 1?I don't get it.I really don't understand this. Hmm.So, 1 to change it.1 to change the math equation.I tried the minus trick, that doesn't work.I tried, uh... There's not much you can do here, I don't get it. I tried matching the matchsticks together, it doesn't work either.Don't really get it.So it has to always equal 3.So, 2, 3, equals.What can you do in this situation?There's not much.I tried minus, that doesn't work.I tried changing the sticks, that doesn't work. You can only move one matchstick.What the heck are you supposed to do?I don't get it.Ah, man.I don't know if I can solve this problem, truth be told.I tried getting rid of the plus and to turn it into minus, so that way equals zero. Because three.Okay.Hmm.Hmm.I don't get it.Two.It can only move one matchstick. Can you move one match?Okay, how about this?I don't know what to change.Okay, um... Wait a minute, wait a minute, hold on. 3, 4, 5.Now what if I... Okay, wait a minute.Let me think.Nah,",
+    "segments": [
+      {
+        "text": " Three plus three is six.",
+        "start": 11.422,
+        "end": 13.104
+      },
+      {
+        "text": "Now, okay, let's try something.",
+        "start": 16.208,
+        "end": 19.752
+      },
+      {
+        "text": "Now, let's go, because VI, right?",
+        "start": 20.934,
+        "end": 23.136
+      },
+      {
+        "text": "Can I go VI equals three plus three.",
+        "start": 23.316,
+        "end": 34.35
+      },
+      {
+        "text": "Does that work?",
+        "start": 36.833,
+        "end": 37.834
+      },
+      {
+        "text": " No?",
+        "start": 38.455,
+        "end": 38.715
+      },
+      {
+        "text": "VI is 6 and 3 plus 3 is 6.",
+        "start": 39.897,
+        "end": 42.339
+      },
+      {
+        "text": "You want me to move 1?",
+        "start": 45.823,
+        "end": 47.525
+      },
+      {
+        "text": "I don't get it.",
+        "start": 47.565,
+        "end": 57.155
+      },
+      {
+        "text": "I really don't understand this.",
+        "start": 65.423,
+        "end": 67.045
+      },
+      {
+        "text": " Hmm.",
+        "start": 68.51,
+        "end": 75.239
+      },
+      {
+        "text": "So, 1 to change it.",
+        "start": 75.259,
+        "end": 77.141
+      },
+      {
+        "text": "1 to change the math equation.",
+        "start": 77.161,
+        "end": 84.01
+      },
+      {
+        "text": "I tried the minus trick, that doesn't work.",
+        "start": 88.636,
+        "end": 90.538
+      },
+      {
+        "text": "I tried, uh... There's not much you can do here, I don't get it.",
+        "start": 92.36,
+        "end": 98.348
+      },
+      {
+        "text": " I tried matching the matchsticks together, it doesn't work either.",
+        "start": 100.707,
+        "end": 104.472
+      },
+      {
+        "text": "Don't really get it.",
+        "start": 108.218,
+        "end": 109.119
+      },
+      {
+        "text": "So it has to always equal 3.",
+        "start": 109.419,
+        "end": 111.142
+      },
+      {
+        "text": "So, 2, 3, equals.",
+        "start": 111.703,
+        "end": 115.588
+      },
+      {
+        "text": "What can you do in this situation?",
+        "start": 117.912,
+        "end": 119.554
+      },
+      {
+        "text": "There's not much.",
+        "start": 120.235,
+        "end": 120.816
+      },
+      {
+        "text": "I tried minus, that doesn't work.",
+        "start": 122.077,
+        "end": 123.58
+      },
+      {
+        "text": "I tried changing the sticks, that doesn't work.",
+        "start": 126.103,
+        "end": 128.807
+      },
+      {
+        "text": " You can only move one matchstick.",
+        "start": 135.672,
+        "end": 137.213
+      },
+      {
+        "text": "What the heck are you supposed to do?",
+        "start": 140.517,
+        "end": 141.798
+      },
+      {
+        "text": "I don't get it.",
+        "start": 142.058,
+        "end": 142.498
+      },
+      {
+        "text": "Ah, man.",
+        "start": 147.423,
+        "end": 148.084
+      },
+      {
+        "text": "I don't know if I can solve this problem, truth be told.",
+        "start": 150.806,
+        "end": 153.269
+      },
+      {
+        "text": "I tried getting rid of the plus and to turn it into minus, so that way equals zero.",
+        "start": 153.309,
+        "end": 162.017
+      },
+      {
+        "text": " Because three.",
+        "start": 164.326,
+        "end": 165.628
+      },
+      {
+        "text": "Okay.",
+        "start": 165.668,
+        "end": 168.992
+      },
+      {
+        "text": "Hmm.",
+        "start": 169.012,
+        "end": 169.352
+      },
+      {
+        "text": "Hmm.",
+        "start": 177.783,
+        "end": 178.163
+      },
+      {
+        "text": "I don't get it.",
+        "start": 183.01,
+        "end": 183.57
+      },
+      {
+        "text": "Two.",
+        "start": 183.59,
+        "end": 183.67
+      },
+      {
+        "text": "It can only move one matchstick.",
+        "start": 185.953,
+        "end": 189.658
+      },
+      {
+        "text": " Can you move one match?",
+        "start": 192.203,
+        "end": 193.665
+      },
+      {
+        "text": "Okay, how about this?",
+        "start": 193.685,
+        "end": 194.766
+      },
+      {
+        "text": "I don't know what to change.",
+        "start": 204.279,
+        "end": 205.661
+      },
+      {
+        "text": "Okay, um... Wait a minute, wait a minute, hold on.",
+        "start": 211.329,
+        "end": 219.46
+      },
+      {
+        "text": " 3, 4, 5.",
+        "start": 221.262,
+        "end": 222.245
+      },
+      {
+        "text": "Now what if I... Okay, wait a minute.",
+        "start": 227.844,
+        "end": 236.755
+      },
+      {
+        "text": "Let me think.",
+        "start": 237.597,
+        "end": 238.099
+      },
+      {
+        "text": "Nah,",
+        "start": 239.363,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Three plus three is six. Now, okay, let's try something. Now, let's go, because VI, right? Can I go VI equals three plus three. Does that work? No? VI is 6 and 3 plus 3 is 6. You want me to move 1? I don't get it. I really don't understand this. Hmm. So, 1 to change it. 1 to change the math equation. I tried the minus trick, that doesn't work. I tried, uh... There's not much you can do here, I don't get it. I tried matching the matchsticks together, it doesn't work either. Don't really get it. So it has to always equal 3. So, 2, 3, equals. What can you do in this situation? There's not much. I tried minus, that doesn't work. I tried changing the sticks, that doesn't work. You can only move one matchstick. What the heck are you supposed to do? I don't get it. Ah, man. I don't know if I can solve this problem, truth be told. I tried getting rid of the plus and to turn it into minus, so that way equals zero. Because three. Okay. Hmm. Hmm. I don't get it. Two. It can only move one matchstick. Can you move one match? Okay, how about this? I don't know what to change. Okay, um... Wait a minute, wait a minute, hold on. 3, 4, 5. Now what if I... Okay, wait a minute. Let me think. Nah,"
+  }
+}

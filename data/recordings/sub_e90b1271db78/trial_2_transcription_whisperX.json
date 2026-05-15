@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_e90b1271db78/trial_2.wav",
+  "with_timestamps": {
+    "text": " So 7 equals 9 plus 3.9 plus 3 is 12.So that's not right.So if we change the V to an X, that would be 12 equals 9 plus 3.Yeah.So that's X equals. 9 plus 3, so that's 12 equals 9.",
+    "segments": [
+      {
+        "text": " So 7 equals 9 plus 3.",
+        "start": 1.28,
+        "end": 7.526
+      },
+      {
+        "text": "9 plus 3 is 12.",
+        "start": 7.546,
+        "end": 8.887
+      },
+      {
+        "text": "So that's not right.",
+        "start": 10.869,
+        "end": 11.95
+      },
+      {
+        "text": "So if we change the V to an X, that would be 12 equals 9 plus 3.",
+        "start": 12.511,
+        "end": 19.718
+      },
+      {
+        "text": "Yeah.",
+        "start": 19.858,
+        "end": 21.8
+      },
+      {
+        "text": "So that's X equals.",
+        "start": 21.82,
+        "end": 27.726
+      },
+      {
+        "text": " 9 plus 3, so that's 12 equals 9.",
+        "start": 29.09,
+        "end": 35.421
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 equals 9 plus 3. 9 plus 3 is 12. So that's not right. So if we change the V to an X, that would be 12 equals 9 plus 3. Yeah. So that's X equals. 9 plus 3, so that's 12 equals 9."
+  }
+}

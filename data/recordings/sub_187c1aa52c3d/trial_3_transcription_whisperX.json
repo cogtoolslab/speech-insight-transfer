@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_187c1aa52c3d/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, this one is 2 equals 9 minus 2.9 minus 2 is 7.I don't think you can angle the matchsticks.Otherwise, you could just have 5 equals nine minus two but even still as you can you can't do that you can move the X okay I think you have to move you would have to move the X 12 equals 1 minus 11 obviously no if you put the X over there then it's 1 minus what 12 move the 1 over 11 minus 2 equals 2 equals 11 minus 2 no um you can only move one matchstick to make this equation correct I'm still not seeing it 2 equals equals 9 minus 2 how do we get 2 out of this one you can move the X either way yeah move the X move the first matchstick to the other side, then it's 10 minus 3.That's the only thing I could think about.I move this matchstick, then it's 3 equals 9 minus 1. No, it's not three equals nine minus one is 11 minus three equals.Um, maybe that's it.I'm not sure.11.I mean, three equals nine minus one no is that's the wrong answer obviously um if you move that one to three then it's ten minus three if you move that one then it's 3 equals 10 minus 2.Obviously, by that one, I didn't do",
+    "segments": [
+      {
+        "text": " Okay, this one is 2 equals 9 minus 2.",
+        "start": 1.145,
+        "end": 5.472
+      },
+      {
+        "text": "9 minus 2 is 7.",
+        "start": 5.492,
+        "end": 10.96
+      },
+      {
+        "text": "I don't think you can angle the matchsticks.",
+        "start": 18.211,
+        "end": 21.576
+      },
+      {
+        "text": "Otherwise, you could just have 5 equals",
+        "start": 22.718,
+        "end": 29.869
+      },
+      {
+        "text": " nine minus two but even still as you can you can't do that you can move the X okay I think you have to move",
+        "start": 32.347,
+        "end": 58.81
+      },
+      {
+        "text": " you would have to move the X 12 equals 1 minus 11 obviously no if you put the X over there then it's 1 minus what 12 move the 1 over 11 minus 2",
+        "start": 62.688,
+        "end": 88.493
+      },
+      {
+        "text": " equals 2 equals 11 minus 2 no um you can only move one matchstick to make this equation correct I'm still not seeing it 2 equals",
+        "start": 89.705,
+        "end": 115.071
+      },
+      {
+        "text": " equals 9 minus 2 how do we get 2 out of this one you can move the X either way yeah move the X move the first matchstick",
+        "start": 118.291,
+        "end": 147.1
+      },
+      {
+        "text": " to the other side, then it's 10 minus 3.",
+        "start": 148.278,
+        "end": 152.623
+      },
+      {
+        "text": "That's the only thing I could think about.",
+        "start": 156.248,
+        "end": 158.31
+      },
+      {
+        "text": "I move this matchstick, then it's 3 equals 9 minus 1.",
+        "start": 158.33,
+        "end": 170.826
+      },
+      {
+        "text": " No, it's not three equals nine minus one is 11 minus three equals.",
+        "start": 177.1,
+        "end": 183.807
+      },
+      {
+        "text": "Um, maybe that's it.",
+        "start": 186.05,
+        "end": 196.821
+      },
+      {
+        "text": "I'm not sure.",
+        "start": 196.901,
+        "end": 197.602
+      },
+      {
+        "text": "11.",
+        "start": 198.443,
+        "end": 198.883
+      },
+      {
+        "text": "I mean, three equals nine minus",
+        "start": 199.064,
+        "end": 204.93
+      },
+      {
+        "text": " one no is that's the wrong answer obviously um if you move that one to three then it's ten minus three if you move that one then it's",
+        "start": 206.395,
+        "end": 226.007
+      },
+      {
+        "text": " 3 equals 10 minus 2.",
+        "start": 229.531,
+        "end": 235.016
+      },
+      {
+        "text": "Obviously, by that one, I didn't do",
+        "start": 236.221,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this one is 2 equals 9 minus 2. 9 minus 2 is 7. I don't think you can angle the matchsticks. Otherwise, you could just have 5 equals nine minus two but even still as you can you can't do that you can move the X okay I think you have to move you would have to move the X 12 equals 1 minus 11 obviously no if you put the X over there then it's 1 minus what 12 move the 1 over 11 minus 2 equals 2 equals 11 minus 2 no um you can only move one matchstick to make this equation correct I'm still not seeing it 2 equals equals 9 minus 2 how do we get 2 out of this one you can move the X either way yeah move the X move the first matchstick to the other side, then it's 10 minus 3. That's the only thing I could think about. I move this matchstick, then it's 3 equals 9 minus 1. No, it's not three equals nine minus one is 11 minus three equals. Um, maybe that's it. I'm not sure. 11. I mean, three equals nine minus one no is that's the wrong answer obviously um if you move that one to three then it's ten minus three if you move that one then it's 3 equals 10 minus 2. Obviously, by that one, I didn't do"
+  }
+}

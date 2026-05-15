@@ -1,0 +1,276 @@
+{
+  "file": "data/recordings/sub_82b681bbefed/trial_5.wav",
+  "with_timestamps": {
+    "text": " Oh, great, the final one.Great.You can only move one matchstick.So we have 3 equals 11 plus 9, which is 20.And you move one of the matchsticks over.Again, that doesn't work. You move one of these matchsticks over here, then you have that.If you move this over, then that doesn't work because there is no 1, 2, 3, 4 matchsticks.IV is 4, not 4 vertical lines.So this, again, is not a solvable problem.So yeah. Right?I mean, we'll go through all of it.Let's donate a match from the left side over to either one of those.That doesn't work, because you'll have an even greater disparity in the equation.If you move the matchstick next to the x, the first x, the one that's on the left, then you have something that doesn't work.You can't move those over, because there is no 4. Vertical line, that doesn't mean four.Four is IV, not I-I-I-I.Yeah.So we'll just, I guess, run out the clock again.Maybe I'll just add something.And then at the end, oh, the purpose of this was, yeah, of course it was to deceive. Oh, that's incorrect.Whoa, what a surprise.Yeah, even if you put in something that's correct, it doesn't work.So that must have been some pretty easy coding to do.You don't even have to look at the answer.Just pop up, that's incorrect.That's incorrect.Yeah, that must have been a real difficult little bit of script to write.I don't know what you're writing this in, JavaScript? some kind of React or one of these billion frameworks for basically doing the same thing, all for the purposes of generating consulting hours.That's why there's so many computer languages and why the paradigm has to shift every three years.It's because IBM and Oracle and all these companies need to sell more consulting hours.And one of the ways they do that is to, oh, look, we're not doing EJBs anymore.Now we're doing, what was it? Oh, what was that technology that took over from EJB?It was terrible.Dependency injection and all that.Oh, instead of functions being called, the functions will call the main method.Yeah, let's just turn everything upside down to basically sell more consulting hours. And then people like me got stuck with doing all the work.Not paid hourly, paid a salary.Oh yeah, guess what?In addition to putting all these new features, you can rewrite all the code to basically do the new paradigm that everyone's doing now.But yeah, that's a pretty easy software gig just to pop up a message.That's wrong.Of course it's wrong.Yeah, there's no solution to that either. OK, I guess I'm.Yeah, great city.I don't know if I'm going to return this or get a rejection or I don't know what you know.",
+    "segments": [
+      {
+        "text": " Oh, great, the final one.",
+        "start": 3.71,
+        "end": 5.292
+      },
+      {
+        "text": "Great.",
+        "start": 5.453,
+        "end": 5.773
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 6.795,
+        "end": 8.237
+      },
+      {
+        "text": "So we have 3 equals 11 plus 9, which is 20.",
+        "start": 8.257,
+        "end": 16.71
+      },
+      {
+        "text": "And you move one of the matchsticks over.",
+        "start": 16.73,
+        "end": 22.739
+      },
+      {
+        "text": "Again, that doesn't work.",
+        "start": 22.78,
+        "end": 24.402
+      },
+      {
+        "text": " You move one of these matchsticks over here, then you have that.",
+        "start": 26.187,
+        "end": 29.574
+      },
+      {
+        "text": "If you move this over, then that doesn't work because there is no 1, 2, 3, 4 matchsticks.",
+        "start": 30.035,
+        "end": 37.209
+      },
+      {
+        "text": "IV is 4, not 4 vertical lines.",
+        "start": 38.792,
+        "end": 42.178
+      },
+      {
+        "text": "So this, again, is not a solvable problem.",
+        "start": 42.198,
+        "end": 44.523
+      },
+      {
+        "text": "So yeah.",
+        "start": 45.505,
+        "end": 48.651
+      },
+      {
+        "text": " Right?",
+        "start": 54.824,
+        "end": 55.144
+      },
+      {
+        "text": "I mean, we'll go through all of it.",
+        "start": 55.265,
+        "end": 56.527
+      },
+      {
+        "text": "Let's donate a match from the left side over to either one of those.",
+        "start": 57.107,
+        "end": 60.693
+      },
+      {
+        "text": "That doesn't work, because you'll have an even greater disparity in the equation.",
+        "start": 61.133,
+        "end": 66.722
+      },
+      {
+        "text": "If you move the matchstick next to the x, the first x, the one that's on the left, then you have something that doesn't work.",
+        "start": 67.763,
+        "end": 78.9
+      },
+      {
+        "text": "You can't move those over, because there is no 4.",
+        "start": 78.94,
+        "end": 82.806
+      },
+      {
+        "text": " Vertical line, that doesn't mean four.",
+        "start": 83.866,
+        "end": 85.848
+      },
+      {
+        "text": "Four is IV, not I-I-I-I.",
+        "start": 86.329,
+        "end": 88.751
+      },
+      {
+        "text": "Yeah.",
+        "start": 90.733,
+        "end": 90.973
+      },
+      {
+        "text": "So we'll just, I guess, run out the clock again.",
+        "start": 93.196,
+        "end": 95.618
+      },
+      {
+        "text": "Maybe I'll just add something.",
+        "start": 96.759,
+        "end": 99.823
+      },
+      {
+        "text": "And then at the end, oh, the purpose of this was, yeah, of course it was to deceive.",
+        "start": 105.809,
+        "end": 111.595
+      },
+      {
+        "text": " Oh, that's incorrect.",
+        "start": 112.418,
+        "end": 113.319
+      },
+      {
+        "text": "Whoa, what a surprise.",
+        "start": 113.359,
+        "end": 114.361
+      },
+      {
+        "text": "Yeah, even if you put in something that's correct, it doesn't work.",
+        "start": 114.401,
+        "end": 118.227
+      },
+      {
+        "text": "So that must have been some pretty easy coding to do.",
+        "start": 118.247,
+        "end": 120.59
+      },
+      {
+        "text": "You don't even have to look at the answer.",
+        "start": 121.912,
+        "end": 123.435
+      },
+      {
+        "text": "Just pop up, that's incorrect.",
+        "start": 123.755,
+        "end": 125.338
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 125.878,
+        "end": 126.86
+      },
+      {
+        "text": "Yeah, that must have been a real difficult little bit of script to write.",
+        "start": 127.882,
+        "end": 133.29
+      },
+      {
+        "text": "I don't know what you're writing this in, JavaScript?",
+        "start": 133.31,
+        "end": 136.114
+      },
+      {
+        "text": " some kind of React or one of these billion frameworks for basically doing the same thing, all for the purposes of generating consulting hours.",
+        "start": 136.465,
+        "end": 146.839
+      },
+      {
+        "text": "That's why there's so many computer languages and why the paradigm has to shift every three years.",
+        "start": 146.919,
+        "end": 151.725
+      },
+      {
+        "text": "It's because IBM and Oracle and all these companies need to sell more consulting hours.",
+        "start": 151.826,
+        "end": 156.552
+      },
+      {
+        "text": "And one of the ways they do that is to, oh, look, we're not doing EJBs anymore.",
+        "start": 156.652,
+        "end": 161.879
+      },
+      {
+        "text": "Now we're doing, what was it?",
+        "start": 161.939,
+        "end": 165.544
+      },
+      {
+        "text": " Oh, what was that technology that took over from EJB?",
+        "start": 168.157,
+        "end": 174.504
+      },
+      {
+        "text": "It was terrible.",
+        "start": 174.524,
+        "end": 175.345
+      },
+      {
+        "text": "Dependency injection and all that.",
+        "start": 176.066,
+        "end": 178.228
+      },
+      {
+        "text": "Oh, instead of functions being called, the functions will call the main method.",
+        "start": 178.248,
+        "end": 185.176
+      },
+      {
+        "text": "Yeah, let's just turn everything upside down to basically sell more consulting hours.",
+        "start": 185.336,
+        "end": 192.004
+      },
+      {
+        "text": " And then people like me got stuck with doing all the work.",
+        "start": 192.676,
+        "end": 195.279
+      },
+      {
+        "text": "Not paid hourly, paid a salary.",
+        "start": 196.141,
+        "end": 198.784
+      },
+      {
+        "text": "Oh yeah, guess what?",
+        "start": 198.904,
+        "end": 199.825
+      },
+      {
+        "text": "In addition to putting all these new features, you can rewrite all the code to basically do the new paradigm that everyone's doing now.",
+        "start": 200.246,
+        "end": 209.578
+      },
+      {
+        "text": "But yeah, that's a pretty easy software gig just to pop up a message.",
+        "start": 209.598,
+        "end": 214.365
+      },
+      {
+        "text": "That's wrong.",
+        "start": 215.566,
+        "end": 216.167
+      },
+      {
+        "text": "Of course it's wrong.",
+        "start": 217.108,
+        "end": 220.293
+      },
+      {
+        "text": "Yeah, there's no solution to that either.",
+        "start": 220.313,
+        "end": 222.075
+      },
+      {
+        "text": " OK, I guess I'm.",
+        "start": 230.881,
+        "end": 231.965
+      },
+      {
+        "text": "Yeah, great city.",
+        "start": 234.395,
+        "end": 235.479
+      },
+      {
+        "text": "I don't know if I'm going to return this or get a rejection or I don't know what you know.",
+        "start": 235.519,
+        "end": 239.254
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh, great, the final one. Great. You can only move one matchstick. So we have 3 equals 11 plus 9, which is 20. And you move one of the matchsticks over. Again, that doesn't work. You move one of these matchsticks over here, then you have that. If you move this over, then that doesn't work because there is no 1, 2, 3, 4 matchsticks. IV is 4, not 4 vertical lines. So this, again, is not a solvable problem. So yeah. Right? I mean, we'll go through all of it. Let's donate a match from the left side over to either one of those. That doesn't work, because you'll have an even greater disparity in the equation. If you move the matchstick next to the x, the first x, the one that's on the left, then you have something that doesn't work. You can't move those over, because there is no 4. Vertical line, that doesn't mean four. Four is IV, not I-I-I-I. Yeah. So we'll just, I guess, run out the clock again. Maybe I'll just add something. And then at the end, oh, the purpose of this was, yeah, of course it was to deceive. Oh, that's incorrect. Whoa, what a surprise. Yeah, even if you put in something that's correct, it doesn't work. So that must have been some pretty easy coding to do. You don't even have to look at the answer. Just pop up, that's incorrect. That's incorrect. Yeah, that must have been a real difficult little bit of script to write. I don't know what you're writing this in, JavaScript? some kind of React or one of these billion frameworks for basically doing the same thing, all for the purposes of generating consulting hours. That's why there's so many computer languages and why the paradigm has to shift every three years. It's because IBM and Oracle and all these companies need to sell more consulting hours. And one of the ways they do that is to, oh, look, we're not doing EJBs anymore. Now we're doing, what was it? Oh, what was that technology that took over from EJB? It was terrible. Dependency injection and all that. Oh, instead of functions being called, the functions will call the main method. Yeah, let's just turn everything upside down to basically sell more consulting hours. And then people like me got stuck with doing all the work. Not paid hourly, paid a salary. Oh yeah, guess what? In addition to putting all these new features, you can rewrite all the code to basically do the new paradigm that everyone's doing now. But yeah, that's a pretty easy software gig just to pop up a message. That's wrong. Of course it's wrong. Yeah, there's no solution to that either. OK, I guess I'm. Yeah, great city. I don't know if I'm going to return this or get a rejection or I don't know what you know."
+  }
+}

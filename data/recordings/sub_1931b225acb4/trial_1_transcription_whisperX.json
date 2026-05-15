@@ -1,0 +1,221 @@
+{
+  "file": "data/recordings/sub_1931b225acb4/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I'm taking a look.You can only move one matchstick to make this equation correct.What is the final correct equation?Well, I see an 11 equals 11 plus 11.Excuse me, 12.10, 11, 12 equals 12 plus 12. I'm trying to think of what can make this correct.12 equals 12 plus 12.Moving one matchstick.Let's see.What about 11 equals? 12 minus 1, but that would involve two matchsticks.Let's say 10.I'm trying to think about what it would be.12 equals 12 plus 12. Plus it would be 0, but there's no way to make that 0.12.Let's see.12.11 plus 12 would be more, obviously.So that wouldn't work. Well, minus 12 equals, well that would be zero.What would make this correct?Let's see. Let's just start writing, I guess.Let's see.I'm trying to turn these down.Oh, let's see.Okay.Eleven. 12 minus 11.Let's see.Um, one equals 12 minus 11, but I would have to move two matchsticks.So, oh, this is tricky because I would have to move two matchsticks.Um, Hmm.I just can't figure this out.Let's see.Um, Hmm.12 equals, and I know, like I said, it would be the only way I could figure it would be 11 equals 12 minus 11.Oh, wait.Oh, wow.",
+    "segments": [
+      {
+        "text": " Okay, so I'm taking a look.",
+        "start": 0.706,
+        "end": 2.849
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 4.832,
+        "end": 7.836
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 8.237,
+        "end": 10.22
+      },
+      {
+        "text": "Well, I see an 11 equals 11 plus 11.",
+        "start": 11.281,
+        "end": 16.289
+      },
+      {
+        "text": "Excuse me, 12.",
+        "start": 16.329,
+        "end": 22.417
+      },
+      {
+        "text": "10, 11, 12 equals 12 plus 12.",
+        "start": 22.437,
+        "end": 30.409
+      },
+      {
+        "text": " I'm trying to think of what can make this correct.",
+        "start": 32.87,
+        "end": 37.375
+      },
+      {
+        "text": "12 equals 12 plus 12.",
+        "start": 37.395,
+        "end": 41.058
+      },
+      {
+        "text": "Moving one matchstick.",
+        "start": 46.444,
+        "end": 48.046
+      },
+      {
+        "text": "Let's see.",
+        "start": 50.949,
+        "end": 51.87
+      },
+      {
+        "text": "What about 11 equals?",
+        "start": 56.895,
+        "end": 60.919
+      },
+      {
+        "text": " 12 minus 1, but that would involve two matchsticks.",
+        "start": 61.54,
+        "end": 65.906
+      },
+      {
+        "text": "Let's say 10.",
+        "start": 70.433,
+        "end": 70.974
+      },
+      {
+        "text": "I'm trying to think about what it would be.",
+        "start": 71.795,
+        "end": 87.758
+      },
+      {
+        "text": "12 equals 12 plus 12.",
+        "start": 87.778,
+        "end": 91.243
+      },
+      {
+        "text": " Plus it would be 0, but there's no way to make that 0.",
+        "start": 94.447,
+        "end": 99.833
+      },
+      {
+        "text": "12.",
+        "start": 99.853,
+        "end": 101.474
+      },
+      {
+        "text": "Let's see.",
+        "start": 101.494,
+        "end": 106.7
+      },
+      {
+        "text": "12.",
+        "start": 106.72,
+        "end": 111.305
+      },
+      {
+        "text": "11 plus 12 would be more, obviously.",
+        "start": 111.325,
+        "end": 119.333
+      },
+      {
+        "text": "So that wouldn't work.",
+        "start": 119.353,
+        "end": 123.357
+      },
+      {
+        "text": " Well, minus 12 equals, well that would be zero.",
+        "start": 125.817,
+        "end": 133.085
+      },
+      {
+        "text": "What would make this correct?",
+        "start": 133.105,
+        "end": 142.656
+      },
+      {
+        "text": "Let's see.",
+        "start": 145.119,
+        "end": 148.062
+      },
+      {
+        "text": " Let's just start writing, I guess.",
+        "start": 155.23,
+        "end": 157.153
+      },
+      {
+        "text": "Let's see.",
+        "start": 163.824,
+        "end": 164.124
+      },
+      {
+        "text": "I'm trying to turn these down.",
+        "start": 164.304,
+        "end": 165.767
+      },
+      {
+        "text": "Oh, let's see.",
+        "start": 169.092,
+        "end": 169.753
+      },
+      {
+        "text": "Okay.",
+        "start": 173.879,
+        "end": 174.18
+      },
+      {
+        "text": "Eleven.",
+        "start": 178.447,
+        "end": 179.348
+      },
+      {
+        "text": " 12 minus 11.",
+        "start": 184.711,
+        "end": 186.053
+      },
+      {
+        "text": "Let's see.",
+        "start": 186.093,
+        "end": 186.533
+      },
+      {
+        "text": "Um, one equals 12 minus 11, but I would have to move two matchsticks.",
+        "start": 187.034,
+        "end": 198.049
+      },
+      {
+        "text": "So, oh, this is tricky because I would have to move two matchsticks.",
+        "start": 200.131,
+        "end": 208.563
+      },
+      {
+        "text": "Um,",
+        "start": 210.064,
+        "end": 210.465
+      },
+      {
+        "text": " Hmm.",
+        "start": 215.98,
+        "end": 217.562
+      },
+      {
+        "text": "I just can't figure this out.",
+        "start": 217.582,
+        "end": 220.867
+      },
+      {
+        "text": "Let's see.",
+        "start": 220.887,
+        "end": 221.628
+      },
+      {
+        "text": "Um, Hmm.",
+        "start": 221.649,
+        "end": 222.55
+      },
+      {
+        "text": "12 equals, and I know, like I said, it would be the only way I could figure it would be 11 equals 12 minus 11.",
+        "start": 222.57,
+        "end": 237.893
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 237.933,
+        "end": 241.018
+      },
+      {
+        "text": "Oh, wow.",
+        "start": 242.78,
+        "end": 243.321
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I'm taking a look. You can only move one matchstick to make this equation correct. What is the final correct equation? Well, I see an 11 equals 11 plus 11. Excuse me, 12. 10, 11, 12 equals 12 plus 12. I'm trying to think of what can make this correct. 12 equals 12 plus 12. Moving one matchstick. Let's see. What about 11 equals? 12 minus 1, but that would involve two matchsticks. Let's say 10. I'm trying to think about what it would be. 12 equals 12 plus 12. Plus it would be 0, but there's no way to make that 0. 12. Let's see. 12. 11 plus 12 would be more, obviously. So that wouldn't work. Well, minus 12 equals, well that would be zero. What would make this correct? Let's see. Let's just start writing, I guess. Let's see. I'm trying to turn these down. Oh, let's see. Okay. Eleven. 12 minus 11. Let's see. Um, one equals 12 minus 11, but I would have to move two matchsticks. So, oh, this is tricky because I would have to move two matchsticks. Um, Hmm. I just can't figure this out. Let's see. Um, Hmm. 12 equals, and I know, like I said, it would be the only way I could figure it would be 11 equals 12 minus 11. Oh, wait. Oh, wow."
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_203aa31de036/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay.Last one.Let's see.So this one is going to be four equals 11 minus two.Okay.Four equals 11 minus two.So that's not right.Four equals, uh, 4 equals 10 minus 6.And that's not right.4 equals. Oh, no, that's 11.I'm sorry.Yeah, 11 minus 4 equals 11.No.4 equals 11 minus, I have no idea, equals. 11 minus, 11 minus what, seven?Wait.Nope. Maybe 4 equals 11 minus.Is this the same thing I just did?11 minus.Um. Or I could do 4 equals 10 minus 6.I'll have 4 equals 11 minus 6. 7?No.4 equals 12 minus 8?No. 5 equals 11.No.Maybe I do 9 equals 11 minus 2.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 1.718,
+        "end": 1.998
+      },
+      {
+        "text": "Last one.",
+        "start": 2.018,
+        "end": 2.639
+      },
+      {
+        "text": "Let's see.",
+        "start": 2.659,
+        "end": 3.18
+      },
+      {
+        "text": "So this one is going to be four equals 11 minus two.",
+        "start": 4.481,
+        "end": 15.913
+      },
+      {
+        "text": "Okay.",
+        "start": 17.015,
+        "end": 17.355
+      },
+      {
+        "text": "Four equals 11 minus two.",
+        "start": 17.455,
+        "end": 19.197
+      },
+      {
+        "text": "So that's not right.",
+        "start": 19.237,
+        "end": 20.018
+      },
+      {
+        "text": "Four equals, uh,",
+        "start": 21.74,
+        "end": 29.548
+      },
+      {
+        "text": " 4 equals 10 minus 6.",
+        "start": 33.832,
+        "end": 50.655
+      },
+      {
+        "text": "And that's not right.",
+        "start": 50.755,
+        "end": 55.982
+      },
+      {
+        "text": "4 equals.",
+        "start": 56.002,
+        "end": 59.907
+      },
+      {
+        "text": " Oh, no, that's 11.",
+        "start": 60.916,
+        "end": 62.118
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 62.138,
+        "end": 62.638
+      },
+      {
+        "text": "Yeah, 11 minus 4 equals 11.",
+        "start": 62.799,
+        "end": 66.804
+      },
+      {
+        "text": "No.",
+        "start": 66.824,
+        "end": 73.453
+      },
+      {
+        "text": "4 equals 11 minus, I have no idea, equals.",
+        "start": 73.473,
+        "end": 86.13
+      },
+      {
+        "text": " 11 minus, 11 minus what, seven?",
+        "start": 88.287,
+        "end": 98.004
+      },
+      {
+        "text": "Wait.",
+        "start": 104.334,
+        "end": 108.061
+      },
+      {
+        "text": "Nope.",
+        "start": 112.829,
+        "end": 113.029
+      },
+      {
+        "text": " Maybe 4 equals 11 minus.",
+        "start": 125.75,
+        "end": 136.109
+      },
+      {
+        "text": "Is this the same thing I just did?",
+        "start": 138.774,
+        "end": 140.257
+      },
+      {
+        "text": "11 minus.",
+        "start": 140.277,
+        "end": 145.406
+      },
+      {
+        "text": "Um.",
+        "start": 145.426,
+        "end": 145.767
+      },
+      {
+        "text": " Or I could do 4 equals 10 minus 6.",
+        "start": 153.627,
+        "end": 167.245
+      },
+      {
+        "text": "I'll have 4 equals 11 minus 6.",
+        "start": 167.406,
+        "end": 178.2
+      },
+      {
+        "text": " 7?",
+        "start": 182.399,
+        "end": 182.94
+      },
+      {
+        "text": "No.",
+        "start": 183.841,
+        "end": 190.688
+      },
+      {
+        "text": "4 equals 12 minus 8?",
+        "start": 190.708,
+        "end": 204.604
+      },
+      {
+        "text": "No.",
+        "start": 208.628,
+        "end": 209.149
+      },
+      {
+        "text": " 5 equals 11.",
+        "start": 213.955,
+        "end": 218.907
+      },
+      {
+        "text": "No.",
+        "start": 219.087,
+        "end": 223.037
+      },
+      {
+        "text": "Maybe I do 9 equals 11 minus 2.",
+        "start": 224.24,
+        "end": 231.036
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. Last one. Let's see. So this one is going to be four equals 11 minus two. Okay. Four equals 11 minus two. So that's not right. Four equals, uh, 4 equals 10 minus 6. And that's not right. 4 equals. Oh, no, that's 11. I'm sorry. Yeah, 11 minus 4 equals 11. No. 4 equals 11 minus, I have no idea, equals. 11 minus, 11 minus what, seven? Wait. Nope. Maybe 4 equals 11 minus. Is this the same thing I just did? 11 minus. Um. Or I could do 4 equals 10 minus 6. I'll have 4 equals 11 minus 6. 7? No. 4 equals 12 minus 8? No. 5 equals 11. No. Maybe I do 9 equals 11 minus 2."
+  }
+}

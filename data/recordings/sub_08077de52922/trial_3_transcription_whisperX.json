@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_08077de52922/trial_3.wav",
+  "with_timestamps": {
+    "text": " 8 equals 9 minus 4 is 5.8 equals 11 minus 4, no.10, 12, no.No.Oh, that's not 8, that's 13.13 equals 9 minus 4 is 5. 13 equals 9 plus 4.12 equals 9 plus 4.Apparently I have to sub it in. bro i'm not even thinking literally 13 equals 9 plus 5 no 12 no 11 minus 4, 7.Getting nervous.13 equals 10 plus 4, still not true.13 equals 9 plus 5, no. 12 equals 9 13 equals 9 I'm just, I'm still kind of mad about that I wasn't getting the last one honestly I'm only on 3 out of 5, so come on.Sorry.This is a cool study, I'm just multiplying.",
+    "segments": [
+      {
+        "text": " 8 equals 9 minus 4 is 5.",
+        "start": 1.735,
+        "end": 10.628
+      },
+      {
+        "text": "8 equals 11 minus 4, no.",
+        "start": 10.648,
+        "end": 17.839
+      },
+      {
+        "text": "10, 12, no.",
+        "start": 17.859,
+        "end": 18.961
+      },
+      {
+        "text": "No.",
+        "start": 22.106,
+        "end": 24.329
+      },
+      {
+        "text": "Oh, that's not 8, that's 13.",
+        "start": 24.349,
+        "end": 26.893
+      },
+      {
+        "text": "13 equals 9 minus 4 is 5.",
+        "start": 26.913,
+        "end": 30.358
+      },
+      {
+        "text": " 13 equals 9 plus 4.",
+        "start": 34.051,
+        "end": 42.624
+      },
+      {
+        "text": "12 equals 9 plus 4.",
+        "start": 47.271,
+        "end": 56.705
+      },
+      {
+        "text": "Apparently I have to sub it in.",
+        "start": 56.725,
+        "end": 57.747
+      },
+      {
+        "text": " bro i'm not even thinking literally 13 equals 9 plus 5 no 12 no 11",
+        "start": 72.458,
+        "end": 98.736
+      },
+      {
+        "text": " minus 4, 7.",
+        "start": 101.129,
+        "end": 102.871
+      },
+      {
+        "text": "Getting nervous.",
+        "start": 112.862,
+        "end": 115.465
+      },
+      {
+        "text": "13 equals 10 plus 4, still not true.",
+        "start": 116.746,
+        "end": 125.776
+      },
+      {
+        "text": "13 equals 9 plus 5, no.",
+        "start": 125.796,
+        "end": 131.102
+      },
+      {
+        "text": " 12 equals 9 13 equals 9",
+        "start": 140.279,
+        "end": 163.958
+      },
+      {
+        "text": " I'm just, I'm still kind of mad about that I wasn't getting the last one honestly",
+        "start": 170.08,
+        "end": 190.485
+      },
+      {
+        "text": " I'm only on 3 out of 5, so come on.",
+        "start": 216.166,
+        "end": 221.327
+      },
+      {
+        "text": "Sorry.",
+        "start": 221.347,
+        "end": 221.588
+      },
+      {
+        "text": "This is a cool study, I'm just multiplying.",
+        "start": 222.15,
+        "end": 225.383
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 8 equals 9 minus 4 is 5. 8 equals 11 minus 4, no. 10, 12, no. No. Oh, that's not 8, that's 13. 13 equals 9 minus 4 is 5. 13 equals 9 plus 4. 12 equals 9 plus 4. Apparently I have to sub it in. bro i'm not even thinking literally 13 equals 9 plus 5 no 12 no 11 minus 4, 7. Getting nervous. 13 equals 10 plus 4, still not true. 13 equals 9 plus 5, no. 12 equals 9 13 equals 9 I'm just, I'm still kind of mad about that I wasn't getting the last one honestly I'm only on 3 out of 5, so come on. Sorry. This is a cool study, I'm just multiplying."
+  }
+}

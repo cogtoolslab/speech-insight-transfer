@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_5854b75f83c8/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so we've got, that is 12 equals 12 plus 12.If we can only move one matchstick, it should be equal to the three equals three equals three thing.So it would be 10X11 equals X11 equals X11. Not XX1, X11.",
+    "segments": [
+      {
+        "text": " Okay, so we've got, that is 12 equals 12 plus 12.",
+        "start": 1.465,
+        "end": 8.152
+      },
+      {
+        "text": "If we can only move one matchstick, it should be equal to the three equals three equals three thing.",
+        "start": 9.454,
+        "end": 15.32
+      },
+      {
+        "text": "So it would be 10X11 equals X11 equals X11.",
+        "start": 16.121,
+        "end": 30.257
+      },
+      {
+        "text": " Not XX1, X11.",
+        "start": 31.537,
+        "end": 33.48
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so we've got, that is 12 equals 12 plus 12. If we can only move one matchstick, it should be equal to the three equals three equals three thing. So it would be 10X11 equals X11 equals X11. Not XX1, X11."
+  }
+}

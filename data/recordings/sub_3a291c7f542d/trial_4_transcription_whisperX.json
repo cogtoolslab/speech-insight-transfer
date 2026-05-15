@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_3a291c7f542d/trial_4.wav",
+  "with_timestamps": {
+    "text": " So 7 equals 12 plus 6.7 equals 12 minus 5.Can't get that.OK.What about if I make this into 4? So 12, seven equals, so eight equals, eight equals 12 minus, That should work.No, that's not 12, that's seven, no.Seven equals 12 minus five.Okay, but I don't have five. How about 13 minus 5, 13 minus, so 13, 7, minus 6.",
+    "segments": [
+      {
+        "text": " So 7 equals 12 plus 6.",
+        "start": 3.271,
+        "end": 9.098
+      },
+      {
+        "text": "7 equals 12 minus 5.",
+        "start": 9.118,
+        "end": 21.512
+      },
+      {
+        "text": "Can't get that.",
+        "start": 24.456,
+        "end": 25.237
+      },
+      {
+        "text": "OK.",
+        "start": 25.437,
+        "end": 25.857
+      },
+      {
+        "text": "What about if I make this into 4?",
+        "start": 27.159,
+        "end": 28.941
+      },
+      {
+        "text": " So 12, seven equals, so eight equals, eight equals 12 minus,",
+        "start": 34.591,
+        "end": 61.932
+      },
+      {
+        "text": " That should work.",
+        "start": 69.573,
+        "end": 70.294
+      },
+      {
+        "text": "No, that's not 12, that's seven, no.",
+        "start": 74.62,
+        "end": 80.008
+      },
+      {
+        "text": "Seven equals 12 minus five.",
+        "start": 80.028,
+        "end": 94.329
+      },
+      {
+        "text": "Okay, but I don't have five.",
+        "start": 95.551,
+        "end": 96.913
+      },
+      {
+        "text": " How about 13 minus 5, 13 minus, so 13, 7, minus 6.",
+        "start": 97.855,
+        "end": 117.99
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 equals 12 plus 6. 7 equals 12 minus 5. Can't get that. OK. What about if I make this into 4? So 12, seven equals, so eight equals, eight equals 12 minus, That should work. No, that's not 12, that's seven, no. Seven equals 12 minus five. Okay, but I don't have five. How about 13 minus 5, 13 minus, so 13, 7, minus 6."
+  }
+}

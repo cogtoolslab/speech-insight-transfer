@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_6f0ea503bf10/trial_3.wav",
+  "with_timestamps": {
+    "text": " 2 equals 11 minus 7.12.7 equals 11 minus 2.12.Hm. 2 equals 11 minus 7 2 equals 11 minus 7 so that's 4 so i need to add 2 to the other side okay i can move um change the x to a v i would make it six minus seven no i'll change the v no um two make it three 3, oh yeah, 3 equals 10 minus 7.Duh, okay.3 equals 10 minus 7.",
+    "segments": [
+      {
+        "text": " 2 equals 11 minus 7.",
+        "start": 2.123,
+        "end": 3.565
+      },
+      {
+        "text": "12.",
+        "start": 3.625,
+        "end": 3.986
+      },
+      {
+        "text": "7 equals 11 minus 2.",
+        "start": 4.006,
+        "end": 15.221
+      },
+      {
+        "text": "12.",
+        "start": 15.241,
+        "end": 16.943
+      },
+      {
+        "text": "Hm.",
+        "start": 29.64,
+        "end": 29.7
+      },
+      {
+        "text": " 2 equals 11 minus 7 2 equals 11 minus 7 so that's 4 so i need to add 2 to the other side okay i can move um",
+        "start": 36.599,
+        "end": 65.813
+      },
+      {
+        "text": " change the x to a v i would make it six minus seven no i'll change the v no um two make it three",
+        "start": 69.944,
+        "end": 97.217
+      },
+      {
+        "text": " 3, oh yeah, 3 equals 10 minus 7.",
+        "start": 98.53,
+        "end": 103.421
+      },
+      {
+        "text": "Duh, okay.",
+        "start": 104.784,
+        "end": 105.646
+      },
+      {
+        "text": "3 equals 10 minus 7.",
+        "start": 106.247,
+        "end": 112.0
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 11 minus 7. 12. 7 equals 11 minus 2. 12. Hm. 2 equals 11 minus 7 2 equals 11 minus 7 so that's 4 so i need to add 2 to the other side okay i can move um change the x to a v i would make it six minus seven no i'll change the v no um two make it three 3, oh yeah, 3 equals 10 minus 7. Duh, okay. 3 equals 10 minus 7."
+  }
+}

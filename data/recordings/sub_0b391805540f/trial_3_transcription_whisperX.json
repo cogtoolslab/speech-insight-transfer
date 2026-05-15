@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_0b391805540f/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, so it currently reads 3 equals 3 plus 3.So if I do, so 3 plus 3 is 6, and 6 is vi.So if I make that a vi equals 1, 2, 3 plus 1, 2, 3, no. So that would be VI of 6.So I can't combine those together.Equals 3 plus 3.So VI equals 1, 2, 3 plus 1, 2, 3.So 3 plus 3 equals 3. 3 minus 3 doesn't make sense.If I make 3 times 3, that doesn't make sense.If I do 2 3 minus 3, no.3 plus 0. So I feel like I need to do something with the answer.IV would be four.Okay.So if I, okay, wait.So if I do one over here, that'd be four plus two.No.So if I do three plus two, that wouldn't work.So I need to, If I move this over here and say, if I move this here, it would be 4 minus 3.So that still wouldn't work.If I do over here, that would be 4.That would still be 3 minus 3.So that wouldn't work. IV, that would be 4, 4, 3 plus 2.That's not right.I move that.That would be 3 minus 3.That doesn't work.If I do. An X, so if I change one to an X, that would be nine.Nine, that'd be 11, that doesn't work.If I do an X, 11 minus, no, no.An X, IX would be nine minus three, six, that doesn't work.If I do, IV that would be 4 4 So I need like a 6 So 6 would be VI so VI Minus 3 so can I do that?1 2 3 equals VI minus 1, 2, 3.",
+    "segments": [
+      {
+        "text": " OK, so it currently reads 3 equals 3 plus 3.",
+        "start": 0.031,
+        "end": 4.636
+      },
+      {
+        "text": "So if I do, so 3 plus 3 is 6, and 6 is vi.",
+        "start": 6.818,
+        "end": 13.104
+      },
+      {
+        "text": "So if I make that a vi equals 1, 2, 3 plus 1, 2, 3, no.",
+        "start": 13.144,
+        "end": 27.118
+      },
+      {
+        "text": " So that would be VI of 6.",
+        "start": 28.887,
+        "end": 31.571
+      },
+      {
+        "text": "So I can't combine those together.",
+        "start": 32.833,
+        "end": 35.016
+      },
+      {
+        "text": "Equals 3 plus 3.",
+        "start": 35.056,
+        "end": 37.499
+      },
+      {
+        "text": "So VI equals 1, 2, 3 plus 1, 2, 3.",
+        "start": 40.844,
+        "end": 48.776
+      },
+      {
+        "text": "So 3 plus 3 equals 3.",
+        "start": 52.561,
+        "end": 57.308
+      },
+      {
+        "text": " 3 minus 3 doesn't make sense.",
+        "start": 58.503,
+        "end": 60.405
+      },
+      {
+        "text": "If I make 3 times 3, that doesn't make sense.",
+        "start": 61.126,
+        "end": 67.874
+      },
+      {
+        "text": "If I do 2 3 minus 3, no.",
+        "start": 68.775,
+        "end": 73.12
+      },
+      {
+        "text": "3 plus 0.",
+        "start": 73.14,
+        "end": 86.755
+      },
+      {
+        "text": " So I feel like I need to do something with the answer.",
+        "start": 87.511,
+        "end": 90.254
+      },
+      {
+        "text": "IV would be four.",
+        "start": 90.314,
+        "end": 93.537
+      },
+      {
+        "text": "Okay.",
+        "start": 93.557,
+        "end": 93.657
+      },
+      {
+        "text": "So if I, okay, wait.",
+        "start": 95.318,
+        "end": 96.74
+      },
+      {
+        "text": "So if I do one over here, that'd be four plus two.",
+        "start": 98.882,
+        "end": 104.507
+      },
+      {
+        "text": "No.",
+        "start": 104.527,
+        "end": 104.587
+      },
+      {
+        "text": "So if I do three plus two, that wouldn't work.",
+        "start": 105.948,
+        "end": 114.457
+      },
+      {
+        "text": "So I need to,",
+        "start": 115.798,
+        "end": 117.079
+      },
+      {
+        "text": " If I move this over here and say, if I move this here, it would be 4 minus 3.",
+        "start": 118.78,
+        "end": 129.394
+      },
+      {
+        "text": "So that still wouldn't work.",
+        "start": 129.474,
+        "end": 130.676
+      },
+      {
+        "text": "If I do over here, that would be 4.",
+        "start": 132.438,
+        "end": 137.104
+      },
+      {
+        "text": "That would still be 3 minus 3.",
+        "start": 137.725,
+        "end": 140.489
+      },
+      {
+        "text": "So that wouldn't work.",
+        "start": 140.509,
+        "end": 143.573
+      },
+      {
+        "text": " IV, that would be 4, 4, 3 plus 2.",
+        "start": 146.911,
+        "end": 156.507
+      },
+      {
+        "text": "That's not right.",
+        "start": 156.607,
+        "end": 158.049
+      },
+      {
+        "text": "I move that.",
+        "start": 159.031,
+        "end": 159.872
+      },
+      {
+        "text": "That would be 3 minus 3.",
+        "start": 159.933,
+        "end": 166.844
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 167.966,
+        "end": 170.069
+      },
+      {
+        "text": "If I do.",
+        "start": 172.794,
+        "end": 173.475
+      },
+      {
+        "text": " An X, so if I change one to an X, that would be nine.",
+        "start": 176.003,
+        "end": 180.109
+      },
+      {
+        "text": "Nine, that'd be 11, that doesn't work.",
+        "start": 182.532,
+        "end": 188.401
+      },
+      {
+        "text": "If I do an X, 11 minus, no, no.",
+        "start": 188.421,
+        "end": 196.031
+      },
+      {
+        "text": "An X, IX would be nine minus three, six, that doesn't work.",
+        "start": 196.051,
+        "end": 202.661
+      },
+      {
+        "text": "If I do,",
+        "start": 204.844,
+        "end": 205.605
+      },
+      {
+        "text": " IV that would be 4 4 So I need like a 6 So 6 would be VI so VI Minus 3 so can I do that?",
+        "start": 206.885,
+        "end": 229.369
+      },
+      {
+        "text": "1 2 3 equals VI",
+        "start": 229.389,
+        "end": 235.896
+      },
+      {
+        "text": " minus 1, 2, 3.",
+        "start": 236.804,
+        "end": 239.625
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so it currently reads 3 equals 3 plus 3. So if I do, so 3 plus 3 is 6, and 6 is vi. So if I make that a vi equals 1, 2, 3 plus 1, 2, 3, no. So that would be VI of 6. So I can't combine those together. Equals 3 plus 3. So VI equals 1, 2, 3 plus 1, 2, 3. So 3 plus 3 equals 3. 3 minus 3 doesn't make sense. If I make 3 times 3, that doesn't make sense. If I do 2 3 minus 3, no. 3 plus 0. So I feel like I need to do something with the answer. IV would be four. Okay. So if I, okay, wait. So if I do one over here, that'd be four plus two. No. So if I do three plus two, that wouldn't work. So I need to, If I move this over here and say, if I move this here, it would be 4 minus 3. So that still wouldn't work. If I do over here, that would be 4. That would still be 3 minus 3. So that wouldn't work. IV, that would be 4, 4, 3 plus 2. That's not right. I move that. That would be 3 minus 3. That doesn't work. If I do. An X, so if I change one to an X, that would be nine. Nine, that'd be 11, that doesn't work. If I do an X, 11 minus, no, no. An X, IX would be nine minus three, six, that doesn't work. If I do, IV that would be 4 4 So I need like a 6 So 6 would be VI so VI Minus 3 so can I do that? 1 2 3 equals VI minus 1, 2, 3."
+  }
+}

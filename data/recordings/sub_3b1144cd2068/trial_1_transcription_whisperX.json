@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_3b1144cd2068/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK.9 equals 7 plus 9.So I want to change this to 2.Oh, use the buttons to create the. Let's see.9 equals 7 to the n. two 1's, 7 plus 2.And that's the correct answer.It's not the correct answer.No, excuse me. IX is 9, so IX, I'm going to put those in, IX, very slow at this, equals, 7, the V and two I's, 7 plus 2.OK, it's not correct. OK, I have it this time.9ix equals 7. No, i equals 7.What am I doing? plus IV, which is 4.I'm still not doing it right.OK.9, I, I'm putting in 9.",
+    "segments": [
+      {
+        "text": " OK.",
+        "start": 0.031,
+        "end": 1.113
+      },
+      {
+        "text": "9 equals 7 plus 9.",
+        "start": 2.175,
+        "end": 10.468
+      },
+      {
+        "text": "So I want to change this to 2.",
+        "start": 11.39,
+        "end": 19.503
+      },
+      {
+        "text": "Oh, use the buttons to create the.",
+        "start": 21.507,
+        "end": 25.313
+      },
+      {
+        "text": " Let's see.",
+        "start": 31.57,
+        "end": 44.393
+      },
+      {
+        "text": "9 equals 7 to the n.",
+        "start": 44.413,
+        "end": 55.232
+      },
+      {
+        "text": " two 1's, 7 plus 2.",
+        "start": 60.747,
+        "end": 71.18
+      },
+      {
+        "text": "And that's the correct answer.",
+        "start": 71.2,
+        "end": 74.724
+      },
+      {
+        "text": "It's not the correct answer.",
+        "start": 77.588,
+        "end": 79.09
+      },
+      {
+        "text": "No, excuse me.",
+        "start": 85.017,
+        "end": 85.978
+      },
+      {
+        "text": " IX is 9, so IX, I'm going to put those in, IX, very slow at this, equals,",
+        "start": 91.426,
+        "end": 113.569
+      },
+      {
+        "text": " 7, the V and two I's, 7 plus 2.",
+        "start": 120.012,
+        "end": 135.091
+      },
+      {
+        "text": "OK, it's not correct.",
+        "start": 135.111,
+        "end": 147.927
+      },
+      {
+        "text": " OK, I have it this time.",
+        "start": 150.59,
+        "end": 153.073
+      },
+      {
+        "text": "9ix equals 7.",
+        "start": 153.093,
+        "end": 172.378
+      },
+      {
+        "text": " No, i equals 7.",
+        "start": 179.868,
+        "end": 197.331
+      },
+      {
+        "text": "What am I doing?",
+        "start": 201.116,
+        "end": 209.487
+      },
+      {
+        "text": " plus IV, which is 4.",
+        "start": 216.453,
+        "end": 218.437
+      },
+      {
+        "text": "I'm still not doing it right.",
+        "start": 222.864,
+        "end": 224.668
+      },
+      {
+        "text": "OK.",
+        "start": 228.414,
+        "end": 228.835
+      },
+      {
+        "text": "9, I, I'm putting in 9.",
+        "start": 232.281,
+        "end": 238.933
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK. 9 equals 7 plus 9. So I want to change this to 2. Oh, use the buttons to create the. Let's see. 9 equals 7 to the n. two 1's, 7 plus 2. And that's the correct answer. It's not the correct answer. No, excuse me. IX is 9, so IX, I'm going to put those in, IX, very slow at this, equals, 7, the V and two I's, 7 plus 2. OK, it's not correct. OK, I have it this time. 9ix equals 7. No, i equals 7. What am I doing? plus IV, which is 4. I'm still not doing it right. OK. 9, I, I'm putting in 9."
+  }
+}

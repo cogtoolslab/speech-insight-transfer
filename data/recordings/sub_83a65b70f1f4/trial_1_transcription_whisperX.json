@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_83a65b70f1f4/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so what I'm seeing first is I'm going to try and solve what's wrong.So the equation looks like two matchsticks, which would be 2 plus 5 minus 1 would be 4.So on the right side, the equation is 2 plus 4, which technically should equal 6.On the left-hand side, you have 5, 6, 7, 8.So that's where the equation is wrong, is that it says on the left-hand side the equation should equal 8. but you have 2 plus 4.So what I'm going to try to do is play around and see what I need to do to get the equation to equal 8.So if I moved the matchstick, let me see, if I move the matchstick over on the right side, V plus I would equal 6 plus 2 is 8.So I need to move the V and the I on the right side around.So I'm going to start with the left-hand side of the equation, I think. So I would have VII equals, so you should have to write 2 plus 6 is 8, yeah.So II, 2 match 6, plus VI.I'm wondering if this checks the answer right away.So let me just check my work.So if I have 5, say, uh-oh, darn it. I messed up.Okay, I forgot a matchstick.Vii, so 5, 6, 7, 8, equals matchstick, matchstick, plus if I move the V and the I. So I should have 8 equals 2 plus 6 equals 8.",
+    "segments": [
+      {
+        "text": " Okay, so what I'm seeing first is I'm going to try and solve what's wrong.",
+        "start": 0.655,
+        "end": 5.841
+      },
+      {
+        "text": "So the equation looks like two matchsticks, which would be 2 plus 5 minus 1 would be 4.",
+        "start": 6.522,
+        "end": 13.79
+      },
+      {
+        "text": "So on the right side, the equation is 2 plus 4, which technically should equal 6.",
+        "start": 14.09,
+        "end": 19.556
+      },
+      {
+        "text": "On the left-hand side, you have 5, 6, 7, 8.",
+        "start": 20.337,
+        "end": 22.62
+      },
+      {
+        "text": "So that's where the equation is wrong, is that it says on the left-hand side the equation should equal 8.",
+        "start": 23.561,
+        "end": 29.127
+      },
+      {
+        "text": " but you have 2 plus 4.",
+        "start": 30.035,
+        "end": 31.357
+      },
+      {
+        "text": "So what I'm going to try to do is play around and see what I need to do to get the equation to equal 8.",
+        "start": 32.118,
+        "end": 41.291
+      },
+      {
+        "text": "So if I moved the matchstick, let me see, if I move the matchstick over on the right side, V plus I would equal 6 plus 2 is 8.",
+        "start": 41.331,
+        "end": 51.345
+      },
+      {
+        "text": "So I need to move the V and the I on the right side around.",
+        "start": 51.706,
+        "end": 56.052
+      },
+      {
+        "text": "So I'm going to start with the left-hand side of the equation, I think.",
+        "start": 56.072,
+        "end": 59.417
+      },
+      {
+        "text": " So I would have VII equals, so you should have to write 2 plus 6 is 8, yeah.",
+        "start": 60.258,
+        "end": 71.793
+      },
+      {
+        "text": "So II, 2 match 6, plus VI.",
+        "start": 71.813,
+        "end": 76.519
+      },
+      {
+        "text": "I'm wondering if this checks the answer right away.",
+        "start": 77.28,
+        "end": 80.845
+      },
+      {
+        "text": "So let me just check my work.",
+        "start": 80.905,
+        "end": 81.906
+      },
+      {
+        "text": "So if I have 5, say, uh-oh, darn it.",
+        "start": 81.946,
+        "end": 85.05
+      },
+      {
+        "text": " I messed up.",
+        "start": 85.942,
+        "end": 87.385
+      },
+      {
+        "text": "Okay, I forgot a matchstick.",
+        "start": 87.405,
+        "end": 88.667
+      },
+      {
+        "text": "Vii, so 5, 6, 7, 8, equals matchstick, matchstick, plus if I move the V and the I. So I should have 8 equals 2 plus 6 equals 8.",
+        "start": 89.288,
+        "end": 102.972
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so what I'm seeing first is I'm going to try and solve what's wrong. So the equation looks like two matchsticks, which would be 2 plus 5 minus 1 would be 4. So on the right side, the equation is 2 plus 4, which technically should equal 6. On the left-hand side, you have 5, 6, 7, 8. So that's where the equation is wrong, is that it says on the left-hand side the equation should equal 8. but you have 2 plus 4. So what I'm going to try to do is play around and see what I need to do to get the equation to equal 8. So if I moved the matchstick, let me see, if I move the matchstick over on the right side, V plus I would equal 6 plus 2 is 8. So I need to move the V and the I on the right side around. So I'm going to start with the left-hand side of the equation, I think. So I would have VII equals, so you should have to write 2 plus 6 is 8, yeah. So II, 2 match 6, plus VI. I'm wondering if this checks the answer right away. So let me just check my work. So if I have 5, say, uh-oh, darn it. I messed up. Okay, I forgot a matchstick. Vii, so 5, 6, 7, 8, equals matchstick, matchstick, plus if I move the V and the I. So I should have 8 equals 2 plus 6 equals 8."
+  }
+}

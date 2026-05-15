@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_4.wav",
+  "with_timestamps": {
+    "text": " the",
+    "segments": [
+      {
+        "text": " the",
+        "start": 0.031,
+        "end": 10.851
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " the"
+  }
+}

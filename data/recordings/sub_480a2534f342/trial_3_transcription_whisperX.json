@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_480a2534f342/trial_3.wav",
+  "with_timestamps": {
+    "text": " 2 equals 11 minus 7.2 equals 11 minus 9.Or 2 equals 10 minus 8.",
+    "segments": [
+      {
+        "text": " 2 equals 11 minus 7.",
+        "start": 2.09,
+        "end": 5.313
+      },
+      {
+        "text": "2 equals 11 minus 9.",
+        "start": 9.417,
+        "end": 14.542
+      },
+      {
+        "text": "Or 2 equals 10 minus 8.",
+        "start": 20.928,
+        "end": 30.257
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 11 minus 7. 2 equals 11 minus 9. Or 2 equals 10 minus 8."
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "file": "data/recordings/sub_530e7d6c33a4/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, you can only move one matchstick.OK, so this is nine.No, wait, no, no, no.This is four equals four.This is the same question, but with four instead.Hmm. Okay, so you have 4 equals 4 plus 4, which is 8.But that's not true, so 6.Okay.You could move 1, so it's 6. So one matchstick.Okay.All right, let's try the same thing.If it's not, then I'm gonna have to figure something else out.Okay, equals IV, which is four.Oops.IV, which is four, minus four. Okay.I, okay.Hmm.Okay.Does it have to always equal four?That's the real question.Okay. OK, OK, so let's go.You can only move one matchstick, right?So.What if it is?Could you move that one?No, wait, no, no, no. can't really do much.I don't.So you can only move one matchstick, right?So what is the correct equation?So I'm gonna go with Ix again, or Iv, equals.So it has to equal four, and you can't minus these two to equal zero.So And I can only move one matchstick to make the equation work.Okay.Um.That's very tricky.This is a very tricky question.I don't really.I don't really get it. I don't really know how to solve this problem.I really don't.You say you can only move one matchstick.OK, I don't.I'm just going to just I'm just going to try stuff.If it doesn't work, it is what it is.At this point, I don't really know how to solve this problem.No.OK.",
+    "segments": [
+      {
+        "text": " OK, you can only move one matchstick.",
+        "start": 2.309,
+        "end": 4.171
+      },
+      {
+        "text": "OK, so this is nine.",
+        "start": 4.812,
+        "end": 6.474
+      },
+      {
+        "text": "No, wait, no, no, no.",
+        "start": 6.634,
+        "end": 7.535
+      },
+      {
+        "text": "This is four equals four.",
+        "start": 7.555,
+        "end": 11.0
+      },
+      {
+        "text": "This is the same question, but with four instead.",
+        "start": 11.04,
+        "end": 16.807
+      },
+      {
+        "text": "Hmm.",
+        "start": 22.634,
+        "end": 22.714
+      },
+      {
+        "text": " Okay, so you have 4 equals 4 plus 4, which is 8.",
+        "start": 29.275,
+        "end": 36.146
+      },
+      {
+        "text": "But that's not true, so 6.",
+        "start": 38.61,
+        "end": 41.474
+      },
+      {
+        "text": "Okay.",
+        "start": 43.377,
+        "end": 43.858
+      },
+      {
+        "text": "You could move 1, so it's 6.",
+        "start": 49.126,
+        "end": 51.79
+      },
+      {
+        "text": " So one matchstick.",
+        "start": 57.338,
+        "end": 58.74
+      },
+      {
+        "text": "Okay.",
+        "start": 60.043,
+        "end": 60.403
+      },
+      {
+        "text": "All right, let's try the same thing.",
+        "start": 62.186,
+        "end": 64.55
+      },
+      {
+        "text": "If it's not, then I'm gonna have to figure something else out.",
+        "start": 64.691,
+        "end": 67.756
+      },
+      {
+        "text": "Okay, equals IV, which is four.",
+        "start": 68.337,
+        "end": 72.284
+      },
+      {
+        "text": "Oops.",
+        "start": 74.047,
+        "end": 74.227
+      },
+      {
+        "text": "IV, which is four, minus four.",
+        "start": 75.75,
+        "end": 80.578
+      },
+      {
+        "text": " Okay.",
+        "start": 85.081,
+        "end": 85.562
+      },
+      {
+        "text": "I, okay.",
+        "start": 86.263,
+        "end": 87.504
+      },
+      {
+        "text": "Hmm.",
+        "start": 93.652,
+        "end": 101.182
+      },
+      {
+        "text": "Okay.",
+        "start": 101.202,
+        "end": 101.482
+      },
+      {
+        "text": "Does it have to always equal four?",
+        "start": 101.923,
+        "end": 104.506
+      },
+      {
+        "text": "That's the real question.",
+        "start": 104.806,
+        "end": 105.788
+      },
+      {
+        "text": "Okay.",
+        "start": 111.154,
+        "end": 111.595
+      },
+      {
+        "text": " OK, OK, so let's go.",
+        "start": 114.899,
+        "end": 123.008
+      },
+      {
+        "text": "You can only move one matchstick, right?",
+        "start": 123.048,
+        "end": 126.052
+      },
+      {
+        "text": "So.",
+        "start": 126.092,
+        "end": 126.472
+      },
+      {
+        "text": "What if it is?",
+        "start": 128.775,
+        "end": 129.776
+      },
+      {
+        "text": "Could you move that one?",
+        "start": 131.998,
+        "end": 134.421
+      },
+      {
+        "text": "No, wait, no, no, no.",
+        "start": 134.902,
+        "end": 136.924
+      },
+      {
+        "text": " can't really do much.",
+        "start": 142.962,
+        "end": 145.245
+      },
+      {
+        "text": "I don't.",
+        "start": 149.251,
+        "end": 149.532
+      },
+      {
+        "text": "So you can only move one matchstick, right?",
+        "start": 151.735,
+        "end": 153.578
+      },
+      {
+        "text": "So what is the correct equation?",
+        "start": 157.383,
+        "end": 159.286
+      },
+      {
+        "text": "So I'm gonna go with Ix again, or Iv, equals.",
+        "start": 160.067,
+        "end": 164.594
+      },
+      {
+        "text": "So it has to equal four, and you can't minus these two to equal zero.",
+        "start": 165.615,
+        "end": 169.921
+      },
+      {
+        "text": "So",
+        "start": 171.364,
+        "end": 172.345
+      },
+      {
+        "text": " And I can only move one matchstick to make the equation work.",
+        "start": 178.012,
+        "end": 180.997
+      },
+      {
+        "text": "Okay.",
+        "start": 188.227,
+        "end": 188.608
+      },
+      {
+        "text": "Um.",
+        "start": 189.369,
+        "end": 189.63
+      },
+      {
+        "text": "That's very tricky.",
+        "start": 194.898,
+        "end": 195.759
+      },
+      {
+        "text": "This is a very tricky question.",
+        "start": 195.779,
+        "end": 197.021
+      },
+      {
+        "text": "I don't really.",
+        "start": 197.401,
+        "end": 197.902
+      },
+      {
+        "text": "I don't really get it.",
+        "start": 197.922,
+        "end": 201.808
+      },
+      {
+        "text": " I don't really know how to solve this problem.",
+        "start": 207.07,
+        "end": 208.952
+      },
+      {
+        "text": "I really don't.",
+        "start": 209.252,
+        "end": 209.812
+      },
+      {
+        "text": "You say you can only move one matchstick.",
+        "start": 211.294,
+        "end": 213.155
+      },
+      {
+        "text": "OK, I don't.",
+        "start": 219.42,
+        "end": 220.922
+      },
+      {
+        "text": "I'm just going to just I'm just going to try stuff.",
+        "start": 224.084,
+        "end": 227.187
+      },
+      {
+        "text": "If it doesn't work, it is what it is.",
+        "start": 227.988,
+        "end": 229.769
+      },
+      {
+        "text": "At this point, I don't really know how to solve this problem.",
+        "start": 229.809,
+        "end": 233.592
+      },
+      {
+        "text": "No.",
+        "start": 234.874,
+        "end": 235.074
+      },
+      {
+        "text": "OK.",
+        "start": 236.595,
+        "end": 236.655
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, you can only move one matchstick. OK, so this is nine. No, wait, no, no, no. This is four equals four. This is the same question, but with four instead. Hmm. Okay, so you have 4 equals 4 plus 4, which is 8. But that's not true, so 6. Okay. You could move 1, so it's 6. So one matchstick. Okay. All right, let's try the same thing. If it's not, then I'm gonna have to figure something else out. Okay, equals IV, which is four. Oops. IV, which is four, minus four. Okay. I, okay. Hmm. Okay. Does it have to always equal four? That's the real question. Okay. OK, OK, so let's go. You can only move one matchstick, right? So. What if it is? Could you move that one? No, wait, no, no, no. can't really do much. I don't. So you can only move one matchstick, right? So what is the correct equation? So I'm gonna go with Ix again, or Iv, equals. So it has to equal four, and you can't minus these two to equal zero. So And I can only move one matchstick to make the equation work. Okay. Um. That's very tricky. This is a very tricky question. I don't really. I don't really get it. I don't really know how to solve this problem. I really don't. You say you can only move one matchstick. OK, I don't. I'm just going to just I'm just going to try stuff. If it doesn't work, it is what it is. At this point, I don't really know how to solve this problem. No. OK."
+  }
+}

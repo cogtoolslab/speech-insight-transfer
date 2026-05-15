@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_91054a8a7eed/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right.Two equals 11 minus seven.All right.Well, 11 minus seven is actually four.So that's not correct.So two equals 11 minus seven.Let's see.So if I need to move one matchstick, um, okay.So let's see.11 minus six.No, I can't do that.I can't move any of those.Um, 10 minus 8.I can do 10 minus 8.Okay, so 2 equals 10 minus 8.That is correct, right?10 minus 8 equals 2.Yes, correct.Okay, let's see.",
+    "segments": [
+      {
+        "text": " All right.",
+        "start": 0.976,
+        "end": 1.336
+      },
+      {
+        "text": "Two equals 11 minus seven.",
+        "start": 1.457,
+        "end": 4.86
+      },
+      {
+        "text": "All right.",
+        "start": 5.541,
+        "end": 5.922
+      },
+      {
+        "text": "Well, 11 minus seven is actually four.",
+        "start": 5.942,
+        "end": 8.444
+      },
+      {
+        "text": "So that's not correct.",
+        "start": 8.464,
+        "end": 9.205
+      },
+      {
+        "text": "So two equals 11 minus seven.",
+        "start": 9.225,
+        "end": 10.747
+      },
+      {
+        "text": "Let's see.",
+        "start": 10.767,
+        "end": 11.127
+      },
+      {
+        "text": "So if I need to move one matchstick, um, okay.",
+        "start": 11.147,
+        "end": 16.373
+      },
+      {
+        "text": "So let's see.",
+        "start": 16.393,
+        "end": 16.894
+      },
+      {
+        "text": "11 minus six.",
+        "start": 16.914,
+        "end": 22.38
+      },
+      {
+        "text": "No, I can't do that.",
+        "start": 22.48,
+        "end": 23.241
+      },
+      {
+        "text": "I can't move any of those.",
+        "start": 23.281,
+        "end": 24.122
+      },
+      {
+        "text": "Um, 10 minus",
+        "start": 24.542,
+        "end": 26.865
+      },
+      {
+        "text": " 8.",
+        "start": 29.157,
+        "end": 29.458
+      },
+      {
+        "text": "I can do 10 minus 8.",
+        "start": 29.559,
+        "end": 30.483
+      },
+      {
+        "text": "Okay, so 2 equals 10 minus 8.",
+        "start": 30.503,
+        "end": 38.279
+      },
+      {
+        "text": "That is correct, right?",
+        "start": 39.585,
+        "end": 41.252
+      },
+      {
+        "text": "10 minus 8 equals 2.",
+        "start": 41.273,
+        "end": 43.221
+      },
+      {
+        "text": "Yes, correct.",
+        "start": 43.262,
+        "end": 43.985
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 44.005,
+        "end": 44.668
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right. Two equals 11 minus seven. All right. Well, 11 minus seven is actually four. So that's not correct. So two equals 11 minus seven. Let's see. So if I need to move one matchstick, um, okay. So let's see. 11 minus six. No, I can't do that. I can't move any of those. Um, 10 minus 8. I can do 10 minus 8. Okay, so 2 equals 10 minus 8. That is correct, right? 10 minus 8 equals 2. Yes, correct. Okay, let's see."
+  }
+}

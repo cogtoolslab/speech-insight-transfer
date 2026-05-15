@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_82b681bbefed/trial_3.wav",
+  "with_timestamps": {
+    "text": " Great, another one.Puzzle 3 of 5.So we have 9 equals 12 plus.Let me get my scratch paper.So we have 9 equals 12 plus 4.And 12 plus 4 is 16.And that's not true.So 12 minus 4 is 8. If you move this over, then that doesn't make sense.Because you can only move one matchstick.So if I move one matchstick over to the left side of the equation, that doesn't work.Then I have eight.I move the vertical one over, so eight equals, yeah, no, no, that's it, that's it.Will it work though?Will it work?So if I go iix equals xii minus iv, right, and I move that vertical one over, That's incorrect, right?Again, so I guess that's not part of the rule.You can't mess with the operand.The addition symbol, the operand, you can't mess with that?OK.Then this has no solution.And I think that's what the experiment is.You can't move, because if you move one of the x matchsticks, you have nonsense. And if you move any of those over to the left, you get something that doesn't work.The only way that works is what I inputted.And I don't know if it's because there's not enough space.X, let's try it once more, equals xii minus. because I took that vertical stick over to the other side.No, that's incorrect.Okay, so this is just a trick.And I guess you want me to still like go on with this and play along.Sure.So now let's go through all the possibilities.You move the match stick from the, left over to any of the right.And then you have a bigger number.So that's not going to work.10 equals like 13 or, or, uh, okay.Um, you move the, uh, any of these other match sticks and then the, the, the X one, That's not a thing.The X one is not a thing.You can't move a matchstick from X over because then all you have is a slanted matchstick.The only ones you can move are the vertical ones, really.So to have it make any sense. and I did it in the only way that would make sense, which moved the vertical from the plus sign over to the left side, then that works.But you don't accept that because this is a trick.Yeah, it's not a very",
+    "segments": [
+      {
+        "text": " Great, another one.",
+        "start": 2.343,
+        "end": 3.264
+      },
+      {
+        "text": "Puzzle 3 of 5.",
+        "start": 4.325,
+        "end": 5.306
+      },
+      {
+        "text": "So we have 9 equals 12 plus.",
+        "start": 5.386,
+        "end": 9.87
+      },
+      {
+        "text": "Let me get my scratch paper.",
+        "start": 9.95,
+        "end": 11.312
+      },
+      {
+        "text": "So we have 9 equals 12 plus 4.",
+        "start": 13.954,
+        "end": 22.022
+      },
+      {
+        "text": "And 12 plus 4 is 16.",
+        "start": 22.202,
+        "end": 25.225
+      },
+      {
+        "text": "And that's not true.",
+        "start": 25.505,
+        "end": 26.326
+      },
+      {
+        "text": "So 12 minus 4 is 8.",
+        "start": 26.426,
+        "end": 31.371
+      },
+      {
+        "text": " If you move this over, then that doesn't make sense.",
+        "start": 36.599,
+        "end": 41.624
+      },
+      {
+        "text": "Because you can only move one matchstick.",
+        "start": 44.506,
+        "end": 48.73
+      },
+      {
+        "text": "So if I move one matchstick over to the left side of the equation, that doesn't work.",
+        "start": 50.752,
+        "end": 55.816
+      },
+      {
+        "text": "Then I have eight.",
+        "start": 56.958,
+        "end": 58.079
+      },
+      {
+        "text": "I move the vertical one over, so eight",
+        "start": 62.943,
+        "end": 65.205
+      },
+      {
+        "text": " equals, yeah, no, no, that's it, that's it.",
+        "start": 66.097,
+        "end": 68.2
+      },
+      {
+        "text": "Will it work though?",
+        "start": 68.72,
+        "end": 69.542
+      },
+      {
+        "text": "Will it work?",
+        "start": 70.603,
+        "end": 71.184
+      },
+      {
+        "text": "So if I go iix equals xii minus iv, right, and I move that vertical one over,",
+        "start": 71.344,
+        "end": 88.847
+      },
+      {
+        "text": " That's incorrect, right?",
+        "start": 90.548,
+        "end": 91.769
+      },
+      {
+        "text": "Again, so I guess that's not part of the rule.",
+        "start": 91.789,
+        "end": 93.831
+      },
+      {
+        "text": "You can't mess with the operand.",
+        "start": 93.891,
+        "end": 96.774
+      },
+      {
+        "text": "The addition symbol, the operand, you can't mess with that?",
+        "start": 101.678,
+        "end": 104.981
+      },
+      {
+        "text": "OK.",
+        "start": 105.101,
+        "end": 105.442
+      },
+      {
+        "text": "Then this has no solution.",
+        "start": 108.484,
+        "end": 109.646
+      },
+      {
+        "text": "And I think that's what the experiment is.",
+        "start": 111.147,
+        "end": 113.249
+      },
+      {
+        "text": "You can't move, because if you move one of the x matchsticks, you have nonsense.",
+        "start": 113.669,
+        "end": 118.834
+      },
+      {
+        "text": " And if you move any of those over to the left, you get something that doesn't work.",
+        "start": 120.08,
+        "end": 125.868
+      },
+      {
+        "text": "The only way that works is what I inputted.",
+        "start": 125.888,
+        "end": 131.715
+      },
+      {
+        "text": "And I don't know if it's because there's not enough space.",
+        "start": 131.735,
+        "end": 133.778
+      },
+      {
+        "text": "X, let's try it once more, equals xii minus.",
+        "start": 138.384,
+        "end": 144.552
+      },
+      {
+        "text": " because I took that vertical stick over to the other side.",
+        "start": 145.544,
+        "end": 149.611
+      },
+      {
+        "text": "No, that's incorrect.",
+        "start": 149.631,
+        "end": 150.693
+      },
+      {
+        "text": "Okay, so this is just a trick.",
+        "start": 152.195,
+        "end": 153.958
+      },
+      {
+        "text": "And I guess you want me to still like go on with this and play along.",
+        "start": 155.1,
+        "end": 159.327
+      },
+      {
+        "text": "Sure.",
+        "start": 160.91,
+        "end": 161.15
+      },
+      {
+        "text": "So now let's go through all the possibilities.",
+        "start": 163.814,
+        "end": 166.218
+      },
+      {
+        "text": "You move the match stick from the,",
+        "start": 166.278,
+        "end": 171.467
+      },
+      {
+        "text": " left over to any of the right.",
+        "start": 172.257,
+        "end": 174.099
+      },
+      {
+        "text": "And then you have a bigger number.",
+        "start": 174.119,
+        "end": 175.341
+      },
+      {
+        "text": "So that's not going to work.",
+        "start": 176.062,
+        "end": 177.043
+      },
+      {
+        "text": "10 equals like 13 or, or, uh, okay.",
+        "start": 177.343,
+        "end": 184.792
+      },
+      {
+        "text": "Um, you move the, uh, any of these other match sticks and then the, the, the X one,",
+        "start": 186.254,
+        "end": 202.213
+      },
+      {
+        "text": " That's not a thing.",
+        "start": 202.463,
+        "end": 204.787
+      },
+      {
+        "text": "The X one is not a thing.",
+        "start": 206.69,
+        "end": 207.992
+      },
+      {
+        "text": "You can't move a matchstick from X over because then all you have is a slanted matchstick.",
+        "start": 213.24,
+        "end": 217.928
+      },
+      {
+        "text": "The only ones you can move are the vertical ones, really.",
+        "start": 217.948,
+        "end": 220.211
+      },
+      {
+        "text": "So to have it make any sense.",
+        "start": 222.555,
+        "end": 225.079
+      },
+      {
+        "text": " and I did it in the only way that would make sense, which moved the vertical from the plus sign over to the left side, then that works.",
+        "start": 226.156,
+        "end": 233.694
+      },
+      {
+        "text": "But you don't accept that because this is a trick.",
+        "start": 234.096,
+        "end": 237.554
+      },
+      {
+        "text": "Yeah, it's not a very",
+        "start": 238.981,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Great, another one. Puzzle 3 of 5. So we have 9 equals 12 plus. Let me get my scratch paper. So we have 9 equals 12 plus 4. And 12 plus 4 is 16. And that's not true. So 12 minus 4 is 8. If you move this over, then that doesn't make sense. Because you can only move one matchstick. So if I move one matchstick over to the left side of the equation, that doesn't work. Then I have eight. I move the vertical one over, so eight equals, yeah, no, no, that's it, that's it. Will it work though? Will it work? So if I go iix equals xii minus iv, right, and I move that vertical one over, That's incorrect, right? Again, so I guess that's not part of the rule. You can't mess with the operand. The addition symbol, the operand, you can't mess with that? OK. Then this has no solution. And I think that's what the experiment is. You can't move, because if you move one of the x matchsticks, you have nonsense. And if you move any of those over to the left, you get something that doesn't work. The only way that works is what I inputted. And I don't know if it's because there's not enough space. X, let's try it once more, equals xii minus. because I took that vertical stick over to the other side. No, that's incorrect. Okay, so this is just a trick. And I guess you want me to still like go on with this and play along. Sure. So now let's go through all the possibilities. You move the match stick from the, left over to any of the right. And then you have a bigger number. So that's not going to work. 10 equals like 13 or, or, uh, okay. Um, you move the, uh, any of these other match sticks and then the, the, the X one, That's not a thing. The X one is not a thing. You can't move a matchstick from X over because then all you have is a slanted matchstick. The only ones you can move are the vertical ones, really. So to have it make any sense. and I did it in the only way that would make sense, which moved the vertical from the plus sign over to the left side, then that works. But you don't accept that because this is a trick. Yeah, it's not a very"
+  }
+}

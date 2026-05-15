@@ -1,0 +1,64 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_3_fixed.wav",
+  "participant_id": "sub_be52d2e30aa9",
+  "trial_number": 3,
+  "speech_segments": [
+    {
+      "start": 6.498,
+      "end": 8.478,
+      "duration": 1.98,
+      "lexical": true
+    },
+    {
+      "start": 8.706,
+      "end": 9.502,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 9.954,
+      "end": 10.43,
+      "duration": 0.476,
+      "lexical": true
+    },
+    {
+      "start": 11.522,
+      "end": 12.51,
+      "duration": 0.988,
+      "lexical": true
+    },
+    {
+      "start": 12.706,
+      "end": 13.42,
+      "duration": 0.714,
+      "lexical": true
+    }
+  ],
+  "silence_segments": [
+    {
+      "start": 0.0,
+      "end": 6.498,
+      "duration": 6.498
+    },
+    {
+      "start": 8.478,
+      "end": 8.706,
+      "duration": 0.228
+    },
+    {
+      "start": 9.502,
+      "end": 9.954,
+      "duration": 0.452
+    },
+    {
+      "start": 10.43,
+      "end": 11.522,
+      "duration": 1.092
+    },
+    {
+      "start": 12.51,
+      "end": 12.706,
+      "duration": 0.196
+    }
+  ]
+}

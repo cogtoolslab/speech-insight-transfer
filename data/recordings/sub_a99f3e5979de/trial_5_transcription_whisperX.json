@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_a99f3e5979de/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, what is this one?What?Three equals three plus three plus three.What?How would you fix this one?I could change orientation, right?Could I make it just, oh, like that's simple.I think this one's simple.Isn't it just six?Like you just, you would do VI equals II plus II.You didn't really, You didn't really take a piece and move it.You just angled the first two together to make six.Right?Is this correct?How's that incorrect?Damn it.I thought that was perfect.You can only move one matchstick.I didn't even move one.Is that... How is that wrong?I mean, I... What?Shouldn't that have worked? Let me try that again.That felt weird.That's not correct.I really thought that was.So then what would it be then?Let me think, let me think.Is it something to do with changing the operand or something? Uh, what would it be?Okay.Am I allowed to, Oh, wait a minute.Wait a minute.Wait a minute.And I can change the operand.Right?So could I do I equals I equals, I don't know if I'm allowed to do this.I",
+    "segments": [
+      {
+        "text": " Okay, what is this one?",
+        "start": 5.195,
+        "end": 6.136
+      },
+      {
+        "text": "What?",
+        "start": 8.218,
+        "end": 8.439
+      },
+      {
+        "text": "Three equals three plus three plus three.",
+        "start": 9.139,
+        "end": 12.723
+      },
+      {
+        "text": "What?",
+        "start": 14.726,
+        "end": 14.926
+      },
+      {
+        "text": "How would you fix this one?",
+        "start": 16.828,
+        "end": 17.869
+      },
+      {
+        "text": "I could change orientation, right?",
+        "start": 19.05,
+        "end": 20.352
+      },
+      {
+        "text": "Could I make it just, oh, like that's simple.",
+        "start": 21.353,
+        "end": 23.315
+      },
+      {
+        "text": "I think this one's simple.",
+        "start": 23.335,
+        "end": 24.076
+      },
+      {
+        "text": "Isn't it just six?",
+        "start": 24.136,
+        "end": 24.977
+      },
+      {
+        "text": "Like you just, you would do VI equals II plus II.",
+        "start": 26.098,
+        "end": 32.525
+      },
+      {
+        "text": "You didn't really,",
+        "start": 32.926,
+        "end": 33.987
+      },
+      {
+        "text": " You didn't really take a piece and move it.",
+        "start": 34.76,
+        "end": 36.221
+      },
+      {
+        "text": "You just angled the first two together to make six.",
+        "start": 36.261,
+        "end": 39.405
+      },
+      {
+        "text": "Right?",
+        "start": 41.066,
+        "end": 41.347
+      },
+      {
+        "text": "Is this correct?",
+        "start": 42.307,
+        "end": 42.808
+      },
+      {
+        "text": "How's that incorrect?",
+        "start": 43.389,
+        "end": 44.049
+      },
+      {
+        "text": "Damn it.",
+        "start": 44.189,
+        "end": 44.49
+      },
+      {
+        "text": "I thought that was perfect.",
+        "start": 46.111,
+        "end": 47.072
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 49.374,
+        "end": 50.736
+      },
+      {
+        "text": "I didn't even move one.",
+        "start": 50.796,
+        "end": 51.717
+      },
+      {
+        "text": "Is that... How is that wrong?",
+        "start": 51.757,
+        "end": 54.72
+      },
+      {
+        "text": "I mean, I... What?",
+        "start": 57.402,
+        "end": 60.606
+      },
+      {
+        "text": "Shouldn't that have worked?",
+        "start": 61.126,
+        "end": 62.067
+      },
+      {
+        "text": " Let me try that again.",
+        "start": 63.565,
+        "end": 65.188
+      },
+      {
+        "text": "That felt weird.",
+        "start": 65.228,
+        "end": 66.189
+      },
+      {
+        "text": "That's not correct.",
+        "start": 66.249,
+        "end": 70.777
+      },
+      {
+        "text": "I really thought that was.",
+        "start": 71.177,
+        "end": 72.179
+      },
+      {
+        "text": "So then what would it be then?",
+        "start": 72.219,
+        "end": 78.549
+      },
+      {
+        "text": "Let me think, let me think.",
+        "start": 78.569,
+        "end": 81.994
+      },
+      {
+        "text": "Is it something to do with changing the operand or something?",
+        "start": 84.498,
+        "end": 88.645
+      },
+      {
+        "text": " Uh, what would it be?",
+        "start": 94.514,
+        "end": 95.617
+      },
+      {
+        "text": "Okay.",
+        "start": 98.022,
+        "end": 98.263
+      },
+      {
+        "text": "Am I allowed to, Oh, wait a minute.",
+        "start": 98.283,
+        "end": 105.619
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 105.639,
+        "end": 105.94
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 105.96,
+        "end": 106.321
+      },
+      {
+        "text": "And I can change the operand.",
+        "start": 107.203,
+        "end": 108.306
+      },
+      {
+        "text": "Right?",
+        "start": 108.326,
+        "end": 108.586
+      },
+      {
+        "text": "So could I do I equals I equals, I don't know if I'm allowed to do this.",
+        "start": 108.626,
+        "end": 116.745
+      },
+      {
+        "text": "I",
+        "start": 117.607,
+        "end": 117.687
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, what is this one? What? Three equals three plus three plus three. What? How would you fix this one? I could change orientation, right? Could I make it just, oh, like that's simple. I think this one's simple. Isn't it just six? Like you just, you would do VI equals II plus II. You didn't really, You didn't really take a piece and move it. You just angled the first two together to make six. Right? Is this correct? How's that incorrect? Damn it. I thought that was perfect. You can only move one matchstick. I didn't even move one. Is that... How is that wrong? I mean, I... What? Shouldn't that have worked? Let me try that again. That felt weird. That's not correct. I really thought that was. So then what would it be then? Let me think, let me think. Is it something to do with changing the operand or something? Uh, what would it be? Okay. Am I allowed to, Oh, wait a minute. Wait a minute. Wait a minute. And I can change the operand. Right? So could I do I equals I equals, I don't know if I'm allowed to do this. I"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_530e7d6c33a4/trial_5.wav",
+  "with_timestamps": {
+    "text": " Why are all the puzzles like this?I don't... Okay.13 equals 13 plus 13.No, wait a minute.No, no.This is... 8.Because VI is 6, 7, 8.8 equals Eight equals eight.Maybe, okay, maybe I can solve this.So what if... Okay, X, I, I, that's 13.14, X, no, no, no, X, No.OK.Hmm.I don't know how to solve this problem. You can only move one matchstick.Okay, let's, it's at this point, it's whatever.Minus. Okay, um. Wait, wait, hold on.I think I got it.I think I got it.V equals.No, no, that's not it.You know, I'm gonna try it anyways, IV. Seven.No.Okay.I don't, I don't know how to solve this.Okay. Hmm, okay.",
+    "segments": [
+      {
+        "text": " Why are all the puzzles like this?",
+        "start": 3.507,
+        "end": 5.289
+      },
+      {
+        "text": "I don't... Okay.",
+        "start": 5.589,
+        "end": 11.035
+      },
+      {
+        "text": "13 equals 13 plus 13.",
+        "start": 11.055,
+        "end": 14.398
+      },
+      {
+        "text": "No, wait a minute.",
+        "start": 19.803,
+        "end": 20.604
+      },
+      {
+        "text": "No, no.",
+        "start": 20.664,
+        "end": 21.105
+      },
+      {
+        "text": "This is... 8.",
+        "start": 21.465,
+        "end": 23.607
+      },
+      {
+        "text": "Because VI is 6, 7, 8.",
+        "start": 24.688,
+        "end": 26.71
+      },
+      {
+        "text": "8 equals",
+        "start": 26.731,
+        "end": 28.232
+      },
+      {
+        "text": " Eight equals eight.",
+        "start": 30.473,
+        "end": 33.297
+      },
+      {
+        "text": "Maybe, okay, maybe I can solve this.",
+        "start": 36.462,
+        "end": 38.064
+      },
+      {
+        "text": "So what if... Okay, X, I, I, that's 13.",
+        "start": 38.545,
+        "end": 45.756
+      },
+      {
+        "text": "14, X, no, no, no, X,",
+        "start": 52.847,
+        "end": 57.173
+      },
+      {
+        "text": " No.",
+        "start": 61.186,
+        "end": 61.606
+      },
+      {
+        "text": "OK.",
+        "start": 61.907,
+        "end": 62.267
+      },
+      {
+        "text": "Hmm.",
+        "start": 62.287,
+        "end": 62.367
+      },
+      {
+        "text": "I don't know how to solve this problem.",
+        "start": 85.788,
+        "end": 88.611
+      },
+      {
+        "text": " You can only move one matchstick.",
+        "start": 90.65,
+        "end": 92.273
+      },
+      {
+        "text": "Okay, let's, it's at this point, it's whatever.",
+        "start": 105.318,
+        "end": 109.386
+      },
+      {
+        "text": "Minus.",
+        "start": 112.392,
+        "end": 113.113
+      },
+      {
+        "text": " Okay, um.",
+        "start": 122.206,
+        "end": 135.54
+      },
+      {
+        "text": " Wait, wait, hold on.",
+        "start": 161.137,
+        "end": 162.539
+      },
+      {
+        "text": "I think I got it.",
+        "start": 163.24,
+        "end": 163.821
+      },
+      {
+        "text": "I think I got it.",
+        "start": 164.341,
+        "end": 164.902
+      },
+      {
+        "text": "V equals.",
+        "start": 166.184,
+        "end": 179.723
+      },
+      {
+        "text": "No, no, that's not it.",
+        "start": 179.743,
+        "end": 182.206
+      },
+      {
+        "text": "You know, I'm gonna try it anyways, IV.",
+        "start": 186.512,
+        "end": 188.595
+      },
+      {
+        "text": " Seven.",
+        "start": 192.963,
+        "end": 197.851
+      },
+      {
+        "text": "No.",
+        "start": 199.895,
+        "end": 200.115
+      },
+      {
+        "text": "Okay.",
+        "start": 204.402,
+        "end": 204.823
+      },
+      {
+        "text": "I don't, I don't know how to solve this.",
+        "start": 209.411,
+        "end": 215.04
+      },
+      {
+        "text": "Okay.",
+        "start": 215.741,
+        "end": 216.102
+      },
+      {
+        "text": " Hmm, okay.",
+        "start": 222.933,
+        "end": 224.877
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Why are all the puzzles like this? I don't... Okay. 13 equals 13 plus 13. No, wait a minute. No, no. This is... 8. Because VI is 6, 7, 8. 8 equals Eight equals eight. Maybe, okay, maybe I can solve this. So what if... Okay, X, I, I, that's 13. 14, X, no, no, no, X, No. OK. Hmm. I don't know how to solve this problem. You can only move one matchstick. Okay, let's, it's at this point, it's whatever. Minus. Okay, um. Wait, wait, hold on. I think I got it. I think I got it. V equals. No, no, that's not it. You know, I'm gonna try it anyways, IV. Seven. No. Okay. I don't, I don't know how to solve this. Okay. Hmm, okay."
+  }
+}

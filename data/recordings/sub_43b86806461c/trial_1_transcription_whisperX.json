@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_43b86806461c/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, this is 6 equals 6 plus 1, which is not true.So, could make this... I'm trying to figure out which one to move.Oh, okay, so I think I can do... 6 equals, I think I want to make equals, oops, wait, sorry. So I think what I want to do is make it 7.So I'm going to move the vertical match of the plus sign over to the left side of the equation to make it 7 instead.So 7 equals 6 minus 1.So I've moved the vertical matchstick from the plus sign over to be a vertical matchstick on the left side of the equation. Okay, that's not it.Okay, so I guess instead... Huh, I do think that works though.But maybe there's another solution I'm not thinking of.So we could also do... Um, I wonder why that wouldn't work.Okay, instead we could do We could do 6 equals, I guess I'll move the matchstick again from the vertical cross of the plus over to make that 7 minus 1.So I've just moved the vertical match from the plus sign over to be next to what was 6 on the right side of the equation to make it 7.So now it's 6 equals 7 minus 1.Let's see if that works.",
+    "segments": [
+      {
+        "text": " Okay, this is 6 equals 6 plus 1, which is not true.",
+        "start": 0.031,
+        "end": 9.546
+      },
+      {
+        "text": "So, could make this... I'm trying to figure out which one to move.",
+        "start": 9.566,
+        "end": 19.002
+      },
+      {
+        "text": "Oh, okay, so I think I can do...",
+        "start": 19.042,
+        "end": 26.173
+      },
+      {
+        "text": " 6 equals, I think I want to make equals, oops, wait, sorry.",
+        "start": 26.997,
+        "end": 37.108
+      },
+      {
+        "text": " So I think what I want to do is make it 7.",
+        "start": 37.426,
+        "end": 40.349
+      },
+      {
+        "text": "So I'm going to move the vertical match of the plus sign over to the left side of the equation to make it 7 instead.",
+        "start": 40.389,
+        "end": 49.058
+      },
+      {
+        "text": "So 7 equals 6 minus 1.",
+        "start": 49.659,
+        "end": 53.483
+      },
+      {
+        "text": "So I've moved the vertical matchstick from the plus sign over to be a vertical matchstick on the left side of the equation.",
+        "start": 55.165,
+        "end": 65.796
+      },
+      {
+        "text": " Okay, that's not it.",
+        "start": 68.257,
+        "end": 69.118
+      },
+      {
+        "text": "Okay, so I guess instead... Huh, I do think that works though.",
+        "start": 73.042,
+        "end": 80.79
+      },
+      {
+        "text": "But maybe there's another solution I'm not thinking of.",
+        "start": 80.81,
+        "end": 84.454
+      },
+      {
+        "text": "So we could also do...",
+        "start": 93.463,
+        "end": 95.665
+      },
+      {
+        "text": " Um, I wonder why that wouldn't work.",
+        "start": 108.301,
+        "end": 114.309
+      },
+      {
+        "text": "Okay, instead we could do",
+        "start": 116.312,
+        "end": 129.651
+      },
+      {
+        "text": " We could do 6 equals, I guess I'll move the matchstick again from the vertical cross of the plus over to make that 7 minus 1.",
+        "start": 132.078,
+        "end": 145.614
+      },
+      {
+        "text": "So I've just moved the vertical match from the plus sign over to be next to what was 6 on the right side of the equation to make it 7.",
+        "start": 146.155,
+        "end": 155.306
+      },
+      {
+        "text": "So now it's 6 equals 7 minus 1.",
+        "start": 155.326,
+        "end": 158.751
+      },
+      {
+        "text": "Let's see if that works.",
+        "start": 159.011,
+        "end": 159.992
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this is 6 equals 6 plus 1, which is not true. So, could make this... I'm trying to figure out which one to move. Oh, okay, so I think I can do... 6 equals, I think I want to make equals, oops, wait, sorry. So I think what I want to do is make it 7. So I'm going to move the vertical match of the plus sign over to the left side of the equation to make it 7 instead. So 7 equals 6 minus 1. So I've moved the vertical matchstick from the plus sign over to be a vertical matchstick on the left side of the equation. Okay, that's not it. Okay, so I guess instead... Huh, I do think that works though. But maybe there's another solution I'm not thinking of. So we could also do... Um, I wonder why that wouldn't work. Okay, instead we could do We could do 6 equals, I guess I'll move the matchstick again from the vertical cross of the plus over to make that 7 minus 1. So I've just moved the vertical match from the plus sign over to be next to what was 6 on the right side of the equation to make it 7. So now it's 6 equals 7 minus 1. Let's see if that works."
+  }
+}

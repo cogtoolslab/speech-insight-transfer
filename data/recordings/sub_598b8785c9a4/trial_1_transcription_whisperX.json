@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_598b8785c9a4/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so this is saying 12 plus 4 equals 9.That's not right.So we need to do 12.Okay, first of all, it equals 9, so it needs to be 12 plus.This is harder than it seems.12 plus.Wait a second. that would equal eight Okay.I'm trying to think.Okay.So 12 plus 4 is 17.We're trying to get 9.So do we move this? 12 minus 4.I need to take... 12 minus... No.I'm okay.So it needs to be... 12... Oh my god.Oh my god. 12 plus 5... so it needs to... this one needs to go away.12 plus... 12... so it needs to be... Wait, that makes no sense.Oh my god, this is so confusing.It needs to be... That's nine.Oh my god. Okay, so 12 minus, okay.",
+    "segments": [
+      {
+        "text": " Okay, so this is saying 12 plus 4 equals 9.",
+        "start": 2.343,
+        "end": 12.694
+      },
+      {
+        "text": "That's not right.",
+        "start": 14.416,
+        "end": 16.398
+      },
+      {
+        "text": "So we need to do 12.",
+        "start": 16.418,
+        "end": 20.963
+      },
+      {
+        "text": "Okay, first of all, it equals 9, so it needs to be",
+        "start": 21.404,
+        "end": 28.772
+      },
+      {
+        "text": " 12 plus.",
+        "start": 33.764,
+        "end": 38.369
+      },
+      {
+        "text": "This is harder than it seems.",
+        "start": 40.272,
+        "end": 42.034
+      },
+      {
+        "text": "12 plus.",
+        "start": 42.054,
+        "end": 47.961
+      },
+      {
+        "text": "Wait a second.",
+        "start": 54.448,
+        "end": 55.89
+      },
+      {
+        "text": " that would equal eight",
+        "start": 63.818,
+        "end": 90.096
+      },
+      {
+        "text": " Okay.",
+        "start": 94.717,
+        "end": 95.238
+      },
+      {
+        "text": "I'm trying to think.",
+        "start": 102.805,
+        "end": 104.547
+      },
+      {
+        "text": "Okay.",
+        "start": 104.767,
+        "end": 105.187
+      },
+      {
+        "text": "So 12 plus 4 is 17.",
+        "start": 106.369,
+        "end": 115.698
+      },
+      {
+        "text": "We're trying to get 9.",
+        "start": 115.738,
+        "end": 118.161
+      },
+      {
+        "text": "So do we move this?",
+        "start": 120.363,
+        "end": 122.665
+      },
+      {
+        "text": " 12 minus 4.",
+        "start": 128.635,
+        "end": 130.297
+      },
+      {
+        "text": "I need to take... 12 minus... No.",
+        "start": 130.397,
+        "end": 138.085
+      },
+      {
+        "text": "I'm okay.",
+        "start": 138.806,
+        "end": 139.427
+      },
+      {
+        "text": "So it needs to be... 12... Oh my god.",
+        "start": 140.008,
+        "end": 151.38
+      },
+      {
+        "text": "Oh my god.",
+        "start": 151.4,
+        "end": 158.608
+      },
+      {
+        "text": " 12 plus 5... so it needs to... this one needs to go away.",
+        "start": 160.799,
+        "end": 166.408
+      },
+      {
+        "text": "12 plus... 12... so it needs to be...",
+        "start": 166.428,
+        "end": 182.993
+      },
+      {
+        "text": " Wait, that makes no sense.",
+        "start": 191.512,
+        "end": 192.993
+      },
+      {
+        "text": "Oh my god, this is so confusing.",
+        "start": 194.435,
+        "end": 196.056
+      },
+      {
+        "text": "It needs to be... That's nine.",
+        "start": 198.038,
+        "end": 208.748
+      },
+      {
+        "text": "Oh my god.",
+        "start": 208.788,
+        "end": 220.219
+      },
+      {
+        "text": " Okay, so 12 minus, okay.",
+        "start": 222.629,
+        "end": 235.491
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this is saying 12 plus 4 equals 9. That's not right. So we need to do 12. Okay, first of all, it equals 9, so it needs to be 12 plus. This is harder than it seems. 12 plus. Wait a second. that would equal eight Okay. I'm trying to think. Okay. So 12 plus 4 is 17. We're trying to get 9. So do we move this? 12 minus 4. I need to take... 12 minus... No. I'm okay. So it needs to be... 12... Oh my god. Oh my god. 12 plus 5... so it needs to... this one needs to go away. 12 plus... 12... so it needs to be... Wait, that makes no sense. Oh my god, this is so confusing. It needs to be... That's nine. Oh my god. Okay, so 12 minus, okay."
+  }
+}

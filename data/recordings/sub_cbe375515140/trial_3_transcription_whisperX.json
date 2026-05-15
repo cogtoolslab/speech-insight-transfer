@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_cbe375515140/trial_3.wav",
+  "with_timestamps": {
+    "text": " So I'm still having problems solving these.11 equals... 11 equals... Is that 4?11 equals 4 plus 2.So I can only move one of them? 11 equals 4 plus 2.Only one match tick?Wait.Hmm. I'm not sure.11 equals 4 plus 2.Um... 11... 6 plus... Maybe 10 equals... And it can only move one?Equals... I have a problem with my keyboard equals Well that's including two of them.Um... I don't know.Um... I really don't know.Um... I have no idea.Because 11 is way higher than the other ones.And if I move it around, it's not enough.So... And if I subtract, I can't get to 11.And I can't get to 10, so... So that's not going to work either.I don't want Michelle to work either way.6 and 4 is 10.But I can't make it to 10.",
+    "segments": [
+      {
+        "text": " So I'm still having problems solving these.",
+        "start": 0.655,
+        "end": 2.697
+      },
+      {
+        "text": "11 equals... 11 equals... Is that 4?",
+        "start": 2.717,
+        "end": 15.091
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 15.111,
+        "end": 19.556
+      },
+      {
+        "text": "So I can only move one of them?",
+        "start": 19.576,
+        "end": 29.987
+      },
+      {
+        "text": " 11 equals 4 plus 2.",
+        "start": 30.794,
+        "end": 33.338
+      },
+      {
+        "text": "Only one match tick?",
+        "start": 35.04,
+        "end": 36.141
+      },
+      {
+        "text": "Wait.",
+        "start": 43.772,
+        "end": 44.052
+      },
+      {
+        "text": "Hmm.",
+        "start": 56.57,
+        "end": 56.65
+      },
+      {
+        "text": " I'm not sure.",
+        "start": 61.962,
+        "end": 62.903
+      },
+      {
+        "text": "11 equals 4 plus 2.",
+        "start": 62.923,
+        "end": 65.566
+      },
+      {
+        "text": "Um... 11... 6 plus... Maybe 10 equals... And it can only move one?",
+        "start": 67.708,
+        "end": 88.268
+      },
+      {
+        "text": "Equals...",
+        "start": 88.308,
+        "end": 91.952
+      },
+      {
+        "text": " I have a problem with my keyboard equals",
+        "start": 93.485,
+        "end": 116.455
+      },
+      {
+        "text": " Well that's including two of them.",
+        "start": 126.982,
+        "end": 128.484
+      },
+      {
+        "text": "Um... I don't know.",
+        "start": 136.675,
+        "end": 151.594
+      },
+      {
+        "text": "Um...",
+        "start": 151.614,
+        "end": 154.558
+      },
+      {
+        "text": " I really don't know.",
+        "start": 161.238,
+        "end": 175.037
+      },
+      {
+        "text": "Um...",
+        "start": 175.057,
+        "end": 175.298
+      },
+      {
+        "text": " I have no idea.",
+        "start": 192.507,
+        "end": 193.729
+      },
+      {
+        "text": "Because 11 is way higher than the other ones.",
+        "start": 193.789,
+        "end": 199.74
+      },
+      {
+        "text": "And if I move it around, it's not enough.",
+        "start": 200.421,
+        "end": 202.565
+      },
+      {
+        "text": "So... And if I subtract, I can't get to 11.",
+        "start": 204.008,
+        "end": 209.137
+      },
+      {
+        "text": "And I can't get to 10, so...",
+        "start": 209.758,
+        "end": 211.782
+      },
+      {
+        "text": " So that's not going to work either.",
+        "start": 223.49,
+        "end": 225.435
+      },
+      {
+        "text": "I don't want Michelle to work either way.",
+        "start": 225.575,
+        "end": 227.359
+      },
+      {
+        "text": "6 and 4 is 10.",
+        "start": 227.38,
+        "end": 231.028
+      },
+      {
+        "text": "But I can't make it to 10.",
+        "start": 234.076,
+        "end": 235.339
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So I'm still having problems solving these. 11 equals... 11 equals... Is that 4? 11 equals 4 plus 2. So I can only move one of them? 11 equals 4 plus 2. Only one match tick? Wait. Hmm. I'm not sure. 11 equals 4 plus 2. Um... 11... 6 plus... Maybe 10 equals... And it can only move one? Equals... I have a problem with my keyboard equals Well that's including two of them. Um... I don't know. Um... I really don't know. Um... I have no idea. Because 11 is way higher than the other ones. And if I move it around, it's not enough. So... And if I subtract, I can't get to 11. And I can't get to 10, so... So that's not going to work either. I don't want Michelle to work either way. 6 and 4 is 10. But I can't make it to 10."
+  }
+}

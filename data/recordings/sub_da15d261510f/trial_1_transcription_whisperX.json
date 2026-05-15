@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_da15d261510f/trial_1.wav",
+  "with_timestamps": {
+    "text": " So it looks like the puzzle is 9 equals 9 plus 9, which is incorrect.Moving just one matchstick.Let's see.9 equals, hmm. Hmm.I don't know if this is actually possible.I'm trying to think of what might work, but nothing seems to work.Um, hmm. I'm thinking, I am thinking, I am just not seeing an answer that makes sense here based off of just one matchstick being moved.Hmm.I don't think this is possible to solve.I'm thinking, how can this work? How can this work?How can this work?How can this work?You can only move one matchstick to make the equation correct.And we can't change the multipliers or the operations, like we can't make a plus, a minus.Hmm. Hmm.At least I don't think we can make the operations minus.Maybe we can, and I'm forgetting.But I don't think so.This does not make sense.So we can move a matchstick, but we can't change the angle either. If you can't change the angle, you're going to have some variation of 9 or 11 plus 9 or 11.It just doesn't add up.It's not possible.9 equals 9 plus, yeah, that's, hmm.Let me think.Let me think. 9 equals... 9 equals... This doesn't make sense.This does not make sense.It really just doesn't make sense.Even if I could take the matchstick out of the plus sign and make it a minus sign, that would still be 9 equals 0, which is... Not correct either.Hmm.Yeah, I don't think this one is solvable.I think this is a trick question and you're messing with people and wasting their time and I don't really appreciate it to be honest.",
+    "segments": [
+      {
+        "text": " So it looks like the puzzle is 9 equals 9 plus 9, which is incorrect.",
+        "start": 3.372,
+        "end": 14.447
+      },
+      {
+        "text": "Moving just one matchstick.",
+        "start": 17.511,
+        "end": 22.979
+      },
+      {
+        "text": "Let's see.",
+        "start": 22.999,
+        "end": 23.68
+      },
+      {
+        "text": "9 equals, hmm.",
+        "start": 23.7,
+        "end": 33.193
+      },
+      {
+        "text": " Hmm.",
+        "start": 41.712,
+        "end": 42.453
+      },
+      {
+        "text": "I don't know if this is actually possible.",
+        "start": 59.931,
+        "end": 62.114
+      },
+      {
+        "text": "I'm trying to think of what might work, but nothing seems to work.",
+        "start": 62.154,
+        "end": 69.041
+      },
+      {
+        "text": "Um, hmm.",
+        "start": 69.542,
+        "end": 70.723
+      },
+      {
+        "text": " I'm thinking, I am thinking, I am just not seeing an answer that makes sense here based off of just one matchstick being moved.",
+        "start": 73.673,
+        "end": 81.441
+      },
+      {
+        "text": "Hmm.",
+        "start": 90.469,
+        "end": 90.549
+      },
+      {
+        "text": "I don't think this is possible to solve.",
+        "start": 90.569,
+        "end": 93.212
+      },
+      {
+        "text": "I'm thinking, how can this work?",
+        "start": 95.154,
+        "end": 100.339
+      },
+      {
+        "text": " How can this work?",
+        "start": 101.517,
+        "end": 102.318
+      },
+      {
+        "text": "How can this work?",
+        "start": 102.358,
+        "end": 102.999
+      },
+      {
+        "text": "How can this work?",
+        "start": 103.059,
+        "end": 103.7
+      },
+      {
+        "text": "You can only move one matchstick to make the equation correct.",
+        "start": 105.281,
+        "end": 108.545
+      },
+      {
+        "text": "And we can't change the multipliers or the operations, like we can't make a plus, a minus.",
+        "start": 112.63,
+        "end": 124.063
+      },
+      {
+        "text": "Hmm.",
+        "start": 127.968,
+        "end": 128.048
+      },
+      {
+        "text": " Hmm.",
+        "start": 134.525,
+        "end": 141.697
+      },
+      {
+        "text": "At least I don't think we can make the operations minus.",
+        "start": 141.717,
+        "end": 144.041
+      },
+      {
+        "text": "Maybe we can, and I'm forgetting.",
+        "start": 144.101,
+        "end": 145.623
+      },
+      {
+        "text": "But I don't think so.",
+        "start": 146.425,
+        "end": 147.426
+      },
+      {
+        "text": "This does not make sense.",
+        "start": 150.852,
+        "end": 152.795
+      },
+      {
+        "text": "So we can move a matchstick, but we can't change the angle either.",
+        "start": 152.835,
+        "end": 161.089
+      },
+      {
+        "text": " If you can't change the angle, you're going to have some variation of 9 or 11 plus 9 or 11.",
+        "start": 162.74,
+        "end": 172.495
+      },
+      {
+        "text": "It just doesn't add up.",
+        "start": 172.515,
+        "end": 173.576
+      },
+      {
+        "text": "It's not possible.",
+        "start": 173.636,
+        "end": 174.538
+      },
+      {
+        "text": "9 equals 9 plus, yeah, that's, hmm.",
+        "start": 174.558,
+        "end": 188.018
+      },
+      {
+        "text": "Let me think.",
+        "start": 188.038,
+        "end": 188.659
+      },
+      {
+        "text": "Let me think.",
+        "start": 188.699,
+        "end": 189.54
+      },
+      {
+        "text": " 9 equals... 9 equals... This doesn't make sense.",
+        "start": 194.279,
+        "end": 206.612
+      },
+      {
+        "text": "This does not make sense.",
+        "start": 208.094,
+        "end": 209.455
+      },
+      {
+        "text": "It really just doesn't make sense.",
+        "start": 212.719,
+        "end": 214.441
+      },
+      {
+        "text": "Even if I could take the matchstick out of the plus sign and make it a minus sign, that would still be 9 equals 0, which is...",
+        "start": 216.223,
+        "end": 224.151
+      },
+      {
+        "text": " Not correct either.",
+        "start": 225.042,
+        "end": 226.147
+      },
+      {
+        "text": "Hmm.",
+        "start": 226.167,
+        "end": 226.247
+      },
+      {
+        "text": "Yeah, I don't think this one is solvable.",
+        "start": 232.595,
+        "end": 234.183
+      },
+      {
+        "text": "I think this is a trick question and you're messing with people and wasting their time and I don't really appreciate it to be honest.",
+        "start": 234.263,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So it looks like the puzzle is 9 equals 9 plus 9, which is incorrect. Moving just one matchstick. Let's see. 9 equals, hmm. Hmm. I don't know if this is actually possible. I'm trying to think of what might work, but nothing seems to work. Um, hmm. I'm thinking, I am thinking, I am just not seeing an answer that makes sense here based off of just one matchstick being moved. Hmm. I don't think this is possible to solve. I'm thinking, how can this work? How can this work? How can this work? How can this work? You can only move one matchstick to make the equation correct. And we can't change the multipliers or the operations, like we can't make a plus, a minus. Hmm. Hmm. At least I don't think we can make the operations minus. Maybe we can, and I'm forgetting. But I don't think so. This does not make sense. So we can move a matchstick, but we can't change the angle either. If you can't change the angle, you're going to have some variation of 9 or 11 plus 9 or 11. It just doesn't add up. It's not possible. 9 equals 9 plus, yeah, that's, hmm. Let me think. Let me think. 9 equals... 9 equals... This doesn't make sense. This does not make sense. It really just doesn't make sense. Even if I could take the matchstick out of the plus sign and make it a minus sign, that would still be 9 equals 0, which is... Not correct either. Hmm. Yeah, I don't think this one is solvable. I think this is a trick question and you're messing with people and wasting their time and I don't really appreciate it to be honest."
+  }
+}

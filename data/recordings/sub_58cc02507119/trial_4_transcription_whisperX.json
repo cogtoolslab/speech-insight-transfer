@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_58cc02507119/trial_4.wav",
+  "with_timestamps": {
+    "text": " okay we can only move one matchstick to make this equation correct what is the final equation three equals three plus three so so i need to make i need to make one of the six I see it.So it's three equals I've got to make one of these a six.I can't change the equation. How do I make this one?Is that going to make the one on the right a 6?I can make it a... Nope, I can't even do that.Can't make it a 7. I don't see it I just don't see it one of them I gotta make one of six how do I make it a six why don't I see it I don't see it.I just don't see it.The pressure. No, that wouldn't work.I can't put it, I can't change the direction or the angle. I can't do this.Oh my god.Why can't I see this?I did it in the examples.",
+    "segments": [
+      {
+        "text": " okay we can only move one matchstick to make this equation correct what is the final equation three equals three plus three so so i need to make i need to make one of the six",
+        "start": 0.858,
+        "end": 29.481
+      },
+      {
+        "text": " I see it.",
+        "start": 31.148,
+        "end": 31.809
+      },
+      {
+        "text": "So it's three equals I've got to make one of these a six.",
+        "start": 44.984,
+        "end": 48.528
+      },
+      {
+        "text": "I can't change the equation.",
+        "start": 50.249,
+        "end": 56.076
+      },
+      {
+        "text": " How do I make this one?",
+        "start": 62.705,
+        "end": 63.667
+      },
+      {
+        "text": "Is that going to make the one on the right a 6?",
+        "start": 63.687,
+        "end": 70.64
+      },
+      {
+        "text": "I can make it a... Nope, I can't even do that.",
+        "start": 70.66,
+        "end": 81.34
+      },
+      {
+        "text": "Can't make it a 7.",
+        "start": 83.383,
+        "end": 85.928
+      },
+      {
+        "text": " I don't see it I just don't see it one of them I gotta make one of six how do I make it a six why don't I see it",
+        "start": 102.209,
+        "end": 120.201
+      },
+      {
+        "text": " I don't see it.",
+        "start": 138.423,
+        "end": 151.54
+      },
+      {
+        "text": "I just don't see it.",
+        "start": 151.84,
+        "end": 152.801
+      },
+      {
+        "text": "The pressure.",
+        "start": 156.085,
+        "end": 165.257
+      },
+      {
+        "text": " No, that wouldn't work.",
+        "start": 176.054,
+        "end": 177.197
+      },
+      {
+        "text": "I can't put it, I can't change the direction or the angle.",
+        "start": 177.618,
+        "end": 190.587
+      },
+      {
+        "text": " I can't do this.",
+        "start": 205.231,
+        "end": 206.272
+      },
+      {
+        "text": "Oh my god.",
+        "start": 209.417,
+        "end": 210.298
+      },
+      {
+        "text": "Why can't I see this?",
+        "start": 219.391,
+        "end": 220.573
+      },
+      {
+        "text": "I did it in the examples.",
+        "start": 221.114,
+        "end": 229.686
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay we can only move one matchstick to make this equation correct what is the final equation three equals three plus three so so i need to make i need to make one of the six I see it. So it's three equals I've got to make one of these a six. I can't change the equation. How do I make this one? Is that going to make the one on the right a 6? I can make it a... Nope, I can't even do that. Can't make it a 7. I don't see it I just don't see it one of them I gotta make one of six how do I make it a six why don't I see it I don't see it. I just don't see it. The pressure. No, that wouldn't work. I can't put it, I can't change the direction or the angle. I can't do this. Oh my god. Why can't I see this? I did it in the examples."
+  }
+}

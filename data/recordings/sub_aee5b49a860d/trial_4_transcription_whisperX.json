@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_aee5b49a860d/trial_4.wav",
+  "with_timestamps": {
+    "text": " 10, 9, 8.8 equals 1 minus 7.No.9 minus 7.2 equals 9.9 minus 7. yeah yes 2 equals 9 minus 7 fuck yeah",
+    "segments": [
+      {
+        "text": " 10, 9, 8.",
+        "start": 6.072,
+        "end": 6.934
+      },
+      {
+        "text": "8 equals 1 minus 7.",
+        "start": 6.954,
+        "end": 15.391
+      },
+      {
+        "text": "No.",
+        "start": 15.511,
+        "end": 15.832
+      },
+      {
+        "text": "9 minus 7.",
+        "start": 15.852,
+        "end": 24.47
+      },
+      {
+        "text": "2 equals 9.",
+        "start": 24.49,
+        "end": 26.454
+      },
+      {
+        "text": "9 minus 7.",
+        "start": 26.474,
+        "end": 27.456
+      },
+      {
+        "text": " yeah yes 2 equals 9 minus 7 fuck yeah",
+        "start": 27.74,
+        "end": 37.497
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 10, 9, 8. 8 equals 1 minus 7. No. 9 minus 7. 2 equals 9. 9 minus 7. yeah yes 2 equals 9 minus 7 fuck yeah"
+  }
+}

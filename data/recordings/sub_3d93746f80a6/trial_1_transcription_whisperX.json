@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_3d93746f80a6/trial_1.wav",
+  "with_timestamps": {
+    "text": " 8 minus 6.8 minus 6.So it changed.No.7.No.3. 13 13 13 13 13 I think that I need three.Thirteen.If I use that, that will be six.Nope, that's not it.How about... Um... Let's see.Let's see.Let's see.No. Next is 10.And that's 13.So now I've got to do vii equals 7.6, that's 1.3, vii, 7. 6 minus 6 equals minus 5.IV, what if I change that to negative 4?Yeah. 13, 7, 8,",
+    "segments": [
+      {
+        "text": " 8 minus 6.",
+        "start": 16.484,
+        "end": 22.111
+      },
+      {
+        "text": "8 minus 6.",
+        "start": 24.114,
+        "end": 25.656
+      },
+      {
+        "text": "So it changed.",
+        "start": 32.364,
+        "end": 33.125
+      },
+      {
+        "text": "No.",
+        "start": 33.446,
+        "end": 37.131
+      },
+      {
+        "text": "7.",
+        "start": 37.151,
+        "end": 40.875
+      },
+      {
+        "text": "No.",
+        "start": 40.895,
+        "end": 45.201
+      },
+      {
+        "text": "3.",
+        "start": 45.221,
+        "end": 46.002
+      },
+      {
+        "text": " 13 13 13 13 13",
+        "start": 46.808,
+        "end": 75.364
+      },
+      {
+        "text": " I think that I need three.",
+        "start": 81.25,
+        "end": 83.293
+      },
+      {
+        "text": "Thirteen.",
+        "start": 90.404,
+        "end": 91.025
+      },
+      {
+        "text": "If I use that, that will be six.",
+        "start": 93.849,
+        "end": 96.433
+      },
+      {
+        "text": "Nope, that's not it.",
+        "start": 96.974,
+        "end": 100.299
+      },
+      {
+        "text": "How about... Um...",
+        "start": 100.319,
+        "end": 109.553
+      },
+      {
+        "text": " Let's see.",
+        "start": 112.958,
+        "end": 124.215
+      },
+      {
+        "text": "Let's see.",
+        "start": 130.946,
+        "end": 131.466
+      },
+      {
+        "text": "Let's see.",
+        "start": 131.486,
+        "end": 131.687
+      },
+      {
+        "text": "No.",
+        "start": 140.24,
+        "end": 140.4
+      },
+      {
+        "text": " Next is 10.",
+        "start": 143.435,
+        "end": 146.78
+      },
+      {
+        "text": "And that's 13.",
+        "start": 149.484,
+        "end": 150.425
+      },
+      {
+        "text": "So now I've got to do vii equals 7.",
+        "start": 153.85,
+        "end": 159.939
+      },
+      {
+        "text": "6, that's 1.",
+        "start": 159.959,
+        "end": 163.224
+      },
+      {
+        "text": "3, vii, 7.",
+        "start": 163.264,
+        "end": 171.957
+      },
+      {
+        "text": " 6 minus 6 equals minus 5.",
+        "start": 175.126,
+        "end": 193.844
+      },
+      {
+        "text": "IV, what if I change that to negative 4?",
+        "start": 193.864,
+        "end": 195.926
+      },
+      {
+        "text": "Yeah.",
+        "start": 204.074,
+        "end": 204.795
+      },
+      {
+        "text": " 13, 7, 8,",
+        "start": 212.622,
+        "end": 232.875
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 8 minus 6. 8 minus 6. So it changed. No. 7. No. 3. 13 13 13 13 13 I think that I need three. Thirteen. If I use that, that will be six. Nope, that's not it. How about... Um... Let's see. Let's see. Let's see. No. Next is 10. And that's 13. So now I've got to do vii equals 7. 6, that's 1. 3, vii, 7. 6 minus 6 equals minus 5. IV, what if I change that to negative 4? Yeah. 13, 7, 8,"
+  }
+}

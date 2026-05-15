@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_fee3a357342f/trial_5.wav",
+  "with_timestamps": {
+    "text": " IV, 4 equals 11 minus 2.11 minus 2.You can turn the 11 into a 6.So 4 equals 6 minus 2.Easy.4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " IV, 4 equals 11 minus 2.",
+        "start": 1.128,
+        "end": 3.976
+      },
+      {
+        "text": "11 minus 2.",
+        "start": 3.996,
+        "end": 7.265
+      },
+      {
+        "text": "You can turn the 11 into a 6.",
+        "start": 7.285,
+        "end": 10.954
+      },
+      {
+        "text": "So 4 equals 6 minus 2.",
+        "start": 12.218,
+        "end": 13.922
+      },
+      {
+        "text": "Easy.",
+        "start": 15.467,
+        "end": 15.808
+      },
+      {
+        "text": "4 equals 6 minus 2.",
+        "start": 15.828,
+        "end": 20.841
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " IV, 4 equals 11 minus 2. 11 minus 2. You can turn the 11 into a 6. So 4 equals 6 minus 2. Easy. 4 equals 6 minus 2."
+  }
+}

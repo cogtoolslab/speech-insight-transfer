@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_43f76795edbe/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I need to make two.And at the top, the equation is xi.So it's 11 minus bii, which is 567.So it's 11 minus 7. is 11 minus 7 is 4 but we need 2 so in order to make this correct we need to change this x i so i need to okay i need to make this 11 equals IX minus VII, because this will be 2 equals 9 minus 7.",
+    "segments": [
+      {
+        "text": " Okay, so I need to make two.",
+        "start": 5.65,
+        "end": 8.274
+      },
+      {
+        "text": "And at the top, the equation is xi.",
+        "start": 8.294,
+        "end": 13.782
+      },
+      {
+        "text": "So it's 11 minus bii, which is 567.",
+        "start": 14.843,
+        "end": 23.136
+      },
+      {
+        "text": "So it's 11 minus 7.",
+        "start": 23.156,
+        "end": 29.565
+      },
+      {
+        "text": " is 11 minus 7 is 4 but we need 2 so in order to make this correct we need to change this x i so i need to okay i need to make this 11 equals",
+        "start": 31.115,
+        "end": 54.625
+      },
+      {
+        "text": " IX minus VII, because this will be 2 equals 9 minus 7.",
+        "start": 55.229,
+        "end": 69.205
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I need to make two. And at the top, the equation is xi. So it's 11 minus bii, which is 567. So it's 11 minus 7. is 11 minus 7 is 4 but we need 2 so in order to make this correct we need to change this x i so i need to okay i need to make this 11 equals IX minus VII, because this will be 2 equals 9 minus 7."
+  }
+}

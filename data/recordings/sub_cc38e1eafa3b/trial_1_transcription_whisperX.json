@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_cc38e1eafa3b/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, it says 9 equals 7 plus 4, which is wrong.So, to make it correct, um, we have to move one matchstick.So, we will move, um, So 9 equals 7 plus 4 should be 11.So should be 11.So that should be 11 equals 7 plus 4.",
+    "segments": [
+      {
+        "text": " Okay, it says 9 equals 7 plus 4, which is wrong.",
+        "start": 3.102,
+        "end": 9.469
+      },
+      {
+        "text": "So, to make it correct, um, we have to move one matchstick.",
+        "start": 10.41,
+        "end": 19.701
+      },
+      {
+        "text": "So, we will move, um,",
+        "start": 21.223,
+        "end": 27.49
+      },
+      {
+        "text": " So 9 equals 7 plus 4 should be 11.",
+        "start": 30.203,
+        "end": 37.597
+      },
+      {
+        "text": "So should be 11.",
+        "start": 39.461,
+        "end": 45.492
+      },
+      {
+        "text": "So that should be",
+        "start": 48.959,
+        "end": 51.283
+      },
+      {
+        "text": " 11 equals 7 plus 4.",
+        "start": 63.515,
+        "end": 74.723
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, it says 9 equals 7 plus 4, which is wrong. So, to make it correct, um, we have to move one matchstick. So, we will move, um, So 9 equals 7 plus 4 should be 11. So should be 11. So that should be 11 equals 7 plus 4."
+  }
+}

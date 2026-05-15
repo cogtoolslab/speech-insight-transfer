@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_fee3a357342f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Let's see, what am I looking at?3 equals xi11 minus 3.It's the same question as before.I think 3 equals 6 minus 3.Yeah, the x can be turned into a v.6 minus 3 equals 3.",
+    "segments": [
+      {
+        "text": " Let's see, what am I looking at?",
+        "start": 2.933,
+        "end": 3.916
+      },
+      {
+        "text": "3 equals xi11 minus 3.",
+        "start": 3.936,
+        "end": 8.71
+      },
+      {
+        "text": "It's the same question as before.",
+        "start": 10.696,
+        "end": 12.783
+      },
+      {
+        "text": "I think 3 equals 6 minus 3.",
+        "start": 13.926,
+        "end": 19.122
+      },
+      {
+        "text": "Yeah, the x can be turned into a v.",
+        "start": 20.847,
+        "end": 22.572
+      },
+      {
+        "text": "6 minus 3 equals 3.",
+        "start": 22.592,
+        "end": 25.802
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's see, what am I looking at? 3 equals xi11 minus 3. It's the same question as before. I think 3 equals 6 minus 3. Yeah, the x can be turned into a v. 6 minus 3 equals 3."
+  }
+}

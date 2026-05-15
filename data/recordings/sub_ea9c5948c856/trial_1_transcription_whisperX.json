@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_ea9c5948c856/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so that looks like 4 equals 4 minus 2, which is incorrect.Let's see.In order to make that correct, I could make it 4 minus 2 equals 2.Let me see.Um. 3.Oh, I know what I could do.I could make it 6 equals no.Ah, 4 equals 6 minus 2.There we go.So that's 4 equals 6 minus 2.And that looks like it.",
+    "segments": [
+      {
+        "text": " OK, so that looks like 4 equals 4 minus 2, which is incorrect.",
+        "start": 0.875,
+        "end": 8.042
+      },
+      {
+        "text": "Let's see.",
+        "start": 9.383,
+        "end": 9.784
+      },
+      {
+        "text": "In order to make that correct, I could make it 4 minus 2 equals 2.",
+        "start": 9.844,
+        "end": 16.07
+      },
+      {
+        "text": "Let me see.",
+        "start": 21.775,
+        "end": 22.436
+      },
+      {
+        "text": "Um.",
+        "start": 22.496,
+        "end": 26.46
+      },
+      {
+        "text": " 3.",
+        "start": 29.123,
+        "end": 29.504
+      },
+      {
+        "text": "Oh, I know what I could do.",
+        "start": 35.154,
+        "end": 36.056
+      },
+      {
+        "text": "I could make it 6 equals no.",
+        "start": 36.076,
+        "end": 40.805
+      },
+      {
+        "text": "Ah, 4 equals 6 minus 2.",
+        "start": 40.825,
+        "end": 42.327
+      },
+      {
+        "text": "There we go.",
+        "start": 42.388,
+        "end": 42.828
+      },
+      {
+        "text": "So that's 4 equals 6 minus 2.",
+        "start": 43.129,
+        "end": 50.222
+      },
+      {
+        "text": "And that looks like it.",
+        "start": 53.408,
+        "end": 54.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so that looks like 4 equals 4 minus 2, which is incorrect. Let's see. In order to make that correct, I could make it 4 minus 2 equals 2. Let me see. Um. 3. Oh, I know what I could do. I could make it 6 equals no. Ah, 4 equals 6 minus 2. There we go. So that's 4 equals 6 minus 2. And that looks like it."
+  }
+}

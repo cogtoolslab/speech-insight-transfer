@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_9a3868181699/trial_1.wav",
+  "with_timestamps": {
+    "text": " The puzzle shows IX equals IX plus IX, which translates to 9 equals 9 plus 9, clearly incorrect.The solution is to move one matchstick from the plus sign plus to change it into an equals sign equals.That way, the equation becomes IX equals I equals IX, which simplifies to 9 equals 9 equals 9, a correct and valid equation.",
+    "segments": [
+      {
+        "text": " The puzzle shows IX equals IX plus IX, which translates to 9 equals 9 plus 9, clearly incorrect.",
+        "start": 7.203,
+        "end": 12.971
+      },
+      {
+        "text": "The solution is to move one matchstick from the plus sign plus to change it into an equals sign equals.",
+        "start": 13.852,
+        "end": 18.058
+      },
+      {
+        "text": "That way, the equation becomes IX equals I equals IX, which simplifies to 9 equals 9 equals 9, a correct and valid equation.",
+        "start": 18.599,
+        "end": 24.908
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " The puzzle shows IX equals IX plus IX, which translates to 9 equals 9 plus 9, clearly incorrect. The solution is to move one matchstick from the plus sign plus to change it into an equals sign equals. That way, the equation becomes IX equals I equals IX, which simplifies to 9 equals 9 equals 9, a correct and valid equation."
+  }
+}

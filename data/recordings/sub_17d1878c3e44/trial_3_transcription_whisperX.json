@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_17d1878c3e44/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, couldn't figure out the second one.All right, let's try this one.I think it's going to be the same issue.So we have 7 equals 3 minus 4, which would be negative 1.If I make the 3, make it 2 plus 4, that's 6.Obviously, we're going to be 1 again.If I make it 3 minus 9, that's negative 6. Can I make?Oh.Now, can I make a one a negative?I haven't tried that yet.So, okay.Three minus four is negative one, but if I made it 3 minus 5 is negative 2.And I put the negative on the left and made it a negative 7.That doesn't work.So if I make it a negative 6 on the left equals, no, because it would be 3 minus 4 would be 1, minus 1.If I make, if I make it 3 plus V, It would be 8, so that doesn't work.If I make it a negative 3 minus 5 would be negative 8. Oh, man.Oh, see.Okay, we got, on the left we can make it 12 equals.Nope, that won't work.On the right, if we make it 9, 3 minus 9 is negative 6.So they're all off by 1.So. I'm struggling here.So VI, really you can only make that VII.You can make it seven or it could be six if you remove one.Or, and you can't put one on the left.Or it could be 12.Or if you take one from the other side, it could be 13. Or it could be negative 7.So those are all the possibilities.And then what you're left with on the right, none of those will equal those values.So the 3 on the right can be 1.No, it can be 2 or 3.And all I can do with that is make that a plus. So it would be 4 plus 2 would be 6.That doesn't work.And I could add it to the other side to make it an 8.Oh, I didn't say that.I can make on the left.I can make it an 8, and that wouldn't work. All right, so the IV, I can make a 5 and I can add that to the 3 and still that doesn't work.I can make it a 6, 3 minus 6, that's a negative 3, that doesn't work.I can make it 4 minus 5, which would be negative 1.I can make it 3.",
+    "segments": [
+      {
+        "text": " Okay, couldn't figure out the second one.",
+        "start": 1.145,
+        "end": 3.048
+      },
+      {
+        "text": "All right, let's try this one.",
+        "start": 3.148,
+        "end": 4.009
+      },
+      {
+        "text": "I think it's going to be the same issue.",
+        "start": 4.029,
+        "end": 5.371
+      },
+      {
+        "text": "So we have 7 equals 3 minus 4, which would be negative 1.",
+        "start": 6.572,
+        "end": 10.578
+      },
+      {
+        "text": "If I make the 3, make it 2 plus 4, that's 6.",
+        "start": 12.48,
+        "end": 16.906
+      },
+      {
+        "text": "Obviously, we're going to be 1 again.",
+        "start": 17.327,
+        "end": 19.089
+      },
+      {
+        "text": "If I make it 3 minus 9, that's negative 6.",
+        "start": 19.109,
+        "end": 27.861
+      },
+      {
+        "text": " Can I make?",
+        "start": 30.642,
+        "end": 31.263
+      },
+      {
+        "text": "Oh.",
+        "start": 32.946,
+        "end": 33.166
+      },
+      {
+        "text": "Now, can I make a one a negative?",
+        "start": 35.149,
+        "end": 39.376
+      },
+      {
+        "text": "I haven't tried that yet.",
+        "start": 41.139,
+        "end": 42.241
+      },
+      {
+        "text": "So, okay.",
+        "start": 44.945,
+        "end": 46.227
+      },
+      {
+        "text": "Three minus four is negative one, but if I made it",
+        "start": 49.473,
+        "end": 56.464
+      },
+      {
+        "text": " 3 minus 5 is negative 2.",
+        "start": 58.604,
+        "end": 61.528
+      },
+      {
+        "text": "And I put the negative on the left and made it a negative 7.",
+        "start": 62.69,
+        "end": 65.855
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 65.915,
+        "end": 66.676
+      },
+      {
+        "text": "So if I make it a negative 6 on the left equals, no, because it would be 3 minus 4 would be 1, minus 1.",
+        "start": 68.138,
+        "end": 76.05
+      },
+      {
+        "text": "If I make, if I make it 3 plus V,",
+        "start": 77.512,
+        "end": 85.624
+      },
+      {
+        "text": " It would be 8, so that doesn't work.",
+        "start": 86.735,
+        "end": 89.099
+      },
+      {
+        "text": "If I make it a negative 3 minus 5 would be negative 8.",
+        "start": 90.421,
+        "end": 103.343
+      },
+      {
+        "text": " Oh, man.",
+        "start": 105.112,
+        "end": 105.673
+      },
+      {
+        "text": "Oh, see.",
+        "start": 106.874,
+        "end": 107.555
+      },
+      {
+        "text": "Okay, we got, on the left we can make it 12 equals.",
+        "start": 107.575,
+        "end": 110.398
+      },
+      {
+        "text": "Nope, that won't work.",
+        "start": 111.039,
+        "end": 112.04
+      },
+      {
+        "text": "On the right, if we make it 9, 3 minus 9 is negative 6.",
+        "start": 113.742,
+        "end": 121.291
+      },
+      {
+        "text": "So they're all off by 1.",
+        "start": 122.392,
+        "end": 123.793
+      },
+      {
+        "text": "So.",
+        "start": 130.041,
+        "end": 130.461
+      },
+      {
+        "text": " I'm struggling here.",
+        "start": 138.524,
+        "end": 140.586
+      },
+      {
+        "text": "So VI, really you can only make that VII.",
+        "start": 142.208,
+        "end": 147.234
+      },
+      {
+        "text": "You can make it seven or it could be six if you remove one.",
+        "start": 147.274,
+        "end": 153.982
+      },
+      {
+        "text": "Or, and you can't put one on the left.",
+        "start": 155.203,
+        "end": 157.486
+      },
+      {
+        "text": "Or it could be 12.",
+        "start": 158.908,
+        "end": 160.289
+      },
+      {
+        "text": "Or if you take one from the other side, it could be 13.",
+        "start": 162.512,
+        "end": 165.375
+      },
+      {
+        "text": " Or it could be negative 7.",
+        "start": 166.807,
+        "end": 169.751
+      },
+      {
+        "text": "So those are all the possibilities.",
+        "start": 171.133,
+        "end": 172.415
+      },
+      {
+        "text": "And then what you're left with on the right, none of those will equal those values.",
+        "start": 173.938,
+        "end": 177.463
+      },
+      {
+        "text": "So the 3 on the right can be 1.",
+        "start": 178.925,
+        "end": 184.494
+      },
+      {
+        "text": "No, it can be 2 or 3.",
+        "start": 184.514,
+        "end": 187.318
+      },
+      {
+        "text": "And all I can do with that is make that a plus.",
+        "start": 188.72,
+        "end": 191.464
+      },
+      {
+        "text": " So it would be 4 plus 2 would be 6.",
+        "start": 193.132,
+        "end": 196.057
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 196.098,
+        "end": 196.939
+      },
+      {
+        "text": "And I could add it to the other side to make it an 8.",
+        "start": 198.342,
+        "end": 207.719
+      },
+      {
+        "text": "Oh, I didn't say that.",
+        "start": 209.222,
+        "end": 210.364
+      },
+      {
+        "text": "I can make on the left.",
+        "start": 210.464,
+        "end": 211.246
+      },
+      {
+        "text": "I can make it an 8, and that wouldn't work.",
+        "start": 211.326,
+        "end": 213.57
+      },
+      {
+        "text": " All right, so the IV, I can make a 5 and I can add that to the 3 and still that doesn't work.",
+        "start": 215.828,
+        "end": 223.945
+      },
+      {
+        "text": "I can make it a 6, 3 minus 6, that's a negative 3, that doesn't work.",
+        "start": 224.285,
+        "end": 229.917
+      },
+      {
+        "text": "I can make it 4 minus 5, which would be negative 1.",
+        "start": 229.937,
+        "end": 233.965
+      },
+      {
+        "text": "I can make it 3.",
+        "start": 238.935,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, couldn't figure out the second one. All right, let's try this one. I think it's going to be the same issue. So we have 7 equals 3 minus 4, which would be negative 1. If I make the 3, make it 2 plus 4, that's 6. Obviously, we're going to be 1 again. If I make it 3 minus 9, that's negative 6. Can I make? Oh. Now, can I make a one a negative? I haven't tried that yet. So, okay. Three minus four is negative one, but if I made it 3 minus 5 is negative 2. And I put the negative on the left and made it a negative 7. That doesn't work. So if I make it a negative 6 on the left equals, no, because it would be 3 minus 4 would be 1, minus 1. If I make, if I make it 3 plus V, It would be 8, so that doesn't work. If I make it a negative 3 minus 5 would be negative 8. Oh, man. Oh, see. Okay, we got, on the left we can make it 12 equals. Nope, that won't work. On the right, if we make it 9, 3 minus 9 is negative 6. So they're all off by 1. So. I'm struggling here. So VI, really you can only make that VII. You can make it seven or it could be six if you remove one. Or, and you can't put one on the left. Or it could be 12. Or if you take one from the other side, it could be 13. Or it could be negative 7. So those are all the possibilities. And then what you're left with on the right, none of those will equal those values. So the 3 on the right can be 1. No, it can be 2 or 3. And all I can do with that is make that a plus. So it would be 4 plus 2 would be 6. That doesn't work. And I could add it to the other side to make it an 8. Oh, I didn't say that. I can make on the left. I can make it an 8, and that wouldn't work. All right, so the IV, I can make a 5 and I can add that to the 3 and still that doesn't work. I can make it a 6, 3 minus 6, that's a negative 3, that doesn't work. I can make it 4 minus 5, which would be negative 1. I can make it 3."
+  }
+}

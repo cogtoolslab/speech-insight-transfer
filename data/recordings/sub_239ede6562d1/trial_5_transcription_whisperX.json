@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_239ede6562d1/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, last one.These have been fun puzzles.Vii equals Vii plus Viii.Oh, those are all three i's.So that's 8 equals 8 plus 8.And that's not right.But we can only move one matchstick.And we can't pile on any more, because Vii is as high as you can go. Only move one matchstick.What if we did, so eight plus eight, what if we made that first one an X?No, that would be eight plus eight equals 13, and that's not right.Hmm. We can't move the equals and the plus sign, because those are already matchstick full.13 equals 8 plus 8.No.13 equals 8 plus 8.This is a tough one.I don't know.I mean, there must be a solution.But it's a tough one. And we can't add any more matchsticks, because 5 is the most number of matchsticks you could have.xii, that'd be 13.And we can't do that.But I wonder if that would even count as moving if you change it from a v to an x. I don't remember.If you can't move any of those vertical matchsticks to the front, because that's not how Roman numerals work. We can't change the, yeah, we can't add anything more, so what are we gonna do?All we could do is change one of them to a 10, but that's not gonna work, because then we'd have 13 plus eight equals eight, and that's not right.Let me think.We could do, yeah, we could change a V to an X, which would give us a 13, but that doesn't help us at all. And we can't change the plus to a minus.We can't make a multiplication.We can't move any of the i's to the front, because if we do that, then it doesn't work.You can't just subtract 1 and add 1.8 plus 8 equals 8.I don't know.I'm wondering if this is a trick and there's not a solution to it, because I just don't know where that other one would go. Because you can't do a viii, because that's too many.Because then it would switch to an xi.And we can't do that.And there's nowhere for that matchstick to go.I'm feeling a little bit uncertain about this one, wondering if there really is a solution.We can't change the plus to a minus, because there's nowhere for that to go.We can't change. any of these into anything except an x. It seems like it's stuck.I don't know how we can find a solution for this one.Because we can't make any of the numbers smaller, because there's nowhere to put the extra matchsticks.I really enjoyed the other puzzles, but this one is stumping me.And I don't know what the final answer is, even though I'm trying to move them all around in my brain. Well, I'm looking forward to seeing the answer in seven seconds because this one has been pretty tough for me.",
+    "segments": [
+      {
+        "text": " OK, last one.",
+        "start": 1.702,
+        "end": 2.763
+      },
+      {
+        "text": "These have been fun puzzles.",
+        "start": 2.783,
+        "end": 4.485
+      },
+      {
+        "text": "Vii equals Vii plus Viii.",
+        "start": 7.709,
+        "end": 12.375
+      },
+      {
+        "text": "Oh, those are all three i's.",
+        "start": 13.976,
+        "end": 15.298
+      },
+      {
+        "text": "So that's 8 equals 8 plus 8.",
+        "start": 16.219,
+        "end": 20.744
+      },
+      {
+        "text": "And that's not right.",
+        "start": 21.505,
+        "end": 22.406
+      },
+      {
+        "text": "But we can only move one matchstick.",
+        "start": 22.426,
+        "end": 25.15
+      },
+      {
+        "text": "And we can't pile on any more, because Vii is as high as you can go.",
+        "start": 26.992,
+        "end": 31.557
+      },
+      {
+        "text": " Only move one matchstick.",
+        "start": 33.95,
+        "end": 35.933
+      },
+      {
+        "text": "What if we did, so eight plus eight, what if we made that first one an X?",
+        "start": 40.078,
+        "end": 44.304
+      },
+      {
+        "text": "No, that would be eight plus eight equals 13, and that's not right.",
+        "start": 45.846,
+        "end": 54.137
+      },
+      {
+        "text": "Hmm.",
+        "start": 54.197,
+        "end": 58.843
+      },
+      {
+        "text": " We can't move the equals and the plus sign, because those are already matchstick full.",
+        "start": 59.6,
+        "end": 67.027
+      },
+      {
+        "text": "13 equals 8 plus 8.",
+        "start": 67.047,
+        "end": 73.053
+      },
+      {
+        "text": "No.",
+        "start": 73.153,
+        "end": 74.455
+      },
+      {
+        "text": "13 equals 8 plus 8.",
+        "start": 74.475,
+        "end": 77.217
+      },
+      {
+        "text": "This is a tough one.",
+        "start": 78.419,
+        "end": 79.38
+      },
+      {
+        "text": "I don't know.",
+        "start": 79.42,
+        "end": 80.881
+      },
+      {
+        "text": "I mean, there must be a solution.",
+        "start": 80.901,
+        "end": 82.483
+      },
+      {
+        "text": "But it's a tough one.",
+        "start": 82.543,
+        "end": 84.865
+      },
+      {
+        "text": " And we can't add any more matchsticks, because 5 is the most number of matchsticks you could have.",
+        "start": 85.25,
+        "end": 91.099
+      },
+      {
+        "text": "xii, that'd be 13.",
+        "start": 94.144,
+        "end": 95.806
+      },
+      {
+        "text": "And we can't do that.",
+        "start": 95.826,
+        "end": 97.689
+      },
+      {
+        "text": "But I wonder if that would even count as moving if you change it from a v to an x. I don't remember.",
+        "start": 97.729,
+        "end": 102.236
+      },
+      {
+        "text": "If you can't move any of those vertical matchsticks to the front, because that's not how Roman numerals work.",
+        "start": 102.256,
+        "end": 113.113
+      },
+      {
+        "text": " We can't change the, yeah, we can't add anything more, so what are we gonna do?",
+        "start": 115.186,
+        "end": 120.695
+      },
+      {
+        "text": "All we could do is change one of them to a 10, but that's not gonna work, because then we'd have 13 plus eight equals eight, and that's not right.",
+        "start": 122.077,
+        "end": 134.237
+      },
+      {
+        "text": "Let me think.",
+        "start": 135.579,
+        "end": 136.42
+      },
+      {
+        "text": "We could do, yeah, we could change a V to an X, which would give us a 13, but that doesn't help us at all.",
+        "start": 136.44,
+        "end": 142.51
+      },
+      {
+        "text": " And we can't change the plus to a minus.",
+        "start": 142.996,
+        "end": 146.36
+      },
+      {
+        "text": "We can't make a multiplication.",
+        "start": 146.48,
+        "end": 149.524
+      },
+      {
+        "text": "We can't move any of the i's to the front, because if we do that, then it doesn't work.",
+        "start": 149.544,
+        "end": 158.676
+      },
+      {
+        "text": "You can't just subtract 1 and add 1.",
+        "start": 158.696,
+        "end": 161.339
+      },
+      {
+        "text": "8 plus 8 equals 8.",
+        "start": 161.359,
+        "end": 163.382
+      },
+      {
+        "text": "I don't know.",
+        "start": 165.224,
+        "end": 165.745
+      },
+      {
+        "text": "I'm wondering if this is a trick and there's not a solution to it, because I just don't know where that other one would go.",
+        "start": 165.765,
+        "end": 171.973
+      },
+      {
+        "text": " Because you can't do a viii, because that's too many.",
+        "start": 172.932,
+        "end": 178.598
+      },
+      {
+        "text": "Because then it would switch to an xi.",
+        "start": 178.618,
+        "end": 181.56
+      },
+      {
+        "text": "And we can't do that.",
+        "start": 181.681,
+        "end": 183.042
+      },
+      {
+        "text": "And there's nowhere for that matchstick to go.",
+        "start": 183.322,
+        "end": 185.244
+      },
+      {
+        "text": "I'm feeling a little bit uncertain about this one, wondering if there really is a solution.",
+        "start": 185.264,
+        "end": 192.011
+      },
+      {
+        "text": "We can't change the plus to a minus, because there's nowhere for that to go.",
+        "start": 192.071,
+        "end": 198.477
+      },
+      {
+        "text": "We can't change.",
+        "start": 198.497,
+        "end": 201.42
+      },
+      {
+        "text": " any of these into anything except an x. It seems like it's stuck.",
+        "start": 202.75,
+        "end": 206.414
+      },
+      {
+        "text": "I don't know how we can find a solution for this one.",
+        "start": 206.494,
+        "end": 209.597
+      },
+      {
+        "text": "Because we can't make any of the numbers smaller, because there's nowhere to put the extra matchsticks.",
+        "start": 211.559,
+        "end": 218.946
+      },
+      {
+        "text": "I really enjoyed the other puzzles, but this one is stumping me.",
+        "start": 220.427,
+        "end": 223.71
+      },
+      {
+        "text": "And I don't know what the final answer is, even though I'm trying to move them all around in my brain.",
+        "start": 223.771,
+        "end": 231.458
+      },
+      {
+        "text": " Well, I'm looking forward to seeing the answer in seven seconds because this one has been pretty tough for me.",
+        "start": 233.277,
+        "end": 238.782
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, last one. These have been fun puzzles. Vii equals Vii plus Viii. Oh, those are all three i's. So that's 8 equals 8 plus 8. And that's not right. But we can only move one matchstick. And we can't pile on any more, because Vii is as high as you can go. Only move one matchstick. What if we did, so eight plus eight, what if we made that first one an X? No, that would be eight plus eight equals 13, and that's not right. Hmm. We can't move the equals and the plus sign, because those are already matchstick full. 13 equals 8 plus 8. No. 13 equals 8 plus 8. This is a tough one. I don't know. I mean, there must be a solution. But it's a tough one. And we can't add any more matchsticks, because 5 is the most number of matchsticks you could have. xii, that'd be 13. And we can't do that. But I wonder if that would even count as moving if you change it from a v to an x. I don't remember. If you can't move any of those vertical matchsticks to the front, because that's not how Roman numerals work. We can't change the, yeah, we can't add anything more, so what are we gonna do? All we could do is change one of them to a 10, but that's not gonna work, because then we'd have 13 plus eight equals eight, and that's not right. Let me think. We could do, yeah, we could change a V to an X, which would give us a 13, but that doesn't help us at all. And we can't change the plus to a minus. We can't make a multiplication. We can't move any of the i's to the front, because if we do that, then it doesn't work. You can't just subtract 1 and add 1. 8 plus 8 equals 8. I don't know. I'm wondering if this is a trick and there's not a solution to it, because I just don't know where that other one would go. Because you can't do a viii, because that's too many. Because then it would switch to an xi. And we can't do that. And there's nowhere for that matchstick to go. I'm feeling a little bit uncertain about this one, wondering if there really is a solution. We can't change the plus to a minus, because there's nowhere for that to go. We can't change. any of these into anything except an x. It seems like it's stuck. I don't know how we can find a solution for this one. Because we can't make any of the numbers smaller, because there's nowhere to put the extra matchsticks. I really enjoyed the other puzzles, but this one is stumping me. And I don't know what the final answer is, even though I'm trying to move them all around in my brain. Well, I'm looking forward to seeing the answer in seven seconds because this one has been pretty tough for me."
+  }
+}

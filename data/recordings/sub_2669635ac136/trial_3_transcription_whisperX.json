@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_2669635ac136/trial_3.wav",
+  "with_timestamps": {
+    "text": " This one is 8 equals 8 plus 8.That is obviously not true.If we do, if we move one of these, that makes this, if we turn this to an X, that's 13 equals 8 plus 8.That's not right. If we move one of the vertical ones, seven equals, oh, there's nowhere that can go.Eight plus eight equals 16.And 16 would be XVI, but we're not allowed to do that. If we turn this into an X, that won't work either.That's 13 plus 8 is 21.That's way too high.8 minus 8 would be 0 if we turn that one. 13 equals.So, if we remove one of these, these are the same.That would be 8 plus 7, 15. And I can't move anything in front of the V, because that would make it invalid, IVII. This one's tough.So I only have two options here, three options.I can turn that into an X, which we proved it doesn't work.I can move one of these over here, but it can only go in. Yeah, I don't know what to do with this one.Yeah, I'm entirely lost on this one.I don't think I can solve it, not with 15 seconds left.I can't think of a place.There's not many choices here.I hope they show me the answer.",
+    "segments": [
+      {
+        "text": " This one is 8 equals 8 plus 8.",
+        "start": 1.465,
+        "end": 3.709
+      },
+      {
+        "text": "That is obviously not true.",
+        "start": 4.13,
+        "end": 6.413
+      },
+      {
+        "text": "If we do, if we move one of these, that makes this, if we turn this to an X, that's 13 equals 8 plus 8.",
+        "start": 12.624,
+        "end": 26.047
+      },
+      {
+        "text": "That's not right.",
+        "start": 26.127,
+        "end": 26.848
+      },
+      {
+        "text": " If we move one of the vertical ones, seven equals, oh, there's nowhere that can go.",
+        "start": 40.767,
+        "end": 47.037
+      },
+      {
+        "text": "Eight plus eight equals 16.",
+        "start": 47.078,
+        "end": 54.73
+      },
+      {
+        "text": "And 16 would be XVI, but we're not allowed to do that.",
+        "start": 60.32,
+        "end": 65.408
+      },
+      {
+        "text": " If we turn this into an X, that won't work either.",
+        "start": 73.184,
+        "end": 79.874
+      },
+      {
+        "text": "That's 13 plus 8 is 21.",
+        "start": 80.695,
+        "end": 82.397
+      },
+      {
+        "text": "That's way too high.",
+        "start": 82.437,
+        "end": 83.139
+      },
+      {
+        "text": "8 minus 8 would be 0 if we turn that one.",
+        "start": 83.159,
+        "end": 90.349
+      },
+      {
+        "text": " 13 equals.",
+        "start": 105.044,
+        "end": 106.426
+      },
+      {
+        "text": "So, if we remove one of these, these are the same.",
+        "start": 114.097,
+        "end": 119.826
+      },
+      {
+        "text": "That would be 8 plus 7, 15.",
+        "start": 121.448,
+        "end": 129.921
+      },
+      {
+        "text": " And I can't move anything in front of the V, because that would make it invalid, IVII.",
+        "start": 138.203,
+        "end": 154.103
+      },
+      {
+        "text": " This one's tough.",
+        "start": 167.161,
+        "end": 167.822
+      },
+      {
+        "text": "So I only have two options here, three options.",
+        "start": 168.622,
+        "end": 170.744
+      },
+      {
+        "text": "I can turn that into an X, which we proved it doesn't work.",
+        "start": 172.206,
+        "end": 174.608
+      },
+      {
+        "text": "I can move one of these over here, but it can only go in.",
+        "start": 177.891,
+        "end": 195.868
+      },
+      {
+        "text": " Yeah, I don't know what to do with this one.",
+        "start": 206.615,
+        "end": 207.937
+      },
+      {
+        "text": "Yeah, I'm entirely lost on this one.",
+        "start": 221.716,
+        "end": 223.318
+      },
+      {
+        "text": "I don't think I can solve it, not with 15 seconds left.",
+        "start": 223.459,
+        "end": 225.902
+      },
+      {
+        "text": "I can't think of a place.",
+        "start": 228.325,
+        "end": 229.287
+      },
+      {
+        "text": "There's not many choices here.",
+        "start": 229.307,
+        "end": 230.348
+      },
+      {
+        "text": "I hope they show me the answer.",
+        "start": 235.395,
+        "end": 236.537
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This one is 8 equals 8 plus 8. That is obviously not true. If we do, if we move one of these, that makes this, if we turn this to an X, that's 13 equals 8 plus 8. That's not right. If we move one of the vertical ones, seven equals, oh, there's nowhere that can go. Eight plus eight equals 16. And 16 would be XVI, but we're not allowed to do that. If we turn this into an X, that won't work either. That's 13 plus 8 is 21. That's way too high. 8 minus 8 would be 0 if we turn that one. 13 equals. So, if we remove one of these, these are the same. That would be 8 plus 7, 15. And I can't move anything in front of the V, because that would make it invalid, IVII. This one's tough. So I only have two options here, three options. I can turn that into an X, which we proved it doesn't work. I can move one of these over here, but it can only go in. Yeah, I don't know what to do with this one. Yeah, I'm entirely lost on this one. I don't think I can solve it, not with 15 seconds left. I can't think of a place. There's not many choices here. I hope they show me the answer."
+  }
+}

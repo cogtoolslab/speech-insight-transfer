@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_a6cd1ca68776/trial_5.wav",
+  "with_timestamps": {
+    "text": " chance.9 equals 12 plus 4.9 equals 12 plus 4.12 equals something plus 4.8, well let me do that. Let's try it.yx equals, oh no wait, viii plus, no, go.Oh wait. 12 equals 8.I don't think it's going to let me do this.Plus 4.I don't think it's going to let me do that.Wow.Zero out of zero.Hmm. 9 equals 12 plus 4.What can I do to fix this?10 equals 9 plus 1?I don't know.10 equals 9 plus 1.Just get rid of the V. Why not?Okay.13 equals 9 plus 4. Oh my, I just don't, I don't know!Nine equals... Huh.Nine equals two. plus oh no poop nine equals ten no that's not gonna work nine equals oh i have no idea",
+    "segments": [
+      {
+        "text": " chance.",
+        "start": 0.031,
+        "end": 1.333
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 1.353,
+        "end": 7.081
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 7.101,
+        "end": 10.907
+      },
+      {
+        "text": "12 equals something plus 4.",
+        "start": 10.927,
+        "end": 25.148
+      },
+      {
+        "text": "8, well let me do that.",
+        "start": 25.168,
+        "end": 28.553
+      },
+      {
+        "text": " Let's try it.",
+        "start": 31.098,
+        "end": 31.819
+      },
+      {
+        "text": "yx equals, oh no wait, viii plus, no, go.",
+        "start": 34.302,
+        "end": 58.19
+      },
+      {
+        "text": "Oh wait.",
+        "start": 58.21,
+        "end": 58.59
+      },
+      {
+        "text": " 12 equals 8.",
+        "start": 70.973,
+        "end": 74.538
+      },
+      {
+        "text": "I don't think it's going to let me do this.",
+        "start": 74.558,
+        "end": 77.402
+      },
+      {
+        "text": "Plus 4.",
+        "start": 80.026,
+        "end": 83.13
+      },
+      {
+        "text": "I don't think it's going to let me do that.",
+        "start": 83.15,
+        "end": 86.135
+      },
+      {
+        "text": "Wow.",
+        "start": 87.096,
+        "end": 87.436
+      },
+      {
+        "text": "Zero out of zero.",
+        "start": 89.039,
+        "end": 89.84
+      },
+      {
+        "text": "Hmm.",
+        "start": 98.112,
+        "end": 98.432
+      },
+      {
+        "text": " 9 equals 12 plus 4.",
+        "start": 106.445,
+        "end": 109.61
+      },
+      {
+        "text": "What can I do to fix this?",
+        "start": 109.77,
+        "end": 111.032
+      },
+      {
+        "text": "10 equals 9 plus 1?",
+        "start": 111.052,
+        "end": 125.373
+      },
+      {
+        "text": "I don't know.",
+        "start": 125.393,
+        "end": 125.954
+      },
+      {
+        "text": "10 equals 9 plus 1.",
+        "start": 125.974,
+        "end": 134.006
+      },
+      {
+        "text": "Just get rid of the V.",
+        "start": 134.067,
+        "end": 135.068
+      },
+      {
+        "text": " Why not?",
+        "start": 137.107,
+        "end": 141.213
+      },
+      {
+        "text": "Okay.",
+        "start": 141.233,
+        "end": 141.754
+      },
+      {
+        "text": "13 equals 9 plus 4.",
+        "start": 149.826,
+        "end": 165.409
+      },
+      {
+        "text": " Oh my, I just don't, I don't know!",
+        "start": 170.57,
+        "end": 172.752
+      },
+      {
+        "text": "Nine equals... Huh.",
+        "start": 172.792,
+        "end": 194.757
+      },
+      {
+        "text": "Nine equals two.",
+        "start": 197.66,
+        "end": 199.362
+      },
+      {
+        "text": " plus oh no poop nine equals ten no that's not gonna work nine equals oh i have no idea",
+        "start": 201.08,
+        "end": 226.783
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " chance. 9 equals 12 plus 4. 9 equals 12 plus 4. 12 equals something plus 4. 8, well let me do that. Let's try it. yx equals, oh no wait, viii plus, no, go. Oh wait. 12 equals 8. I don't think it's going to let me do this. Plus 4. I don't think it's going to let me do that. Wow. Zero out of zero. Hmm. 9 equals 12 plus 4. What can I do to fix this? 10 equals 9 plus 1? I don't know. 10 equals 9 plus 1. Just get rid of the V. Why not? Okay. 13 equals 9 plus 4. Oh my, I just don't, I don't know! Nine equals... Huh. Nine equals two. plus oh no poop nine equals ten no that's not gonna work nine equals oh i have no idea"
+  }
+}

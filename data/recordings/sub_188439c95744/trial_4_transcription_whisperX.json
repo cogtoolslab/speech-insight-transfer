@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_188439c95744/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, so seven equals nine plus three.Just trying to think, okay.So seven, okay, no, what's nine plus three?It's actually 12.Oh. Okay, let's see what happens if I... Hmm.What if I try... I wonder if it'll let me.Because this is already diagonal.What I'm thinking is I could change this X into a V. And it only constitutes as one movement.But I'm just thinking, do they care about this overlapping with that?In terms of space.But I'm also thinking they'd probably space this out more if it were real.",
+    "segments": [
+      {
+        "text": " Okay, so seven equals nine plus three.",
+        "start": 0.773,
+        "end": 5.8
+      },
+      {
+        "text": "Just trying to think, okay.",
+        "start": 13.231,
+        "end": 14.373
+      },
+      {
+        "text": "So seven, okay, no, what's nine plus three?",
+        "start": 15.174,
+        "end": 17.117
+      },
+      {
+        "text": "It's actually 12.",
+        "start": 17.137,
+        "end": 17.998
+      },
+      {
+        "text": "Oh.",
+        "start": 26.671,
+        "end": 27.152
+      },
+      {
+        "text": " Okay, let's see what happens if I... Hmm.",
+        "start": 30.153,
+        "end": 53.677
+      },
+      {
+        "text": "What if I try...",
+        "start": 53.697,
+        "end": 54.878
+      },
+      {
+        "text": " I wonder if it'll let me.",
+        "start": 60.916,
+        "end": 61.917
+      },
+      {
+        "text": "Because this is already diagonal.",
+        "start": 64.521,
+        "end": 66.083
+      },
+      {
+        "text": "What I'm thinking is I could change this X into a V. And it only constitutes as one movement.",
+        "start": 67.265,
+        "end": 72.993
+      },
+      {
+        "text": "But I'm just thinking, do they care about this overlapping with that?",
+        "start": 73.033,
+        "end": 76.057
+      },
+      {
+        "text": "In terms of space.",
+        "start": 76.798,
+        "end": 77.619
+      },
+      {
+        "text": "But I'm also thinking they'd probably space this out more if it were real.",
+        "start": 77.719,
+        "end": 80.663
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so seven equals nine plus three. Just trying to think, okay. So seven, okay, no, what's nine plus three? It's actually 12. Oh. Okay, let's see what happens if I... Hmm. What if I try... I wonder if it'll let me. Because this is already diagonal. What I'm thinking is I could change this X into a V. And it only constitutes as one movement. But I'm just thinking, do they care about this overlapping with that? In terms of space. But I'm also thinking they'd probably space this out more if it were real."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_498317e91f9a/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, IV equals that's 7 plus 4.So 4 equals. You can only move one matchstick.Well, that's addition.So seven, seven minus, seven minus, This is harder than I thought it would be.So 4 equals 7 plus 4.I'm going to say it's 6 minus 4.Shoot. 4 equals.I'm thinking, that's why I'm not talking.Can only move one matchstone. Well, I'm still back to 4 equals 7 plus.I've got to use minus.It doesn't make any sense. So 7 minus... That's 7 minus 4.It's not going to be right. I only have 32 seconds left.I can't frickin' figure this out.6 minus... Oh, wait a minute, wait a minute.Maybe it's 8 minus...",
+    "segments": [
+      {
+        "text": " OK, IV equals that's 7 plus 4.",
+        "start": 1.162,
+        "end": 10.376
+      },
+      {
+        "text": "So 4 equals.",
+        "start": 11.277,
+        "end": 18.107
+      },
+      {
+        "text": " You can only move one matchstick.",
+        "start": 32.482,
+        "end": 34.385
+      },
+      {
+        "text": "Well, that's addition.",
+        "start": 36.708,
+        "end": 37.649
+      },
+      {
+        "text": "So seven, seven minus, seven minus,",
+        "start": 40.954,
+        "end": 50.828
+      },
+      {
+        "text": " This is harder than I thought it would be.",
+        "start": 71.699,
+        "end": 73.062
+      },
+      {
+        "text": "So 4 equals 7 plus 4.",
+        "start": 73.603,
+        "end": 79.494
+      },
+      {
+        "text": "I'm going to say it's 6 minus 4.",
+        "start": 79.534,
+        "end": 91.437
+      },
+      {
+        "text": "Shoot.",
+        "start": 94.223,
+        "end": 94.483
+      },
+      {
+        "text": " 4 equals.",
+        "start": 105.483,
+        "end": 107.286
+      },
+      {
+        "text": "I'm thinking, that's why I'm not talking.",
+        "start": 115.08,
+        "end": 116.622
+      },
+      {
+        "text": "Can only move one matchstone.",
+        "start": 116.683,
+        "end": 127.221
+      },
+      {
+        "text": " Well, I'm still back to 4 equals 7 plus.",
+        "start": 144.194,
+        "end": 155.61
+      },
+      {
+        "text": "I've got to use minus.",
+        "start": 163.4,
+        "end": 164.382
+      },
+      {
+        "text": "It doesn't make any sense.",
+        "start": 164.882,
+        "end": 166.725
+      },
+      {
+        "text": " So 7 minus... That's 7 minus 4.",
+        "start": 177.117,
+        "end": 185.075
+      },
+      {
+        "text": "It's not going to be right.",
+        "start": 185.095,
+        "end": 191.329
+      },
+      {
+        "text": " I only have 32 seconds left.",
+        "start": 209.062,
+        "end": 210.645
+      },
+      {
+        "text": "I can't frickin' figure this out.",
+        "start": 210.725,
+        "end": 212.548
+      },
+      {
+        "text": "6 minus... Oh, wait a minute, wait a minute.",
+        "start": 212.568,
+        "end": 224.589
+      },
+      {
+        "text": "Maybe it's 8 minus...",
+        "start": 225.67,
+        "end": 230.158
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, IV equals that's 7 plus 4. So 4 equals. You can only move one matchstick. Well, that's addition. So seven, seven minus, seven minus, This is harder than I thought it would be. So 4 equals 7 plus 4. I'm going to say it's 6 minus 4. Shoot. 4 equals. I'm thinking, that's why I'm not talking. Can only move one matchstone. Well, I'm still back to 4 equals 7 plus. I've got to use minus. It doesn't make any sense. So 7 minus... That's 7 minus 4. It's not going to be right. I only have 32 seconds left. I can't frickin' figure this out. 6 minus... Oh, wait a minute, wait a minute. Maybe it's 8 minus..."
+  }
+}

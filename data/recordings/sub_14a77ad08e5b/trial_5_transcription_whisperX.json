@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_14a77ad08e5b/trial_5.wav",
+  "with_timestamps": {
+    "text": " 4 equals 4 minus 2 4 equals 4 minus 2 4 minus 2 is 2 so I need to move, let's say I go take this eye away from the first one.That'll be five equals four.No, that's not gonna work.I'll make that six.Well, it can only be one matchstick though. Four equals... Four, okay, wait a second.Four equals six.Okay, four equals six minus two, right?Four equals six minus two.So I need to go IV equals VI. minus two.",
+    "segments": [
+      {
+        "text": " 4 equals 4 minus 2 4 equals 4 minus 2 4 minus 2 is 2 so",
+        "start": 0.031,
+        "end": 19.812
+      },
+      {
+        "text": " I need to move, let's say I go take this eye away from the first one.",
+        "start": 22.306,
+        "end": 28.914
+      },
+      {
+        "text": "That'll be five equals four.",
+        "start": 28.954,
+        "end": 33.12
+      },
+      {
+        "text": "No, that's not gonna work.",
+        "start": 35.823,
+        "end": 37.025
+      },
+      {
+        "text": "I'll make that six.",
+        "start": 39.868,
+        "end": 41.03
+      },
+      {
+        "text": "Well, it can only be one matchstick though.",
+        "start": 47.297,
+        "end": 49.36
+      },
+      {
+        "text": " Four equals... Four, okay, wait a second.",
+        "start": 52.073,
+        "end": 61.463
+      },
+      {
+        "text": "Four equals six.",
+        "start": 61.523,
+        "end": 65.067
+      },
+      {
+        "text": "Okay, four equals six minus two, right?",
+        "start": 66.068,
+        "end": 69.492
+      },
+      {
+        "text": "Four equals six minus two.",
+        "start": 69.512,
+        "end": 72.035
+      },
+      {
+        "text": "So I need to go IV equals VI.",
+        "start": 72.175,
+        "end": 79.583
+      },
+      {
+        "text": " minus two.",
+        "start": 80.71,
+        "end": 83.042
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 4 minus 2 4 equals 4 minus 2 4 minus 2 is 2 so I need to move, let's say I go take this eye away from the first one. That'll be five equals four. No, that's not gonna work. I'll make that six. Well, it can only be one matchstick though. Four equals... Four, okay, wait a second. Four equals six. Okay, four equals six minus two, right? Four equals six minus two. So I need to go IV equals VI. minus two."
+  }
+}

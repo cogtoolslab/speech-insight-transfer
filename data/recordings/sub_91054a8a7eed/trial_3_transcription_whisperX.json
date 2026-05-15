@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_91054a8a7eed/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, let's do this one.This is three equals nine minus four.Nine minus four is actually five, so that's not correct.I need one more over there.Okay, so if I take... Let's see, if I take... I can't do eight that way, because that's not eight.So let's see, nine minus... Yeah, I can do that.Okay.So 9 minus 6, I'm just going to move this matchstick over to the other side.So 1, 2, 3 equals 9 minus 6.And that should be correct.",
+    "segments": [
+      {
+        "text": " All right, let's do this one.",
+        "start": 0.875,
+        "end": 1.957
+      },
+      {
+        "text": "This is three equals nine minus four.",
+        "start": 1.977,
+        "end": 5.001
+      },
+      {
+        "text": "Nine minus four is actually five, so that's not correct.",
+        "start": 5.041,
+        "end": 7.745
+      },
+      {
+        "text": "I need one more over there.",
+        "start": 7.786,
+        "end": 8.547
+      },
+      {
+        "text": "Okay, so if I take... Let's see, if I take... I can't do eight that way, because that's not eight.",
+        "start": 8.987,
+        "end": 22.167
+      },
+      {
+        "text": "So let's see, nine minus...",
+        "start": 23.59,
+        "end": 26.494
+      },
+      {
+        "text": " Yeah, I can do that.",
+        "start": 28.094,
+        "end": 30.259
+      },
+      {
+        "text": "Okay.",
+        "start": 30.32,
+        "end": 30.56
+      },
+      {
+        "text": "So 9 minus 6, I'm just going to move this matchstick over to the other side.",
+        "start": 31.202,
+        "end": 34.59
+      },
+      {
+        "text": "So 1, 2, 3 equals 9 minus 6.",
+        "start": 34.731,
+        "end": 41.227
+      },
+      {
+        "text": "And that should be correct.",
+        "start": 42.53,
+        "end": 45.377
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's do this one. This is three equals nine minus four. Nine minus four is actually five, so that's not correct. I need one more over there. Okay, so if I take... Let's see, if I take... I can't do eight that way, because that's not eight. So let's see, nine minus... Yeah, I can do that. Okay. So 9 minus 6, I'm just going to move this matchstick over to the other side. So 1, 2, 3 equals 9 minus 6. And that should be correct."
+  }
+}

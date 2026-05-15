@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_c952a2e899e0/trial_4.wav",
+  "with_timestamps": {
+    "text": " Puzzle 4, we have 2 equals 11 minus 7.So this one is pretty easy.We can change the second Roman numeral from 11 to 9.2 equals IX 9 minus V II is 7.And that equals 2.",
+    "segments": [
+      {
+        "text": " Puzzle 4, we have 2 equals 11 minus 7.",
+        "start": 1.87,
+        "end": 7.838
+      },
+      {
+        "text": "So this one is pretty easy.",
+        "start": 14.506,
+        "end": 16.669
+      },
+      {
+        "text": "We can change the second Roman numeral from 11 to 9.",
+        "start": 17.17,
+        "end": 23.438
+      },
+      {
+        "text": "2 equals",
+        "start": 23.458,
+        "end": 31.388
+      },
+      {
+        "text": " IX 9 minus V II is 7.",
+        "start": 31.958,
+        "end": 38.866
+      },
+      {
+        "text": "And that equals 2.",
+        "start": 39.95,
+        "end": 41.496
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle 4, we have 2 equals 11 minus 7. So this one is pretty easy. We can change the second Roman numeral from 11 to 9. 2 equals IX 9 minus V II is 7. And that equals 2."
+  }
+}

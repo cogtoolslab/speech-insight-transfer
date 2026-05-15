@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_172dafee3797/trial_3.wav",
+  "with_timestamps": {
+    "text": " Let me try again.Okay, 7 equals 3 minus 4.So what if I do, okay, so 7 equals, move that V, so 7 equals 8 minus now 1. Now, 7 equals 8 minus 1.Why does that not work?Because 7 equals the v. Does it have to be positioned that way?Let me try this. 8 minus 1 equals 7.Yeah, so it has to be formatted this way.OK.So 7 equals, I guess, Three plus four.No, but I can't change.Yeah, I can't change, I can only move.Okay, move that.Seven equals three minus four. the V and go 2 equals 8 minus 4, but that's not going to be correct either.I could do, let me try 7, move that, the I to the 7, so 8 equals three, oops, three minus five.No.Do I just, do I just do it weird?Equals five minus three.No.Okay.So seven, equals 3 minus 1.No?OK.Why am I messing this up so much?OK.Let's see.If I move that, i, i, i, v is not a number.Plus minus 1.I move. 8 minus 4, it's still not helping me.Let me try it.Equals... Vii minus... Yeah, that makes no sense.Okay, let's see.Vii equals 3 minus 4.7 minus 3... 7 equals 3 minus 4. Oh.",
+    "segments": [
+      {
+        "text": " Let me try again.",
+        "start": 0.031,
+        "end": 1.973
+      },
+      {
+        "text": "Okay, 7 equals 3 minus 4.",
+        "start": 1.993,
+        "end": 4.536
+      },
+      {
+        "text": "So what if I do, okay, so 7 equals, move that V, so 7 equals 8 minus now 1.",
+        "start": 12.084,
+        "end": 29.582
+      },
+      {
+        "text": " Now, 7 equals 8 minus 1.",
+        "start": 32.11,
+        "end": 44.045
+      },
+      {
+        "text": "Why does that not work?",
+        "start": 44.746,
+        "end": 45.727
+      },
+      {
+        "text": "Because 7 equals the v. Does it have to be positioned that way?",
+        "start": 46.788,
+        "end": 59.965
+      },
+      {
+        "text": "Let me try this.",
+        "start": 60.666,
+        "end": 61.847
+      },
+      {
+        "text": " 8 minus 1 equals 7.",
+        "start": 62.958,
+        "end": 68.41
+      },
+      {
+        "text": "Yeah, so it has to be formatted this way.",
+        "start": 69.813,
+        "end": 71.256
+      },
+      {
+        "text": "OK.",
+        "start": 71.336,
+        "end": 71.497
+      },
+      {
+        "text": "So 7 equals, I guess,",
+        "start": 72.118,
+        "end": 83.042
+      },
+      {
+        "text": " Three plus four.",
+        "start": 85.503,
+        "end": 87.068
+      },
+      {
+        "text": "No, but I can't change.",
+        "start": 87.088,
+        "end": 89.175
+      },
+      {
+        "text": "Yeah, I can't change, I can only move.",
+        "start": 90.258,
+        "end": 91.743
+      },
+      {
+        "text": "Okay, move that.",
+        "start": 92.625,
+        "end": 94.571
+      },
+      {
+        "text": "Seven equals three minus four.",
+        "start": 94.592,
+        "end": 98.905
+      },
+      {
+        "text": " the V and go 2 equals 8 minus 4, but that's not going to be correct either.",
+        "start": 112.975,
+        "end": 121.625
+      },
+      {
+        "text": "I could do, let me try 7, move that, the I to the 7, so 8 equals",
+        "start": 121.665,
+        "end": 141.008
+      },
+      {
+        "text": " three, oops, three minus five.",
+        "start": 142.321,
+        "end": 147.927
+      },
+      {
+        "text": "No.",
+        "start": 149.529,
+        "end": 149.909
+      },
+      {
+        "text": "Do I just, do I just do it weird?",
+        "start": 153.873,
+        "end": 155.815
+      },
+      {
+        "text": "Equals five minus three.",
+        "start": 157.197,
+        "end": 160.22
+      },
+      {
+        "text": "No.",
+        "start": 162.983,
+        "end": 164.464
+      },
+      {
+        "text": "Okay.",
+        "start": 164.484,
+        "end": 164.865
+      },
+      {
+        "text": "So seven,",
+        "start": 165.145,
+        "end": 167.147
+      },
+      {
+        "text": " equals 3 minus 1.",
+        "start": 174.653,
+        "end": 180.799
+      },
+      {
+        "text": "No?",
+        "start": 180.819,
+        "end": 181.079
+      },
+      {
+        "text": "OK.",
+        "start": 181.48,
+        "end": 181.84
+      },
+      {
+        "text": "Why am I messing this up so much?",
+        "start": 182.12,
+        "end": 184.523
+      },
+      {
+        "text": "OK.",
+        "start": 187.185,
+        "end": 187.566
+      },
+      {
+        "text": "Let's see.",
+        "start": 188.647,
+        "end": 189.247
+      },
+      {
+        "text": "If I move that, i, i, i, v is not a number.",
+        "start": 190.348,
+        "end": 197.815
+      },
+      {
+        "text": "Plus minus 1.",
+        "start": 201.119,
+        "end": 201.939
+      },
+      {
+        "text": "I move.",
+        "start": 203.521,
+        "end": 204.542
+      },
+      {
+        "text": " 8 minus 4, it's still not helping me.",
+        "start": 209.686,
+        "end": 212.109
+      },
+      {
+        "text": "Let me try it.",
+        "start": 213.711,
+        "end": 214.311
+      },
+      {
+        "text": "Equals... Vii minus... Yeah, that makes no sense.",
+        "start": 215.693,
+        "end": 229.148
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 229.809,
+        "end": 231.571
+      },
+      {
+        "text": "Vii equals 3 minus 4.",
+        "start": 232.012,
+        "end": 234.354
+      },
+      {
+        "text": "7 minus 3... 7 equals 3 minus 4.",
+        "start": 234.374,
+        "end": 239.22
+      },
+      {
+        "text": " Oh.",
+        "start": 242.997,
+        "end": 243.56
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let me try again. Okay, 7 equals 3 minus 4. So what if I do, okay, so 7 equals, move that V, so 7 equals 8 minus now 1. Now, 7 equals 8 minus 1. Why does that not work? Because 7 equals the v. Does it have to be positioned that way? Let me try this. 8 minus 1 equals 7. Yeah, so it has to be formatted this way. OK. So 7 equals, I guess, Three plus four. No, but I can't change. Yeah, I can't change, I can only move. Okay, move that. Seven equals three minus four. the V and go 2 equals 8 minus 4, but that's not going to be correct either. I could do, let me try 7, move that, the I to the 7, so 8 equals three, oops, three minus five. No. Do I just, do I just do it weird? Equals five minus three. No. Okay. So seven, equals 3 minus 1. No? OK. Why am I messing this up so much? OK. Let's see. If I move that, i, i, i, v is not a number. Plus minus 1. I move. 8 minus 4, it's still not helping me. Let me try it. Equals... Vii minus... Yeah, that makes no sense. Okay, let's see. Vii equals 3 minus 4. 7 minus 3... 7 equals 3 minus 4. Oh."
+  }
+}

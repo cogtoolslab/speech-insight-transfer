@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_b153474cd583/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 11 minus 3.3 equals 11 minus 3.9.3 equals 9.If I move this back, 9 minus 3.That still doesn't make sense.3 minus 10 equals 7.That still doesn't make 3 minus 1, nope.9 minus 3, nope.1, 2, 3 equals 11 minus 3.4 equals Um, Oh, six minus three.Yeah.Six minus three.I got this one.",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 11 minus 3.",
+        "start": 1.769,
+        "end": 6.695
+      },
+      {
+        "text": "3 equals 11 minus 3.",
+        "start": 6.715,
+        "end": 11.622
+      },
+      {
+        "text": "9.",
+        "start": 11.642,
+        "end": 13.224
+      },
+      {
+        "text": "3 equals 9.",
+        "start": 13.244,
+        "end": 15.066
+      },
+      {
+        "text": "If I move this back, 9 minus 3.",
+        "start": 16.027,
+        "end": 18.931
+      },
+      {
+        "text": "That still doesn't make sense.",
+        "start": 18.971,
+        "end": 25.439
+      },
+      {
+        "text": "3 minus 10 equals 7.",
+        "start": 25.459,
+        "end": 29.324
+      },
+      {
+        "text": "That still doesn't make",
+        "start": 29.504,
+        "end": 30.105
+      },
+      {
+        "text": " 3 minus 1, nope.",
+        "start": 32.515,
+        "end": 37.16
+      },
+      {
+        "text": "9 minus 3, nope.",
+        "start": 37.18,
+        "end": 43.547
+      },
+      {
+        "text": "1, 2, 3 equals 11 minus 3.",
+        "start": 43.567,
+        "end": 49.054
+      },
+      {
+        "text": "4 equals",
+        "start": 49.074,
+        "end": 57.443
+      },
+      {
+        "text": " Um, Oh, six minus three.",
+        "start": 60.73,
+        "end": 62.885
+      },
+      {
+        "text": "Yeah.",
+        "start": 63.248,
+        "end": 63.772
+      },
+      {
+        "text": "Six minus three.",
+        "start": 65.302,
+        "end": 67.236
+      },
+      {
+        "text": "I got this one.",
+        "start": 67.357,
+        "end": 68.243
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 11 minus 3. 3 equals 11 minus 3. 9. 3 equals 9. If I move this back, 9 minus 3. That still doesn't make sense. 3 minus 10 equals 7. That still doesn't make 3 minus 1, nope. 9 minus 3, nope. 1, 2, 3 equals 11 minus 3. 4 equals Um, Oh, six minus three. Yeah. Six minus three. I got this one."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_22e46408b7d2/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this correct equation.What is the final correct equation?So right now we have five, six equals four minus two.So six equals four minus two.So if I move 1.So if I do VI 6 minus 5.No.OK. Let's think about this.If I can only move one, the options are pretty slim.So 6 equals 4 minus 2, but that's not right.So if I do 7 equals 6 plus 1, so v i equals Okay, I'm kind of stuck.I guess v i equals v i minus... no?No.That's not right.So six equals four minus two, so if I move that, six equals five.So if I put the one, so that's one, two.Okay, so if I do six equals, IV plus 1.That should give me the right answer, right?No.OK. Take one matchstick from the two.",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick to make this correct equation.",
+        "start": 1.162,
+        "end": 5.089
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 6.03,
+        "end": 8.294
+      },
+      {
+        "text": "So right now we have five, six equals four minus two.",
+        "start": 8.354,
+        "end": 17.289
+      },
+      {
+        "text": "So six equals four minus two.",
+        "start": 19.152,
+        "end": 22.798
+      },
+      {
+        "text": "So if I move",
+        "start": 24.521,
+        "end": 25.262
+      },
+      {
+        "text": " 1.",
+        "start": 28.027,
+        "end": 28.728
+      },
+      {
+        "text": "So if I do VI 6 minus 5.",
+        "start": 28.828,
+        "end": 39.659
+      },
+      {
+        "text": "No.",
+        "start": 44.945,
+        "end": 45.225
+      },
+      {
+        "text": "OK.",
+        "start": 51.532,
+        "end": 52.853
+      },
+      {
+        "text": " Let's think about this.",
+        "start": 57.828,
+        "end": 58.79
+      },
+      {
+        "text": "If I can only move one, the options are pretty slim.",
+        "start": 58.83,
+        "end": 62.316
+      },
+      {
+        "text": "So 6 equals 4 minus 2, but that's not right.",
+        "start": 68.847,
+        "end": 71.873
+      },
+      {
+        "text": "So if I do 7 equals 6 plus 1,",
+        "start": 76.681,
+        "end": 82.772
+      },
+      {
+        "text": " so v i equals",
+        "start": 97.045,
+        "end": 115.459
+      },
+      {
+        "text": " Okay, I'm kind of stuck.",
+        "start": 142.523,
+        "end": 145.087
+      },
+      {
+        "text": "I guess v i equals v i minus... no?",
+        "start": 146.249,
+        "end": 157.645
+      },
+      {
+        "text": "No.",
+        "start": 161.932,
+        "end": 162.152
+      },
+      {
+        "text": "That's not right.",
+        "start": 163.614,
+        "end": 164.355
+      },
+      {
+        "text": "So six",
+        "start": 168.501,
+        "end": 169.543
+      },
+      {
+        "text": " equals four minus two, so if I move that, six equals five.",
+        "start": 171.093,
+        "end": 181.525
+      },
+      {
+        "text": "So if I put the one, so that's one, two.",
+        "start": 186.451,
+        "end": 188.834
+      },
+      {
+        "text": "Okay, so if I do six equals,",
+        "start": 196.082,
+        "end": 200.307
+      },
+      {
+        "text": " IV plus 1.",
+        "start": 202.126,
+        "end": 206.162
+      },
+      {
+        "text": "That should give me the right answer, right?",
+        "start": 207.005,
+        "end": 208.491
+      },
+      {
+        "text": "No.",
+        "start": 209.274,
+        "end": 209.475
+      },
+      {
+        "text": "OK.",
+        "start": 209.776,
+        "end": 210.499
+      },
+      {
+        "text": " Take one matchstick from the two.",
+        "start": 235.488,
+        "end": 237.55
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this correct equation. What is the final correct equation? So right now we have five, six equals four minus two. So six equals four minus two. So if I move 1. So if I do VI 6 minus 5. No. OK. Let's think about this. If I can only move one, the options are pretty slim. So 6 equals 4 minus 2, but that's not right. So if I do 7 equals 6 plus 1, so v i equals Okay, I'm kind of stuck. I guess v i equals v i minus... no? No. That's not right. So six equals four minus two, so if I move that, six equals five. So if I put the one, so that's one, two. Okay, so if I do six equals, IV plus 1. That should give me the right answer, right? No. OK. Take one matchstick from the two."
+  }
+}

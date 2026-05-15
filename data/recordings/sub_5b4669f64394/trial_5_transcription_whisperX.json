@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_5b4669f64394/trial_5.wav",
+  "with_timestamps": {
+    "text": " didn't get that one okay 13 equals 9 minus 4 so it's actually 13 equals 9 plus 4 but let's see if I So what if I moved one of the X ones?12 equals.No, that doesn't work.Let's see.13.Ah, 13 minus nine equals four.There we go. So if I move one of those, minus nine equals four.",
+    "segments": [
+      {
+        "text": " didn't get that one okay 13 equals 9 minus 4 so it's actually 13 equals 9 plus 4 but let's see if I",
+        "start": 0.031,
+        "end": 28.3
+      },
+      {
+        "text": " So what if I moved one of the X ones?",
+        "start": 29.225,
+        "end": 32.189
+      },
+      {
+        "text": "12 equals.",
+        "start": 32.209,
+        "end": 37.257
+      },
+      {
+        "text": "No, that doesn't work.",
+        "start": 41.964,
+        "end": 43.707
+      },
+      {
+        "text": "Let's see.",
+        "start": 44.668,
+        "end": 45.309
+      },
+      {
+        "text": "13.",
+        "start": 45.329,
+        "end": 48.975
+      },
+      {
+        "text": "Ah, 13 minus nine equals four.",
+        "start": 48.995,
+        "end": 56.626
+      },
+      {
+        "text": "There we go.",
+        "start": 56.666,
+        "end": 57.848
+      },
+      {
+        "text": " So if I move one of those, minus nine equals four.",
+        "start": 58.368,
+        "end": 67.129
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " didn't get that one okay 13 equals 9 minus 4 so it's actually 13 equals 9 plus 4 but let's see if I So what if I moved one of the X ones? 12 equals. No, that doesn't work. Let's see. 13. Ah, 13 minus nine equals four. There we go. So if I move one of those, minus nine equals four."
+  }
+}

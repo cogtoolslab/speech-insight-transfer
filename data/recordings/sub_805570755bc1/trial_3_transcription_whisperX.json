@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_805570755bc1/trial_3.wav",
+  "with_timestamps": {
+    "text": " Seven equals four minus two.Five equals four minus two.That doesn't work.Five equals four plus two.No.This is tricky.Five equals, oh sorry, six equals.Six equals four plus two.That wouldn't work though. Uh-huh, uh-huh, uh-huh, uh-huh.1 minus 1 is 3.If I take this away, I would have 5 equals 4.No, that doesn't work.5 minus 4 equals 2.No, that does work, though.6 minus 4 equals 2.OK, got it.6 minus... for, oops, for equals.",
+    "segments": [
+      {
+        "text": " Seven equals four minus two.",
+        "start": 0.858,
+        "end": 4.222
+      },
+      {
+        "text": "Five equals four minus two.",
+        "start": 8.106,
+        "end": 11.289
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 11.309,
+        "end": 12.11
+      },
+      {
+        "text": "Five equals four plus two.",
+        "start": 12.17,
+        "end": 14.673
+      },
+      {
+        "text": "No.",
+        "start": 14.693,
+        "end": 15.274
+      },
+      {
+        "text": "This is tricky.",
+        "start": 15.294,
+        "end": 18.357
+      },
+      {
+        "text": "Five equals, oh sorry, six equals.",
+        "start": 18.397,
+        "end": 23.923
+      },
+      {
+        "text": "Six equals four plus two.",
+        "start": 24.624,
+        "end": 26.826
+      },
+      {
+        "text": "That wouldn't work though.",
+        "start": 27.647,
+        "end": 28.688
+      },
+      {
+        "text": " Uh-huh, uh-huh, uh-huh, uh-huh.",
+        "start": 32.701,
+        "end": 36.725
+      },
+      {
+        "text": "1 minus 1 is 3.",
+        "start": 36.745,
+        "end": 38.267
+      },
+      {
+        "text": "If I take this away, I would have 5 equals 4.",
+        "start": 38.287,
+        "end": 42.792
+      },
+      {
+        "text": "No, that doesn't work.",
+        "start": 42.852,
+        "end": 44.493
+      },
+      {
+        "text": "5 minus 4 equals 2.",
+        "start": 44.513,
+        "end": 51.06
+      },
+      {
+        "text": "No, that does work, though.",
+        "start": 51.08,
+        "end": 54.404
+      },
+      {
+        "text": "6 minus 4 equals 2.",
+        "start": 54.424,
+        "end": 56.466
+      },
+      {
+        "text": "OK, got it.",
+        "start": 56.486,
+        "end": 57.607
+      },
+      {
+        "text": "6 minus...",
+        "start": 58.869,
+        "end": 60.21
+      },
+      {
+        "text": " for, oops, for equals.",
+        "start": 61.456,
+        "end": 67.163
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Seven equals four minus two. Five equals four minus two. That doesn't work. Five equals four plus two. No. This is tricky. Five equals, oh sorry, six equals. Six equals four plus two. That wouldn't work though. Uh-huh, uh-huh, uh-huh, uh-huh. 1 minus 1 is 3. If I take this away, I would have 5 equals 4. No, that doesn't work. 5 minus 4 equals 2. No, that does work, though. 6 minus 4 equals 2. OK, got it. 6 minus... for, oops, for equals."
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_83928208bd4f/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so let's get started.So looking at the top of the puzzle, it's a 7 equals 12 plus 6.OK.OK.So at the top, you have 12 plus 6 is 18.Excuse me.Excuse me. And it equals seven.So how do we change, we can move one match.Can we flip the V and the X? So seven, seven plus six.We're looking for changing this to a higher number.So I think that this would be chain flip with the X to be 12, but I don't know if that works.X11 equals VI. That's 7.So 7 plus 3i.So that only equals 13 and we need 12.So to be honest I don't know how to solve this one.This is quite difficult.Huh. If we take out the minus, hmm.Can we move one, the matchstick from here and have it be three plus seven equals, oh, this is very difficult so far.I don't understand how I can solve it by just moving one. with the x x can we move the x variable no oh oh maybe moving them this minus one making a subtraction instead of addition so eight minus, or this is 12.Okay, let's try this.Vii equals X, one, one still, and now it's a minus Vii.So 12 minus seven, it equals five.Okay, we were close, but I don't know what I need to do.I thought that would solve it. 12 minus 7 is 5.We need the VII.This is quite difficult, and I'm running out of time.I guess we'll submit it.That's incorrect.Oh, it even tells you.This one, this first one was very hard.I'm still confused by it.",
+    "segments": [
+      {
+        "text": " OK, so let's get started.",
+        "start": 1.229,
+        "end": 2.972
+      },
+      {
+        "text": "So looking at the top of the puzzle, it's a 7 equals 12 plus 6.",
+        "start": 3.332,
+        "end": 11.847
+      },
+      {
+        "text": "OK.",
+        "start": 13.069,
+        "end": 13.549
+      },
+      {
+        "text": "OK.",
+        "start": 17.336,
+        "end": 17.756
+      },
+      {
+        "text": "So at the top, you have 12 plus 6 is 18.",
+        "start": 18.297,
+        "end": 22.544
+      },
+      {
+        "text": "Excuse me.",
+        "start": 22.745,
+        "end": 25.95
+      },
+      {
+        "text": "Excuse me.",
+        "start": 25.97,
+        "end": 27.793
+      },
+      {
+        "text": " And it equals seven.",
+        "start": 29.849,
+        "end": 31.631
+      },
+      {
+        "text": "So how do we change, we can move one match.",
+        "start": 33.433,
+        "end": 35.936
+      },
+      {
+        "text": "Can we flip the V and the X?",
+        "start": 41.042,
+        "end": 58.422
+      },
+      {
+        "text": " So seven, seven plus six.",
+        "start": 60.46,
+        "end": 65.266
+      },
+      {
+        "text": "We're looking for changing this to a higher number.",
+        "start": 66.126,
+        "end": 70.171
+      },
+      {
+        "text": "So I think that this would be chain flip with the X to be 12, but I don't know if that works.",
+        "start": 70.271,
+        "end": 75.998
+      },
+      {
+        "text": "X11 equals VI.",
+        "start": 77.52,
+        "end": 87.531
+      },
+      {
+        "text": " That's 7.",
+        "start": 90.734,
+        "end": 91.515
+      },
+      {
+        "text": "So 7 plus 3i.",
+        "start": 92.456,
+        "end": 99.405
+      },
+      {
+        "text": "So that only equals 13 and we need 12.",
+        "start": 100.727,
+        "end": 104.752
+      },
+      {
+        "text": "So to be honest I don't know how to solve this one.",
+        "start": 106.494,
+        "end": 109.739
+      },
+      {
+        "text": "This is quite difficult.",
+        "start": 110.359,
+        "end": 112.021
+      },
+      {
+        "text": "Huh.",
+        "start": 112.082,
+        "end": 117.889
+      },
+      {
+        "text": " If we take out the minus, hmm.",
+        "start": 125.632,
+        "end": 137.285
+      },
+      {
+        "text": "Can we move one, the matchstick from here and have it be three plus seven equals, oh, this is very difficult so far.",
+        "start": 137.305,
+        "end": 149.399
+      },
+      {
+        "text": "I don't understand how I can solve it by just moving one.",
+        "start": 149.499,
+        "end": 153.343
+      },
+      {
+        "text": " with the x x can we move the x variable no oh oh maybe moving them this minus one making a subtraction instead of addition so eight",
+        "start": 156.125,
+        "end": 179.449
+      },
+      {
+        "text": " minus, or this is 12.",
+        "start": 181.1,
+        "end": 184.024
+      },
+      {
+        "text": "Okay, let's try this.",
+        "start": 184.885,
+        "end": 185.746
+      },
+      {
+        "text": "Vii equals X, one, one still, and now it's a minus Vii.",
+        "start": 186.647,
+        "end": 198.222
+      },
+      {
+        "text": "So 12 minus seven, it equals five.",
+        "start": 199.664,
+        "end": 203.209
+      },
+      {
+        "text": "Okay, we were close, but I don't know what I need to do.",
+        "start": 203.529,
+        "end": 208.776
+      },
+      {
+        "text": "I thought that would solve it.",
+        "start": 208.796,
+        "end": 211.039
+      },
+      {
+        "text": " 12 minus 7 is 5.",
+        "start": 213.314,
+        "end": 216.2
+      },
+      {
+        "text": "We need the VII.",
+        "start": 217.181,
+        "end": 218.564
+      },
+      {
+        "text": "This is quite difficult, and I'm running out of time.",
+        "start": 220.087,
+        "end": 223.013
+      },
+      {
+        "text": "I guess we'll submit it.",
+        "start": 227.962,
+        "end": 229.164
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 230.707,
+        "end": 231.509
+      },
+      {
+        "text": "Oh, it even tells you.",
+        "start": 231.749,
+        "end": 232.771
+      },
+      {
+        "text": "This one, this first one was very hard.",
+        "start": 235.757,
+        "end": 237.621
+      },
+      {
+        "text": "I'm still confused by it.",
+        "start": 237.681,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so let's get started. So looking at the top of the puzzle, it's a 7 equals 12 plus 6. OK. OK. So at the top, you have 12 plus 6 is 18. Excuse me. Excuse me. And it equals seven. So how do we change, we can move one match. Can we flip the V and the X? So seven, seven plus six. We're looking for changing this to a higher number. So I think that this would be chain flip with the X to be 12, but I don't know if that works. X11 equals VI. That's 7. So 7 plus 3i. So that only equals 13 and we need 12. So to be honest I don't know how to solve this one. This is quite difficult. Huh. If we take out the minus, hmm. Can we move one, the matchstick from here and have it be three plus seven equals, oh, this is very difficult so far. I don't understand how I can solve it by just moving one. with the x x can we move the x variable no oh oh maybe moving them this minus one making a subtraction instead of addition so eight minus, or this is 12. Okay, let's try this. Vii equals X, one, one still, and now it's a minus Vii. So 12 minus seven, it equals five. Okay, we were close, but I don't know what I need to do. I thought that would solve it. 12 minus 7 is 5. We need the VII. This is quite difficult, and I'm running out of time. I guess we'll submit it. That's incorrect. Oh, it even tells you. This one, this first one was very hard. I'm still confused by it."
+  }
+}

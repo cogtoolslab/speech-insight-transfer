@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_47198434ebe7/trial_1.wav",
+  "with_timestamps": {
+    "text": " you can only move one matchstick okay hmm to make it correct let's see that is 4 equals 4 minus 2 4 minus 2 is 2 so 4 equals 2 that's not true so we gotta make it correct Hmm, I would put 4, 5, 6 minus, no.5 minus 3, 4 plus 1. 4 equals 4 minus 2 is 2.Dude, I have two more minutes.OK.Move that one.That'll be 5 plus 7. Six.Dude, this is hard.Okay, equals.This was the really tricky part. I'm gonna move one matchstick, okay.Wow, this is tricky.I could bake this into a six.Minus two.Okay, yeah, yeah, yeah, yeah, yeah.Six minus two is four.Four equals, okay.Got it.Got it.",
+    "segments": [
+      {
+        "text": " you can only move one matchstick okay hmm to make it correct let's see that is 4 equals 4 minus 2 4 minus 2 is 2 so 4 equals 2 that's not true so we gotta make it correct",
+        "start": 0.031,
+        "end": 26.393
+      },
+      {
+        "text": " Hmm, I would put 4, 5, 6 minus, no.",
+        "start": 32.988,
+        "end": 53.032
+      },
+      {
+        "text": "5 minus 3, 4 plus 1.",
+        "start": 53.052,
+        "end": 61.122
+      },
+      {
+        "text": " 4 equals 4 minus 2 is 2.",
+        "start": 63.363,
+        "end": 65.566
+      },
+      {
+        "text": "Dude, I have two more minutes.",
+        "start": 65.626,
+        "end": 70.632
+      },
+      {
+        "text": "OK.",
+        "start": 70.693,
+        "end": 71.313
+      },
+      {
+        "text": "Move that one.",
+        "start": 80.706,
+        "end": 81.647
+      },
+      {
+        "text": "That'll be 5 plus 7.",
+        "start": 81.927,
+        "end": 84.19
+      },
+      {
+        "text": " Six.",
+        "start": 99.998,
+        "end": 102.26
+      },
+      {
+        "text": "Dude, this is hard.",
+        "start": 102.28,
+        "end": 103.021
+      },
+      {
+        "text": "Okay, equals.",
+        "start": 122.362,
+        "end": 123.243
+      },
+      {
+        "text": "This was the really tricky part.",
+        "start": 124.745,
+        "end": 126.647
+      },
+      {
+        "text": " I'm gonna move one matchstick, okay.",
+        "start": 130.576,
+        "end": 132.338
+      },
+      {
+        "text": "Wow, this is tricky.",
+        "start": 136.503,
+        "end": 137.424
+      },
+      {
+        "text": "I could bake this into a six.",
+        "start": 139.826,
+        "end": 145.933
+      },
+      {
+        "text": "Minus two.",
+        "start": 145.953,
+        "end": 146.574
+      },
+      {
+        "text": "Okay, yeah, yeah, yeah, yeah, yeah.",
+        "start": 148.676,
+        "end": 149.877
+      },
+      {
+        "text": "Six minus two is four.",
+        "start": 150.418,
+        "end": 151.82
+      },
+      {
+        "text": "Four equals, okay.",
+        "start": 151.96,
+        "end": 153.942
+      },
+      {
+        "text": "Got it.",
+        "start": 155.003,
+        "end": 155.364
+      },
+      {
+        "text": "Got it.",
+        "start": 158.107,
+        "end": 158.507
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " you can only move one matchstick okay hmm to make it correct let's see that is 4 equals 4 minus 2 4 minus 2 is 2 so 4 equals 2 that's not true so we gotta make it correct Hmm, I would put 4, 5, 6 minus, no. 5 minus 3, 4 plus 1. 4 equals 4 minus 2 is 2. Dude, I have two more minutes. OK. Move that one. That'll be 5 plus 7. Six. Dude, this is hard. Okay, equals. This was the really tricky part. I'm gonna move one matchstick, okay. Wow, this is tricky. I could bake this into a six. Minus two. Okay, yeah, yeah, yeah, yeah, yeah. Six minus two is four. Four equals, okay. Got it. Got it."
+  }
+}

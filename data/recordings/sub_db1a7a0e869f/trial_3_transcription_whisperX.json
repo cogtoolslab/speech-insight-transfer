@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_db1a7a0e869f/trial_3.wav",
+  "with_timestamps": {
+    "text": " 4 equals 4 minus 2.So I have this.6 minus 4.So 6 equals 1. I don't understand.I'm just moving my map stick.So six equals.Okay, four equals four minus two.Close. only move one.So 3 minus 1 is 2.So 4.Okay.4 equals 5.6.Okay.",
+    "segments": [
+      {
+        "text": " 4 equals 4 minus 2.",
+        "start": 1.82,
+        "end": 3.683
+      },
+      {
+        "text": "So I have this.",
+        "start": 11.235,
+        "end": 11.876
+      },
+      {
+        "text": "6 minus 4.",
+        "start": 11.896,
+        "end": 17.645
+      },
+      {
+        "text": "So 6 equals 1.",
+        "start": 21.071,
+        "end": 25.498
+      },
+      {
+        "text": " I don't understand.",
+        "start": 31.435,
+        "end": 32.917
+      },
+      {
+        "text": "I'm just moving my map stick.",
+        "start": 32.937,
+        "end": 36.322
+      },
+      {
+        "text": "So six equals.",
+        "start": 39.187,
+        "end": 40.689
+      },
+      {
+        "text": "Okay, four equals four minus two.",
+        "start": 48.481,
+        "end": 50.364
+      },
+      {
+        "text": "Close.",
+        "start": 58.857,
+        "end": 59.518
+      },
+      {
+        "text": " only move one.",
+        "start": 68.307,
+        "end": 68.988
+      },
+      {
+        "text": "So 3 minus 1 is 2.",
+        "start": 71.471,
+        "end": 76.559
+      },
+      {
+        "text": "So 4.",
+        "start": 76.939,
+        "end": 77.42
+      },
+      {
+        "text": "Okay.",
+        "start": 77.86,
+        "end": 80.784
+      },
+      {
+        "text": "4 equals 5.",
+        "start": 80.804,
+        "end": 83.408
+      },
+      {
+        "text": "6.",
+        "start": 83.428,
+        "end": 83.468
+      },
+      {
+        "text": "Okay.",
+        "start": 88.275,
+        "end": 88.375
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 4 minus 2. So I have this. 6 minus 4. So 6 equals 1. I don't understand. I'm just moving my map stick. So six equals. Okay, four equals four minus two. Close. only move one. So 3 minus 1 is 2. So 4. Okay. 4 equals 5. 6. Okay."
+  }
+}

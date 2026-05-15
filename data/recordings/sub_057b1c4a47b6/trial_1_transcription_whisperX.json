@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_057b1c4a47b6/trial_1.wav",
+  "with_timestamps": {
+    "text": " First I'm gonna check out what the equation says so 2 equals 11 minus 7 So 2 equals 11 minus 7 is not correct But 2 equals 9 minus 7 would be correct so 2 equals 9 minus 7.",
+    "segments": [
+      {
+        "text": " First I'm gonna check out what the equation says so 2 equals 11 minus 7 So 2 equals 11 minus 7 is not correct But 2 equals 9 minus 7 would be correct so 2 equals",
+        "start": 1.415,
+        "end": 28.114
+      },
+      {
+        "text": " 9 minus 7.",
+        "start": 29.512,
+        "end": 33.784
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " First I'm gonna check out what the equation says so 2 equals 11 minus 7 So 2 equals 11 minus 7 is not correct But 2 equals 9 minus 7 would be correct so 2 equals 9 minus 7."
+  }
+}

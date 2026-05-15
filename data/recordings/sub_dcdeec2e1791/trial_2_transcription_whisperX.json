@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_dcdeec2e1791/trial_2.wav",
+  "with_timestamps": {
+    "text": " We have 10 equals V plus, or 10 equals seven minus three.So obviously it doesn't work.So can we, So if we take the three and take it, then that doesn't work because we'd have to go.Ah, it's the same thing.So what we do is we take 10 instead of equals, we subtract seven and we get three.So it'd be 10 minus Vii equals two, three.",
+    "segments": [
+      {
+        "text": " We have 10 equals V plus, or 10 equals seven minus three.",
+        "start": 0.031,
+        "end": 18.256
+      },
+      {
+        "text": "So obviously it doesn't work.",
+        "start": 19.557,
+        "end": 25.185
+      },
+      {
+        "text": "So can we,",
+        "start": 26.927,
+        "end": 28.249
+      },
+      {
+        "text": " So if we take the three and take it, then that doesn't work because we'd have to go.",
+        "start": 33.022,
+        "end": 37.39
+      },
+      {
+        "text": "Ah, it's the same thing.",
+        "start": 37.41,
+        "end": 41.236
+      },
+      {
+        "text": "So what we do is we take 10 instead of equals, we subtract seven and we get three.",
+        "start": 41.737,
+        "end": 47.086
+      },
+      {
+        "text": "So it'd be 10 minus Vii equals two, three.",
+        "start": 47.267,
+        "end": 58.506
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " We have 10 equals V plus, or 10 equals seven minus three. So obviously it doesn't work. So can we, So if we take the three and take it, then that doesn't work because we'd have to go. Ah, it's the same thing. So what we do is we take 10 instead of equals, we subtract seven and we get three. So it'd be 10 minus Vii equals two, three."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_60c499e87ab8/trial_3.wav",
+  "with_timestamps": {
+    "text": " Three equals 11 plus nine.We're going to go still three equals. Okay.",
+    "segments": [
+      {
+        "text": " Three equals 11 plus nine.",
+        "start": 2.849,
+        "end": 9.524
+      },
+      {
+        "text": "We're going to go still three equals.",
+        "start": 10.727,
+        "end": 15.137
+      },
+      {
+        "text": " Okay.",
+        "start": 112.064,
+        "end": 120.842
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Three equals 11 plus nine. We're going to go still three equals. Okay."
+  }
+}

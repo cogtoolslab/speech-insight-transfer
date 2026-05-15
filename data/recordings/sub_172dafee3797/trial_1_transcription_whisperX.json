@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_172dafee3797/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one match to get this equation correct.Where's the final correct equation?Okay, so 4 equals 4 minus 2.Let's see.I think I'm going to move one. Can I move, do this, switch the one from the four to make it a six instead, minus two.So that should be six minus two, which is the four. I think, and I believe that's only changing one.So that should be right if I understood the instructions correctly.",
+    "segments": [
+      {
+        "text": " You can only move one match to get this equation correct.",
+        "start": 2.663,
+        "end": 5.547
+      },
+      {
+        "text": "Where's the final correct equation?",
+        "start": 5.627,
+        "end": 8.452
+      },
+      {
+        "text": "Okay, so 4 equals 4 minus 2.",
+        "start": 8.472,
+        "end": 11.977
+      },
+      {
+        "text": "Let's see.",
+        "start": 20.289,
+        "end": 23.273
+      },
+      {
+        "text": "I think I'm going to move one.",
+        "start": 23.293,
+        "end": 28.401
+      },
+      {
+        "text": " Can I move, do this, switch the one from the four to make it a six instead, minus two.",
+        "start": 34.608,
+        "end": 56.474
+      },
+      {
+        "text": "So that should be six minus two, which is the four.",
+        "start": 58.537,
+        "end": 63.703
+      },
+      {
+        "text": " I think, and I believe that's only changing one.",
+        "start": 65.168,
+        "end": 67.298
+      },
+      {
+        "text": "So that should be right if I understood the instructions correctly.",
+        "start": 67.358,
+        "end": 72.36
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one match to get this equation correct. Where's the final correct equation? Okay, so 4 equals 4 minus 2. Let's see. I think I'm going to move one. Can I move, do this, switch the one from the four to make it a six instead, minus two. So that should be six minus two, which is the four. I think, and I believe that's only changing one. So that should be right if I understood the instructions correctly."
+  }
+}

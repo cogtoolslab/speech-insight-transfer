@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_e017401724de/trial_5.wav",
+  "with_timestamps": {
+    "text": " This puzzle here, we have 2 equals 9 minus 2.9 minus 2 would equal 7.So we have 7 equals 2.So we could do, again, just moving this over, 4 minus 2 equals 2. And so I'm shocked how similar these puzzles ended up being from one to another.Seemed fair.",
+    "segments": [
+      {
+        "text": " This puzzle here, we have 2 equals 9 minus 2.",
+        "start": 0.031,
+        "end": 4.837
+      },
+      {
+        "text": "9 minus 2 would equal 7.",
+        "start": 4.857,
+        "end": 7.801
+      },
+      {
+        "text": "So we have 7 equals 2.",
+        "start": 7.821,
+        "end": 9.383
+      },
+      {
+        "text": "So we could do, again, just moving this over, 4 minus 2 equals 2.",
+        "start": 9.704,
+        "end": 19.356
+      },
+      {
+        "text": " And so I'm shocked how similar these puzzles ended up being from one to another.",
+        "start": 19.336,
+        "end": 27.354
+      },
+      {
+        "text": "Seemed fair.",
+        "start": 27.395,
+        "end": 30.831
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This puzzle here, we have 2 equals 9 minus 2. 9 minus 2 would equal 7. So we have 7 equals 2. So we could do, again, just moving this over, 4 minus 2 equals 2. And so I'm shocked how similar these puzzles ended up being from one to another. Seemed fair."
+  }
+}

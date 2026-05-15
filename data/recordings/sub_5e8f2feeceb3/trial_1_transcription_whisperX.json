@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_5e8f2feeceb3/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, seven equals 12 plus six. Okay.Moving a 10, a five, I mean. I'm a little unsure of how to do this.",
+    "segments": [
+      {
+        "text": " Okay, seven equals 12 plus six.",
+        "start": 3.878,
+        "end": 31.219
+      },
+      {
+        "text": " Okay.",
+        "start": 48.361,
+        "end": 49.122
+      },
+      {
+        "text": "Moving a 10, a five, I mean.",
+        "start": 55.692,
+        "end": 72.799
+      },
+      {
+        "text": " I'm a little unsure of how to do this.",
+        "start": 112.165,
+        "end": 114.936
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, seven equals 12 plus six. Okay. Moving a 10, a five, I mean. I'm a little unsure of how to do this."
+  }
+}

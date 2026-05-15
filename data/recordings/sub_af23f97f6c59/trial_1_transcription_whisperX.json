@@ -1,0 +1,131 @@
+{
+  "file": "data/recordings/sub_af23f97f6c59/trial_1.wav",
+  "with_timestamps": {
+    "text": " Oh boy, this is going to be fun.Okay, report, okay.So two equals, let's see. So it's 11 minus 7, 4.So 2 does not equal 4.All right.2 equals 4 is incorrect. Let's see.So I think there, right?To the, oh wait. Um, okay.So basically I think I'm going to be doing like, I think I got to change it to the three.So basically I just got to put like three match sticks, right?Three, two, three. And then equals, right?And then it'll be x because I moved the thing.And then minus because that's where it is.Okay, don't mess this up.Just copy that, the two v's, pa pa pa.I think that's it. Do I need to add any spaces or anything like that?Is it good?It's good.I'm submitting my answer.",
+    "segments": [
+      {
+        "text": " Oh boy, this is going to be fun.",
+        "start": 2.461,
+        "end": 4.203
+      },
+      {
+        "text": "Okay, report, okay.",
+        "start": 22.42,
+        "end": 26.544
+      },
+      {
+        "text": "So two equals, let's see.",
+        "start": 27.084,
+        "end": 29.987
+      },
+      {
+        "text": " So it's 11 minus 7, 4.",
+        "start": 32.363,
+        "end": 43.321
+      },
+      {
+        "text": "So 2 does not equal 4.",
+        "start": 43.742,
+        "end": 45.445
+      },
+      {
+        "text": "All right.",
+        "start": 47.128,
+        "end": 54.06
+      },
+      {
+        "text": "2 equals 4 is incorrect.",
+        "start": 54.08,
+        "end": 57.325
+      },
+      {
+        "text": " Let's see.",
+        "start": 60.443,
+        "end": 82.013
+      },
+      {
+        "text": "So I think there, right?",
+        "start": 82.074,
+        "end": 86.259
+      },
+      {
+        "text": "To the, oh wait.",
+        "start": 86.28,
+        "end": 88.763
+      },
+      {
+        "text": " Um, okay.",
+        "start": 91.105,
+        "end": 96.233
+      },
+      {
+        "text": "So basically I think I'm going to be doing like, I think I got to change it to the three.",
+        "start": 96.433,
+        "end": 104.526
+      },
+      {
+        "text": "So basically I just got to put like three match sticks, right?",
+        "start": 106.71,
+        "end": 113.52
+      },
+      {
+        "text": "Three, two, three.",
+        "start": 115.363,
+        "end": 118.969
+      },
+      {
+        "text": " And then equals, right?",
+        "start": 120.367,
+        "end": 123.011
+      },
+      {
+        "text": "And then it'll be x because I moved the thing.",
+        "start": 125.014,
+        "end": 131.082
+      },
+      {
+        "text": "And then minus because that's where it is.",
+        "start": 131.102,
+        "end": 138.012
+      },
+      {
+        "text": "Okay, don't mess this up.",
+        "start": 138.032,
+        "end": 139.294
+      },
+      {
+        "text": "Just copy that, the two v's, pa pa pa.",
+        "start": 141.477,
+        "end": 144.522
+      },
+      {
+        "text": "I think that's it.",
+        "start": 144.542,
+        "end": 145.463
+      },
+      {
+        "text": " Do I need to add any spaces or anything like that?",
+        "start": 148.16,
+        "end": 151.102
+      },
+      {
+        "text": "Is it good?",
+        "start": 151.122,
+        "end": 152.11
+      },
+      {
+        "text": "It's good.",
+        "start": 152.13,
+        "end": 152.332
+      },
+      {
+        "text": "I'm submitting my answer.",
+        "start": 154.367,
+        "end": 157.41
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh boy, this is going to be fun. Okay, report, okay. So two equals, let's see. So it's 11 minus 7, 4. So 2 does not equal 4. All right. 2 equals 4 is incorrect. Let's see. So I think there, right? To the, oh wait. Um, okay. So basically I think I'm going to be doing like, I think I got to change it to the three. So basically I just got to put like three match sticks, right? Three, two, three. And then equals, right? And then it'll be x because I moved the thing. And then minus because that's where it is. Okay, don't mess this up. Just copy that, the two v's, pa pa pa. I think that's it. Do I need to add any spaces or anything like that? Is it good? It's good. I'm submitting my answer."
+  }
+}

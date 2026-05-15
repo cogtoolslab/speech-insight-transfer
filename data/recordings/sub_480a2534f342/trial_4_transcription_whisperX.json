@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_480a2534f342/trial_4.wav",
+  "with_timestamps": {
+    "text": " 3 equals 11 minus 3.So that's 8.11... 10 plus... 11 minus 3... 3 equals... hmm the one can't even go with the threes because that would make a weird four maybe Hmm.Maybe I can make a plus sign.Iii equals xi minus iii.Excuse me. Hmm. Oh, 3 equals 6 minus 3 and I get to move that matchstick over maybe?Equals...",
+    "segments": [
+      {
+        "text": " 3 equals 11 minus 3.",
+        "start": 0.031,
+        "end": 2.634
+      },
+      {
+        "text": "So that's 8.",
+        "start": 2.734,
+        "end": 3.495
+      },
+      {
+        "text": "11... 10 plus...",
+        "start": 3.515,
+        "end": 24.537
+      },
+      {
+        "text": " 11 minus 3... 3 equals...",
+        "start": 32.212,
+        "end": 46.272
+      },
+      {
+        "text": " hmm the one can't even go with the threes because that would make a weird four maybe",
+        "start": 68.375,
+        "end": 89.117
+      },
+      {
+        "text": " Hmm.",
+        "start": 97.822,
+        "end": 98.403
+      },
+      {
+        "text": "Maybe I can make a plus sign.",
+        "start": 100.305,
+        "end": 112.659
+      },
+      {
+        "text": "Iii equals xi minus iii.",
+        "start": 112.8,
+        "end": 119.387
+      },
+      {
+        "text": "Excuse me.",
+        "start": 127.116,
+        "end": 127.677
+      },
+      {
+        "text": " Hmm.",
+        "start": 128.838,
+        "end": 153.107
+      },
+      {
+        "text": " Oh, 3 equals 6 minus 3 and I get to move that matchstick over maybe?",
+        "start": 155.213,
+        "end": 158.894
+      },
+      {
+        "text": "Equals...",
+        "start": 161.146,
+        "end": 162.051
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 11 minus 3. So that's 8. 11... 10 plus... 11 minus 3... 3 equals... hmm the one can't even go with the threes because that would make a weird four maybe Hmm. Maybe I can make a plus sign. Iii equals xi minus iii. Excuse me. Hmm. Oh, 3 equals 6 minus 3 and I get to move that matchstick over maybe? Equals..."
+  }
+}

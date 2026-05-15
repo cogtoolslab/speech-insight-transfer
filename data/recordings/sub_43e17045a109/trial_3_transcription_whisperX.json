@@ -1,0 +1,196 @@
+{
+  "file": "data/recordings/sub_43e17045a109/trial_3.wav",
+  "with_timestamps": {
+    "text": " These are pretty hard.I've got to say, this is really tricky.This is like a brain teaser to me.Okay.One, two, three equals nine, 11, 11 minus three is eight equals Can I do on X minus 1, 2, 3?No.Can I do 1, 2, 3, 4 equals 10 minus 1, 2, 3.No, that would be 7 and 3.So 11 minus 3 is 8.On the other side is a 3.I need to move 1.So if I move the x, so 1, 2, 3, x equals One plus one, two, three.Nope, I didn't think that would work.I figured I have to have, so one, two, three X, that is seven equals one, two, three, four.No, I am not very good at this.I'm gonna keep trying though. Let's see.The Roman numeral part is easy.It's moving the one matchstick.That's the hardest part.So.1, 2, 3 equals 9 minus 1, 2, 3. That's gonna be six on one side, three on the other.If I move one matchstick over to make this four, that would be 10 minus three, which would be seven, so that doesn't work.Can I move one, two, three minus 11 equals 1, 2, 3.Nope.I thought maybe moving one matchstick of the equal over would cause the equation to change to my advantage.So 3 minus, oh goodness. 1, 2, 3, x equals 1 minus 1, 2, 3 plus 1, 2, 3.I am not doing very good.This is hard.I have no idea.I have no idea.",
+    "segments": [
+      {
+        "text": " These are pretty hard.",
+        "start": 0.571,
+        "end": 1.853
+      },
+      {
+        "text": "I've got to say, this is really tricky.",
+        "start": 3.455,
+        "end": 6.018
+      },
+      {
+        "text": "This is like a brain teaser to me.",
+        "start": 6.079,
+        "end": 8.302
+      },
+      {
+        "text": "Okay.",
+        "start": 9.944,
+        "end": 10.284
+      },
+      {
+        "text": "One, two, three equals nine, 11, 11 minus three is eight equals",
+        "start": 10.404,
+        "end": 26.967
+      },
+      {
+        "text": " Can I do on X minus 1, 2, 3?",
+        "start": 29.343,
+        "end": 33.489
+      },
+      {
+        "text": "No.",
+        "start": 34.03,
+        "end": 34.47
+      },
+      {
+        "text": "Can I do 1, 2, 3, 4 equals 10 minus",
+        "start": 41.621,
+        "end": 57.223
+      },
+      {
+        "text": " 1, 2, 3.",
+        "start": 59.245,
+        "end": 59.826
+      },
+      {
+        "text": "No, that would be 7 and 3.",
+        "start": 60.687,
+        "end": 64.571
+      },
+      {
+        "text": "So 11 minus 3 is 8.",
+        "start": 68.775,
+        "end": 71.498
+      },
+      {
+        "text": "On the other side is a 3.",
+        "start": 74.682,
+        "end": 76.243
+      },
+      {
+        "text": "I need to move 1.",
+        "start": 76.263,
+        "end": 78.566
+      },
+      {
+        "text": "So if I move the x, so 1, 2, 3, x equals",
+        "start": 81.149,
+        "end": 88.797
+      },
+      {
+        "text": " One plus one, two, three.",
+        "start": 91.578,
+        "end": 96.385
+      },
+      {
+        "text": "Nope, I didn't think that would work.",
+        "start": 97.908,
+        "end": 99.991
+      },
+      {
+        "text": "I figured I have to have, so one, two, three X, that is seven equals one, two, three, four.",
+        "start": 100.071,
+        "end": 112.81
+      },
+      {
+        "text": "No, I am not very good at this.",
+        "start": 113.13,
+        "end": 118.098
+      },
+      {
+        "text": "I'm gonna keep trying though.",
+        "start": 118.138,
+        "end": 120.201
+      },
+      {
+        "text": " Let's see.",
+        "start": 120.518,
+        "end": 121.399
+      },
+      {
+        "text": "The Roman numeral part is easy.",
+        "start": 121.419,
+        "end": 125.885
+      },
+      {
+        "text": "It's moving the one matchstick.",
+        "start": 125.905,
+        "end": 127.647
+      },
+      {
+        "text": "That's the hardest part.",
+        "start": 127.707,
+        "end": 129.249
+      },
+      {
+        "text": "So.",
+        "start": 131.372,
+        "end": 131.693
+      },
+      {
+        "text": "1, 2, 3 equals 9 minus 1, 2, 3.",
+        "start": 131.713,
+        "end": 145.851
+      },
+      {
+        "text": " That's gonna be six on one side, three on the other.",
+        "start": 147.67,
+        "end": 151.114
+      },
+      {
+        "text": "If I move one matchstick over to make this four, that would be 10 minus three, which would be seven, so that doesn't work.",
+        "start": 151.154,
+        "end": 167.912
+      },
+      {
+        "text": "Can I move one, two, three minus",
+        "start": 169.654,
+        "end": 177.222
+      },
+      {
+        "text": " 11 equals 1, 2, 3.",
+        "start": 178.214,
+        "end": 182.46
+      },
+      {
+        "text": "Nope.",
+        "start": 182.7,
+        "end": 182.88
+      },
+      {
+        "text": "I thought maybe moving one matchstick of the equal over would cause the equation to change to my advantage.",
+        "start": 185.664,
+        "end": 198.382
+      },
+      {
+        "text": "So 3 minus, oh goodness.",
+        "start": 199.584,
+        "end": 207.715
+      },
+      {
+        "text": " 1, 2, 3, x equals 1 minus 1, 2, 3 plus 1, 2, 3.",
+        "start": 210.783,
+        "end": 226.077
+      },
+      {
+        "text": "I am not doing very good.",
+        "start": 226.418,
+        "end": 229.08
+      },
+      {
+        "text": "This is hard.",
+        "start": 235.366,
+        "end": 236.207
+      },
+      {
+        "text": "I have no idea.",
+        "start": 237.168,
+        "end": 238.109
+      },
+      {
+        "text": "I have no idea.",
+        "start": 238.629,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " These are pretty hard. I've got to say, this is really tricky. This is like a brain teaser to me. Okay. One, two, three equals nine, 11, 11 minus three is eight equals Can I do on X minus 1, 2, 3? No. Can I do 1, 2, 3, 4 equals 10 minus 1, 2, 3. No, that would be 7 and 3. So 11 minus 3 is 8. On the other side is a 3. I need to move 1. So if I move the x, so 1, 2, 3, x equals One plus one, two, three. Nope, I didn't think that would work. I figured I have to have, so one, two, three X, that is seven equals one, two, three, four. No, I am not very good at this. I'm gonna keep trying though. Let's see. The Roman numeral part is easy. It's moving the one matchstick. That's the hardest part. So. 1, 2, 3 equals 9 minus 1, 2, 3. That's gonna be six on one side, three on the other. If I move one matchstick over to make this four, that would be 10 minus three, which would be seven, so that doesn't work. Can I move one, two, three minus 11 equals 1, 2, 3. Nope. I thought maybe moving one matchstick of the equal over would cause the equation to change to my advantage. So 3 minus, oh goodness. 1, 2, 3, x equals 1 minus 1, 2, 3 plus 1, 2, 3. I am not doing very good. This is hard. I have no idea. I have no idea."
+  }
+}

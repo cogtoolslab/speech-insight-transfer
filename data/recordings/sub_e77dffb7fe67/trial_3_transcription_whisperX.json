@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_e77dffb7fe67/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so here it says 9 equals 7 plus 4 and What can we do here?So we're gonna change the 9 to an 11 that's probably our best bet so we would do 11 equals 7 whoops You go back.Glad you got that backspace 7 plus IV for four.",
+    "segments": [
+      {
+        "text": " Okay, so here it says 9 equals 7 plus 4 and What can we do here?",
+        "start": 0.031,
+        "end": 9.823
+      },
+      {
+        "text": "So we're gonna change the 9 to an 11 that's probably our best bet so we would do 11 equals 7 whoops You go back.",
+        "start": 12.987,
+        "end": 24.141
+      },
+      {
+        "text": "Glad you got that backspace 7 plus",
+        "start": 24.181,
+        "end": 28.907
+      },
+      {
+        "text": " IV for four.",
+        "start": 29.461,
+        "end": 31.709
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so here it says 9 equals 7 plus 4 and What can we do here? So we're gonna change the 9 to an 11 that's probably our best bet so we would do 11 equals 7 whoops You go back. Glad you got that backspace 7 plus IV for four."
+  }
+}

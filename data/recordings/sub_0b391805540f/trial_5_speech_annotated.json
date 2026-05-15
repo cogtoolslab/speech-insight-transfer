@@ -1,0 +1,1175 @@
+{
+  "file": "data/recordings/sub_0b391805540f/trial_5_fixed.wav",
+  "participant_id": "sub_0b391805540f",
+  "trial_number": 5,
+  "speech_segments": [
+    {
+      "start": 0.77,
+      "end": 1.086,
+      "duration": 0.316,
+      "lexical": true
+    },
+    {
+      "start": 1.218,
+      "end": 6.046,
+      "duration": 4.828,
+      "lexical": true
+    },
+    {
+      "start": 6.37,
+      "end": 7.39,
+      "duration": 1.02,
+      "lexical": true
+    },
+    {
+      "start": 8.322,
+      "end": 9.118,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 9.41,
+      "end": 10.238,
+      "duration": 0.828,
+      "lexical": true
+    },
+    {
+      "start": 11.778,
+      "end": 13.374,
+      "duration": 1.596,
+      "lexical": true
+    },
+    {
+      "start": 14.69,
+      "end": 16.318,
+      "duration": 1.628,
+      "lexical": true
+    },
+    {
+      "start": 16.994,
+      "end": 18.046,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 20.546,
+      "end": 22.75,
+      "duration": 2.204,
+      "lexical": true
+    },
+    {
+      "start": 24.194,
+      "end": 24.766,
+      "duration": 0.572,
+      "lexical": true
+    },
+    {
+      "start": 25.89,
+      "end": 27.326,
+      "duration": 1.436,
+      "lexical": true
+    },
+    {
+      "start": 27.458,
+      "end": 28.19,
+      "duration": 0.732,
+      "lexical": true
+    },
+    {
+      "start": 33.058,
+      "end": 34.11,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 34.21,
+      "end": 35.134,
+      "duration": 0.924,
+      "lexical": true
+    },
+    {
+      "start": 37.538,
+      "end": 40.126,
+      "duration": 2.588,
+      "lexical": true
+    },
+    {
+      "start": 40.258,
+      "end": 41.054,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 41.57,
+      "end": 43.518,
+      "duration": 1.948,
+      "lexical": true
+    },
+    {
+      "start": 45.474,
+      "end": 46.238,
+      "duration": 0.764,
+      "lexical": true
+    },
+    {
+      "start": 47.106,
+      "end": 48.062,
+      "duration": 0.956,
+      "lexical": true
+    },
+    {
+      "start": 48.482,
+      "end": 49.918,
+      "duration": 1.436,
+      "lexical": true
+    },
+    {
+      "start": 51.362,
+      "end": 52.606,
+      "duration": 1.244,
+      "lexical": true
+    },
+    {
+      "start": 54.754,
+      "end": 55.774,
+      "duration": 1.02,
+      "lexical": true
+    },
+    {
+      "start": 56.29,
+      "end": 56.798,
+      "duration": 0.508,
+      "lexical": true
+    },
+    {
+      "start": 57.058,
+      "end": 57.918,
+      "duration": 0.86,
+      "lexical": true
+    },
+    {
+      "start": 58.114,
+      "end": 61.214,
+      "duration": 3.1,
+      "lexical": true
+    },
+    {
+      "start": 62.53,
+      "end": 63.102,
+      "duration": 0.572,
+      "lexical": true
+    },
+    {
+      "start": 63.618,
+      "end": 64.83,
+      "duration": 1.212,
+      "lexical": true
+    },
+    {
+      "start": 65.634,
+      "end": 66.718,
+      "duration": 1.084,
+      "lexical": true
+    },
+    {
+      "start": 67.97,
+      "end": 69.374,
+      "duration": 1.404,
+      "lexical": true
+    },
+    {
+      "start": 70.754,
+      "end": 71.71,
+      "duration": 0.956,
+      "lexical": true
+    },
+    {
+      "start": 72.29,
+      "end": 73.054,
+      "duration": 0.764,
+      "lexical": true
+    },
+    {
+      "start": 77.666,
+      "end": 79.326,
+      "duration": 1.66,
+      "lexical": true
+    },
+    {
+      "start": 81.122,
+      "end": 81.662,
+      "duration": 0.54,
+      "lexical": true
+    },
+    {
+      "start": 81.762,
+      "end": 82.366,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 85.922,
+      "end": 86.334,
+      "duration": 0.412,
+      "lexical": false
+    },
+    {
+      "start": 87.01,
+      "end": 87.934,
+      "duration": 0.924,
+      "lexical": true
+    },
+    {
+      "start": 88.578,
+      "end": 89.022,
+      "duration": 0.444,
+      "lexical": true
+    },
+    {
+      "start": 89.122,
+      "end": 89.438,
+      "duration": 0.316,
+      "lexical": true
+    },
+    {
+      "start": 90.722,
+      "end": 91.582,
+      "duration": 0.86,
+      "lexical": true
+    },
+    {
+      "start": 91.97,
+      "end": 92.286,
+      "duration": 0.316,
+      "lexical": true
+    },
+    {
+      "start": 92.61,
+      "end": 93.182,
+      "duration": 0.572,
+      "lexical": true
+    },
+    {
+      "start": 94.178,
+      "end": 95.326,
+      "duration": 1.148,
+      "lexical": true
+    },
+    {
+      "start": 96.066,
+      "end": 97.47,
+      "duration": 1.404,
+      "lexical": true
+    },
+    {
+      "start": 99.298,
+      "end": 100.542,
+      "duration": 1.244,
+      "lexical": true
+    },
+    {
+      "start": 101.026,
+      "end": 101.79,
+      "duration": 0.764,
+      "lexical": true
+    },
+    {
+      "start": 103.138,
+      "end": 104.35,
+      "duration": 1.212,
+      "lexical": true
+    },
+    {
+      "start": 104.802,
+      "end": 105.63,
+      "duration": 0.828,
+      "lexical": true
+    },
+    {
+      "start": 105.794,
+      "end": 106.526,
+      "duration": 0.732,
+      "lexical": true
+    },
+    {
+      "start": 107.714,
+      "end": 108.766,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 112.002,
+      "end": 113.438,
+      "duration": 1.436,
+      "lexical": true
+    },
+    {
+      "start": 117.858,
+      "end": 118.686,
+      "duration": 0.828,
+      "lexical": true
+    },
+    {
+      "start": 119.266,
+      "end": 120.062,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 121.25,
+      "end": 122.878,
+      "duration": 1.628,
+      "lexical": true
+    },
+    {
+      "start": 123.522,
+      "end": 124.51,
+      "duration": 0.988,
+      "lexical": true
+    },
+    {
+      "start": 125.73,
+      "end": 126.878,
+      "duration": 1.148,
+      "lexical": true
+    },
+    {
+      "start": 128.386,
+      "end": 129.566,
+      "duration": 1.18,
+      "lexical": true
+    },
+    {
+      "start": 130.338,
+      "end": 131.294,
+      "duration": 0.956,
+      "lexical": true
+    },
+    {
+      "start": 131.554,
+      "end": 132.158,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 134.594,
+      "end": 135.23,
+      "duration": 0.636,
+      "lexical": true
+    },
+    {
+      "start": 137.986,
+      "end": 138.782,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 139.138,
+      "end": 139.582,
+      "duration": 0.444,
+      "lexical": true
+    },
+    {
+      "start": 141.89,
+      "end": 142.846,
+      "duration": 0.956,
+      "lexical": true
+    },
+    {
+      "start": 144.258,
+      "end": 144.862,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 146.85,
+      "end": 147.87,
+      "duration": 1.02,
+      "lexical": true
+    },
+    {
+      "start": 150.05,
+      "end": 151.294,
+      "duration": 1.244,
+      "lexical": true
+    },
+    {
+      "start": 152.194,
+      "end": 153.854,
+      "duration": 1.66,
+      "lexical": true
+    },
+    {
+      "start": 155.074,
+      "end": 156.126,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 157.858,
+      "end": 158.91,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 159.586,
+      "end": 160.19,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 162.018,
+      "end": 163.902,
+      "duration": 1.884,
+      "lexical": true
+    },
+    {
+      "start": 164.29,
+      "end": 165.118,
+      "duration": 0.828,
+      "lexical": true
+    },
+    {
+      "start": 165.858,
+      "end": 166.558,
+      "duration": 0.7,
+      "lexical": true
+    },
+    {
+      "start": 166.754,
+      "end": 167.23,
+      "duration": 0.476,
+      "lexical": true
+    },
+    {
+      "start": 167.394,
+      "end": 167.998,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 169.666,
+      "end": 170.75,
+      "duration": 1.084,
+      "lexical": true
+    },
+    {
+      "start": 171.586,
+      "end": 173.086,
+      "duration": 1.5,
+      "lexical": true
+    },
+    {
+      "start": 174.018,
+      "end": 174.654,
+      "duration": 0.636,
+      "lexical": true
+    },
+    {
+      "start": 176.546,
+      "end": 177.854,
+      "duration": 1.308,
+      "lexical": true
+    },
+    {
+      "start": 178.018,
+      "end": 179.486,
+      "duration": 1.468,
+      "lexical": true
+    },
+    {
+      "start": 180.386,
+      "end": 181.278,
+      "duration": 0.892,
+      "lexical": true
+    },
+    {
+      "start": 182.786,
+      "end": 183.998,
+      "duration": 1.212,
+      "lexical": true
+    },
+    {
+      "start": 187.01,
+      "end": 187.934,
+      "duration": 0.924,
+      "lexical": true
+    },
+    {
+      "start": 188.258,
+      "end": 188.894,
+      "duration": 0.636,
+      "lexical": true
+    },
+    {
+      "start": 190.21,
+      "end": 191.742,
+      "duration": 1.532,
+      "lexical": true
+    },
+    {
+      "start": 193.026,
+      "end": 194.622,
+      "duration": 1.596,
+      "lexical": true
+    },
+    {
+      "start": 195.714,
+      "end": 196.286,
+      "duration": 0.572,
+      "lexical": true
+    },
+    {
+      "start": 196.418,
+      "end": 197.022,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 201.058,
+      "end": 202.11,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 203.65,
+      "end": 204.35,
+      "duration": 0.7,
+      "lexical": true
+    },
+    {
+      "start": 205.698,
+      "end": 207.87,
+      "duration": 2.172,
+      "lexical": true
+    },
+    {
+      "start": 208.674,
+      "end": 210.59,
+      "duration": 1.916,
+      "lexical": true
+    },
+    {
+      "start": 211.202,
+      "end": 212.51,
+      "duration": 1.308,
+      "lexical": true
+    },
+    {
+      "start": 213.218,
+      "end": 213.886,
+      "duration": 0.668,
+      "lexical": true
+    },
+    {
+      "start": 214.69,
+      "end": 215.262,
+      "duration": 0.572,
+      "lexical": true
+    },
+    {
+      "start": 215.842,
+      "end": 216.862,
+      "duration": 1.02,
+      "lexical": true
+    },
+    {
+      "start": 217.538,
+      "end": 219.358,
+      "duration": 1.82,
+      "lexical": true
+    },
+    {
+      "start": 220.866,
+      "end": 221.854,
+      "duration": 0.988,
+      "lexical": true
+    },
+    {
+      "start": 224.418,
+      "end": 224.83,
+      "duration": 0.412,
+      "lexical": true
+    },
+    {
+      "start": 225.25,
+      "end": 225.758,
+      "duration": 0.508,
+      "lexical": true
+    },
+    {
+      "start": 228.258,
+      "end": 229.118,
+      "duration": 0.86,
+      "lexical": true
+    },
+    {
+      "start": 229.25,
+      "end": 229.886,
+      "duration": 0.636,
+      "lexical": true
+    },
+    {
+      "start": 230.946,
+      "end": 231.454,
+      "duration": 0.508,
+      "lexical": true
+    },
+    {
+      "start": 231.554,
+      "end": 232.67,
+      "duration": 1.116,
+      "lexical": true
+    },
+    {
+      "start": 233.826,
+      "end": 235.038,
+      "duration": 1.212,
+      "lexical": true
+    },
+    {
+      "start": 235.49,
+      "end": 236.446,
+      "duration": 0.956,
+      "lexical": true
+    },
+    {
+      "start": 237.858,
+      "end": 239.68,
+      "duration": 1.822,
+      "lexical": true
+    }
+  ],
+  "silence_segments": [
+    {
+      "start": 0.0,
+      "end": 0.77,
+      "duration": 0.77
+    },
+    {
+      "start": 1.086,
+      "end": 1.218,
+      "duration": 0.132
+    },
+    {
+      "start": 6.046,
+      "end": 6.37,
+      "duration": 0.324
+    },
+    {
+      "start": 7.39,
+      "end": 8.322,
+      "duration": 0.932
+    },
+    {
+      "start": 9.118,
+      "end": 9.41,
+      "duration": 0.292
+    },
+    {
+      "start": 10.238,
+      "end": 11.778,
+      "duration": 1.54
+    },
+    {
+      "start": 13.374,
+      "end": 14.69,
+      "duration": 1.316
+    },
+    {
+      "start": 16.318,
+      "end": 16.994,
+      "duration": 0.676
+    },
+    {
+      "start": 18.046,
+      "end": 20.546,
+      "duration": 2.5
+    },
+    {
+      "start": 22.75,
+      "end": 24.194,
+      "duration": 1.444
+    },
+    {
+      "start": 24.766,
+      "end": 25.89,
+      "duration": 1.124
+    },
+    {
+      "start": 27.326,
+      "end": 27.458,
+      "duration": 0.132
+    },
+    {
+      "start": 28.19,
+      "end": 33.058,
+      "duration": 4.868
+    },
+    {
+      "start": 34.11,
+      "end": 34.21,
+      "duration": 0.1
+    },
+    {
+      "start": 35.134,
+      "end": 37.538,
+      "duration": 2.404
+    },
+    {
+      "start": 40.126,
+      "end": 40.258,
+      "duration": 0.132
+    },
+    {
+      "start": 41.054,
+      "end": 41.57,
+      "duration": 0.516
+    },
+    {
+      "start": 43.518,
+      "end": 45.474,
+      "duration": 1.956
+    },
+    {
+      "start": 46.238,
+      "end": 47.106,
+      "duration": 0.868
+    },
+    {
+      "start": 48.062,
+      "end": 48.482,
+      "duration": 0.42
+    },
+    {
+      "start": 49.918,
+      "end": 51.362,
+      "duration": 1.444
+    },
+    {
+      "start": 52.606,
+      "end": 54.754,
+      "duration": 2.148
+    },
+    {
+      "start": 55.774,
+      "end": 56.29,
+      "duration": 0.516
+    },
+    {
+      "start": 56.798,
+      "end": 57.058,
+      "duration": 0.26
+    },
+    {
+      "start": 57.918,
+      "end": 58.114,
+      "duration": 0.196
+    },
+    {
+      "start": 61.214,
+      "end": 62.53,
+      "duration": 1.316
+    },
+    {
+      "start": 63.102,
+      "end": 63.618,
+      "duration": 0.516
+    },
+    {
+      "start": 64.83,
+      "end": 65.634,
+      "duration": 0.804
+    },
+    {
+      "start": 66.718,
+      "end": 67.97,
+      "duration": 1.252
+    },
+    {
+      "start": 69.374,
+      "end": 70.754,
+      "duration": 1.38
+    },
+    {
+      "start": 71.71,
+      "end": 72.29,
+      "duration": 0.58
+    },
+    {
+      "start": 73.054,
+      "end": 77.666,
+      "duration": 4.612
+    },
+    {
+      "start": 79.326,
+      "end": 81.122,
+      "duration": 1.796
+    },
+    {
+      "start": 81.662,
+      "end": 81.762,
+      "duration": 0.1
+    },
+    {
+      "start": 82.366,
+      "end": 85.922,
+      "duration": 3.556
+    },
+    {
+      "start": 86.334,
+      "end": 87.01,
+      "duration": 0.676
+    },
+    {
+      "start": 87.934,
+      "end": 88.578,
+      "duration": 0.644
+    },
+    {
+      "start": 89.022,
+      "end": 89.122,
+      "duration": 0.1
+    },
+    {
+      "start": 89.438,
+      "end": 90.722,
+      "duration": 1.284
+    },
+    {
+      "start": 91.582,
+      "end": 91.97,
+      "duration": 0.388
+    },
+    {
+      "start": 92.286,
+      "end": 92.61,
+      "duration": 0.324
+    },
+    {
+      "start": 93.182,
+      "end": 94.178,
+      "duration": 0.996
+    },
+    {
+      "start": 95.326,
+      "end": 96.066,
+      "duration": 0.74
+    },
+    {
+      "start": 97.47,
+      "end": 99.298,
+      "duration": 1.828
+    },
+    {
+      "start": 100.542,
+      "end": 101.026,
+      "duration": 0.484
+    },
+    {
+      "start": 101.79,
+      "end": 103.138,
+      "duration": 1.348
+    },
+    {
+      "start": 104.35,
+      "end": 104.802,
+      "duration": 0.452
+    },
+    {
+      "start": 105.63,
+      "end": 105.794,
+      "duration": 0.164
+    },
+    {
+      "start": 106.526,
+      "end": 107.714,
+      "duration": 1.188
+    },
+    {
+      "start": 108.766,
+      "end": 112.002,
+      "duration": 3.236
+    },
+    {
+      "start": 113.438,
+      "end": 117.858,
+      "duration": 4.42
+    },
+    {
+      "start": 118.686,
+      "end": 119.266,
+      "duration": 0.58
+    },
+    {
+      "start": 120.062,
+      "end": 121.25,
+      "duration": 1.188
+    },
+    {
+      "start": 122.878,
+      "end": 123.522,
+      "duration": 0.644
+    },
+    {
+      "start": 124.51,
+      "end": 125.73,
+      "duration": 1.22
+    },
+    {
+      "start": 126.878,
+      "end": 128.386,
+      "duration": 1.508
+    },
+    {
+      "start": 129.566,
+      "end": 130.338,
+      "duration": 0.772
+    },
+    {
+      "start": 131.294,
+      "end": 131.554,
+      "duration": 0.26
+    },
+    {
+      "start": 132.158,
+      "end": 134.594,
+      "duration": 2.436
+    },
+    {
+      "start": 135.23,
+      "end": 137.986,
+      "duration": 2.756
+    },
+    {
+      "start": 138.782,
+      "end": 139.138,
+      "duration": 0.356
+    },
+    {
+      "start": 139.582,
+      "end": 141.89,
+      "duration": 2.308
+    },
+    {
+      "start": 142.846,
+      "end": 144.258,
+      "duration": 1.412
+    },
+    {
+      "start": 144.862,
+      "end": 146.85,
+      "duration": 1.988
+    },
+    {
+      "start": 147.87,
+      "end": 150.05,
+      "duration": 2.18
+    },
+    {
+      "start": 151.294,
+      "end": 152.194,
+      "duration": 0.9
+    },
+    {
+      "start": 153.854,
+      "end": 155.074,
+      "duration": 1.22
+    },
+    {
+      "start": 156.126,
+      "end": 157.858,
+      "duration": 1.732
+    },
+    {
+      "start": 158.91,
+      "end": 159.586,
+      "duration": 0.676
+    },
+    {
+      "start": 160.19,
+      "end": 162.018,
+      "duration": 1.828
+    },
+    {
+      "start": 163.902,
+      "end": 164.29,
+      "duration": 0.388
+    },
+    {
+      "start": 165.118,
+      "end": 165.858,
+      "duration": 0.74
+    },
+    {
+      "start": 166.558,
+      "end": 166.754,
+      "duration": 0.196
+    },
+    {
+      "start": 167.23,
+      "end": 167.394,
+      "duration": 0.164
+    },
+    {
+      "start": 167.998,
+      "end": 169.666,
+      "duration": 1.668
+    },
+    {
+      "start": 170.75,
+      "end": 171.586,
+      "duration": 0.836
+    },
+    {
+      "start": 173.086,
+      "end": 174.018,
+      "duration": 0.932
+    },
+    {
+      "start": 174.654,
+      "end": 176.546,
+      "duration": 1.892
+    },
+    {
+      "start": 177.854,
+      "end": 178.018,
+      "duration": 0.164
+    },
+    {
+      "start": 179.486,
+      "end": 180.386,
+      "duration": 0.9
+    },
+    {
+      "start": 181.278,
+      "end": 182.786,
+      "duration": 1.508
+    },
+    {
+      "start": 183.998,
+      "end": 187.01,
+      "duration": 3.012
+    },
+    {
+      "start": 187.934,
+      "end": 188.258,
+      "duration": 0.324
+    },
+    {
+      "start": 188.894,
+      "end": 190.21,
+      "duration": 1.316
+    },
+    {
+      "start": 191.742,
+      "end": 193.026,
+      "duration": 1.284
+    },
+    {
+      "start": 194.622,
+      "end": 195.714,
+      "duration": 1.092
+    },
+    {
+      "start": 196.286,
+      "end": 196.418,
+      "duration": 0.132
+    },
+    {
+      "start": 197.022,
+      "end": 201.058,
+      "duration": 4.036
+    },
+    {
+      "start": 202.11,
+      "end": 203.65,
+      "duration": 1.54
+    },
+    {
+      "start": 204.35,
+      "end": 205.698,
+      "duration": 1.348
+    },
+    {
+      "start": 207.87,
+      "end": 208.674,
+      "duration": 0.804
+    },
+    {
+      "start": 210.59,
+      "end": 211.202,
+      "duration": 0.612
+    },
+    {
+      "start": 212.51,
+      "end": 213.218,
+      "duration": 0.708
+    },
+    {
+      "start": 213.886,
+      "end": 214.69,
+      "duration": 0.804
+    },
+    {
+      "start": 215.262,
+      "end": 215.842,
+      "duration": 0.58
+    },
+    {
+      "start": 216.862,
+      "end": 217.538,
+      "duration": 0.676
+    },
+    {
+      "start": 219.358,
+      "end": 220.866,
+      "duration": 1.508
+    },
+    {
+      "start": 221.854,
+      "end": 224.418,
+      "duration": 2.564
+    },
+    {
+      "start": 224.83,
+      "end": 225.25,
+      "duration": 0.42
+    },
+    {
+      "start": 225.758,
+      "end": 228.258,
+      "duration": 2.5
+    },
+    {
+      "start": 229.118,
+      "end": 229.25,
+      "duration": 0.132
+    },
+    {
+      "start": 229.886,
+      "end": 230.946,
+      "duration": 1.06
+    },
+    {
+      "start": 231.454,
+      "end": 231.554,
+      "duration": 0.1
+    },
+    {
+      "start": 232.67,
+      "end": 233.826,
+      "duration": 1.156
+    },
+    {
+      "start": 235.038,
+      "end": 235.49,
+      "duration": 0.452
+    },
+    {
+      "start": 236.446,
+      "end": 237.858,
+      "duration": 1.412
+    }
+  ]
+}

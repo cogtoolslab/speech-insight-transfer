@@ -1,0 +1,302 @@
+---
+title: "Leveraging speech to identify signatures of insight and transfer in problem solving"
+output:
+  pdf_document: default
+  html_document: default
+date: "2026-05-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(readr)
+library(dplyr)
+library(lme4)
+library(lmerTest)
+library(emmeans)
+
+data_path <- function(...) {
+  path_from_analysis <- file.path("..", "data", ...)
+  path_from_project <- file.path("data", ...)
+
+  if (file.exists(path_from_analysis)) {
+    return(path_from_analysis)
+  }
+  if (file.exists(path_from_project)) {
+    return(path_from_project)
+  }
+
+  stop("Could not find data file: ", file.path(...), call. = FALSE)
+}
+
+to_binary_correct <- function(x) {
+  x_chr <- tolower(as.character(x))
+  case_when(
+    x_chr %in% c("true", "1") ~ 1L,
+    x_chr %in% c("false", "0") ~ 0L,
+    TRUE ~ NA_integer_
+  )
+}
+```
+
+## Load datasets
+
+```{r}
+performance_raw <- read_csv(
+  data_path("performance", "trials_df.csv"),
+  show_col_types = FALSE
+)
+
+density_raw <- read_csv(
+  data_path("speech_density", "speech_density_trial_level.csv"),
+  show_col_types = FALSE
+)
+
+density_bins_raw <- read_csv(
+  data_path("speech_density", "speech_density_bin_level_K5.csv"),
+  show_col_types = FALSE
+)
+
+rate_raw <- read_csv(
+  data_path("speech_rate", "speech_rate_trial_level.csv"),
+  show_col_types = FALSE
+)
+```
+
+## Task Performance
+
+```{r}
+performance_df <- performance_raw %>%
+  mutate(
+    is_correct = to_binary_correct(is_correct),
+    participant_id = factor(participant_id),
+    group = factor(
+      as.character(group),
+      levels = c("1", "2"),
+      labels = c("Same-Type", "Different-Type")
+    ),
+    problem_type = relevel(factor(task_type), ref = "value-loose-chunk"),
+    trial_number = as.integer(trial_number),
+    trial_c = as.numeric(scale(trial_number, center = TRUE, scale = FALSE)),
+    log_rt = log(ifelse(rt > 0, rt, NA_real_))
+  )
+```
+
+### Accuracy Across Trials
+
+```{r}
+model_accuracy <- glmer(
+  is_correct ~ trial_c * group + problem_type + (1 + trial_c | participant_id),
+  data = performance_df,
+  family = binomial,
+  control = glmerControl(optimizer = "bobyqa")
+)
+
+summary(model_accuracy)
+```
+
+```{r}
+predicted_accuracy <- emmeans(
+  model_accuracy,
+  ~ trial_c | group,
+  at = list(trial_c = c(-2, -1, 0, 1, 2)),
+  type = "response"
+) %>%
+  as.data.frame() %>%
+  mutate(trial_number = trial_c + 3)
+
+same_predictions <- filter(predicted_accuracy, group == "Same-Type")
+different_predictions <- filter(predicted_accuracy, group == "Different-Type")
+
+cat(
+  "Same-Type, Trial 1 predicted accuracy:",
+  same_predictions$prob[same_predictions$trial_number == 1],
+  "\n"
+)
+cat(
+  "Same-Type, Trial 5 predicted accuracy:",
+  same_predictions$prob[same_predictions$trial_number == 5],
+  "\n"
+)
+cat(
+  "Different-Type, minimum predicted accuracy (Trials 1-5):",
+  min(different_predictions$prob),
+  "\n"
+)
+cat(
+  "Different-Type, maximum predicted accuracy (Trials 1-5):",
+  max(different_predictions$prob),
+  "\n"
+)
+```
+
+### Response Times Across Trials
+
+```{r}
+performance_correct_df <- performance_df %>%
+  filter(is_correct == 1, !is.na(log_rt))
+
+model_rt <- lmer(
+  log_rt ~ trial_c * group + problem_type + (1 + trial_c | participant_id),
+  data = performance_correct_df,
+  control = lmerControl(optimizer = "bobyqa")
+)
+
+summary(model_rt)
+```
+
+## Speech Density
+
+```{r}
+density_df <- density_raw %>%
+  mutate(
+    participant_id = factor(participant_id),
+    group = relevel(factor(as.character(group)), ref = "1"),
+    task_type = factor(task_type),
+    phase = factor(phase),
+    is_correct = to_binary_correct(is_correct)
+  ) %>%
+  filter(!is.na(speech_ratio_audio), is.finite(speech_ratio_audio))
+```
+
+### Correct Versus Incorrect Trials
+
+```{r}
+model_density_correctness <- lmer(
+  speech_ratio_audio ~ is_correct * group + task_type + (1 + is_correct | participant_id),
+  data = density_df,
+  REML = FALSE
+)
+
+summary(model_density_correctness)
+anova(model_density_correctness)
+```
+
+```{r}
+density_correctness_overall <- emmeans(
+  model_density_correctness,
+  ~ is_correct,
+  weights = "proportional"
+)
+
+contrast(density_correctness_overall, method = "revpairwise")
+```
+
+### Problem-Solving Phases
+
+```{r}
+density_phase_df <- density_df %>%
+  mutate(
+    phase = factor(
+      phase,
+      levels = c("pre_incorrect", "first_correct", "post_correct", "post_incorrect")
+    ),
+    phase = relevel(phase, ref = "first_correct")
+  ) %>%
+  filter(!is.na(phase))
+
+model_density_phase <- lmer(
+  speech_ratio_audio ~ phase * group + task_type + (1 | participant_id),
+  data = density_phase_df,
+  REML = FALSE
+)
+
+summary(model_density_phase)
+anova(model_density_phase)
+```
+
+```{r}
+density_phase_emm <- emmeans(model_density_phase, ~ phase | group)
+
+density_phase_contrasts <- contrast(
+  density_phase_emm,
+  method = list(
+    "first_correct - pre_incorrect" = c(1, -1, 0, 0),
+    "post_correct - first_correct" = c(-1, 0, 1, 0)
+  ),
+  adjust = "none"
+)
+
+summary(density_phase_contrasts)
+```
+
+### Five Temporal Bins
+
+```{r}
+density_bins_df <- density_bins_raw %>%
+  mutate(
+    participant_id = factor(participant_id),
+    group = relevel(factor(as.character(group)), ref = "1"),
+    phase = factor(
+      phase,
+      levels = c("first_correct", "post_correct", "pre_incorrect", "post_incorrect")
+    ),
+    task_type = factor(task_type),
+    bin_idx = relevel(factor(bin_idx), ref = "1")
+  ) %>%
+  filter(!is.na(phase), is.finite(speech_density))
+
+model_density_bins <- lmer(
+  speech_density ~ phase * group * bin_idx + task_type + (1 | participant_id),
+  data = density_bins_df,
+  REML = FALSE
+)
+
+anova(model_density_bins)
+```
+
+```{r}
+density_bin_phase_emm <- emmeans(
+  model_density_bins,
+  ~ phase | group * bin_idx
+)
+
+post_minus_first_by_bin <- contrast(
+  density_bin_phase_emm,
+  method = list("post_correct - first_correct" = c(-1, 1, 0, 0)),
+  adjust = "none"
+)
+
+summary(post_minus_first_by_bin, infer = TRUE)
+```
+
+## Speech Rate
+
+```{r}
+rate_df <- rate_raw %>%
+  mutate(
+    participant_id = factor(participant_id),
+    group = relevel(factor(as.character(group)), ref = "1"),
+    task_type = factor(task_type),
+    phase = factor(
+      phase,
+      levels = c("first_correct", "pre_incorrect", "post_correct", "post_incorrect")
+    ),
+    wps_used = as.numeric(wps_used)
+  ) %>%
+  filter(!is.na(phase), is.finite(wps_used))
+
+model_rate_phase <- lmer(
+  wps_used ~ phase * group + task_type + (1 | participant_id),
+  data = rate_df,
+  REML = FALSE
+)
+
+summary(model_rate_phase)
+anova(model_rate_phase)
+```
+
+```{r}
+rate_phase_emm <- emmeans(model_rate_phase, ~ phase | group)
+
+rate_phase_contrasts <- contrast(
+  rate_phase_emm,
+  method = list(
+    "first_correct - pre_incorrect" = c(1, -1, 0, 0),
+    "post_correct - first_correct" = c(-1, 0, 1, 0)
+  ),
+  adjust = "none"
+)
+
+summary(rate_phase_contrasts)
+```

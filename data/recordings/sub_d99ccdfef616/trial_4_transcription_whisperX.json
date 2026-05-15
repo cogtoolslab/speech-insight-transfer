@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_d99ccdfef616/trial_4.wav",
+  "with_timestamps": {
+    "text": " I'm not doing very good at this.Only move one metric.So that's 13 equals 7 minus 6.So we've got 2, 3 equals, this is automatically what my head wants to do.And this is why it's going to be wrong, because I don't have anything to add there. um I know if it was adding we'd be good but we're not um so if we did that we've got 10 11 12 Again, we could move this to here, but then that would be 12, not 13.And if we stood a match, stick up right, that would be 4.Then the answer would only be 1. 1, that would be 10 minus 2, would equal the same thing.So I'm looking for something that would equal 1.Oh, I'm lost.Let's see.So we've got 13. minus it makes no sense",
+    "segments": [
+      {
+        "text": " I'm not doing very good at this.",
+        "start": 0.031,
+        "end": 1.373
+      },
+      {
+        "text": "Only move one metric.",
+        "start": 2.014,
+        "end": 3.075
+      },
+      {
+        "text": "So that's 13 equals 7 minus 6.",
+        "start": 3.155,
+        "end": 8.543
+      },
+      {
+        "text": "So we've got 2, 3 equals, this is automatically what my head wants to do.",
+        "start": 13.15,
+        "end": 24.045
+      },
+      {
+        "text": "And this is why it's going to be wrong, because I don't have anything to add there.",
+        "start": 25.507,
+        "end": 28.992
+      },
+      {
+        "text": " um I know if it was adding we'd be good but we're not um so if we did that we've got 10 11 12",
+        "start": 29.815,
+        "end": 54.928
+      },
+      {
+        "text": " Again, we could move this to here, but then that would be 12, not 13.",
+        "start": 58.452,
+        "end": 62.898
+      },
+      {
+        "text": "And if we stood a match, stick up right, that would be 4.",
+        "start": 68.324,
+        "end": 75.193
+      },
+      {
+        "text": "Then the answer would only be 1.",
+        "start": 75.293,
+        "end": 80.68
+      },
+      {
+        "text": " 1, that would be 10 minus 2, would equal the same thing.",
+        "start": 87.393,
+        "end": 95.245
+      },
+      {
+        "text": "So I'm looking for something that would equal 1.",
+        "start": 95.325,
+        "end": 97.448
+      },
+      {
+        "text": "Oh, I'm lost.",
+        "start": 97.468,
+        "end": 103.838
+      },
+      {
+        "text": "Let's see.",
+        "start": 109.807,
+        "end": 110.328
+      },
+      {
+        "text": "So we've got 13.",
+        "start": 110.348,
+        "end": 112.371
+      },
+      {
+        "text": " minus it makes no sense",
+        "start": 120.89,
+        "end": 129.499
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm not doing very good at this. Only move one metric. So that's 13 equals 7 minus 6. So we've got 2, 3 equals, this is automatically what my head wants to do. And this is why it's going to be wrong, because I don't have anything to add there. um I know if it was adding we'd be good but we're not um so if we did that we've got 10 11 12 Again, we could move this to here, but then that would be 12, not 13. And if we stood a match, stick up right, that would be 4. Then the answer would only be 1. 1, that would be 10 minus 2, would equal the same thing. So I'm looking for something that would equal 1. Oh, I'm lost. Let's see. So we've got 13. minus it makes no sense"
+  }
+}

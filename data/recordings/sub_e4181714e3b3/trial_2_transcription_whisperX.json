@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_e4181714e3b3/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, 13 equals 8 minus, or no, 7 minus 6, so 13, 6, 7.So 7 plus 6 equals 13. but how do I make that into a plus?I can't really take away any.So, oh, so no.So 12 equals seven plus five.So if I were to take that and make that into a plus, that would be, six plus six to make that a plus, but that's 13 on that side.So if I say 12 is seven plus six is 13.What am I?So if I, okay, let's say I make, so that would be eight equals seven minus, I feel like, oh wait, 13 minus 7 equals 6.So it's going to be x13 minus and then v7 and then this is where I added the one I moved equals 6.",
+    "segments": [
+      {
+        "text": " Okay, 13 equals 8 minus, or no, 7 minus 6, so 13, 6, 7.",
+        "start": 1.263,
+        "end": 16.12
+      },
+      {
+        "text": "So 7 plus 6 equals 13.",
+        "start": 16.14,
+        "end": 28.013
+      },
+      {
+        "text": " but how do I make that into a plus?",
+        "start": 29.545,
+        "end": 32.188
+      },
+      {
+        "text": "I can't really take away any.",
+        "start": 32.268,
+        "end": 33.63
+      },
+      {
+        "text": "So, oh, so no.",
+        "start": 35.733,
+        "end": 41.139
+      },
+      {
+        "text": "So 12 equals seven plus five.",
+        "start": 41.159,
+        "end": 50.511
+      },
+      {
+        "text": "So if I were to take that and make that into a plus, that would be,",
+        "start": 50.751,
+        "end": 56.278
+      },
+      {
+        "text": " six plus six to make that a plus, but that's 13 on that side.",
+        "start": 58.03,
+        "end": 64.458
+      },
+      {
+        "text": "So if I say 12 is seven plus six is 13.",
+        "start": 66.4,
+        "end": 71.887
+      },
+      {
+        "text": "What am I?",
+        "start": 75.071,
+        "end": 75.792
+      },
+      {
+        "text": "So if I, okay, let's say I make, so that would be eight equals seven minus,",
+        "start": 78.956,
+        "end": 86.485
+      },
+      {
+        "text": " I feel like, oh wait, 13 minus 7 equals 6.",
+        "start": 87.022,
+        "end": 102.158
+      },
+      {
+        "text": "So it's going to be x13 minus and then v7 and then this is where I added the one I moved equals 6.",
+        "start": 102.218,
+        "end": 115.712
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 13 equals 8 minus, or no, 7 minus 6, so 13, 6, 7. So 7 plus 6 equals 13. but how do I make that into a plus? I can't really take away any. So, oh, so no. So 12 equals seven plus five. So if I were to take that and make that into a plus, that would be, six plus six to make that a plus, but that's 13 on that side. So if I say 12 is seven plus six is 13. What am I? So if I, okay, let's say I make, so that would be eight equals seven minus, I feel like, oh wait, 13 minus 7 equals 6. So it's going to be x13 minus and then v7 and then this is where I added the one I moved equals 6."
+  }
+}

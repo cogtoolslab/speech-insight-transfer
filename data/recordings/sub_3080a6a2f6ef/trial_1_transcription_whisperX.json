@@ -1,0 +1,191 @@
+{
+  "file": "data/recordings/sub_3080a6a2f6ef/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I can already see that this is 2 equals x with a 1 in front, that is 9.So 2 equals 9 minus 2, which is not true because 9 minus 2 is 7.And 2 does not equal 7, which means I have to find some way to make this equal to 2.So I have to move one of the matches to make it so that way the right side of this equation equals 2.Now if I move the matchstick for 9, if I move the X in front of the one that makes it 11 minus 2, which is a bigger number, so that will not work. Ooh, if I move the singular matchstick from the 9 to the 2, I then make it so it's 10 minus 3.No.10 minus, if I move one matchstick, if I move another matchstick in front of the 10 to make it 8 minus 1, that makes it 7.Huh. I'm going to write this down on a piece of paper.I'm going to write it down in Roman numerals on the paper, that way I can physically see how I would move them back and forth.2 equals 9 minus 2, which is 7.The difference between 7 and 2 is 5. So I somehow need, I can only move a matchstick.I can't add a matchstick.By that logic, could I move the one matchstick for the X slightly to the left to make it a V?No, I don't think that would be within the rules.Okay.Oh, wait a second.Maybe I can move it over the equal sign. OK, so I can move the 10 over the equal sign to make it 8 is 1 minus 2.No, 8 is not 1 minus 2.This was way harder than I thought it was going to be. Hang on.So 9 minus 2, 9, 8, 7.I need to wait for 7 to equal 2.Can we move one matchstick?Can I move a matchstick on the minus to make it a plus?Is that allowed within the rules?So I move. So I do 9 plus 1 is 10.No, 10 does not equal 2.I don't know.Is this?I mean, it's probably possible, but I can't think of any way to make this equivalent.",
+    "segments": [
+      {
+        "text": " Okay, so I can already see that this is 2 equals x with a 1 in front, that is 9.",
+        "start": 0.892,
+        "end": 9.464
+      },
+      {
+        "text": "So 2 equals 9 minus 2, which is not true because 9 minus 2 is 7.",
+        "start": 9.904,
+        "end": 16.513
+      },
+      {
+        "text": "And 2 does not equal 7, which means I have to find some way to make this equal to 2.",
+        "start": 19.357,
+        "end": 28.449
+      },
+      {
+        "text": "So I have to move",
+        "start": 29.23,
+        "end": 30.392
+      },
+      {
+        "text": " one of the matches to make it so that way the right side of this equation equals 2.",
+        "start": 31.942,
+        "end": 41.011
+      },
+      {
+        "text": "Now if I move the matchstick for 9, if I move the X in front of the one that makes it 11 minus 2, which is a bigger number, so that will not work.",
+        "start": 41.191,
+        "end": 58.067
+      },
+      {
+        "text": " Ooh, if I move the singular matchstick from the 9 to the 2, I then make it so it's 10 minus 3.",
+        "start": 60.19,
+        "end": 70.427
+      },
+      {
+        "text": "No.",
+        "start": 70.487,
+        "end": 70.847
+      },
+      {
+        "text": "10 minus, if I move one matchstick, if I move another matchstick in front of the 10 to make it 8 minus 1, that makes it 7.",
+        "start": 70.867,
+        "end": 83.488
+      },
+      {
+        "text": "Huh.",
+        "start": 83.528,
+        "end": 86.012
+      },
+      {
+        "text": " I'm going to write this down on a piece of paper.",
+        "start": 88.945,
+        "end": 91.007
+      },
+      {
+        "text": "I'm going to write it down in Roman numerals on the paper, that way I can physically see how I would move them back and forth.",
+        "start": 91.027,
+        "end": 100.495
+      },
+      {
+        "text": "2 equals 9 minus 2, which is 7.",
+        "start": 100.515,
+        "end": 113.807
+      },
+      {
+        "text": "The difference between 7 and 2 is 5.",
+        "start": 115.328,
+        "end": 118.851
+      },
+      {
+        "text": " So I somehow need, I can only move a matchstick.",
+        "start": 119.455,
+        "end": 125.501
+      },
+      {
+        "text": "I can't add a matchstick.",
+        "start": 125.541,
+        "end": 127.022
+      },
+      {
+        "text": "By that logic, could I move the one matchstick for the X slightly to the left to make it a V?",
+        "start": 131.267,
+        "end": 137.473
+      },
+      {
+        "text": "No, I don't think that would be within the rules.",
+        "start": 137.593,
+        "end": 139.655
+      },
+      {
+        "text": "Okay.",
+        "start": 140.776,
+        "end": 142.358
+      },
+      {
+        "text": "Oh, wait a second.",
+        "start": 142.378,
+        "end": 144.78
+      },
+      {
+        "text": "Maybe I can move it over the equal sign.",
+        "start": 145.521,
+        "end": 147.943
+      },
+      {
+        "text": " OK, so I can move the 10 over the equal sign to make it 8 is 1 minus 2.",
+        "start": 150.1,
+        "end": 169.48
+      },
+      {
+        "text": "No, 8 is not 1 minus 2.",
+        "start": 169.5,
+        "end": 171.602
+      },
+      {
+        "text": "This was way harder than I thought it was going to be.",
+        "start": 171.622,
+        "end": 178.909
+      },
+      {
+        "text": " Hang on.",
+        "start": 180.087,
+        "end": 183.733
+      },
+      {
+        "text": "So 9 minus 2, 9, 8, 7.",
+        "start": 183.753,
+        "end": 185.436
+      },
+      {
+        "text": "I need to wait for 7 to equal 2.",
+        "start": 185.556,
+        "end": 188.601
+      },
+      {
+        "text": "Can we move one matchstick?",
+        "start": 190.565,
+        "end": 192.107
+      },
+      {
+        "text": "Can I move a matchstick on the minus to make it a plus?",
+        "start": 193.71,
+        "end": 200.942
+      },
+      {
+        "text": "Is that allowed within the rules?",
+        "start": 201.042,
+        "end": 202.304
+      },
+      {
+        "text": "So I move.",
+        "start": 204.668,
+        "end": 205.69
+      },
+      {
+        "text": " So I do 9 plus 1 is 10.",
+        "start": 207.661,
+        "end": 210.143
+      },
+      {
+        "text": "No, 10 does not equal 2.",
+        "start": 210.163,
+        "end": 212.646
+      },
+      {
+        "text": "I don't know.",
+        "start": 212.766,
+        "end": 224.277
+      },
+      {
+        "text": "Is this?",
+        "start": 228.981,
+        "end": 229.301
+      },
+      {
+        "text": "I mean, it's probably possible, but I can't think of any way to make this equivalent.",
+        "start": 230.482,
+        "end": 236.368
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I can already see that this is 2 equals x with a 1 in front, that is 9. So 2 equals 9 minus 2, which is not true because 9 minus 2 is 7. And 2 does not equal 7, which means I have to find some way to make this equal to 2. So I have to move one of the matches to make it so that way the right side of this equation equals 2. Now if I move the matchstick for 9, if I move the X in front of the one that makes it 11 minus 2, which is a bigger number, so that will not work. Ooh, if I move the singular matchstick from the 9 to the 2, I then make it so it's 10 minus 3. No. 10 minus, if I move one matchstick, if I move another matchstick in front of the 10 to make it 8 minus 1, that makes it 7. Huh. I'm going to write this down on a piece of paper. I'm going to write it down in Roman numerals on the paper, that way I can physically see how I would move them back and forth. 2 equals 9 minus 2, which is 7. The difference between 7 and 2 is 5. So I somehow need, I can only move a matchstick. I can't add a matchstick. By that logic, could I move the one matchstick for the X slightly to the left to make it a V? No, I don't think that would be within the rules. Okay. Oh, wait a second. Maybe I can move it over the equal sign. OK, so I can move the 10 over the equal sign to make it 8 is 1 minus 2. No, 8 is not 1 minus 2. This was way harder than I thought it was going to be. Hang on. So 9 minus 2, 9, 8, 7. I need to wait for 7 to equal 2. Can we move one matchstick? Can I move a matchstick on the minus to make it a plus? Is that allowed within the rules? So I move. So I do 9 plus 1 is 10. No, 10 does not equal 2. I don't know. Is this? I mean, it's probably possible, but I can't think of any way to make this equivalent."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_6f0ea503bf10/trial_2.wav",
+  "with_timestamps": {
+    "text": " okay so i have 6 equals 4 minus 2 okay 5 equals 5 equals 3 plus 2 so move from wait no 6 equals yeah 5 equals 4 5 equals 4 plus 2 plus 3 6 equals 4 minus 2 six equals four plus two six equals six six equals five plus two um six equals okay six equals oh uh five equals four plus two um six equals four minus two so i'm at six equals two I need to move four.Oh, four equals, oh no, that doesn't work.Four minus two.Oh my God, I'm getting close, a minute and a half.Okay, two, six, Five plus two.Six equals five plus two.Six.Okay, let's do, oh, seven, no.Oh, no, that won't wait.Six equals four plus one. um i feel like this should be easier okay five plus two five minus four minus two Yeah, I don't know.I didn't get this one.",
+    "segments": [
+      {
+        "text": " okay so i have 6 equals 4 minus 2 okay 5 equals 5 equals 3 plus 2 so move from",
+        "start": 1.448,
+        "end": 28.57
+      },
+      {
+        "text": " wait no 6 equals yeah 5 equals 4 5 equals 4 plus 2 plus 3 6 equals 4 minus 2",
+        "start": 30.085,
+        "end": 58.489
+      },
+      {
+        "text": " six equals four plus two six equals six six equals five plus two um six equals okay six equals oh",
+        "start": 60.41,
+        "end": 88.054
+      },
+      {
+        "text": " uh five equals four plus two um six equals four minus two so i'm at six equals two",
+        "start": 89.873,
+        "end": 119.205
+      },
+      {
+        "text": " I need to move four.",
+        "start": 119.978,
+        "end": 121.82
+      },
+      {
+        "text": "Oh, four equals, oh no, that doesn't work.",
+        "start": 121.84,
+        "end": 134.171
+      },
+      {
+        "text": "Four minus two.",
+        "start": 134.191,
+        "end": 135.032
+      },
+      {
+        "text": "Oh my God, I'm getting close, a minute and a half.",
+        "start": 135.553,
+        "end": 139.917
+      },
+      {
+        "text": "Okay, two, six,",
+        "start": 140.337,
+        "end": 148.585
+      },
+      {
+        "text": " Five plus two.",
+        "start": 151.467,
+        "end": 153.23
+      },
+      {
+        "text": "Six equals five plus two.",
+        "start": 155.793,
+        "end": 157.876
+      },
+      {
+        "text": "Six.",
+        "start": 161.241,
+        "end": 161.682
+      },
+      {
+        "text": "Okay, let's do, oh, seven, no.",
+        "start": 164.366,
+        "end": 166.349
+      },
+      {
+        "text": "Oh, no, that won't wait.",
+        "start": 166.409,
+        "end": 172.478
+      },
+      {
+        "text": "Six equals four plus one.",
+        "start": 173.259,
+        "end": 177.846
+      },
+      {
+        "text": " um i feel like this should be easier okay five plus two five minus four minus two",
+        "start": 180.543,
+        "end": 203.952
+      },
+      {
+        "text": " Yeah, I don't know.",
+        "start": 209.365,
+        "end": 236.626
+      },
+      {
+        "text": "I didn't get this one.",
+        "start": 236.646,
+        "end": 237.567
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay so i have 6 equals 4 minus 2 okay 5 equals 5 equals 3 plus 2 so move from wait no 6 equals yeah 5 equals 4 5 equals 4 plus 2 plus 3 6 equals 4 minus 2 six equals four plus two six equals six six equals five plus two um six equals okay six equals oh uh five equals four plus two um six equals four minus two so i'm at six equals two I need to move four. Oh, four equals, oh no, that doesn't work. Four minus two. Oh my God, I'm getting close, a minute and a half. Okay, two, six, Five plus two. Six equals five plus two. Six. Okay, let's do, oh, seven, no. Oh, no, that won't wait. Six equals four plus one. um i feel like this should be easier okay five plus two five minus four minus two Yeah, I don't know. I didn't get this one."
+  }
+}

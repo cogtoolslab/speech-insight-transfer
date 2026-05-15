@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_612d041941ce/trial_4.wav",
+  "with_timestamps": {
+    "text": " So for this one, I need to move one matchstick.I have 4 equals 11 minus 2, which is 9.So just like the previous three, if I change the V to an X by moving the matchstick over and making those cross instead of a V, it would be 9 equals 11 minus 2, which gives us, once again, a correct solution and equation. Come on, come on.There.",
+    "segments": [
+      {
+        "text": " So for this one, I need to move one matchstick.",
+        "start": 1.516,
+        "end": 4.039
+      },
+      {
+        "text": "I have 4 equals 11 minus 2, which is 9.",
+        "start": 4.079,
+        "end": 8.884
+      },
+      {
+        "text": "So just like the previous three, if I change the V to an X by moving the matchstick over and making those cross instead of a V, it would be 9 equals 11 minus 2, which gives us, once again, a correct solution and equation.",
+        "start": 9.805,
+        "end": 30.527
+      },
+      {
+        "text": " Come on, come on.",
+        "start": 32.279,
+        "end": 33.467
+      },
+      {
+        "text": "There.",
+        "start": 36.346,
+        "end": 36.99
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So for this one, I need to move one matchstick. I have 4 equals 11 minus 2, which is 9. So just like the previous three, if I change the V to an X by moving the matchstick over and making those cross instead of a V, it would be 9 equals 11 minus 2, which gives us, once again, a correct solution and equation. Come on, come on. There."
+  }
+}

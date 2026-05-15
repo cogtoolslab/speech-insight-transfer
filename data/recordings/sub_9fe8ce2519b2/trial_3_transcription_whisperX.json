@@ -1,0 +1,221 @@
+{
+  "file": "data/recordings/sub_9fe8ce2519b2/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, six equals four minus two.What's right, right?No.It would be five equals, five equals seven minus two.Five equals seven minus two. Nope.Yeah.I didn't think that was right.Okay.Next.Um, it would be, so what do I have?Four minus two there.So it'd be plus, but I don't have an extra match stick.This is, this is six.This is four minus two, six equals four plus two.I don't have an extra match stick though. So 2 plus 4 equals 6, but I don't have an extra matchstick.This is hard.Okay.How about 5 equals 7 minus 2?7 minus 2, right?So I would move Can only move one match a day.It would be, so that's six.How about five equals seven minus one.No, no, that's not it.All right, how about How about, okay, 1 equals 6 minus 7.1 equals 6 minus, oops, 1 equals 6 minus 7. And is it one equals seven minus six?No, that's moving too many matches.How can I quit at this?All right.Um, one, five equals, yeah, five equals, Five, no.Arm.Don't know.I would say what I'm thinking out loud, but I'm not really thinking.I'm stuck.Six, oh wait, okay, wait. minus four equals two.I think I",
+    "segments": [
+      {
+        "text": " All right, six equals four minus two.",
+        "start": 0.031,
+        "end": 4.535
+      },
+      {
+        "text": "What's right, right?",
+        "start": 4.896,
+        "end": 5.977
+      },
+      {
+        "text": "No.",
+        "start": 6.197,
+        "end": 6.477
+      },
+      {
+        "text": "It would be five equals, five equals seven minus two.",
+        "start": 10.241,
+        "end": 15.966
+      },
+      {
+        "text": "Five equals seven minus two.",
+        "start": 16.627,
+        "end": 27.878
+      },
+      {
+        "text": " Nope.",
+        "start": 28.786,
+        "end": 29.887
+      },
+      {
+        "text": "Yeah.",
+        "start": 29.907,
+        "end": 30.007
+      },
+      {
+        "text": "I didn't think that was right.",
+        "start": 30.027,
+        "end": 30.888
+      },
+      {
+        "text": "Okay.",
+        "start": 31.249,
+        "end": 31.549
+      },
+      {
+        "text": "Next.",
+        "start": 32.21,
+        "end": 32.61
+      },
+      {
+        "text": "Um, it would be, so what do I have?",
+        "start": 33.351,
+        "end": 41.259
+      },
+      {
+        "text": "Four minus two there.",
+        "start": 41.299,
+        "end": 42.34
+      },
+      {
+        "text": "So it'd be plus, but I don't have an extra match stick.",
+        "start": 42.4,
+        "end": 47.245
+      },
+      {
+        "text": "This is, this is six.",
+        "start": 48.246,
+        "end": 49.848
+      },
+      {
+        "text": "This is four minus two, six equals four plus two.",
+        "start": 49.948,
+        "end": 56.795
+      },
+      {
+        "text": "I don't have an extra match stick though.",
+        "start": 56.975,
+        "end": 58.557
+      },
+      {
+        "text": " So 2 plus 4 equals 6, but I don't have an extra matchstick.",
+        "start": 60.224,
+        "end": 65.71
+      },
+      {
+        "text": "This is hard.",
+        "start": 69.033,
+        "end": 69.634
+      },
+      {
+        "text": "Okay.",
+        "start": 69.854,
+        "end": 70.835
+      },
+      {
+        "text": "How about 5 equals 7 minus 2?",
+        "start": 72.798,
+        "end": 80.946
+      },
+      {
+        "text": "7 minus 2, right?",
+        "start": 82.468,
+        "end": 83.589
+      },
+      {
+        "text": "So I would move",
+        "start": 85.792,
+        "end": 87.193
+      },
+      {
+        "text": " Can only move one match a day.",
+        "start": 88.675,
+        "end": 90.897
+      },
+      {
+        "text": "It would be, so that's six.",
+        "start": 93.179,
+        "end": 95.021
+      },
+      {
+        "text": "How about five equals seven minus one.",
+        "start": 97.103,
+        "end": 107.993
+      },
+      {
+        "text": "No, no, that's not it.",
+        "start": 111.837,
+        "end": 113.338
+      },
+      {
+        "text": "All right, how about",
+        "start": 115.921,
+        "end": 118.243
+      },
+      {
+        "text": " How about, okay, 1 equals 6 minus 7.",
+        "start": 119.641,
+        "end": 133.615
+      },
+      {
+        "text": "1 equals 6 minus, oops, 1 equals 6 minus 7.",
+        "start": 133.635,
+        "end": 149.631
+      },
+      {
+        "text": " And is it one equals seven minus six?",
+        "start": 154.167,
+        "end": 156.971
+      },
+      {
+        "text": "No, that's moving too many matches.",
+        "start": 157.432,
+        "end": 159.055
+      },
+      {
+        "text": "How can I quit at this?",
+        "start": 163.141,
+        "end": 165.124
+      },
+      {
+        "text": "All right.",
+        "start": 166.486,
+        "end": 166.787
+      },
+      {
+        "text": "Um, one, five equals, yeah, five equals,",
+        "start": 167.187,
+        "end": 180.428
+      },
+      {
+        "text": " Five, no.",
+        "start": 186.027,
+        "end": 187.128
+      },
+      {
+        "text": "Arm.",
+        "start": 194.394,
+        "end": 194.795
+      },
+      {
+        "text": "Don't know.",
+        "start": 198.738,
+        "end": 199.519
+      },
+      {
+        "text": "I would say what I'm thinking out loud, but I'm not really thinking.",
+        "start": 202.221,
+        "end": 206.805
+      },
+      {
+        "text": "I'm stuck.",
+        "start": 206.985,
+        "end": 209.267
+      },
+      {
+        "text": "Six, oh wait, okay, wait.",
+        "start": 212.951,
+        "end": 215.713
+      },
+      {
+        "text": " minus four equals two.",
+        "start": 216.065,
+        "end": 222.225
+      },
+      {
+        "text": "I think I",
+        "start": 222.346,
+        "end": 222.75
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, six equals four minus two. What's right, right? No. It would be five equals, five equals seven minus two. Five equals seven minus two. Nope. Yeah. I didn't think that was right. Okay. Next. Um, it would be, so what do I have? Four minus two there. So it'd be plus, but I don't have an extra match stick. This is, this is six. This is four minus two, six equals four plus two. I don't have an extra match stick though. So 2 plus 4 equals 6, but I don't have an extra matchstick. This is hard. Okay. How about 5 equals 7 minus 2? 7 minus 2, right? So I would move Can only move one match a day. It would be, so that's six. How about five equals seven minus one. No, no, that's not it. All right, how about How about, okay, 1 equals 6 minus 7. 1 equals 6 minus, oops, 1 equals 6 minus 7. And is it one equals seven minus six? No, that's moving too many matches. How can I quit at this? All right. Um, one, five equals, yeah, five equals, Five, no. Arm. Don't know. I would say what I'm thinking out loud, but I'm not really thinking. I'm stuck. Six, oh wait, okay, wait. minus four equals two. I think I"
+  }
+}

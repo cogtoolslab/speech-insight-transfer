@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_805570755bc1/trial_4.wav",
+  "with_timestamps": {
+    "text": " 7 equals 3 minus 4.That doesn't make sense.It would be 7 equals 3 plus 4, but that doesn't work.Oh, boy.Okay.Mm-hmm.7 equals 2 plus 4.No. 6 equals 3 plus 4.No.7 minus 3 equals 4.Got it.7 minus 3 equals 4.OK.",
+    "segments": [
+      {
+        "text": " 7 equals 3 minus 4.",
+        "start": 0.976,
+        "end": 4.441
+      },
+      {
+        "text": "That doesn't make sense.",
+        "start": 4.542,
+        "end": 6.084
+      },
+      {
+        "text": "It would be 7 equals 3 plus 4, but that doesn't work.",
+        "start": 7.286,
+        "end": 10.531
+      },
+      {
+        "text": "Oh, boy.",
+        "start": 11.652,
+        "end": 12.193
+      },
+      {
+        "text": "Okay.",
+        "start": 13.455,
+        "end": 20.646
+      },
+      {
+        "text": "Mm-hmm.",
+        "start": 20.666,
+        "end": 24.853
+      },
+      {
+        "text": "7 equals 2 plus 4.",
+        "start": 24.873,
+        "end": 26.535
+      },
+      {
+        "text": "No.",
+        "start": 26.576,
+        "end": 28.198
+      },
+      {
+        "text": " 6 equals 3 plus 4.",
+        "start": 30.98,
+        "end": 34.008
+      },
+      {
+        "text": "No.",
+        "start": 34.791,
+        "end": 35.493
+      },
+      {
+        "text": "7 minus 3 equals 4.",
+        "start": 35.513,
+        "end": 40.707
+      },
+      {
+        "text": "Got it.",
+        "start": 41.91,
+        "end": 42.291
+      },
+      {
+        "text": "7 minus 3 equals 4.",
+        "start": 43.816,
+        "end": 52.219
+      },
+      {
+        "text": "OK.",
+        "start": 55.408,
+        "end": 55.468
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 equals 3 minus 4. That doesn't make sense. It would be 7 equals 3 plus 4, but that doesn't work. Oh, boy. Okay. Mm-hmm. 7 equals 2 plus 4. No. 6 equals 3 plus 4. No. 7 minus 3 equals 4. Got it. 7 minus 3 equals 4. OK."
+  }
+}

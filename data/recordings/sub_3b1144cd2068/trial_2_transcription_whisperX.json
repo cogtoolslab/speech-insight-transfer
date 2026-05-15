@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_3b1144cd2068/trial_2.wav",
+  "with_timestamps": {
+    "text": " Sorry.IVs4 equals equals, what am I doing here?I'm crazy here.For equals of.For.OK. I'm not thinking out loud enough.OK.So we're going to change.We're going to put 2, which is erase that.We're going to put 2.And then the equals. 4 minus 2.OK.4 equals 4.OK. 4 equals.I am not doing this right.I should.OK, we're still going. 4 equals 4.4 equals 4. Plus 1.I'm going to put the 1 in there.Nope.Plus 1.No, 4.4 equals, let's see. Let's see.We're going to correct this.I am really crazy.4 equals.",
+    "segments": [
+      {
+        "text": " Sorry.",
+        "start": 0.031,
+        "end": 5.159
+      },
+      {
+        "text": "IVs4 equals",
+        "start": 5.179,
+        "end": 21.364
+      },
+      {
+        "text": " equals, what am I doing here?",
+        "start": 31.402,
+        "end": 33.864
+      },
+      {
+        "text": "I'm crazy here.",
+        "start": 34.224,
+        "end": 35.225
+      },
+      {
+        "text": "For equals of.",
+        "start": 36.106,
+        "end": 39.589
+      },
+      {
+        "text": "For.",
+        "start": 43.332,
+        "end": 43.793
+      },
+      {
+        "text": "OK.",
+        "start": 60.027,
+        "end": 60.447
+      },
+      {
+        "text": " I'm not thinking out loud enough.",
+        "start": 61.658,
+        "end": 63.401
+      },
+      {
+        "text": "OK.",
+        "start": 63.441,
+        "end": 63.941
+      },
+      {
+        "text": "So we're going to change.",
+        "start": 65.023,
+        "end": 67.767
+      },
+      {
+        "text": "We're going to put 2, which is erase that.",
+        "start": 71.172,
+        "end": 80.246
+      },
+      {
+        "text": "We're going to put 2.",
+        "start": 84.072,
+        "end": 85.153
+      },
+      {
+        "text": "And then the equals.",
+        "start": 87.417,
+        "end": 88.999
+      },
+      {
+        "text": " 4 minus 2.",
+        "start": 93.316,
+        "end": 99.302
+      },
+      {
+        "text": "OK.",
+        "start": 102.145,
+        "end": 102.585
+      },
+      {
+        "text": "4 equals 4.",
+        "start": 105.949,
+        "end": 115.638
+      },
+      {
+        "text": "OK.",
+        "start": 120.984,
+        "end": 122.445
+      },
+      {
+        "text": " 4 equals.",
+        "start": 125.632,
+        "end": 128.355
+      },
+      {
+        "text": "I am not doing this right.",
+        "start": 141.41,
+        "end": 142.851
+      },
+      {
+        "text": "I should.",
+        "start": 143.312,
+        "end": 152.422
+      },
+      {
+        "text": "OK, we're still going.",
+        "start": 152.442,
+        "end": 154.204
+      },
+      {
+        "text": " 4 equals 4.",
+        "start": 156.344,
+        "end": 172.186
+      },
+      {
+        "text": "4 equals 4.",
+        "start": 172.206,
+        "end": 181.879
+      },
+      {
+        "text": " Plus 1.",
+        "start": 187.158,
+        "end": 190.623
+      },
+      {
+        "text": "I'm going to put the 1 in there.",
+        "start": 193.086,
+        "end": 195.329
+      },
+      {
+        "text": "Nope.",
+        "start": 195.349,
+        "end": 197.872
+      },
+      {
+        "text": "Plus 1.",
+        "start": 197.892,
+        "end": 198.533
+      },
+      {
+        "text": "No, 4.",
+        "start": 203.86,
+        "end": 204.341
+      },
+      {
+        "text": "4 equals, let's see.",
+        "start": 205.543,
+        "end": 214.735
+      },
+      {
+        "text": " Let's see.",
+        "start": 223.152,
+        "end": 224.234
+      },
+      {
+        "text": "We're going to correct this.",
+        "start": 224.274,
+        "end": 227.26
+      },
+      {
+        "text": "I am really crazy.",
+        "start": 227.28,
+        "end": 228.842
+      },
+      {
+        "text": "4 equals.",
+        "start": 228.863,
+        "end": 238.36
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Sorry. IVs4 equals equals, what am I doing here? I'm crazy here. For equals of. For. OK. I'm not thinking out loud enough. OK. So we're going to change. We're going to put 2, which is erase that. We're going to put 2. And then the equals. 4 minus 2. OK. 4 equals 4. OK. 4 equals. I am not doing this right. I should. OK, we're still going. 4 equals 4. 4 equals 4. Plus 1. I'm going to put the 1 in there. Nope. Plus 1. No, 4. 4 equals, let's see. Let's see. We're going to correct this. I am really crazy. 4 equals."
+  }
+}

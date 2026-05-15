@@ -1,0 +1,281 @@
+{
+  "file": "data/recordings/sub_f66303b0a1c5/trial_5.wav",
+  "with_timestamps": {
+    "text": " Seven equals three minus four.Okay.So, if I put the V over here, that would be eight minus four, would be four.Or if I put it over here, it's three minus four, so negative one and two equals negative one, doesn't work.So the V doesn't work.So, If I say the V over here, over there, that could be 7.That might work.Let's see.V11 equals V11 minus 1.Submit.Nope.Let me try it again.V11 equals V111. Okay, that would have worked.8 minus 1 is 7.And V111 would be 8.So, I don't know.I don't know at all.So if I took one out, Let's see.6 equals 3 minus 4 is a negative 1.Doesn't work.The V over here has to move.It's either going to be an 8, minus 1 is 7, or 2 minus 1, 1.I think that's right. I don't understand why it's not taking it.It should be VII equals.VII would be VIII minus I. Submit.No.Okay, I don't understand that.Um, let me see. So if I put it over here, it's 3.So that doesn't work.If I add it over here, it's 2 minus 2 minus 3.Same thing.So it doesn't work. 3 plus 4 wouldn't work.If I could just change the minus sign to a plus, that could work too.So that doesn't work.Wait a minute.I took this one away.2 plus 4 is 6.That doesn't work.3 plus This is 9.That doesn't work.5 equals... That doesn't work.No.7... 6 equals... Sorry.V11 equals 1, 2, 3 plus IV.Submit.Nope.Okay.",
+    "segments": [
+      {
+        "text": " Seven equals three minus four.",
+        "start": 2.107,
+        "end": 6.853
+      },
+      {
+        "text": "Okay.",
+        "start": 6.873,
+        "end": 8.976
+      },
+      {
+        "text": "So, if I put the V over here, that would be eight minus four, would be four.",
+        "start": 8.996,
+        "end": 17.988
+      },
+      {
+        "text": "Or if I put it over here, it's three minus four, so negative one and two equals negative one, doesn't work.",
+        "start": 18.708,
+        "end": 24.997
+      },
+      {
+        "text": "So the V doesn't work.",
+        "start": 25.017,
+        "end": 26.418
+      },
+      {
+        "text": "So,",
+        "start": 27.58,
+        "end": 28.401
+      },
+      {
+        "text": " If I say the V over here, over there, that could be 7.",
+        "start": 31.503,
+        "end": 37.028
+      },
+      {
+        "text": "That might work.",
+        "start": 38.85,
+        "end": 41.812
+      },
+      {
+        "text": "Let's see.",
+        "start": 42.393,
+        "end": 43.234
+      },
+      {
+        "text": "V11 equals V11 minus 1.",
+        "start": 43.254,
+        "end": 49.98
+      },
+      {
+        "text": "Submit.",
+        "start": 51.121,
+        "end": 51.401
+      },
+      {
+        "text": "Nope.",
+        "start": 52.102,
+        "end": 52.342
+      },
+      {
+        "text": "Let me try it again.",
+        "start": 54.444,
+        "end": 55.285
+      },
+      {
+        "text": "V11 equals V111.",
+        "start": 55.305,
+        "end": 61.29
+      },
+      {
+        "text": " Okay, that would have worked.",
+        "start": 62.08,
+        "end": 69.03
+      },
+      {
+        "text": "8 minus 1 is 7.",
+        "start": 69.05,
+        "end": 69.831
+      },
+      {
+        "text": "And V111 would be 8.",
+        "start": 72.956,
+        "end": 74.718
+      },
+      {
+        "text": "So, I don't know.",
+        "start": 80.086,
+        "end": 82.389
+      },
+      {
+        "text": "I don't know at all.",
+        "start": 84.893,
+        "end": 86.195
+      },
+      {
+        "text": "So if I took one out,",
+        "start": 86.215,
+        "end": 91.783
+      },
+      {
+        "text": " Let's see.",
+        "start": 93.282,
+        "end": 93.863
+      },
+      {
+        "text": "6 equals 3 minus 4 is a negative 1.",
+        "start": 93.883,
+        "end": 99.83
+      },
+      {
+        "text": "Doesn't work.",
+        "start": 100.511,
+        "end": 100.972
+      },
+      {
+        "text": "The V over here has to move.",
+        "start": 102.153,
+        "end": 103.314
+      },
+      {
+        "text": "It's either going to be an 8, minus 1 is 7, or 2 minus 1, 1.",
+        "start": 106.078,
+        "end": 113.868
+      },
+      {
+        "text": "I think that's right.",
+        "start": 116.691,
+        "end": 121.517
+      },
+      {
+        "text": " I don't understand why it's not taking it.",
+        "start": 121.835,
+        "end": 123.177
+      },
+      {
+        "text": "It should be VII equals.",
+        "start": 123.197,
+        "end": 131.426
+      },
+      {
+        "text": "VII would be VIII minus I. Submit.",
+        "start": 131.446,
+        "end": 143.639
+      },
+      {
+        "text": "No.",
+        "start": 143.659,
+        "end": 145.762
+      },
+      {
+        "text": "Okay, I don't understand that.",
+        "start": 145.822,
+        "end": 146.823
+      },
+      {
+        "text": "Um, let me see.",
+        "start": 149.026,
+        "end": 151.268
+      },
+      {
+        "text": " So if I put it over here, it's 3.",
+        "start": 153.509,
+        "end": 155.051
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 157.613,
+        "end": 158.654
+      },
+      {
+        "text": "If I add it over here, it's 2 minus 2 minus 3.",
+        "start": 162.538,
+        "end": 174.53
+      },
+      {
+        "text": "Same thing.",
+        "start": 176.932,
+        "end": 177.493
+      },
+      {
+        "text": "So it doesn't work.",
+        "start": 178.894,
+        "end": 179.955
+      },
+      {
+        "text": " 3 plus 4 wouldn't work.",
+        "start": 184.272,
+        "end": 186.534
+      },
+      {
+        "text": "If I could just change the minus sign to a plus, that could work too.",
+        "start": 186.674,
+        "end": 190.197
+      },
+      {
+        "text": "So that doesn't work.",
+        "start": 190.257,
+        "end": 192.979
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 200.066,
+        "end": 200.566
+      },
+      {
+        "text": "I took this one away.",
+        "start": 203.669,
+        "end": 205.931
+      },
+      {
+        "text": "2 plus 4 is 6.",
+        "start": 205.951,
+        "end": 209.474
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 209.534,
+        "end": 212.536
+      },
+      {
+        "text": "3 plus",
+        "start": 212.556,
+        "end": 213.537
+      },
+      {
+        "text": " This is 9.",
+        "start": 216.368,
+        "end": 217.109
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 217.169,
+        "end": 217.75
+      },
+      {
+        "text": "5 equals... That doesn't work.",
+        "start": 217.77,
+        "end": 224.237
+      },
+      {
+        "text": "No.",
+        "start": 224.998,
+        "end": 225.299
+      },
+      {
+        "text": "7... 6 equals... Sorry.",
+        "start": 225.319,
+        "end": 232.908
+      },
+      {
+        "text": "V11 equals 1, 2, 3 plus IV.",
+        "start": 233.128,
+        "end": 238.835
+      },
+      {
+        "text": "Submit.",
+        "start": 239.676,
+        "end": 240.237
+      },
+      {
+        "text": "Nope.",
+        "start": 240.257,
+        "end": 241.378
+      },
+      {
+        "text": "Okay.",
+        "start": 241.398,
+        "end": 241.498
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Seven equals three minus four. Okay. So, if I put the V over here, that would be eight minus four, would be four. Or if I put it over here, it's three minus four, so negative one and two equals negative one, doesn't work. So the V doesn't work. So, If I say the V over here, over there, that could be 7. That might work. Let's see. V11 equals V11 minus 1. Submit. Nope. Let me try it again. V11 equals V111. Okay, that would have worked. 8 minus 1 is 7. And V111 would be 8. So, I don't know. I don't know at all. So if I took one out, Let's see. 6 equals 3 minus 4 is a negative 1. Doesn't work. The V over here has to move. It's either going to be an 8, minus 1 is 7, or 2 minus 1, 1. I think that's right. I don't understand why it's not taking it. It should be VII equals. VII would be VIII minus I. Submit. No. Okay, I don't understand that. Um, let me see. So if I put it over here, it's 3. So that doesn't work. If I add it over here, it's 2 minus 2 minus 3. Same thing. So it doesn't work. 3 plus 4 wouldn't work. If I could just change the minus sign to a plus, that could work too. So that doesn't work. Wait a minute. I took this one away. 2 plus 4 is 6. That doesn't work. 3 plus This is 9. That doesn't work. 5 equals... That doesn't work. No. 7... 6 equals... Sorry. V11 equals 1, 2, 3 plus IV. Submit. Nope. Okay."
+  }
+}

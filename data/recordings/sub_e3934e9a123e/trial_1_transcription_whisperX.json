@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e3934e9a123e/trial_1.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 9 equals 7 plus 4.7 plus 4 is 11, so we need to turn ix into xi.",
+    "segments": [
+      {
+        "text": " In this equation, we have 9 equals 7 plus 4.",
+        "start": 0.031,
+        "end": 5.854
+      },
+      {
+        "text": "7 plus 4 is 11, so we need to turn ix into xi.",
+        "start": 5.874,
+        "end": 11.155
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 9 equals 7 plus 4. 7 plus 4 is 11, so we need to turn ix into xi."
+  }
+}

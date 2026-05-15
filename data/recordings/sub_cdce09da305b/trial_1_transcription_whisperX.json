@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_cdce09da305b/trial_1.wav",
+  "with_timestamps": {
+    "text": " so this is 6 equal to 6 plus 1 which is not true so how do I make it equal 6 plus 1 6 okay I can 6 equal to 7 plus 1 so I can use 6 is the same, this is the same, and if I move the plus sign, the vertical one, to that, that will be 7 minus 1, so I need to make 7 minus 1.",
+    "segments": [
+      {
+        "text": " so this is 6 equal to 6 plus 1 which is not true so how do I make it equal 6 plus 1 6 okay I can 6 equal to 7 plus 1 so I can use",
+        "start": 1.145,
+        "end": 29.835
+      },
+      {
+        "text": " 6 is the same, this is the same, and if I move the plus sign, the vertical one, to that, that will be 7 minus 1, so I need to make 7 minus 1.",
+        "start": 32.38,
+        "end": 47.402
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " so this is 6 equal to 6 plus 1 which is not true so how do I make it equal 6 plus 1 6 okay I can 6 equal to 7 plus 1 so I can use 6 is the same, this is the same, and if I move the plus sign, the vertical one, to that, that will be 7 minus 1, so I need to make 7 minus 1."
+  }
+}

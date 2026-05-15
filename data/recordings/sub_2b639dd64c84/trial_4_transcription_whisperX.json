@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_2b639dd64c84/trial_4.wav",
+  "with_timestamps": {
+    "text": " 10, oh wait, 9.Minus 5.Pulls 4. 9 minus 1 1 minus 4 equals 4 Minus 1 equals... 10 minus, how do you do this?So 4 minus, wait, 6 minus 4. 10.9 minus 1.Nope.Wait.10, 12, 13.9 minus 4.Oh, wait.9. plus four equals nope nine Plus 5 equals 14.Nope.9 minus 2. Plus one over the other.Hmm.Hmm.",
+    "segments": [
+      {
+        "text": " 10, oh wait, 9.",
+        "start": 14.189,
+        "end": 16.773
+      },
+      {
+        "text": "Minus 5.",
+        "start": 24.485,
+        "end": 31.596
+      },
+      {
+        "text": "Pulls 4.",
+        "start": 31.677,
+        "end": 38.307
+      },
+      {
+        "text": " 9 minus 1 1 minus 4 equals 4",
+        "start": 46.42,
+        "end": 76.377
+      },
+      {
+        "text": " Minus 1 equals...",
+        "start": 78.685,
+        "end": 86.502
+      },
+      {
+        "text": " 10 minus, how do you do this?",
+        "start": 106.512,
+        "end": 111.659
+      },
+      {
+        "text": "So 4 minus, wait, 6 minus 4.",
+        "start": 116.306,
+        "end": 129.685
+      },
+      {
+        "text": " 10.",
+        "start": 138.406,
+        "end": 138.806
+      },
+      {
+        "text": "9 minus 1.",
+        "start": 138.826,
+        "end": 151.319
+      },
+      {
+        "text": "Nope.",
+        "start": 153.161,
+        "end": 153.902
+      },
+      {
+        "text": "Wait.",
+        "start": 153.922,
+        "end": 154.182
+      },
+      {
+        "text": "10, 12, 13.",
+        "start": 158.087,
+        "end": 160.729
+      },
+      {
+        "text": "9 minus 4.",
+        "start": 160.749,
+        "end": 162.671
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 162.691,
+        "end": 168.017
+      },
+      {
+        "text": "9.",
+        "start": 168.037,
+        "end": 168.177
+      },
+      {
+        "text": " plus four equals nope nine",
+        "start": 169.54,
+        "end": 196.459
+      },
+      {
+        "text": " Plus 5 equals 14.",
+        "start": 200.995,
+        "end": 211.187
+      },
+      {
+        "text": "Nope.",
+        "start": 211.207,
+        "end": 211.647
+      },
+      {
+        "text": "9 minus 2.",
+        "start": 211.667,
+        "end": 223.341
+      },
+      {
+        "text": " Plus one over the other.",
+        "start": 232.079,
+        "end": 244.445
+      },
+      {
+        "text": "Hmm.",
+        "start": 244.465,
+        "end": 244.907
+      },
+      {
+        "text": "Hmm.",
+        "start": 245.148,
+        "end": 245.228
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 10, oh wait, 9. Minus 5. Pulls 4. 9 minus 1 1 minus 4 equals 4 Minus 1 equals... 10 minus, how do you do this? So 4 minus, wait, 6 minus 4. 10. 9 minus 1. Nope. Wait. 10, 12, 13. 9 minus 4. Oh, wait. 9. plus four equals nope nine Plus 5 equals 14. Nope. 9 minus 2. Plus one over the other. Hmm. Hmm."
+  }
+}

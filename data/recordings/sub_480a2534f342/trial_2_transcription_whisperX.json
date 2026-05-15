@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_480a2534f342/trial_2.wav",
+  "with_timestamps": {
+    "text": " Look, this one is 7 equals 3 minus 4.That obviously doesn't work.3 plus 4 would work, but that would be hard to move a stick, but 2... Hm.Okay, so 7 could be made with 3 plus 4, 5 plus 2, 6 plus 1, Three plus... Three plus... 7 minus 3 equals 4 then minus 3 equals 4",
+    "segments": [
+      {
+        "text": " Look, this one is 7 equals 3 minus 4.",
+        "start": 1.786,
+        "end": 4.911
+      },
+      {
+        "text": "That obviously doesn't work.",
+        "start": 4.931,
+        "end": 6.012
+      },
+      {
+        "text": "3 plus 4 would work, but that would be hard to move a stick, but 2... Hm.",
+        "start": 6.032,
+        "end": 13.504
+      },
+      {
+        "text": "Okay, so 7 could be made with 3 plus 4, 5 plus 2, 6 plus 1,",
+        "start": 21.756,
+        "end": 29.127
+      },
+      {
+        "text": " Three plus... Three plus...",
+        "start": 32.617,
+        "end": 57.257
+      },
+      {
+        "text": " 7 minus 3 equals 4 then minus 3 equals 4",
+        "start": 67.042,
+        "end": 80.612
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Look, this one is 7 equals 3 minus 4. That obviously doesn't work. 3 plus 4 would work, but that would be hard to move a stick, but 2... Hm. Okay, so 7 could be made with 3 plus 4, 5 plus 2, 6 plus 1, Three plus... Three plus... 7 minus 3 equals 4 then minus 3 equals 4"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_d482ed5a6935/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright, let's see if I can get this one.We've got 9 equals 12 plus 16.Obviously those don't equal, but 12 plus, no it's not 6, I'm sorry.9 equals 12 plus 4.9 equals 12 plus Four.What about 13 minus four?Oh, let's see here.Nine equals 13 minus.Oh no, because then it's going to be five.That's not going to work.All right.I thought I had it.I thought I had it.All right.So nine equals.So we got to go with a minus, no doubt. We gotta get to nine.I can't alter the one to the left, I don't think, because adding another one over to the one in the X doesn't make any sense.I guess you could move, you can only move one, so yeah, you can't alter the left, is my understanding.So you're stuck with nine.We've got 12, and we've got four.12 and four.12 minus four.And if I move, oh wait, hold on.Let me hang on a second. equals x 1, 2, 13 minus",
+    "segments": [
+      {
+        "text": " Alright, let's see if I can get this one.",
+        "start": 0.031,
+        "end": 2.434
+      },
+      {
+        "text": "We've got 9 equals 12 plus 16.",
+        "start": 4.457,
+        "end": 9.884
+      },
+      {
+        "text": "Obviously those don't equal, but 12 plus, no it's not 6, I'm sorry.",
+        "start": 10.465,
+        "end": 15.632
+      },
+      {
+        "text": "9 equals 12 plus 4.",
+        "start": 15.813,
+        "end": 18.216
+      },
+      {
+        "text": "9 equals 12 plus",
+        "start": 18.236,
+        "end": 23.423
+      },
+      {
+        "text": " Four.",
+        "start": 24.989,
+        "end": 25.71
+      },
+      {
+        "text": "What about 13 minus four?",
+        "start": 25.73,
+        "end": 29.315
+      },
+      {
+        "text": "Oh, let's see here.",
+        "start": 30.397,
+        "end": 31.979
+      },
+      {
+        "text": "Nine equals 13 minus.",
+        "start": 32.119,
+        "end": 37.107
+      },
+      {
+        "text": "Oh no, because then it's going to be five.",
+        "start": 38.308,
+        "end": 39.911
+      },
+      {
+        "text": "That's not going to work.",
+        "start": 42.194,
+        "end": 43.135
+      },
+      {
+        "text": "All right.",
+        "start": 44.457,
+        "end": 44.778
+      },
+      {
+        "text": "I thought I had it.",
+        "start": 45.098,
+        "end": 45.819
+      },
+      {
+        "text": "I thought I had it.",
+        "start": 45.919,
+        "end": 46.64
+      },
+      {
+        "text": "All right.",
+        "start": 46.801,
+        "end": 47.061
+      },
+      {
+        "text": "So nine equals.",
+        "start": 47.101,
+        "end": 48.844
+      },
+      {
+        "text": "So we got to go with a minus, no doubt.",
+        "start": 49.444,
+        "end": 51.267
+      },
+      {
+        "text": " We gotta get to nine.",
+        "start": 52.36,
+        "end": 53.121
+      },
+      {
+        "text": "I can't alter the one to the left, I don't think, because adding another one over to the one in the X doesn't make any sense.",
+        "start": 53.141,
+        "end": 59.427
+      },
+      {
+        "text": "I guess you could move, you can only move one, so yeah, you can't alter the left, is my understanding.",
+        "start": 59.567,
+        "end": 64.212
+      },
+      {
+        "text": "So you're stuck with nine.",
+        "start": 64.972,
+        "end": 65.913
+      },
+      {
+        "text": "We've got 12, and we've got four.",
+        "start": 65.973,
+        "end": 68.956
+      },
+      {
+        "text": "12 and four.",
+        "start": 68.976,
+        "end": 70.057
+      },
+      {
+        "text": "12 minus four.",
+        "start": 70.077,
+        "end": 74.261
+      },
+      {
+        "text": "And if I move, oh wait, hold on.",
+        "start": 74.281,
+        "end": 80.167
+      },
+      {
+        "text": "Let me hang on a second.",
+        "start": 81.268,
+        "end": 82.249
+      },
+      {
+        "text": " equals x 1, 2, 13 minus",
+        "start": 83.765,
+        "end": 90.568
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, let's see if I can get this one. We've got 9 equals 12 plus 16. Obviously those don't equal, but 12 plus, no it's not 6, I'm sorry. 9 equals 12 plus 4. 9 equals 12 plus Four. What about 13 minus four? Oh, let's see here. Nine equals 13 minus. Oh no, because then it's going to be five. That's not going to work. All right. I thought I had it. I thought I had it. All right. So nine equals. So we got to go with a minus, no doubt. We gotta get to nine. I can't alter the one to the left, I don't think, because adding another one over to the one in the X doesn't make any sense. I guess you could move, you can only move one, so yeah, you can't alter the left, is my understanding. So you're stuck with nine. We've got 12, and we've got four. 12 and four. 12 minus four. And if I move, oh wait, hold on. Let me hang on a second. equals x 1, 2, 13 minus"
+  }
+}

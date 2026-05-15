@@ -1,0 +1,113 @@
+{
+  "file": "data/recordings/sub_76c0d21dd9cc/trial_1_fixed.wav",
+  "participant_id": "sub_76c0d21dd9cc",
+  "trial_number": 1,
+  "speech_segments": [
+    {
+      "start": 3.874,
+      "end": 4.254,
+      "duration": 0.38,
+      "lexical": true
+    },
+    {
+      "start": 9.026,
+      "end": 10.686,
+      "duration": 1.66,
+      "lexical": true
+    },
+    {
+      "start": 11.362,
+      "end": 11.966,
+      "duration": 0.604,
+      "lexical": true
+    },
+    {
+      "start": 38.818,
+      "end": 39.614,
+      "duration": 0.796,
+      "lexical": true
+    },
+    {
+      "start": 39.874,
+      "end": 40.926,
+      "duration": 1.052,
+      "lexical": true
+    },
+    {
+      "start": 83.042,
+      "end": 84.126,
+      "duration": 1.084,
+      "lexical": true
+    },
+    {
+      "start": 128.386,
+      "end": 128.83,
+      "duration": 0.444,
+      "lexical": true
+    },
+    {
+      "start": 154.53,
+      "end": 155.294,
+      "duration": 0.764,
+      "lexical": true
+    },
+    {
+      "start": 156.834,
+      "end": 158.718,
+      "duration": 1.884,
+      "lexical": true
+    }
+  ],
+  "silence_segments": [
+    {
+      "start": 0.0,
+      "end": 3.874,
+      "duration": 3.874
+    },
+    {
+      "start": 4.254,
+      "end": 9.026,
+      "duration": 4.772
+    },
+    {
+      "start": 10.686,
+      "end": 11.362,
+      "duration": 0.676
+    },
+    {
+      "start": 11.966,
+      "end": 38.818,
+      "duration": 26.852
+    },
+    {
+      "start": 39.614,
+      "end": 39.874,
+      "duration": 0.26
+    },
+    {
+      "start": 40.926,
+      "end": 83.042,
+      "duration": 42.116
+    },
+    {
+      "start": 84.126,
+      "end": 128.386,
+      "duration": 44.26
+    },
+    {
+      "start": 128.83,
+      "end": 154.53,
+      "duration": 25.7
+    },
+    {
+      "start": 155.294,
+      "end": 156.834,
+      "duration": 1.54
+    },
+    {
+      "start": 158.718,
+      "end": 193.42,
+      "duration": 34.702
+    }
+  ]
+}

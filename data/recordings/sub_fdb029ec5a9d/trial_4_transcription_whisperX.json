@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_fdb029ec5a9d/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, so I don't know why the other ones were correct when I didn't follow the rules, but whatever.So this one is 8 equals 8 plus 8.So can I just make this 16? Okay, so 16 is 10, 5, 6 equals 2 plus 8.Okay, so that one didn't work.Can I just change this to an equal?So it's 8 equals 8 equals 8. Let me see.",
+    "segments": [
+      {
+        "text": " Okay, so I don't know why the other ones were correct when I didn't follow the rules, but whatever.",
+        "start": 1.128,
+        "end": 8.217
+      },
+      {
+        "text": "So this one is 8 equals 8 plus 8.",
+        "start": 8.257,
+        "end": 18.45
+      },
+      {
+        "text": "So can I just make this 16?",
+        "start": 20.953,
+        "end": 23.136
+      },
+      {
+        "text": " Okay, so 16 is 10, 5, 6 equals 2 plus 8.",
+        "start": 35.772,
+        "end": 51.013
+      },
+      {
+        "text": "Okay, so that one didn't work.",
+        "start": 52.575,
+        "end": 53.777
+      },
+      {
+        "text": "Can I just change this to an equal?",
+        "start": 59.805,
+        "end": 61.327
+      },
+      {
+        "text": "So it's 8 equals 8 equals 8.",
+        "start": 61.407,
+        "end": 63.45
+      },
+      {
+        "text": " Let me see.",
+        "start": 64.898,
+        "end": 66.387
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I don't know why the other ones were correct when I didn't follow the rules, but whatever. So this one is 8 equals 8 plus 8. So can I just make this 16? Okay, so 16 is 10, 5, 6 equals 2 plus 8. Okay, so that one didn't work. Can I just change this to an equal? So it's 8 equals 8 equals 8. Let me see."
+  }
+}

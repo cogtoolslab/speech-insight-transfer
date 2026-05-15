@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_239ede6562d1/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, ready to start puzzle number three.So we have IX equals VII plus IV, and that translates to nine equals seven plus four, which is obviously not right.So we could do, so we have nine, we could make that into a 10. or an 11, so we would have 11, that's right, 11 equals 7 plus 4, so we just change the order of that first one.So it would be xi, which is 11, equals vii7 plus iv4.",
+    "segments": [
+      {
+        "text": " Okay, ready to start puzzle number three.",
+        "start": 0.031,
+        "end": 2.855
+      },
+      {
+        "text": "So we have IX equals VII plus IV, and that translates to nine equals seven plus four, which is obviously not right.",
+        "start": 2.895,
+        "end": 16.613
+      },
+      {
+        "text": "So we could do, so we have nine, we could make that into a 10.",
+        "start": 17.955,
+        "end": 25.785
+      },
+      {
+        "text": " or an 11, so we would have 11, that's right, 11 equals 7 plus 4, so we just change the order of that first one.",
+        "start": 26.491,
+        "end": 34.909
+      },
+      {
+        "text": "So it would be xi, which is 11, equals vii7 plus iv4.",
+        "start": 34.929,
+        "end": 41.884
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, ready to start puzzle number three. So we have IX equals VII plus IV, and that translates to nine equals seven plus four, which is obviously not right. So we could do, so we have nine, we could make that into a 10. or an 11, so we would have 11, that's right, 11 equals 7 plus 4, so we just change the order of that first one. So it would be xi, which is 11, equals vii7 plus iv4."
+  }
+}

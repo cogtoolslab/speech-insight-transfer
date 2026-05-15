@@ -1,0 +1,241 @@
+{
+  "file": "data/recordings/sub_0e1dca66af8d/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, 4 equals 4 plus 4.OK, so 4 plus 4 is 8.Is there any way to make this an 8?No, I would have to. I would have to turn 4 plus.So 4 minus 4 would be 0.That's not going to happen.If I moved this here, 6 plus 4 is 10.But I don't have 10 on this side.5v would be 6.That doesn't do any good.4 minus 4 is 0. OK, can I do this somewhere?No.Can I do this somewhere?Just changing the angle doesn't do it.How do I make this an 8?Well, I'd have to be VII.OK, so if I do V equals IV. V equals, so if I move this here and I have, so 5 equals 4, which is this, this, 4 minus 1.I mean, that's not right. Four.OK.What if I make this a six?What if I do this, this?So six equals four plus two.That's not right.Let's see.What if we do five?What if we move? What if we do this?4 equals V minus IV.OK, I just don't see this.This is going to take forever.4V. There isn't a way to make that into a V equals VI equals.That's 6 equals 4 plus.I mean, it just doesn't work. That's not right.IV equals IV plus.How do I make a 0?IV minus.IV minus.I mean, that just doesn't work.I'm really bad at this. You're welcome.",
+    "segments": [
+      {
+        "text": " OK, 4 equals 4 plus 4.",
+        "start": 1.617,
+        "end": 6.643
+      },
+      {
+        "text": "OK, so 4 plus 4 is 8.",
+        "start": 10.748,
+        "end": 13.872
+      },
+      {
+        "text": "Is there any way to make this an 8?",
+        "start": 13.972,
+        "end": 15.614
+      },
+      {
+        "text": "No, I would have to.",
+        "start": 17.336,
+        "end": 23.203
+      },
+      {
+        "text": " I would have to turn 4 plus.",
+        "start": 26.93,
+        "end": 28.892
+      },
+      {
+        "text": "So 4 minus 4 would be 0.",
+        "start": 28.932,
+        "end": 30.734
+      },
+      {
+        "text": "That's not going to happen.",
+        "start": 30.774,
+        "end": 32.675
+      },
+      {
+        "text": "If I moved this here, 6 plus 4 is 10.",
+        "start": 32.715,
+        "end": 40.503
+      },
+      {
+        "text": "But I don't have 10 on this side.",
+        "start": 41.504,
+        "end": 43.265
+      },
+      {
+        "text": "5v would be 6.",
+        "start": 43.285,
+        "end": 50.192
+      },
+      {
+        "text": "That doesn't do any good.",
+        "start": 50.532,
+        "end": 51.793
+      },
+      {
+        "text": "4 minus 4 is 0.",
+        "start": 51.813,
+        "end": 55.637
+      },
+      {
+        "text": " OK, can I do this somewhere?",
+        "start": 57.743,
+        "end": 60.046
+      },
+      {
+        "text": "No.",
+        "start": 60.086,
+        "end": 60.607
+      },
+      {
+        "text": "Can I do this somewhere?",
+        "start": 61.168,
+        "end": 62.59
+      },
+      {
+        "text": "Just changing the angle doesn't do it.",
+        "start": 63.531,
+        "end": 66.195
+      },
+      {
+        "text": "How do I make this an 8?",
+        "start": 67.617,
+        "end": 69.039
+      },
+      {
+        "text": "Well, I'd have to be VII.",
+        "start": 69.18,
+        "end": 71.082
+      },
+      {
+        "text": "OK, so if I do V equals IV.",
+        "start": 75.329,
+        "end": 85.303
+      },
+      {
+        "text": " V equals, so if I move this here and I have, so 5 equals 4, which is this, this, 4 minus 1.",
+        "start": 85.857,
+        "end": 112.064
+      },
+      {
+        "text": "I mean, that's not right.",
+        "start": 112.165,
+        "end": 113.586
+      },
+      {
+        "text": " Four.",
+        "start": 117.447,
+        "end": 117.967
+      },
+      {
+        "text": "OK.",
+        "start": 118.228,
+        "end": 118.688
+      },
+      {
+        "text": "What if I make this a six?",
+        "start": 118.848,
+        "end": 120.23
+      },
+      {
+        "text": "What if I do this, this?",
+        "start": 120.25,
+        "end": 121.651
+      },
+      {
+        "text": "So six equals four plus two.",
+        "start": 122.872,
+        "end": 134.442
+      },
+      {
+        "text": "That's not right.",
+        "start": 134.462,
+        "end": 135.904
+      },
+      {
+        "text": "Let's see.",
+        "start": 141.329,
+        "end": 141.929
+      },
+      {
+        "text": "What if we do five?",
+        "start": 141.989,
+        "end": 143.07
+      },
+      {
+        "text": "What if we move?",
+        "start": 143.971,
+        "end": 145.092
+      },
+      {
+        "text": " What if we do this?",
+        "start": 146.32,
+        "end": 147.321
+      },
+      {
+        "text": "4 equals V minus IV.",
+        "start": 147.341,
+        "end": 163.036
+      },
+      {
+        "text": "OK, I just don't see this.",
+        "start": 166.359,
+        "end": 167.7
+      },
+      {
+        "text": "This is going to take forever.",
+        "start": 167.96,
+        "end": 169.241
+      },
+      {
+        "text": "4V.",
+        "start": 169.261,
+        "end": 173.205
+      },
+      {
+        "text": " There isn't a way to make that into a V equals VI equals.",
+        "start": 174.704,
+        "end": 192.647
+      },
+      {
+        "text": "That's 6 equals 4 plus.",
+        "start": 192.687,
+        "end": 199.936
+      },
+      {
+        "text": "I mean, it just doesn't work.",
+        "start": 202.76,
+        "end": 203.901
+      },
+      {
+        "text": " That's not right.",
+        "start": 205.113,
+        "end": 205.754
+      },
+      {
+        "text": "IV equals IV plus.",
+        "start": 209.438,
+        "end": 216.287
+      },
+      {
+        "text": "How do I make a 0?",
+        "start": 216.587,
+        "end": 217.809
+      },
+      {
+        "text": "IV minus.",
+        "start": 220.091,
+        "end": 221.273
+      },
+      {
+        "text": "IV minus.",
+        "start": 222.695,
+        "end": 225.878
+      },
+      {
+        "text": "I mean, that just doesn't work.",
+        "start": 229.743,
+        "end": 233.067
+      },
+      {
+        "text": "I'm really bad at this.",
+        "start": 233.207,
+        "end": 234.529
+      },
+      {
+        "text": " You're welcome.",
+        "start": 239.386,
+        "end": 239.69
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 4 equals 4 plus 4. OK, so 4 plus 4 is 8. Is there any way to make this an 8? No, I would have to. I would have to turn 4 plus. So 4 minus 4 would be 0. That's not going to happen. If I moved this here, 6 plus 4 is 10. But I don't have 10 on this side. 5v would be 6. That doesn't do any good. 4 minus 4 is 0. OK, can I do this somewhere? No. Can I do this somewhere? Just changing the angle doesn't do it. How do I make this an 8? Well, I'd have to be VII. OK, so if I do V equals IV. V equals, so if I move this here and I have, so 5 equals 4, which is this, this, 4 minus 1. I mean, that's not right. Four. OK. What if I make this a six? What if I do this, this? So six equals four plus two. That's not right. Let's see. What if we do five? What if we move? What if we do this? 4 equals V minus IV. OK, I just don't see this. This is going to take forever. 4V. There isn't a way to make that into a V equals VI equals. That's 6 equals 4 plus. I mean, it just doesn't work. That's not right. IV equals IV plus. How do I make a 0? IV minus. IV minus. I mean, that just doesn't work. I'm really bad at this. You're welcome."
+  }
+}

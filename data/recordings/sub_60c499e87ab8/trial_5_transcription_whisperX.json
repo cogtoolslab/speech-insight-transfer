@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_60c499e87ab8/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay.What's going on is I'm starting to get the rhythm to this.Hopefully I'm doing better.Four equals six.It's going to go... Six equals six plus one, so we're going to make it seven minus one.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.031,
+        "end": 0.812
+      },
+      {
+        "text": "What's going on is I'm starting to get the rhythm to this.",
+        "start": 3.075,
+        "end": 5.858
+      },
+      {
+        "text": "Hopefully I'm doing better.",
+        "start": 6.219,
+        "end": 7.701
+      },
+      {
+        "text": "Four equals six.",
+        "start": 8.702,
+        "end": 12.787
+      },
+      {
+        "text": "It's going to go...",
+        "start": 21.659,
+        "end": 24.182
+      },
+      {
+        "text": " Six equals six plus one, so we're going to make it seven minus one.",
+        "start": 27.048,
+        "end": 35.067
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. What's going on is I'm starting to get the rhythm to this. Hopefully I'm doing better. Four equals six. It's going to go... Six equals six plus one, so we're going to make it seven minus one."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_598b8785c9a4/trial_3.wav",
+  "with_timestamps": {
+    "text": " V1 plus 1 equals 1.It would be 1.No.It would have to be times.So it would be V1 equals V1 times 1. Oh my god, you can't even, you can't do times.So... So V1... V... 1.So equals phi 1, 1, minus 1.",
+    "segments": [
+      {
+        "text": " V1 plus 1 equals 1.",
+        "start": 0.537,
+        "end": 4.504
+      },
+      {
+        "text": "It would be 1.",
+        "start": 4.984,
+        "end": 5.585
+      },
+      {
+        "text": "No.",
+        "start": 5.906,
+        "end": 6.126
+      },
+      {
+        "text": "It would have to be times.",
+        "start": 7.509,
+        "end": 13.599
+      },
+      {
+        "text": "So it would be V1 equals V1 times 1.",
+        "start": 16.404,
+        "end": 26.781
+      },
+      {
+        "text": " Oh my god, you can't even, you can't do times.",
+        "start": 28.162,
+        "end": 31.687
+      },
+      {
+        "text": "So... So V1... V...",
+        "start": 33.15,
+        "end": 55.924
+      },
+      {
+        "text": " 1.",
+        "start": 56.495,
+        "end": 56.856
+      },
+      {
+        "text": "So equals phi 1, 1, minus 1.",
+        "start": 58.06,
+        "end": 68.293
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " V1 plus 1 equals 1. It would be 1. No. It would have to be times. So it would be V1 equals V1 times 1. Oh my god, you can't even, you can't do times. So... So V1... V... 1. So equals phi 1, 1, minus 1."
+  }
+}

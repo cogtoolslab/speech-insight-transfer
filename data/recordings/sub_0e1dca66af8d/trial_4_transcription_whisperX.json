@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_0e1dca66af8d/trial_4.wav",
+  "with_timestamps": {
+    "text": " I'm not solving puzzles.I don't know what my brain block is on this.I remember doing this.OK, so 8.Let's do 8.1, 2, 3 equals 7 plus 1.And that is not even close.OK, what if we do? But now that doesn't work.What if we do 8 equals 4 plus 4?But that's just not close.What if we do v7 equals? I am speaking V, no wait, back, 7 equals IV, which is 4 plus 3.That's too many moving around.OK.Let's see.What if I turn the, what if I do 8 equals, I mean, it doesn't work. 4 plus 4.How do people do these?Let's see.If I turn this into a 9, but that doesn't, that's not how we represent 9.We represent 9 with an x minus 1.9 equals 5 plus 4, and that doesn't work.Oops. Let's see, 10, no, can't do 10.So v12, 7 equals 5 plus 2.That's moving a lot more than 1.7 equals, let's see, 7 equals 3. plus 4.Does that do it?OK.8 equals 4 plus 4.That doesn't do it.OK.Let's do Vii. equals, I can't do a times, 7 equals 6 plus 1.That doesn't do it.7 equals 3 plus 4.Does that do it?No, that doesn't do it. Okay, VIII, but that doesn't exist.It has to be, you know, IX equals 5 plus, okay, IX equals 5 plus 4.That doesn't do it. I don't see how people do these.You can only move one matchstick.",
+    "segments": [
+      {
+        "text": " I'm not solving puzzles.",
+        "start": 0.79,
+        "end": 2.372
+      },
+      {
+        "text": "I don't know what my brain block is on this.",
+        "start": 2.512,
+        "end": 4.634
+      },
+      {
+        "text": "I remember doing this.",
+        "start": 5.075,
+        "end": 5.936
+      },
+      {
+        "text": "OK, so 8.",
+        "start": 7.037,
+        "end": 7.798
+      },
+      {
+        "text": "Let's do 8.",
+        "start": 7.878,
+        "end": 8.539
+      },
+      {
+        "text": "1, 2, 3 equals 7 plus 1.",
+        "start": 8.559,
+        "end": 22.876
+      },
+      {
+        "text": "And that is not even close.",
+        "start": 23.016,
+        "end": 24.518
+      },
+      {
+        "text": "OK, what if we do?",
+        "start": 25.739,
+        "end": 29.143
+      },
+      {
+        "text": " But now that doesn't work.",
+        "start": 31.148,
+        "end": 32.39
+      },
+      {
+        "text": "What if we do 8 equals 4 plus 4?",
+        "start": 34.593,
+        "end": 42.665
+      },
+      {
+        "text": "But that's just not close.",
+        "start": 45.429,
+        "end": 48.673
+      },
+      {
+        "text": "What if we do v7 equals?",
+        "start": 50.496,
+        "end": 59.569
+      },
+      {
+        "text": " I am speaking V, no wait, back, 7 equals IV, which is 4 plus 3.",
+        "start": 61.102,
+        "end": 72.857
+      },
+      {
+        "text": "That's too many moving around.",
+        "start": 74.92,
+        "end": 76.863
+      },
+      {
+        "text": "OK.",
+        "start": 78.645,
+        "end": 79.626
+      },
+      {
+        "text": "Let's see.",
+        "start": 80.087,
+        "end": 80.768
+      },
+      {
+        "text": "What if I turn the, what if I do 8 equals, I mean, it doesn't work.",
+        "start": 80.828,
+        "end": 91.041
+      },
+      {
+        "text": " 4 plus 4.",
+        "start": 91.207,
+        "end": 92.789
+      },
+      {
+        "text": "How do people do these?",
+        "start": 93.009,
+        "end": 94.13
+      },
+      {
+        "text": "Let's see.",
+        "start": 96.053,
+        "end": 96.733
+      },
+      {
+        "text": "If I turn this into a 9, but that doesn't, that's not how we represent 9.",
+        "start": 97.594,
+        "end": 103.481
+      },
+      {
+        "text": "We represent 9 with an x minus 1.",
+        "start": 103.501,
+        "end": 105.584
+      },
+      {
+        "text": "9 equals 5 plus 4, and that doesn't work.",
+        "start": 105.604,
+        "end": 113.593
+      },
+      {
+        "text": "Oops.",
+        "start": 114.073,
+        "end": 117.197
+      },
+      {
+        "text": " Let's see, 10, no, can't do 10.",
+        "start": 119.303,
+        "end": 121.866
+      },
+      {
+        "text": "So v12, 7 equals 5 plus 2.",
+        "start": 123.047,
+        "end": 132.458
+      },
+      {
+        "text": "That's moving a lot more than 1.",
+        "start": 132.698,
+        "end": 134.841
+      },
+      {
+        "text": "7 equals, let's see, 7 equals 3.",
+        "start": 134.861,
+        "end": 146.374
+      },
+      {
+        "text": " plus 4.",
+        "start": 148.463,
+        "end": 151.728
+      },
+      {
+        "text": "Does that do it?",
+        "start": 151.748,
+        "end": 153.29
+      },
+      {
+        "text": "OK.",
+        "start": 155.995,
+        "end": 156.796
+      },
+      {
+        "text": "8 equals 4 plus 4.",
+        "start": 160.041,
+        "end": 169.055
+      },
+      {
+        "text": "That doesn't do it.",
+        "start": 169.255,
+        "end": 170.117
+      },
+      {
+        "text": "OK.",
+        "start": 173.061,
+        "end": 173.542
+      },
+      {
+        "text": "Let's do Vii.",
+        "start": 173.602,
+        "end": 176.867
+      },
+      {
+        "text": " equals, I can't do a times, 7 equals 6 plus 1.",
+        "start": 177.505,
+        "end": 188.419
+      },
+      {
+        "text": "That doesn't do it.",
+        "start": 188.459,
+        "end": 190.842
+      },
+      {
+        "text": "7 equals 3 plus 4.",
+        "start": 190.862,
+        "end": 200.494
+      },
+      {
+        "text": "Does that do it?",
+        "start": 202.316,
+        "end": 203.077
+      },
+      {
+        "text": "No, that doesn't do it.",
+        "start": 203.297,
+        "end": 204.559
+      },
+      {
+        "text": " Okay, VIII, but that doesn't exist.",
+        "start": 206.362,
+        "end": 215.434
+      },
+      {
+        "text": "It has to be, you know, IX equals 5 plus, okay, IX equals 5 plus 4.",
+        "start": 216.315,
+        "end": 233.058
+      },
+      {
+        "text": "That doesn't do it.",
+        "start": 233.739,
+        "end": 234.58
+      },
+      {
+        "text": " I don't see how people do these.",
+        "start": 235.775,
+        "end": 237.417
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 237.437,
+        "end": 239.119
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm not solving puzzles. I don't know what my brain block is on this. I remember doing this. OK, so 8. Let's do 8. 1, 2, 3 equals 7 plus 1. And that is not even close. OK, what if we do? But now that doesn't work. What if we do 8 equals 4 plus 4? But that's just not close. What if we do v7 equals? I am speaking V, no wait, back, 7 equals IV, which is 4 plus 3. That's too many moving around. OK. Let's see. What if I turn the, what if I do 8 equals, I mean, it doesn't work. 4 plus 4. How do people do these? Let's see. If I turn this into a 9, but that doesn't, that's not how we represent 9. We represent 9 with an x minus 1. 9 equals 5 plus 4, and that doesn't work. Oops. Let's see, 10, no, can't do 10. So v12, 7 equals 5 plus 2. That's moving a lot more than 1. 7 equals, let's see, 7 equals 3. plus 4. Does that do it? OK. 8 equals 4 plus 4. That doesn't do it. OK. Let's do Vii. equals, I can't do a times, 7 equals 6 plus 1. That doesn't do it. 7 equals 3 plus 4. Does that do it? No, that doesn't do it. Okay, VIII, but that doesn't exist. It has to be, you know, IX equals 5 plus, okay, IX equals 5 plus 4. That doesn't do it. I don't see how people do these. You can only move one matchstick."
+  }
+}

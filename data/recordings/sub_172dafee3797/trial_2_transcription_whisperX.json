@@ -1,0 +1,226 @@
+{
+  "file": "data/recordings/sub_172dafee3797/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay.Now let's start two.Okay.So six equals six plus one.Okay.So what if I do, Um, six equals six plus one.So it's seven.I don't think I can add anything.So I'm going to try to add it.See, I just misunderstood the instructions.So if I do seven, equals six plus one.Am I allowed to add or can I not add anything?Yeah, okay, that's what I thought.Just wanted to check.Okay, so six equals, let's see if I move that to there. Oops.If I move the six, the VI, did I flip that?Let me try.Plus one is still only going to be five though.I have to equal six and I can't add anything.Yeah.Okay.So six equals Oh, no, that doesn't work either.I was thinking if I move that to make that seven equals five plus one, but it's still six.So what if I do five, 6 minus 6 equals 6.No, no, no.I can only change one.So I want to do 6 equals 5 plus 1. No, because I still need to move that somewhere.Let me think.Let me think.Let me think.ColorMove 1 matched it.So make that 7 equals vi plus 1.It's not right, though, because I'm moving that to ColorMove 1. VI, okay, six equals, let's see if I do V plus two, that's seven, which makes no sense.Yeah, see, that's not right either.Why am I overthinking this?Let's see, six equals, let me type it out",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.925,
+        "end": 1.546
+      },
+      {
+        "text": "Now let's start two.",
+        "start": 1.566,
+        "end": 3.089
+      },
+      {
+        "text": "Okay.",
+        "start": 4.391,
+        "end": 4.952
+      },
+      {
+        "text": "So six equals six plus one.",
+        "start": 5.092,
+        "end": 7.295
+      },
+      {
+        "text": "Okay.",
+        "start": 9.8,
+        "end": 10.24
+      },
+      {
+        "text": "So what if I do,",
+        "start": 10.741,
+        "end": 27.068
+      },
+      {
+        "text": " Um, six equals six plus one.",
+        "start": 33.275,
+        "end": 36.56
+      },
+      {
+        "text": "So it's seven.",
+        "start": 37.121,
+        "end": 38.022
+      },
+      {
+        "text": "I don't think I can add anything.",
+        "start": 38.042,
+        "end": 42.909
+      },
+      {
+        "text": "So I'm going to try to add it.",
+        "start": 45.674,
+        "end": 55.929
+      },
+      {
+        "text": "See, I just misunderstood the instructions.",
+        "start": 55.949,
+        "end": 58.072
+      },
+      {
+        "text": "So if I do seven,",
+        "start": 58.793,
+        "end": 60.075
+      },
+      {
+        "text": " equals six plus one.",
+        "start": 62.418,
+        "end": 66.344
+      },
+      {
+        "text": "Am I allowed to add or can I not add anything?",
+        "start": 68.227,
+        "end": 71.131
+      },
+      {
+        "text": "Yeah, okay, that's what I thought.",
+        "start": 71.171,
+        "end": 73.795
+      },
+      {
+        "text": "Just wanted to check.",
+        "start": 74.236,
+        "end": 75.057
+      },
+      {
+        "text": "Okay, so six equals, let's see if I move that to there.",
+        "start": 75.137,
+        "end": 89.438
+      },
+      {
+        "text": " Oops.",
+        "start": 96.269,
+        "end": 96.79
+      },
+      {
+        "text": "If I move the six, the VI, did I flip that?",
+        "start": 98.312,
+        "end": 104.099
+      },
+      {
+        "text": "Let me try.",
+        "start": 104.119,
+        "end": 104.72
+      },
+      {
+        "text": "Plus one is still only going to be five though.",
+        "start": 106.983,
+        "end": 112.95
+      },
+      {
+        "text": "I have to equal six and I can't add anything.",
+        "start": 113.371,
+        "end": 117.416
+      },
+      {
+        "text": "Yeah.",
+        "start": 117.456,
+        "end": 119.278
+      },
+      {
+        "text": "Okay.",
+        "start": 119.358,
+        "end": 119.739
+      },
+      {
+        "text": "So six equals",
+        "start": 119.759,
+        "end": 123.964
+      },
+      {
+        "text": " Oh, no, that doesn't work either.",
+        "start": 127.623,
+        "end": 131.689
+      },
+      {
+        "text": "I was thinking if I move that to make that seven equals five plus one, but it's still six.",
+        "start": 131.709,
+        "end": 138.039
+      },
+      {
+        "text": "So what if I do five,",
+        "start": 139.401,
+        "end": 153.343
+      },
+      {
+        "text": " 6 minus 6 equals 6.",
+        "start": 155.922,
+        "end": 164.57
+      },
+      {
+        "text": "No, no, no.",
+        "start": 168.254,
+        "end": 169.014
+      },
+      {
+        "text": "I can only change one.",
+        "start": 169.034,
+        "end": 172.478
+      },
+      {
+        "text": "So I want to do 6 equals 5 plus 1.",
+        "start": 173.238,
+        "end": 183.668
+      },
+      {
+        "text": " No, because I still need to move that somewhere.",
+        "start": 184.829,
+        "end": 186.591
+      },
+      {
+        "text": "Let me think.",
+        "start": 186.651,
+        "end": 187.212
+      },
+      {
+        "text": "Let me think.",
+        "start": 187.312,
+        "end": 187.733
+      },
+      {
+        "text": "Let me think.",
+        "start": 187.813,
+        "end": 188.213
+      },
+      {
+        "text": "ColorMove 1 matched it.",
+        "start": 191.998,
+        "end": 193.08
+      },
+      {
+        "text": "So make that 7 equals vi plus 1.",
+        "start": 203.313,
+        "end": 208.24
+      },
+      {
+        "text": "It's not right, though, because I'm moving that to ColorMove 1.",
+        "start": 208.38,
+        "end": 212.305
+      },
+      {
+        "text": " VI, okay, six equals, let's see if I do V plus two, that's seven, which makes no sense.",
+        "start": 214.259,
+        "end": 228.586
+      },
+      {
+        "text": "Yeah, see, that's not right either.",
+        "start": 235.96,
+        "end": 237.343
+      },
+      {
+        "text": "Why am I overthinking this?",
+        "start": 238.004,
+        "end": 239.186
+      },
+      {
+        "text": "Let's see, six equals, let me type it out",
+        "start": 239.787,
+        "end": 243.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. Now let's start two. Okay. So six equals six plus one. Okay. So what if I do, Um, six equals six plus one. So it's seven. I don't think I can add anything. So I'm going to try to add it. See, I just misunderstood the instructions. So if I do seven, equals six plus one. Am I allowed to add or can I not add anything? Yeah, okay, that's what I thought. Just wanted to check. Okay, so six equals, let's see if I move that to there. Oops. If I move the six, the VI, did I flip that? Let me try. Plus one is still only going to be five though. I have to equal six and I can't add anything. Yeah. Okay. So six equals Oh, no, that doesn't work either. I was thinking if I move that to make that seven equals five plus one, but it's still six. So what if I do five, 6 minus 6 equals 6. No, no, no. I can only change one. So I want to do 6 equals 5 plus 1. No, because I still need to move that somewhere. Let me think. Let me think. Let me think. ColorMove 1 matched it. So make that 7 equals vi plus 1. It's not right, though, because I'm moving that to ColorMove 1. VI, okay, six equals, let's see if I do V plus two, that's seven, which makes no sense. Yeah, see, that's not right either. Why am I overthinking this? Let's see, six equals, let me type it out"
+  }
+}

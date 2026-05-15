@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_51a2c9fe8317/trial_1.wav",
+  "with_timestamps": {
+    "text": " you",
+    "segments": [
+      {
+        "text": " you",
+        "start": 0.031,
+        "end": 0.307
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " you"
+  }
+}

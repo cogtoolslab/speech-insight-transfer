@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_921234e118bc/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick.So let me solve this puzzle first.So V11 is 5, 6, 7.7 equals 3 minus 1V.That would be 5 minus 1 equals 4.Okay, so I need to make this correct.So if this is 7, then what I'll do but they want me to move a matchstick.So what if I moved, okay, so if I went V11 equals 111 minus one V. So maybe if I took three and I put the V in front of one, that would be, that would be four but that's a minus so what if i changed if this is four and i took one from over here that would leave me with six six minus four would be two which is not correct all right so what if i went uh v seven can i take one from All right, so let's say if I took one of these away and I left me with six, and then if I go over here, if I leave the three minus, let's say I took V plus one would be six, six minus three would be, that wouldn't work either.So let's go V one, one equals one, two, Let's see, if I have V11 equals 11, it's gonna have to be minus, or maybe, maybe I'll put, I'm trying to get to the number seven.So I only can move one.So what if I go three, two, plus one V? How about that?Okay, well, RV11, okay, so that's seven, equals one.So if I did a minus, what if I went, I could change one match state.What if I did, I don't know, Let's see.Can I go back?Oh, no.Oh, yeah, there you go.Let me go back one.So let's go... V. Let's see if that works.No.Okay, so that doesn't work.So I got... Okay, so I am so confused what I'm doing here.Okay, so I got V11, which is obviously 7, equals 3 minus... If the smaller one is in front, you subtract it from the bigger one.So 5 minus 1 is 4.So 3 minus 4 equals 1.That's not going to work, so I got to have 3 plus 4.So I am just going to go v11 equals 1, 2, 3 plus 1 v. That's the only one I can do All right, so let's go V 1 1 equals 1 2 3 minus V All right V",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick.",
+        "start": 0.031,
+        "end": 3.014
+      },
+      {
+        "text": "So let me solve this puzzle first.",
+        "start": 3.034,
+        "end": 4.916
+      },
+      {
+        "text": "So V11 is 5, 6, 7.",
+        "start": 4.956,
+        "end": 8.52
+      },
+      {
+        "text": "7 equals 3 minus 1V.",
+        "start": 8.54,
+        "end": 13.145
+      },
+      {
+        "text": "That would be 5 minus 1 equals 4.",
+        "start": 14.406,
+        "end": 16.869
+      },
+      {
+        "text": "Okay, so I need to make this correct.",
+        "start": 17.95,
+        "end": 23.516
+      },
+      {
+        "text": "So if this is 7, then what I'll do",
+        "start": 24.056,
+        "end": 28.401
+      },
+      {
+        "text": " but they want me to move a matchstick.",
+        "start": 28.972,
+        "end": 30.934
+      },
+      {
+        "text": "So what if I moved, okay, so if I went V11 equals 111 minus one V. So maybe if I took three and I put the V in front of one, that would be,",
+        "start": 33.558,
+        "end": 55.165
+      },
+      {
+        "text": " that would be four but that's a minus so what if i changed if this is four and i took one from over here that would leave me with six six minus four would be two which is not correct all right so what if i went uh v seven can i take one from",
+        "start": 58.418,
+        "end": 83.127
+      },
+      {
+        "text": " All right, so let's say if I took one of these away and I left me with six, and then if I go over here, if I leave the three minus, let's say I took V plus one would be six, six minus three would be, that wouldn't work either.",
+        "start": 83.697,
+        "end": 108.006
+      },
+      {
+        "text": "So let's go V one, one equals one, two,",
+        "start": 108.806,
+        "end": 113.552
+      },
+      {
+        "text": " Let's see, if I have V11 equals 11, it's gonna have to be minus, or maybe, maybe I'll put, I'm trying to get to the number seven.",
+        "start": 115.372,
+        "end": 132.11
+      },
+      {
+        "text": "So I only can move one.",
+        "start": 133.031,
+        "end": 134.372
+      },
+      {
+        "text": "So what if I go three, two, plus one V?",
+        "start": 134.953,
+        "end": 143.742
+      },
+      {
+        "text": " How about that?",
+        "start": 144.768,
+        "end": 145.289
+      },
+      {
+        "text": "Okay, well, RV11, okay, so that's seven, equals one.",
+        "start": 146.871,
+        "end": 156.764
+      },
+      {
+        "text": "So if I did a minus, what if I went, I could change one match state.",
+        "start": 159.167,
+        "end": 165.095
+      },
+      {
+        "text": "What if I did, I don't know,",
+        "start": 166.396,
+        "end": 169.24
+      },
+      {
+        "text": " Let's see.",
+        "start": 171.295,
+        "end": 171.836
+      },
+      {
+        "text": "Can I go back?",
+        "start": 172.236,
+        "end": 173.017
+      },
+      {
+        "text": "Oh, no.",
+        "start": 173.037,
+        "end": 173.377
+      },
+      {
+        "text": "Oh, yeah, there you go.",
+        "start": 173.397,
+        "end": 174.058
+      },
+      {
+        "text": "Let me go back one.",
+        "start": 174.098,
+        "end": 174.899
+      },
+      {
+        "text": "So let's go... V. Let's see if that works.",
+        "start": 175.379,
+        "end": 181.906
+      },
+      {
+        "text": "No.",
+        "start": 182.687,
+        "end": 182.848
+      },
+      {
+        "text": "Okay, so that doesn't work.",
+        "start": 183.368,
+        "end": 184.449
+      },
+      {
+        "text": "So I got... Okay, so I am so confused what I'm doing here.",
+        "start": 184.469,
+        "end": 187.993
+      },
+      {
+        "text": "Okay, so I got V11, which is obviously 7, equals 3 minus...",
+        "start": 188.333,
+        "end": 194.4
+      },
+      {
+        "text": " If the smaller one is in front, you subtract it from the bigger one.",
+        "start": 195.916,
+        "end": 200.18
+      },
+      {
+        "text": "So 5 minus 1 is 4.",
+        "start": 200.22,
+        "end": 202.643
+      },
+      {
+        "text": "So 3 minus 4 equals 1.",
+        "start": 203.163,
+        "end": 205.946
+      },
+      {
+        "text": "That's not going to work, so I got to have 3 plus 4.",
+        "start": 206.707,
+        "end": 209.45
+      },
+      {
+        "text": "So I am just going to go v11 equals 1, 2, 3 plus 1 v.",
+        "start": 209.87,
+        "end": 221.822
+      },
+      {
+        "text": " That's the only one I can do All right, so let's go V 1 1 equals 1 2 3 minus V All right V",
+        "start": 224.148,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick. So let me solve this puzzle first. So V11 is 5, 6, 7. 7 equals 3 minus 1V. That would be 5 minus 1 equals 4. Okay, so I need to make this correct. So if this is 7, then what I'll do but they want me to move a matchstick. So what if I moved, okay, so if I went V11 equals 111 minus one V. So maybe if I took three and I put the V in front of one, that would be, that would be four but that's a minus so what if i changed if this is four and i took one from over here that would leave me with six six minus four would be two which is not correct all right so what if i went uh v seven can i take one from All right, so let's say if I took one of these away and I left me with six, and then if I go over here, if I leave the three minus, let's say I took V plus one would be six, six minus three would be, that wouldn't work either. So let's go V one, one equals one, two, Let's see, if I have V11 equals 11, it's gonna have to be minus, or maybe, maybe I'll put, I'm trying to get to the number seven. So I only can move one. So what if I go three, two, plus one V? How about that? Okay, well, RV11, okay, so that's seven, equals one. So if I did a minus, what if I went, I could change one match state. What if I did, I don't know, Let's see. Can I go back? Oh, no. Oh, yeah, there you go. Let me go back one. So let's go... V. Let's see if that works. No. Okay, so that doesn't work. So I got... Okay, so I am so confused what I'm doing here. Okay, so I got V11, which is obviously 7, equals 3 minus... If the smaller one is in front, you subtract it from the bigger one. So 5 minus 1 is 4. So 3 minus 4 equals 1. That's not going to work, so I got to have 3 plus 4. So I am just going to go v11 equals 1, 2, 3 plus 1 v. That's the only one I can do All right, so let's go V 1 1 equals 1 2 3 minus V All right V"
+  }
+}

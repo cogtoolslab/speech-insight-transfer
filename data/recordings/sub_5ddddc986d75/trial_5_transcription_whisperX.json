@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_5ddddc986d75/trial_5.wav",
+  "with_timestamps": {
+    "text": " This one is 13 equals 9 minus 4.So this will be 13 minus 9 equals 4.",
+    "segments": [
+      {
+        "text": " This one is 13 equals 9 minus 4.",
+        "start": 2.545,
+        "end": 8.356
+      },
+      {
+        "text": "So this will be 13 minus 9 equals 4.",
+        "start": 13.446,
+        "end": 25.65
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This one is 13 equals 9 minus 4. So this will be 13 minus 9 equals 4."
+  }
+}

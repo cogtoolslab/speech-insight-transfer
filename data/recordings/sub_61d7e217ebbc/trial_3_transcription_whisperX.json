@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_61d7e217ebbc/trial_3.wav",
+  "with_timestamps": {
+    "text": " 9 equals 7 plus 4.Can only move one matchstick.Oh, that one's easy.So I go like this.I go 11 equals 8 plus",
+    "segments": [
+      {
+        "text": " 9 equals 7 plus 4.",
+        "start": 2.798,
+        "end": 5.281
+      },
+      {
+        "text": "Can only move one matchstick.",
+        "start": 7.644,
+        "end": 18.236
+      },
+      {
+        "text": "Oh, that one's easy.",
+        "start": 18.256,
+        "end": 19.217
+      },
+      {
+        "text": "So I go like this.",
+        "start": 19.638,
+        "end": 20.559
+      },
+      {
+        "text": "I go 11 equals 8 plus",
+        "start": 20.679,
+        "end": 28.148
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 9 equals 7 plus 4. Can only move one matchstick. Oh, that one's easy. So I go like this. I go 11 equals 8 plus"
+  }
+}

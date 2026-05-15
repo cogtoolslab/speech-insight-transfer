@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_9b26cf0dfff5/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 equals 9 minus 2.2 equals 9 minus 2.That's incorrect, obviously.9 minus 2 is 7. Trying to think what I can do... How can I get 9 minus 2 to equal 2?2 equals... 9 plus 2 is 11, but that's not 11.2.Yes, I'm trying to think and reason aloud, but I'm trying to also think and figure out this confusing problem.So it's hard to communicate confusion clearly besides what I'm doing. My this I don't get this one Nothing's coming in my head to try And I can only make one move Two minus nine would be negative seven Which does not equal two so I can't do what I did the last problem I 9 plus 2 would be 11, but that's not correct.Yep, I'm trying to communicate what I'm thinking out loud.Thank you for the reminder. Definitely wish there were more examples provided on the possible functions that can be done.2 plus 9 equals 11, but that's... I obviously know that was incorrect.Just trying something, maybe the correct answer will pop into my head.Nine minus three.",
+    "segments": [
+      {
+        "text": " 2 equals 9 minus 2.",
+        "start": 2.275,
+        "end": 7.226
+      },
+      {
+        "text": "2 equals 9 minus 2.",
+        "start": 7.246,
+        "end": 13.581
+      },
+      {
+        "text": "That's incorrect, obviously.",
+        "start": 14.082,
+        "end": 15.786
+      },
+      {
+        "text": "9 minus 2 is 7.",
+        "start": 15.806,
+        "end": 19.795
+      },
+      {
+        "text": " Trying to think what I can do... How can I get 9 minus 2 to equal 2?",
+        "start": 32.482,
+        "end": 44.895
+      },
+      {
+        "text": "2 equals...",
+        "start": 44.915,
+        "end": 58.59
+      },
+      {
+        "text": " 9 plus 2 is 11, but that's not 11.",
+        "start": 69.91,
+        "end": 73.453
+      },
+      {
+        "text": "2.",
+        "start": 73.473,
+        "end": 78.498
+      },
+      {
+        "text": "Yes, I'm trying to think and reason aloud, but I'm trying to also think and figure out this confusing problem.",
+        "start": 83.963,
+        "end": 91.549
+      },
+      {
+        "text": "So it's hard to communicate confusion clearly besides what I'm doing.",
+        "start": 93.571,
+        "end": 99.917
+      },
+      {
+        "text": " My this I don't get this one Nothing's coming in my head to try And I can only make one move Two minus nine would be negative seven Which does not equal two so I can't do what I did the last problem I",
+        "start": 107.947,
+        "end": 135.017
+      },
+      {
+        "text": " 9 plus 2 would be 11, but that's not correct.",
+        "start": 147.687,
+        "end": 154.458
+      },
+      {
+        "text": "Yep, I'm trying to communicate what I'm thinking out loud.",
+        "start": 163.533,
+        "end": 166.438
+      },
+      {
+        "text": "Thank you for the reminder.",
+        "start": 166.478,
+        "end": 171.045
+      },
+      {
+        "text": " Definitely wish there were more examples provided on the possible functions that can be done.",
+        "start": 181.808,
+        "end": 188.36
+      },
+      {
+        "text": "2 plus 9 equals 11, but that's...",
+        "start": 196.095,
+        "end": 201.505
+      },
+      {
+        "text": " I obviously know that was incorrect.",
+        "start": 224.485,
+        "end": 226.512
+      },
+      {
+        "text": "Just trying something, maybe the correct answer will pop into my head.",
+        "start": 229.0,
+        "end": 232.17
+      },
+      {
+        "text": "Nine minus three.",
+        "start": 232.23,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 9 minus 2. 2 equals 9 minus 2. That's incorrect, obviously. 9 minus 2 is 7. Trying to think what I can do... How can I get 9 minus 2 to equal 2? 2 equals... 9 plus 2 is 11, but that's not 11. 2. Yes, I'm trying to think and reason aloud, but I'm trying to also think and figure out this confusing problem. So it's hard to communicate confusion clearly besides what I'm doing. My this I don't get this one Nothing's coming in my head to try And I can only make one move Two minus nine would be negative seven Which does not equal two so I can't do what I did the last problem I 9 plus 2 would be 11, but that's not correct. Yep, I'm trying to communicate what I'm thinking out loud. Thank you for the reminder. Definitely wish there were more examples provided on the possible functions that can be done. 2 plus 9 equals 11, but that's... I obviously know that was incorrect. Just trying something, maybe the correct answer will pop into my head. Nine minus three."
+  }
+}

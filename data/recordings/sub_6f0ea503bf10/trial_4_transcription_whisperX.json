@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_6f0ea503bf10/trial_4.wav",
+  "with_timestamps": {
+    "text": " We have 4 equals 11 minus 2.11 minus 2 is 9.So there's a difference of 5.So 4 equals 11 minus 2.Okay.So 9 equals 11 minus 2.So change the V to an X. So 9... equals 11 minus 2.",
+    "segments": [
+      {
+        "text": " We have 4 equals 11 minus 2.",
+        "start": 2.14,
+        "end": 7.927
+      },
+      {
+        "text": "11 minus 2 is 9.",
+        "start": 7.947,
+        "end": 9.97
+      },
+      {
+        "text": "So there's a difference of 5.",
+        "start": 9.99,
+        "end": 11.872
+      },
+      {
+        "text": "So 4 equals 11 minus 2.",
+        "start": 14.015,
+        "end": 16.098
+      },
+      {
+        "text": "Okay.",
+        "start": 16.438,
+        "end": 16.599
+      },
+      {
+        "text": "So 9 equals 11 minus 2.",
+        "start": 23.968,
+        "end": 26.331
+      },
+      {
+        "text": "So change the V to an X. So 9...",
+        "start": 27.693,
+        "end": 31.017
+      },
+      {
+        "text": " equals 11 minus 2.",
+        "start": 31.604,
+        "end": 35.64
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " We have 4 equals 11 minus 2. 11 minus 2 is 9. So there's a difference of 5. So 4 equals 11 minus 2. Okay. So 9 equals 11 minus 2. So change the V to an X. So 9... equals 11 minus 2."
+  }
+}

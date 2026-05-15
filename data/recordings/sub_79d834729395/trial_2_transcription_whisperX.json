@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_79d834729395/trial_2.wav",
+  "with_timestamps": {
+    "text": " I'm failing terribly.I'm so confused and I don't know why.I guess I'm, I don't know why I'm so confused. You can only move one matchstick to make this equation correct.Oh, I'm so stupid.I see where I was confused at.Oh, my God.Oh, great.I'm so sorry.I see now where I was confused.OK.So that is a four. And I need to make so equals 4 equals.So we have 4 plus 4, which equals 8.So I just need to do this.Oh, no.Oh, God.4. equals 4 plus 4.So maybe do 8 minus 4.Maybe if I do 8.Maybe if I do V11 minus 4.Oh my god. So four equals four plus four is eight.Oh man.I'm stupid. 4 plus 4 is 8, but it has to equal the same, which means I would have to 4 minus 4 would be 0.That can't be right.And I did 8 minus 4.I don't understand.I'm going to do Four.Minus.Eight.Eight.I did eight minus four, which would have been four, but that for some reason wasn't correct. I don't know what I'm doing wrong here because this is 8 minus 4 would equal the same thing.What the freak?I'm gonna get all these wrong but I can't seem to get it.",
+    "segments": [
+      {
+        "text": " I'm failing terribly.",
+        "start": 1.533,
+        "end": 2.995
+      },
+      {
+        "text": "I'm so confused and I don't know why.",
+        "start": 3.015,
+        "end": 7.141
+      },
+      {
+        "text": "I guess I'm, I don't know why I'm so confused.",
+        "start": 7.162,
+        "end": 28.013
+      },
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 37.595,
+        "end": 42.92
+      },
+      {
+        "text": "Oh, I'm so stupid.",
+        "start": 43.881,
+        "end": 45.402
+      },
+      {
+        "text": "I see where I was confused at.",
+        "start": 45.422,
+        "end": 47.384
+      },
+      {
+        "text": "Oh, my God.",
+        "start": 47.764,
+        "end": 48.885
+      },
+      {
+        "text": "Oh, great.",
+        "start": 51.528,
+        "end": 52.409
+      },
+      {
+        "text": "I'm so sorry.",
+        "start": 52.609,
+        "end": 53.69
+      },
+      {
+        "text": "I see now where I was confused.",
+        "start": 53.71,
+        "end": 61.357
+      },
+      {
+        "text": "OK.",
+        "start": 62.038,
+        "end": 62.398
+      },
+      {
+        "text": "So that is a four.",
+        "start": 64.48,
+        "end": 66.842
+      },
+      {
+        "text": " And I need to make so equals 4 equals.",
+        "start": 67.868,
+        "end": 73.398
+      },
+      {
+        "text": "So we have 4 plus 4, which equals 8.",
+        "start": 73.539,
+        "end": 77.206
+      },
+      {
+        "text": "So I just need to do this.",
+        "start": 80.512,
+        "end": 83.698
+      },
+      {
+        "text": "Oh, no.",
+        "start": 85.221,
+        "end": 90.551
+      },
+      {
+        "text": "Oh, God.",
+        "start": 90.571,
+        "end": 90.892
+      },
+      {
+        "text": "4.",
+        "start": 90.912,
+        "end": 91.092
+      },
+      {
+        "text": " equals 4 plus 4.",
+        "start": 93.721,
+        "end": 97.266
+      },
+      {
+        "text": "So maybe do 8 minus 4.",
+        "start": 97.347,
+        "end": 105.339
+      },
+      {
+        "text": "Maybe if I do 8.",
+        "start": 105.799,
+        "end": 111.568
+      },
+      {
+        "text": "Maybe if I do V11 minus 4.",
+        "start": 112.029,
+        "end": 118.358
+      },
+      {
+        "text": "Oh my god.",
+        "start": 121.383,
+        "end": 122.665
+      },
+      {
+        "text": " So four equals four plus four is eight.",
+        "start": 127.454,
+        "end": 134.122
+      },
+      {
+        "text": "Oh man.",
+        "start": 145.915,
+        "end": 146.676
+      },
+      {
+        "text": "I'm stupid.",
+        "start": 150.24,
+        "end": 151.622
+      },
+      {
+        "text": " 4 plus 4 is 8, but it has to equal the same, which means I would have to 4 minus 4 would be 0.",
+        "start": 154.859,
+        "end": 176.943
+      },
+      {
+        "text": "That can't be right.",
+        "start": 178.805,
+        "end": 179.827
+      },
+      {
+        "text": "And I did 8 minus 4.",
+        "start": 179.927,
+        "end": 182.269
+      },
+      {
+        "text": "I don't understand.",
+        "start": 182.289,
+        "end": 183.771
+      },
+      {
+        "text": "I'm going to do",
+        "start": 183.791,
+        "end": 184.832
+      },
+      {
+        "text": " Four.",
+        "start": 186.685,
+        "end": 187.506
+      },
+      {
+        "text": "Minus.",
+        "start": 192.293,
+        "end": 192.994
+      },
+      {
+        "text": "Eight.",
+        "start": 197.781,
+        "end": 198.062
+      },
+      {
+        "text": "Eight.",
+        "start": 199.985,
+        "end": 200.245
+      },
+      {
+        "text": "I did eight minus four, which would have been four, but that for some reason wasn't correct.",
+        "start": 206.314,
+        "end": 210.28
+      },
+      {
+        "text": " I don't know what I'm doing wrong here because this is 8 minus 4 would equal the same thing.",
+        "start": 211.407,
+        "end": 223.043
+      },
+      {
+        "text": "What the freak?",
+        "start": 225.506,
+        "end": 226.588
+      },
+      {
+        "text": "I'm gonna get all these wrong but I can't seem to get it.",
+        "start": 235.961,
+        "end": 239.085
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm failing terribly. I'm so confused and I don't know why. I guess I'm, I don't know why I'm so confused. You can only move one matchstick to make this equation correct. Oh, I'm so stupid. I see where I was confused at. Oh, my God. Oh, great. I'm so sorry. I see now where I was confused. OK. So that is a four. And I need to make so equals 4 equals. So we have 4 plus 4, which equals 8. So I just need to do this. Oh, no. Oh, God. 4. equals 4 plus 4. So maybe do 8 minus 4. Maybe if I do 8. Maybe if I do V11 minus 4. Oh my god. So four equals four plus four is eight. Oh man. I'm stupid. 4 plus 4 is 8, but it has to equal the same, which means I would have to 4 minus 4 would be 0. That can't be right. And I did 8 minus 4. I don't understand. I'm going to do Four. Minus. Eight. Eight. I did eight minus four, which would have been four, but that for some reason wasn't correct. I don't know what I'm doing wrong here because this is 8 minus 4 would equal the same thing. What the freak? I'm gonna get all these wrong but I can't seem to get it."
+  }
+}

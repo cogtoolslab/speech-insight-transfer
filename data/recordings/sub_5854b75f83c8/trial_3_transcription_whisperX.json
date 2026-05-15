@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_5854b75f83c8/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, we've got V, that's eight, equals eight, equals, well, eight equals eight plus eight.Why am I getting the same type of equation?All I have to do here is just replace the plus sign with an equal sign, so that would be eight V, V one, one, one. equals V111 equals V111.",
+    "segments": [
+      {
+        "text": " Okay, we've got V, that's eight, equals eight, equals, well, eight equals eight plus eight.",
+        "start": 1.094,
+        "end": 11.412
+      },
+      {
+        "text": "Why am I getting the same type of equation?",
+        "start": 12.574,
+        "end": 14.497
+      },
+      {
+        "text": "All I have to do here is just replace the plus sign with an equal sign, so that would be eight V, V one, one, one.",
+        "start": 15.659,
+        "end": 25.937
+      },
+      {
+        "text": " equals V111 equals V111.",
+        "start": 27.217,
+        "end": 38.357
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we've got V, that's eight, equals eight, equals, well, eight equals eight plus eight. Why am I getting the same type of equation? All I have to do here is just replace the plus sign with an equal sign, so that would be eight V, V one, one, one. equals V111 equals V111."
+  }
+}

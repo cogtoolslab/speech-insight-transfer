@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_b87bf837c6ae/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, this one is 6 equals 4 minus 2.Oh my God.So this is easily 6 equals 4 plus 2. Six.Huh.Four equals one. Let's see.Seven.Let's see.I'm trying to. to figure out what is happening.I'm not sure.I don't know how to do this. So, I'm going to go ahead and do that. This is so bizarre because I can only move one matchstick. I'm not sure what that means.I really don't know what that means.",
+    "segments": [
+      {
+        "text": " Okay, this one is 6 equals 4 minus 2.",
+        "start": 0.284,
+        "end": 3.693
+      },
+      {
+        "text": "Oh my God.",
+        "start": 3.713,
+        "end": 6.28
+      },
+      {
+        "text": "So this is easily 6 equals 4 plus 2.",
+        "start": 6.34,
+        "end": 11.374
+      },
+      {
+        "text": " Six.",
+        "start": 31.115,
+        "end": 34.76
+      },
+      {
+        "text": "Huh.",
+        "start": 34.78,
+        "end": 39.747
+      },
+      {
+        "text": "Four equals one.",
+        "start": 44.334,
+        "end": 51.925
+      },
+      {
+        "text": " Let's see.",
+        "start": 61.287,
+        "end": 62.068
+      },
+      {
+        "text": "Seven.",
+        "start": 67.135,
+        "end": 70.639
+      },
+      {
+        "text": "Let's see.",
+        "start": 78.129,
+        "end": 78.81
+      },
+      {
+        "text": "I'm trying to.",
+        "start": 85.259,
+        "end": 86.4
+      },
+      {
+        "text": " to figure out what is happening.",
+        "start": 89.806,
+        "end": 91.288
+      },
+      {
+        "text": "I'm not sure.",
+        "start": 97.959,
+        "end": 99.521
+      },
+      {
+        "text": "I don't know how to do this.",
+        "start": 99.541,
+        "end": 115.105
+      },
+      {
+        "text": " So, I'm going to go ahead and do that.",
+        "start": 125.48,
+        "end": 133.093
+      },
+      {
+        "text": " This is so bizarre because I can only move one matchstick.",
+        "start": 190.567,
+        "end": 214.549
+      },
+      {
+        "text": " I'm not sure what that means.",
+        "start": 220.891,
+        "end": 228.433
+      },
+      {
+        "text": "I really don't know what that means.",
+        "start": 233.528,
+        "end": 235.795
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this one is 6 equals 4 minus 2. Oh my God. So this is easily 6 equals 4 plus 2. Six. Huh. Four equals one. Let's see. Seven. Let's see. I'm trying to. to figure out what is happening. I'm not sure. I don't know how to do this. So, I'm going to go ahead and do that. This is so bizarre because I can only move one matchstick. I'm not sure what that means. I really don't know what that means."
+  }
+}

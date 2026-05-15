@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_dedb795332fb/trial_2.wav",
+  "with_timestamps": {
+    "text": " Oh, God.7 equals 12 plus 6.7 equals 11. My no, no, it's not going to work.Twelve minus.Six, I don't know.Seven.Twelve.Seven equals twelve. Minus five.I don't fucking know.Six.Equals one.Twelve.Minus six.Of course. X 12.No, that's not going to be right either.Equals. 13 minus 1.Odd.12 equals... No, 7 equals... Twelve.No.Fuck it.This is stupid.This isn't even worth it. I don't know how to do this.Seven equals... 7 plus, not 12, plus 7.Sure, whatever.Mod equals plus,",
+    "segments": [
+      {
+        "text": " Oh, God.",
+        "start": 0.908,
+        "end": 1.929
+      },
+      {
+        "text": "7 equals 12 plus 6.",
+        "start": 1.949,
+        "end": 9.179
+      },
+      {
+        "text": "7 equals 11.",
+        "start": 9.199,
+        "end": 29.447
+      },
+      {
+        "text": " My no, no, it's not going to work.",
+        "start": 31.823,
+        "end": 33.845
+      },
+      {
+        "text": "Twelve minus.",
+        "start": 34.286,
+        "end": 35.467
+      },
+      {
+        "text": "Six, I don't know.",
+        "start": 40.434,
+        "end": 42.476
+      },
+      {
+        "text": "Seven.",
+        "start": 44.138,
+        "end": 44.799
+      },
+      {
+        "text": "Twelve.",
+        "start": 44.859,
+        "end": 47.923
+      },
+      {
+        "text": "Seven equals twelve.",
+        "start": 54.19,
+        "end": 57.915
+      },
+      {
+        "text": " Minus five.",
+        "start": 60.933,
+        "end": 63.137
+      },
+      {
+        "text": "I don't fucking know.",
+        "start": 63.157,
+        "end": 65.26
+      },
+      {
+        "text": "Six.",
+        "start": 73.133,
+        "end": 73.574
+      },
+      {
+        "text": "Equals one.",
+        "start": 75.818,
+        "end": 78.502
+      },
+      {
+        "text": "Twelve.",
+        "start": 78.542,
+        "end": 80.205
+      },
+      {
+        "text": "Minus six.",
+        "start": 82.869,
+        "end": 84.452
+      },
+      {
+        "text": "Of course.",
+        "start": 85.955,
+        "end": 86.856
+      },
+      {
+        "text": " X 12.",
+        "start": 97.552,
+        "end": 101.497
+      },
+      {
+        "text": "No, that's not going to be right either.",
+        "start": 106.104,
+        "end": 107.606
+      },
+      {
+        "text": "Equals.",
+        "start": 121.585,
+        "end": 122.867
+      },
+      {
+        "text": " 13 minus 1.",
+        "start": 125.615,
+        "end": 131.962
+      },
+      {
+        "text": "Odd.",
+        "start": 131.982,
+        "end": 132.262
+      },
+      {
+        "text": "12 equals... No, 7 equals...",
+        "start": 132.282,
+        "end": 151.943
+      },
+      {
+        "text": " Twelve.",
+        "start": 157.998,
+        "end": 158.903
+      },
+      {
+        "text": "No.",
+        "start": 161.316,
+        "end": 161.577
+      },
+      {
+        "text": "Fuck it.",
+        "start": 161.999,
+        "end": 162.824
+      },
+      {
+        "text": "This is stupid.",
+        "start": 162.844,
+        "end": 163.548
+      },
+      {
+        "text": "This isn't even worth it.",
+        "start": 163.588,
+        "end": 164.734
+      },
+      {
+        "text": " I don't know how to do this.",
+        "start": 185.065,
+        "end": 188.651
+      },
+      {
+        "text": "Seven equals...",
+        "start": 205.0,
+        "end": 207.765
+      },
+      {
+        "text": " 7 plus, not 12, plus 7.",
+        "start": 209.753,
+        "end": 215.244
+      },
+      {
+        "text": "Sure, whatever.",
+        "start": 216.246,
+        "end": 216.807
+      },
+      {
+        "text": "Mod equals plus,",
+        "start": 219.272,
+        "end": 226.125
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh, God. 7 equals 12 plus 6. 7 equals 11. My no, no, it's not going to work. Twelve minus. Six, I don't know. Seven. Twelve. Seven equals twelve. Minus five. I don't fucking know. Six. Equals one. Twelve. Minus six. Of course. X 12. No, that's not going to be right either. Equals. 13 minus 1. Odd. 12 equals... No, 7 equals... Twelve. No. Fuck it. This is stupid. This isn't even worth it. I don't know how to do this. Seven equals... 7 plus, not 12, plus 7. Sure, whatever. Mod equals plus,"
+  }
+}

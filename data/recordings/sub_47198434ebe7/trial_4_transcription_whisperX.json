@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_47198434ebe7/trial_4.wav",
+  "with_timestamps": {
+    "text": " 7 equals 3 3 minus 4 is negative 1 6 2 plus 4 3 plus 4 Um, 11 minus four.Okay.I figured it out.Seven equals 11 minus four.What?Okay. That tricks me.Okay.Five, six, seven.Change that into a 10, 11 minus four, one.I'm pretty sure I got it right.I don't know what's going on.Right?Five, six, seven equals 11. Right?11 minus 4.That's right.It's correct.I am correct.7 equals 7.What?Okay, that has to be correct.That is definitely correct. So my guess is there's another solution.Okay.I don't know.That's correct.But I guess for this puzzle, there's another solution.Okay.Let's see.Four, three plus five, three. 6, 3 plus 4, 7, 12, 9 minus 4, 2 plus 6, 2 plus 4 is 6.9 minus 4 is 6.Okay if I change it. 2 plus 4 is 6.It's definitely, I'm definitely correct.I don't know what's going on.",
+    "segments": [
+      {
+        "text": " 7 equals 3 3 minus 4 is negative 1 6 2 plus 4 3 plus 4",
+        "start": 2.157,
+        "end": 26.494
+      },
+      {
+        "text": " Um, 11 minus four.",
+        "start": 31.773,
+        "end": 35.677
+      },
+      {
+        "text": "Okay.",
+        "start": 35.717,
+        "end": 38.42
+      },
+      {
+        "text": "I figured it out.",
+        "start": 38.741,
+        "end": 39.442
+      },
+      {
+        "text": "Seven equals 11 minus four.",
+        "start": 42.185,
+        "end": 51.175
+      },
+      {
+        "text": "What?",
+        "start": 55.599,
+        "end": 56.54
+      },
+      {
+        "text": "Okay.",
+        "start": 56.561,
+        "end": 57.021
+      },
+      {
+        "text": " That tricks me.",
+        "start": 58.874,
+        "end": 59.415
+      },
+      {
+        "text": "Okay.",
+        "start": 59.515,
+        "end": 59.835
+      },
+      {
+        "text": "Five, six, seven.",
+        "start": 60.576,
+        "end": 61.857
+      },
+      {
+        "text": "Change that into a 10, 11 minus four, one.",
+        "start": 64.0,
+        "end": 68.665
+      },
+      {
+        "text": "I'm pretty sure I got it right.",
+        "start": 68.705,
+        "end": 73.01
+      },
+      {
+        "text": "I don't know what's going on.",
+        "start": 73.11,
+        "end": 73.911
+      },
+      {
+        "text": "Right?",
+        "start": 75.433,
+        "end": 77.215
+      },
+      {
+        "text": "Five, six, seven equals 11.",
+        "start": 77.235,
+        "end": 88.307
+      },
+      {
+        "text": " Right?",
+        "start": 91.865,
+        "end": 92.185
+      },
+      {
+        "text": "11 minus 4.",
+        "start": 92.205,
+        "end": 98.854
+      },
+      {
+        "text": "That's right.",
+        "start": 104.561,
+        "end": 105.122
+      },
+      {
+        "text": "It's correct.",
+        "start": 105.142,
+        "end": 105.662
+      },
+      {
+        "text": "I am correct.",
+        "start": 105.762,
+        "end": 106.423
+      },
+      {
+        "text": "7 equals 7.",
+        "start": 108.526,
+        "end": 109.687
+      },
+      {
+        "text": "What?",
+        "start": 114.573,
+        "end": 114.834
+      },
+      {
+        "text": "Okay, that has to be correct.",
+        "start": 115.014,
+        "end": 116.315
+      },
+      {
+        "text": "That is definitely correct.",
+        "start": 117.116,
+        "end": 118.378
+      },
+      {
+        "text": " So my guess is there's another solution.",
+        "start": 121.362,
+        "end": 123.887
+      },
+      {
+        "text": "Okay.",
+        "start": 124.167,
+        "end": 125.77
+      },
+      {
+        "text": "I don't know.",
+        "start": 125.79,
+        "end": 126.091
+      },
+      {
+        "text": "That's correct.",
+        "start": 126.111,
+        "end": 130.499
+      },
+      {
+        "text": "But I guess for this puzzle, there's another solution.",
+        "start": 130.639,
+        "end": 133.063
+      },
+      {
+        "text": "Okay.",
+        "start": 133.244,
+        "end": 133.544
+      },
+      {
+        "text": "Let's see.",
+        "start": 133.564,
+        "end": 133.965
+      },
+      {
+        "text": "Four, three plus five, three.",
+        "start": 139.295,
+        "end": 144.805
+      },
+      {
+        "text": " 6, 3 plus 4, 7, 12, 9 minus 4, 2 plus 6,",
+        "start": 160.394,
+        "end": 186.807
+      },
+      {
+        "text": " 2 plus 4 is 6.",
+        "start": 191.005,
+        "end": 192.868
+      },
+      {
+        "text": "9 minus 4 is 6.",
+        "start": 192.888,
+        "end": 206.486
+      },
+      {
+        "text": "Okay if I change it.",
+        "start": 210.091,
+        "end": 210.972
+      },
+      {
+        "text": " 2 plus 4 is 6.",
+        "start": 223.203,
+        "end": 226.07
+      },
+      {
+        "text": "It's definitely, I'm definitely correct.",
+        "start": 226.43,
+        "end": 233.868
+      },
+      {
+        "text": "I don't know what's going on.",
+        "start": 233.888,
+        "end": 234.85
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 equals 3 3 minus 4 is negative 1 6 2 plus 4 3 plus 4 Um, 11 minus four. Okay. I figured it out. Seven equals 11 minus four. What? Okay. That tricks me. Okay. Five, six, seven. Change that into a 10, 11 minus four, one. I'm pretty sure I got it right. I don't know what's going on. Right? Five, six, seven equals 11. Right? 11 minus 4. That's right. It's correct. I am correct. 7 equals 7. What? Okay, that has to be correct. That is definitely correct. So my guess is there's another solution. Okay. I don't know. That's correct. But I guess for this puzzle, there's another solution. Okay. Let's see. Four, three plus five, three. 6, 3 plus 4, 7, 12, 9 minus 4, 2 plus 6, 2 plus 4 is 6. 9 minus 4 is 6. Okay if I change it. 2 plus 4 is 6. It's definitely, I'm definitely correct. I don't know what's going on."
+  }
+}

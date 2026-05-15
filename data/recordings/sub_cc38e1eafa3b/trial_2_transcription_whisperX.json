@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_cc38e1eafa3b/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay.Four equals four minus two.That's wrong.Four minus two is two.So how do we fix this?Four equals Five minus one, or five equals, four minus two is two. two equals four minus.No, it's incorrect.Let's see.Um, so it should be 6 move that to be 6 or we can move that to be Oh, I see.So it should be 4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.031,
+        "end": 8.363
+      },
+      {
+        "text": "Four equals four minus two.",
+        "start": 8.604,
+        "end": 14.412
+      },
+      {
+        "text": "That's wrong.",
+        "start": 14.673,
+        "end": 15.634
+      },
+      {
+        "text": "Four minus two is two.",
+        "start": 17.016,
+        "end": 19.48
+      },
+      {
+        "text": "So how do we fix this?",
+        "start": 22.865,
+        "end": 25.048
+      },
+      {
+        "text": "Four equals",
+        "start": 26.671,
+        "end": 28.333
+      },
+      {
+        "text": " Five minus one, or five equals, four minus two is two.",
+        "start": 31.385,
+        "end": 61.307
+      },
+      {
+        "text": " two equals four minus.",
+        "start": 63.599,
+        "end": 68.845
+      },
+      {
+        "text": "No, it's incorrect.",
+        "start": 85.484,
+        "end": 86.786
+      },
+      {
+        "text": "Let's see.",
+        "start": 86.866,
+        "end": 87.407
+      },
+      {
+        "text": "Um,",
+        "start": 91.512,
+        "end": 91.952
+      },
+      {
+        "text": " so it should be 6 move that to be 6 or we can move that to be",
+        "start": 97.568,
+        "end": 125.28
+      },
+      {
+        "text": " Oh, I see.",
+        "start": 130.019,
+        "end": 133.413
+      },
+      {
+        "text": "So it should be 4 equals 6 minus 2.",
+        "start": 133.433,
+        "end": 145.885
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. Four equals four minus two. That's wrong. Four minus two is two. So how do we fix this? Four equals Five minus one, or five equals, four minus two is two. two equals four minus. No, it's incorrect. Let's see. Um, so it should be 6 move that to be 6 or we can move that to be Oh, I see. So it should be 4 equals 6 minus 2."
+  }
+}

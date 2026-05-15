@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_fb51b65a2596/trial_5.wav",
+  "with_timestamps": {
+    "text": " I can only move one matchstick.So we're starting with 7 equals 3 minus 4.Well, that's not right.7 does equal 3 plus 4.Nope, that's not going to work.Okay, what about... So 2 plus 4 equals 6.Nope. Because we could take one of these from the beginning and make it 6 Vi equals Ii, I, 3, plus, nope, that wouldn't work.Because it would be 3 plus 2.That wouldn't work.Okay.Well, 3 plus 4 equals 7. I just need another matchstick.Wait, wait a second, wait a second.7 minus 3 equals 4.There it is, right there.Vii minus 3iii equals IV.Yay.",
+    "segments": [
+      {
+        "text": " I can only move one matchstick.",
+        "start": 1.448,
+        "end": 2.73
+      },
+      {
+        "text": "So we're starting with 7 equals 3 minus 4.",
+        "start": 5.014,
+        "end": 9.741
+      },
+      {
+        "text": "Well, that's not right.",
+        "start": 10.463,
+        "end": 11.124
+      },
+      {
+        "text": "7 does equal 3 plus 4.",
+        "start": 11.144,
+        "end": 14.028
+      },
+      {
+        "text": "Nope, that's not going to work.",
+        "start": 18.055,
+        "end": 18.936
+      },
+      {
+        "text": "Okay, what about... So 2 plus 4 equals 6.",
+        "start": 20.138,
+        "end": 26.589
+      },
+      {
+        "text": "Nope.",
+        "start": 27.811,
+        "end": 28.131
+      },
+      {
+        "text": " Because we could take one of these from the beginning and make it 6 Vi equals Ii, I, 3, plus, nope, that wouldn't work.",
+        "start": 30.642,
+        "end": 48.503
+      },
+      {
+        "text": "Because it would be 3 plus 2.",
+        "start": 49.764,
+        "end": 50.986
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 51.186,
+        "end": 51.807
+      },
+      {
+        "text": "Okay.",
+        "start": 52.367,
+        "end": 52.568
+      },
+      {
+        "text": "Well, 3 plus 4 equals 7.",
+        "start": 57.654,
+        "end": 60.497
+      },
+      {
+        "text": " I just need another matchstick.",
+        "start": 62.047,
+        "end": 63.269
+      },
+      {
+        "text": "Wait, wait a second, wait a second.",
+        "start": 65.111,
+        "end": 68.255
+      },
+      {
+        "text": "7 minus 3 equals 4.",
+        "start": 68.275,
+        "end": 69.677
+      },
+      {
+        "text": "There it is, right there.",
+        "start": 69.717,
+        "end": 70.618
+      },
+      {
+        "text": "Vii minus 3iii equals IV.",
+        "start": 71.319,
+        "end": 79.65
+      },
+      {
+        "text": "Yay.",
+        "start": 80.832,
+        "end": 81.152
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I can only move one matchstick. So we're starting with 7 equals 3 minus 4. Well, that's not right. 7 does equal 3 plus 4. Nope, that's not going to work. Okay, what about... So 2 plus 4 equals 6. Nope. Because we could take one of these from the beginning and make it 6 Vi equals Ii, I, 3, plus, nope, that wouldn't work. Because it would be 3 plus 2. That wouldn't work. Okay. Well, 3 plus 4 equals 7. I just need another matchstick. Wait, wait a second, wait a second. 7 minus 3 equals 4. There it is, right there. Vii minus 3iii equals IV. Yay."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_0713e3620426/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, we got 5, 6, 7, 8 equals 2 plus 4.So if I take one from that, 7 equals 3 plus 4, that would make it right.So we do 1 V12 equals 1, 2, 3 plus Let's see, one, two, three.",
+    "segments": [
+      {
+        "text": " Okay, we got 5, 6, 7, 8 equals 2 plus 4.",
+        "start": 1.769,
+        "end": 9.017
+      },
+      {
+        "text": "So if I take one from that, 7 equals 3 plus 4, that would make it right.",
+        "start": 13.162,
+        "end": 19.288
+      },
+      {
+        "text": "So we do 1 V12 equals 1, 2, 3 plus",
+        "start": 20.089,
+        "end": 29.92
+      },
+      {
+        "text": " Let's see, one, two, three.",
+        "start": 31.486,
+        "end": 33.042
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we got 5, 6, 7, 8 equals 2 plus 4. So if I take one from that, 7 equals 3 plus 4, that would make it right. So we do 1 V12 equals 1, 2, 3 plus Let's see, one, two, three."
+  }
+}

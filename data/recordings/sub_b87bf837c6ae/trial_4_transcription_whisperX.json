@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_b87bf837c6ae/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, so this 10 equals 7 minus 3.10 equals 9. 10 equals 7 plus 3.OK.10 minus 7 equals",
+    "segments": [
+      {
+        "text": " OK, so this 10 equals 7 minus 3.",
+        "start": 1.145,
+        "end": 6.252
+      },
+      {
+        "text": "10 equals 9.",
+        "start": 6.272,
+        "end": 26.798
+      },
+      {
+        "text": " 10 equals 7 plus 3.",
+        "start": 31.216,
+        "end": 43.494
+      },
+      {
+        "text": "OK.",
+        "start": 43.995,
+        "end": 49.423
+      },
+      {
+        "text": "10 minus 7 equals",
+        "start": 49.443,
+        "end": 60.7
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so this 10 equals 7 minus 3. 10 equals 9. 10 equals 7 plus 3. OK. 10 minus 7 equals"
+  }
+}

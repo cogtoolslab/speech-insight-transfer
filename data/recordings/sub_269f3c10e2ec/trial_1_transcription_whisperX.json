@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_269f3c10e2ec/trial_1.wav",
+  "with_timestamps": {
+    "text": " 4 equals 11 minus 2. Four equals 11 minus two.I don't understand. All I know is it says 4 equals 11 minus 2. IX is nine. I have dyslexia so this is difficult for me but I'm trying There you are.What if I did that?Dot V I equals, what's I X Y? Hopefully, oh, nope.",
+    "segments": [
+      {
+        "text": " 4 equals 11 minus 2.",
+        "start": 12.856,
+        "end": 23.878
+      },
+      {
+        "text": " Four equals 11 minus two.",
+        "start": 43.653,
+        "end": 57.132
+      },
+      {
+        "text": "I don't understand.",
+        "start": 71.953,
+        "end": 73.575
+      },
+      {
+        "text": " All I know is it says 4 equals 11 minus 2.",
+        "start": 99.83,
+        "end": 120.218
+      },
+      {
+        "text": " IX is nine.",
+        "start": 133.208,
+        "end": 161.73
+      },
+      {
+        "text": " I have dyslexia so this is difficult for me but I'm trying",
+        "start": 163.027,
+        "end": 187.549
+      },
+      {
+        "text": " There you are.",
+        "start": 190.567,
+        "end": 203.749
+      },
+      {
+        "text": "What if I did that?",
+        "start": 203.769,
+        "end": 210.06
+      },
+      {
+        "text": "Dot V I equals, what's I X Y?",
+        "start": 210.08,
+        "end": 216.27
+      },
+      {
+        "text": " Hopefully, oh, nope.",
+        "start": 218.343,
+        "end": 228.943
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 11 minus 2. Four equals 11 minus two. I don't understand. All I know is it says 4 equals 11 minus 2. IX is nine. I have dyslexia so this is difficult for me but I'm trying There you are. What if I did that? Dot V I equals, what's I X Y? Hopefully, oh, nope."
+  }
+}

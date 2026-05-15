@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_86228aa12863/trial_4.wav",
+  "with_timestamps": {
+    "text": " Eight equals nine minus four.Oh wait, no, this is 13.Sorry, my brain.13 equals nine minus four. So nine plus four is 13.10.So what if I did four, no, that's not how you do 14 though.I could do, oh my God. 9 plus or 9 minus 4 it's 6 that'd be 3 but I have too many I still have a 10 I could do 13 minus 4, no 13 minus 9 equals 4 minus, equals that.",
+    "segments": [
+      {
+        "text": " Eight equals nine minus four.",
+        "start": 1.921,
+        "end": 5.104
+      },
+      {
+        "text": "Oh wait, no, this is 13.",
+        "start": 11.872,
+        "end": 17.218
+      },
+      {
+        "text": "Sorry, my brain.",
+        "start": 17.238,
+        "end": 18.679
+      },
+      {
+        "text": "13 equals nine minus four.",
+        "start": 18.699,
+        "end": 25.026
+      },
+      {
+        "text": " So nine plus four is 13.",
+        "start": 31.267,
+        "end": 33.05
+      },
+      {
+        "text": "10.",
+        "start": 33.07,
+        "end": 33.65
+      },
+      {
+        "text": "So what if I did four, no, that's not how you do 14 though.",
+        "start": 45.868,
+        "end": 53.438
+      },
+      {
+        "text": "I could do, oh my God.",
+        "start": 54.84,
+        "end": 61.189
+      },
+      {
+        "text": " 9 plus or 9 minus 4 it's 6 that'd be 3 but I have too many I still have a 10 I could do 13 minus",
+        "start": 61.945,
+        "end": 90.703
+      },
+      {
+        "text": " 4, no 13 minus 9 equals 4 minus, equals that.",
+        "start": 93.603,
+        "end": 110.498
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Eight equals nine minus four. Oh wait, no, this is 13. Sorry, my brain. 13 equals nine minus four. So nine plus four is 13. 10. So what if I did four, no, that's not how you do 14 though. I could do, oh my God. 9 plus or 9 minus 4 it's 6 that'd be 3 but I have too many I still have a 10 I could do 13 minus 4, no 13 minus 9 equals 4 minus, equals that."
+  }
+}

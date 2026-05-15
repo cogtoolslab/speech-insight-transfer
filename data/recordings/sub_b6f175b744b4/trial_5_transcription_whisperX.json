@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_b6f175b744b4/trial_5.wav",
+  "with_timestamps": {
+    "text": " Alright, we have 6 equals 4 minus 2.So obviously that's 6 equals 2 right now.6 equals 4 minus 2.The obvious answer is to move the equals sign and make it 6 minus 4 is then equal to 2.",
+    "segments": [
+      {
+        "text": " Alright, we have 6 equals 4 minus 2.",
+        "start": 1.567,
+        "end": 5.714
+      },
+      {
+        "text": "So obviously that's 6 equals 2 right now.",
+        "start": 6.915,
+        "end": 9.099
+      },
+      {
+        "text": "6 equals 4 minus 2.",
+        "start": 9.119,
+        "end": 17.833
+      },
+      {
+        "text": "The obvious answer is to move the equals sign and make it 6 minus 4",
+        "start": 17.973,
+        "end": 28.89
+      },
+      {
+        "text": " is then equal to 2.",
+        "start": 30.608,
+        "end": 32.4
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, we have 6 equals 4 minus 2. So obviously that's 6 equals 2 right now. 6 equals 4 minus 2. The obvious answer is to move the equals sign and make it 6 minus 4 is then equal to 2."
+  }
+}

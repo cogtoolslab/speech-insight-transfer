@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_d4272455c318/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so this is three, so that's saying that X, so IX is nine, so nine plus 11.That makes no sense, because that's only three matches, that makes three. Oh, I could subtract.But you only can move one matchstick to make this equation correct.Oh, maybe we could just move the subtraction.Let's try that.So we're just going to 1, 2, 3 equal to x i minus ix. Nope, that wasn't correct.1, 2, 3 equals to x i. I don't remember if you can.No, I don't think so. x i plus y x j i don't really know but i think you can um so i'm thinking it's going to be one one let's do one one one so one one um i x let's do i whoops one one minus i x 1 1 minus i x x i i don't know uh oh hang on i did it wrong so it's supposed to equal i x minus x i let's see if that's correct Oh my goodness.So let's do 1, 2.So the 1s, we're going to say equal xii minus ix.",
+    "segments": [
+      {
+        "text": " Okay, so this is three, so that's saying that X, so IX is nine, so nine plus 11.",
+        "start": 2.444,
+        "end": 22.55
+      },
+      {
+        "text": "That makes no sense, because that's only three matches, that makes three.",
+        "start": 28.037,
+        "end": 31.962
+      },
+      {
+        "text": " Oh, I could subtract.",
+        "start": 33.646,
+        "end": 37.051
+      },
+      {
+        "text": "But you only can move one matchstick to make this equation correct.",
+        "start": 37.992,
+        "end": 41.156
+      },
+      {
+        "text": "Oh, maybe we could just move the subtraction.",
+        "start": 43.5,
+        "end": 48.727
+      },
+      {
+        "text": "Let's try that.",
+        "start": 50.149,
+        "end": 51.371
+      },
+      {
+        "text": "So we're just going to 1, 2, 3 equal to x i minus ix.",
+        "start": 51.391,
+        "end": 62.286
+      },
+      {
+        "text": " Nope, that wasn't correct.",
+        "start": 64.595,
+        "end": 66.477
+      },
+      {
+        "text": "1, 2, 3 equals to x i. I don't remember if you can.",
+        "start": 66.497,
+        "end": 85.314
+      },
+      {
+        "text": "No, I don't think so.",
+        "start": 85.334,
+        "end": 93.842
+      },
+      {
+        "text": " x i plus y x j i don't really know but i think you can",
+        "start": 96.877,
+        "end": 114.497
+      },
+      {
+        "text": " um so i'm thinking it's going to be one one let's do one one one so one one um i x let's do i whoops one one",
+        "start": 122.645,
+        "end": 150.525
+      },
+      {
+        "text": " minus i x 1 1 minus i x x i i don't know uh oh hang on i did it wrong so it's supposed to equal i x minus x i let's see if that's correct",
+        "start": 151.568,
+        "end": 181.086
+      },
+      {
+        "text": " Oh my goodness.",
+        "start": 183.209,
+        "end": 184.272
+      },
+      {
+        "text": "So let's do 1, 2.",
+        "start": 187.06,
+        "end": 191.692
+      },
+      {
+        "text": "So the 1s, we're going to say equal xii minus ix.",
+        "start": 192.595,
+        "end": 199.935
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this is three, so that's saying that X, so IX is nine, so nine plus 11. That makes no sense, because that's only three matches, that makes three. Oh, I could subtract. But you only can move one matchstick to make this equation correct. Oh, maybe we could just move the subtraction. Let's try that. So we're just going to 1, 2, 3 equal to x i minus ix. Nope, that wasn't correct. 1, 2, 3 equals to x i. I don't remember if you can. No, I don't think so. x i plus y x j i don't really know but i think you can um so i'm thinking it's going to be one one let's do one one one so one one um i x let's do i whoops one one minus i x 1 1 minus i x x i i don't know uh oh hang on i did it wrong so it's supposed to equal i x minus x i let's see if that's correct Oh my goodness. So let's do 1, 2. So the 1s, we're going to say equal xii minus ix."
+  }
+}

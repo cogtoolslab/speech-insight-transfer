@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_34c9b5ce9f21/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, we've got 3 equals 6 plus 9.So 9 plus 6.OK, that's not right.So we need to move pi move x 10. Let's see.Would it be equals maybe x6 plus 9. But we can't change that.So that's 9.Oh my gosh, this is harder than it looks.OK.Let's see.So I wonder if I could do, that's 10. Plus 10.10 plus 10?No.11.It would have to be 11.Right?No.No, no, no, no.10 plus 11. No.Use the button to correct the version.Only remove one matchstick, so that's wrong.OK, so 10 plus. Wait a minute.So we got six.Oh, but you can only move it on the equation, not the answer.Two, you can only move one matchstick to make this equation correct.Oh, three.I'm thinking of 111.Okay, three.So we got nine.I have to move one, though. But I can't move the middle.OK.So let's go back.So what equals 3?9.9 plus 4?No.No, it equals 3.We need a minus.So 9. Oh my gosh.Three.Six.Let's see.I have to move one matchstick.That's three. Seven.",
+    "segments": [
+      {
+        "text": " OK, we've got 3 equals 6 plus 9.",
+        "start": 1.263,
+        "end": 10.234
+      },
+      {
+        "text": "So 9 plus 6.",
+        "start": 10.414,
+        "end": 12.697
+      },
+      {
+        "text": "OK, that's not right.",
+        "start": 13.378,
+        "end": 14.259
+      },
+      {
+        "text": "So we need to move pi move x 10.",
+        "start": 14.319,
+        "end": 27.034
+      },
+      {
+        "text": " Let's see.",
+        "start": 28.432,
+        "end": 31.997
+      },
+      {
+        "text": "Would it be equals maybe x6 plus 9.",
+        "start": 33.72,
+        "end": 52.026
+      },
+      {
+        "text": " But we can't change that.",
+        "start": 56.309,
+        "end": 58.012
+      },
+      {
+        "text": "So that's 9.",
+        "start": 58.052,
+        "end": 63.48
+      },
+      {
+        "text": "Oh my gosh, this is harder than it looks.",
+        "start": 63.5,
+        "end": 71.133
+      },
+      {
+        "text": "OK.",
+        "start": 71.153,
+        "end": 71.513
+      },
+      {
+        "text": "Let's see.",
+        "start": 74.638,
+        "end": 75.46
+      },
+      {
+        "text": "So I wonder if I could do, that's 10.",
+        "start": 75.48,
+        "end": 82.671
+      },
+      {
+        "text": " Plus 10.",
+        "start": 86.735,
+        "end": 98.332
+      },
+      {
+        "text": "10 plus 10?",
+        "start": 98.352,
+        "end": 100.295
+      },
+      {
+        "text": "No.",
+        "start": 100.315,
+        "end": 100.475
+      },
+      {
+        "text": "11.",
+        "start": 100.495,
+        "end": 102.298
+      },
+      {
+        "text": "It would have to be 11.",
+        "start": 102.398,
+        "end": 103.519
+      },
+      {
+        "text": "Right?",
+        "start": 105.663,
+        "end": 108.387
+      },
+      {
+        "text": "No.",
+        "start": 108.407,
+        "end": 109.829
+      },
+      {
+        "text": "No, no, no, no.",
+        "start": 109.849,
+        "end": 114.335
+      },
+      {
+        "text": "10 plus 11.",
+        "start": 114.355,
+        "end": 114.936
+      },
+      {
+        "text": " No.",
+        "start": 116.182,
+        "end": 116.743
+      },
+      {
+        "text": "Use the button to correct the version.",
+        "start": 120.008,
+        "end": 121.73
+      },
+      {
+        "text": "Only remove one matchstick, so that's wrong.",
+        "start": 121.77,
+        "end": 125.095
+      },
+      {
+        "text": "OK, so 10 plus.",
+        "start": 125.115,
+        "end": 135.49
+      },
+      {
+        "text": " Wait a minute.",
+        "start": 139.267,
+        "end": 139.988
+      },
+      {
+        "text": "So we got six.",
+        "start": 141.87,
+        "end": 143.092
+      },
+      {
+        "text": "Oh, but you can only move it on the equation, not the answer.",
+        "start": 144.013,
+        "end": 146.816
+      },
+      {
+        "text": "Two, you can only move one matchstick to make this equation correct.",
+        "start": 148.538,
+        "end": 152.383
+      },
+      {
+        "text": "Oh, three.",
+        "start": 154.405,
+        "end": 154.966
+      },
+      {
+        "text": "I'm thinking of 111.",
+        "start": 155.407,
+        "end": 155.987
+      },
+      {
+        "text": "Okay, three.",
+        "start": 156.027,
+        "end": 159.852
+      },
+      {
+        "text": "So we got nine.",
+        "start": 161.214,
+        "end": 162.735
+      },
+      {
+        "text": "I have to move one, though.",
+        "start": 162.755,
+        "end": 169.003
+      },
+      {
+        "text": " But I can't move the middle.",
+        "start": 170.317,
+        "end": 171.638
+      },
+      {
+        "text": "OK.",
+        "start": 171.658,
+        "end": 171.718
+      },
+      {
+        "text": "So let's go back.",
+        "start": 174.762,
+        "end": 176.183
+      },
+      {
+        "text": "So what equals 3?",
+        "start": 177.505,
+        "end": 179.106
+      },
+      {
+        "text": "9.",
+        "start": 179.126,
+        "end": 179.166
+      },
+      {
+        "text": "9 plus 4?",
+        "start": 179.186,
+        "end": 186.955
+      },
+      {
+        "text": "No.",
+        "start": 186.975,
+        "end": 187.035
+      },
+      {
+        "text": "No, it equals 3.",
+        "start": 189.457,
+        "end": 192.32
+      },
+      {
+        "text": "We need a minus.",
+        "start": 192.38,
+        "end": 193.422
+      },
+      {
+        "text": "So 9.",
+        "start": 193.442,
+        "end": 196.645
+      },
+      {
+        "text": " Oh my gosh.",
+        "start": 200.033,
+        "end": 201.054
+      },
+      {
+        "text": "Three.",
+        "start": 203.658,
+        "end": 204.059
+      },
+      {
+        "text": "Six.",
+        "start": 204.119,
+        "end": 206.502
+      },
+      {
+        "text": "Let's see.",
+        "start": 214.654,
+        "end": 215.275
+      },
+      {
+        "text": "I have to move one matchstick.",
+        "start": 215.295,
+        "end": 220.622
+      },
+      {
+        "text": "That's three.",
+        "start": 226.711,
+        "end": 227.492
+      },
+      {
+        "text": " Seven.",
+        "start": 232.045,
+        "end": 233.366
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, we've got 3 equals 6 plus 9. So 9 plus 6. OK, that's not right. So we need to move pi move x 10. Let's see. Would it be equals maybe x6 plus 9. But we can't change that. So that's 9. Oh my gosh, this is harder than it looks. OK. Let's see. So I wonder if I could do, that's 10. Plus 10. 10 plus 10? No. 11. It would have to be 11. Right? No. No, no, no, no. 10 plus 11. No. Use the button to correct the version. Only remove one matchstick, so that's wrong. OK, so 10 plus. Wait a minute. So we got six. Oh, but you can only move it on the equation, not the answer. Two, you can only move one matchstick to make this equation correct. Oh, three. I'm thinking of 111. Okay, three. So we got nine. I have to move one, though. But I can't move the middle. OK. So let's go back. So what equals 3? 9. 9 plus 4? No. No, it equals 3. We need a minus. So 9. Oh my gosh. Three. Six. Let's see. I have to move one matchstick. That's three. Seven."
+  }
+}

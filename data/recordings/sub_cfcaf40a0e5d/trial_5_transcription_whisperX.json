@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_cfcaf40a0e5d/trial_5.wav",
+  "with_timestamps": {
+    "text": " okay 3 equals IX minus IV that's 3 equals 9 9 minus 4 9 minus 4 is 5 okay let's calculate it how about 10 minus how about 10 minus 10 minus 6 okay 9 minus 6 nine minus six is three yeah good this is good i i i equals i x minus b i b i let's go",
+    "segments": [
+      {
+        "text": " okay 3 equals IX minus IV that's 3 equals 9 9 minus 4 9 minus 4 is 5 okay let's calculate it how about 10 minus how about 10 minus 10 minus 6 okay 9 minus 6",
+        "start": 0.031,
+        "end": 28.603
+      },
+      {
+        "text": " nine minus six is three yeah good this is good i i i equals i x minus b i b i let's go",
+        "start": 29.731,
+        "end": 50.659
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay 3 equals IX minus IV that's 3 equals 9 9 minus 4 9 minus 4 is 5 okay let's calculate it how about 10 minus how about 10 minus 10 minus 6 okay 9 minus 6 nine minus six is three yeah good this is good i i i equals i x minus b i b i let's go"
+  }
+}

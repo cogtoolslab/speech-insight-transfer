@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_4a3776b17704/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright, so now we have 3 equals 11 plus 9.Okay, so once again we can't make that plus sign an equal, so probably the equal is going to have to stay as it is, but we could make that into a subtraction. we need to so 3 equals okay so 11 minus 9 oh wait 3 equals 11 minus 9 is that it um 3 hang on so 3 if i move the uh the one from the plus sign over to the 11, that becomes 12, 12 minus 9, 3, yeah, okay, that's it.So 3 equals xii minus ix.",
+    "segments": [
+      {
+        "text": " Alright, so now we have 3 equals 11 plus 9.",
+        "start": 2.461,
+        "end": 10.35
+      },
+      {
+        "text": "Okay, so once again we can't make that plus sign an equal, so probably the equal is going to have to stay as it is, but we could make that into a subtraction.",
+        "start": 10.37,
+        "end": 31.995
+      },
+      {
+        "text": " we need to so 3 equals okay so 11 minus 9 oh wait 3 equals 11 minus 9 is that it um 3 hang on so 3 if i move the uh the one from the plus sign over to the",
+        "start": 32.482,
+        "end": 58.506
+      },
+      {
+        "text": " 11, that becomes 12, 12 minus 9, 3, yeah, okay, that's it.",
+        "start": 59.313,
+        "end": 64.405
+      },
+      {
+        "text": "So 3 equals xii minus ix.",
+        "start": 64.425,
+        "end": 82.165
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so now we have 3 equals 11 plus 9. Okay, so once again we can't make that plus sign an equal, so probably the equal is going to have to stay as it is, but we could make that into a subtraction. we need to so 3 equals okay so 11 minus 9 oh wait 3 equals 11 minus 9 is that it um 3 hang on so 3 if i move the uh the one from the plus sign over to the 11, that becomes 12, 12 minus 9, 3, yeah, okay, that's it. So 3 equals xii minus ix."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_612d041941ce/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so for this one, I have 3 equals 11 minus 3, which is 3 equals 8.So, 3 equals, hmm, what can I shift here? Looking 3 equals 6 minus 3 would be good.So once again, kind of like the previous questions, if I take the X and change it to a V just by moving one of the matchsticks, I'll get 3 equals VI, which is 6 minus 3.And that would be the correct solution.VI, I minus VI. Okay.",
+    "segments": [
+      {
+        "text": " Okay, so for this one, I have 3 equals 11 minus 3, which is 3 equals 8.",
+        "start": 1.212,
+        "end": 8.005
+      },
+      {
+        "text": "So, 3 equals, hmm, what can I shift here?",
+        "start": 9.288,
+        "end": 17.263
+      },
+      {
+        "text": " Looking 3 equals 6 minus 3 would be good.",
+        "start": 21.496,
+        "end": 26.043
+      },
+      {
+        "text": "So once again, kind of like the previous questions, if I take the X and change it to a V just by moving one of the matchsticks, I'll get 3 equals VI, which is 6 minus 3.",
+        "start": 26.183,
+        "end": 37.9
+      },
+      {
+        "text": "And that would be the correct solution.",
+        "start": 37.94,
+        "end": 41.986
+      },
+      {
+        "text": "VI, I minus VI.",
+        "start": 42.006,
+        "end": 49.056
+      },
+      {
+        "text": " Okay.",
+        "start": 51.55,
+        "end": 54.928
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so for this one, I have 3 equals 11 minus 3, which is 3 equals 8. So, 3 equals, hmm, what can I shift here? Looking 3 equals 6 minus 3 would be good. So once again, kind of like the previous questions, if I take the X and change it to a V just by moving one of the matchsticks, I'll get 3 equals VI, which is 6 minus 3. And that would be the correct solution. VI, I minus VI. Okay."
+  }
+}

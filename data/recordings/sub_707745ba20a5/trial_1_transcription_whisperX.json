@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_707745ba20a5/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, looks like we have here that 9 is equal to 12 plus 4.Obviously, that's not correct because 9 is not equal to 16.So I have to move a matchstick to make this correct.And I can only move one, and that will not change the Orientation, so I'm probably going to have to do a subtraction.Let's see, 13 minus 4 would be equal to 9.So if I take the matchstick from the plus, and at the bottom here, I have to build the answer.So I'm going to start with i x is equal to x i i i minus i v. And I will submit that because 13 minus four is equal to nine.",
+    "segments": [
+      {
+        "text": " All right, looks like we have here that 9 is equal to 12 plus 4.",
+        "start": 1.06,
+        "end": 8.068
+      },
+      {
+        "text": "Obviously, that's not correct because 9 is not equal to 16.",
+        "start": 8.408,
+        "end": 15.276
+      },
+      {
+        "text": "So I have to move a matchstick to make this correct.",
+        "start": 15.456,
+        "end": 21.763
+      },
+      {
+        "text": "And I can only move one, and that will not change the",
+        "start": 23.024,
+        "end": 29.211
+      },
+      {
+        "text": " Orientation, so I'm probably going to have to do a subtraction.",
+        "start": 30.17,
+        "end": 33.396
+      },
+      {
+        "text": "Let's see, 13 minus 4 would be equal to 9.",
+        "start": 34.638,
+        "end": 38.846
+      },
+      {
+        "text": "So if I take the matchstick from the plus, and at the bottom here, I have to build the answer.",
+        "start": 39.006,
+        "end": 51.269
+      },
+      {
+        "text": "So I'm going to start with",
+        "start": 51.489,
+        "end": 54.034
+      },
+      {
+        "text": " i x is equal to x i i i minus i v. And I will submit that because 13 minus four is equal to nine.",
+        "start": 57.929,
+        "end": 74.824
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, looks like we have here that 9 is equal to 12 plus 4. Obviously, that's not correct because 9 is not equal to 16. So I have to move a matchstick to make this correct. And I can only move one, and that will not change the Orientation, so I'm probably going to have to do a subtraction. Let's see, 13 minus 4 would be equal to 9. So if I take the matchstick from the plus, and at the bottom here, I have to build the answer. So I'm going to start with i x is equal to x i i i minus i v. And I will submit that because 13 minus four is equal to nine."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_480a2534f342/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, eight equals eight plus eight.Okay.So, let's see.Uh-huh. 13 equals, oh no, 8 equals 8 plus 8.13 equals 8 plus 5, 6 plus 7.Where'd I put those? hmm i think it was eight plus eight i'm gonna just move one that's eight in a way that's Hmm. maybe 8 equals 4 and 4 equals 6 and 2 8 and 0 hmm I could get a 7, I could get a 1 hmm i don't know of course",
+    "segments": [
+      {
+        "text": " Okay, eight equals eight plus eight.",
+        "start": 3.203,
+        "end": 5.406
+      },
+      {
+        "text": "Okay.",
+        "start": 16.862,
+        "end": 17.744
+      },
+      {
+        "text": "So, let's see.",
+        "start": 19.927,
+        "end": 21.609
+      },
+      {
+        "text": "Uh-huh.",
+        "start": 29.881,
+        "end": 30.021
+      },
+      {
+        "text": " 13 equals, oh no, 8 equals 8 plus 8.",
+        "start": 36.127,
+        "end": 40.094
+      },
+      {
+        "text": "13 equals 8 plus 5, 6 plus 7.",
+        "start": 45.483,
+        "end": 48.668
+      },
+      {
+        "text": "Where'd I put those?",
+        "start": 54.317,
+        "end": 55.84
+      },
+      {
+        "text": " hmm i think it was eight plus eight i'm gonna just move one that's eight in a way that's",
+        "start": 65.86,
+        "end": 92.053
+      },
+      {
+        "text": " Hmm.",
+        "start": 94.75,
+        "end": 115.948
+      },
+      {
+        "text": " maybe 8 equals 4 and 4 equals 6 and 2 8 and 0 hmm",
+        "start": 127.792,
+        "end": 151.352
+      },
+      {
+        "text": " I could get a 7, I could get a 1",
+        "start": 163.128,
+        "end": 188.848
+      },
+      {
+        "text": " hmm i don't know of course",
+        "start": 202.767,
+        "end": 220.945
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, eight equals eight plus eight. Okay. So, let's see. Uh-huh. 13 equals, oh no, 8 equals 8 plus 8. 13 equals 8 plus 5, 6 plus 7. Where'd I put those? hmm i think it was eight plus eight i'm gonna just move one that's eight in a way that's Hmm. maybe 8 equals 4 and 4 equals 6 and 2 8 and 0 hmm I could get a 7, I could get a 1 hmm i don't know of course"
+  }
+}

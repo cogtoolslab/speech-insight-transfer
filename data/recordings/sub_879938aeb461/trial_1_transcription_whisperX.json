@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_879938aeb461/trial_1.wav",
+  "with_timestamps": {
+    "text": " So for the equation we have 6 equals 6 plus 1.Now we know that's obviously incorrect because 6 does not equal 7.But we need to figure out how we can move one matchstick to make this correct. And I think the solution is going to be So we'll move one of the matchsticks from The plus sign and move it to the left so that it turns into the equation 7 minus 1 So it's going to look like this Equals 7 minus 1",
+    "segments": [
+      {
+        "text": " So for the equation we have 6 equals 6 plus 1.",
+        "start": 2.765,
+        "end": 12.115
+      },
+      {
+        "text": "Now we know that's obviously incorrect because 6 does not equal 7.",
+        "start": 14.758,
+        "end": 19.443
+      },
+      {
+        "text": "But we need to figure out how we can move one matchstick to make this correct.",
+        "start": 21.525,
+        "end": 28.232
+      },
+      {
+        "text": " And I think the solution is going to be So we'll move one of the matchsticks from The plus sign and move it to the left so that it turns into the equation 7 minus 1 So it's going to look like this Equals",
+        "start": 59.431,
+        "end": 82.806
+      },
+      {
+        "text": " 7 minus 1",
+        "start": 87.663,
+        "end": 90.653
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So for the equation we have 6 equals 6 plus 1. Now we know that's obviously incorrect because 6 does not equal 7. But we need to figure out how we can move one matchstick to make this correct. And I think the solution is going to be So we'll move one of the matchsticks from The plus sign and move it to the left so that it turns into the equation 7 minus 1 So it's going to look like this Equals 7 minus 1"
+  }
+}

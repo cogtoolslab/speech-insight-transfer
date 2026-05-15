@@ -1,0 +1,416 @@
+{
+  "file": "data/recordings/sub_144aa281af95/trial_2.wav",
+  "with_timestamps": {
+    "text": " Don't I didn't get to submit it.I did not get to submit.I hope I got it.Okay now we've got Okay, so be that's six equals four minus two Can I do this?I don't like it.Okay, let's let's just do this How do I do it?Okay V so that's four equals Huh?Oh, wait.That's 6.OK, 6 equals 4 plus 2.So I want to go, I want to change it to plus.Oh, I think I got this.All right, so V, that's 4, equals, wait.Wait a minute.V, that's 6, equals 2.That's not right.Equals, wait, OK, equals 4. Plus, oh, it's, okay, I got this.So four, I think I just changed the minus to a plus.That's six.Okay, let's try that.Oh, it's wrong.Darn it.Okay.Oh, wait.No, okay.So that's six equals four minus two, or plus two. Oh, wait, is that what I did?OK.We've got v1.That's 6 equals 1v is 4.And then we go plus 2.Right?Try that one.Come on!What am I doing wrong?That's 5 and 1.That's 6 equals 1v is 4. I can't just change it to a plus?I don't know what I just did.OK.Wait.Can we do this?No, we can't do that.OK.We go v1 is 6 equals the 1v is 4. Floss?Why can't it... I have to remove one.I can't add one.Oh, I have to move one.Dumbass.Okay.That's why.I have to move one.I can't change it.I can't add it.Alright, so... I have to move one.I have to move it.Oh, I can't do this. V1 is 6 equals.How can I move 1?4.Oh, my god.Oh, wait.Wait.Oh, I think I got this.Minus.I can change that to an x, right? I hope I'm right.Come on.What am I doing?B1, that is 6.I need to write this down.6.So 6, right now it says 6 equals 4 minus 1, 1.Can I change a beginning?I don't know.All right, so 4 minus, no, 4 minus 2. It would be four plus two.Oh, wait, can I?",
+    "segments": [
+      {
+        "text": " Don't I didn't get to submit it.",
+        "start": 0.031,
+        "end": 2.916
+      },
+      {
+        "text": "I did not get to submit.",
+        "start": 2.936,
+        "end": 3.917
+      },
+      {
+        "text": "I hope I got it.",
+        "start": 3.957,
+        "end": 4.799
+      },
+      {
+        "text": "Okay now we've got Okay, so be that's six equals four minus two Can I do this?",
+        "start": 4.819,
+        "end": 14.113
+      },
+      {
+        "text": "I don't like it.",
+        "start": 14.213,
+        "end": 14.894
+      },
+      {
+        "text": "Okay, let's let's just do this How do I do it?",
+        "start": 14.914,
+        "end": 18.861
+      },
+      {
+        "text": "Okay V so that's four equals",
+        "start": 18.881,
+        "end": 24.79
+      },
+      {
+        "text": " Huh?",
+        "start": 27.318,
+        "end": 28.159
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 28.179,
+        "end": 28.44
+      },
+      {
+        "text": "That's 6.",
+        "start": 28.8,
+        "end": 29.401
+      },
+      {
+        "text": "OK, 6 equals 4 plus 2.",
+        "start": 29.822,
+        "end": 32.966
+      },
+      {
+        "text": "So I want to go, I want to change it to plus.",
+        "start": 33.086,
+        "end": 35.61
+      },
+      {
+        "text": "Oh, I think I got this.",
+        "start": 37.793,
+        "end": 38.995
+      },
+      {
+        "text": "All right, so V, that's 4, equals, wait.",
+        "start": 39.656,
+        "end": 46.005
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 46.025,
+        "end": 47.107
+      },
+      {
+        "text": "V, that's 6, equals 2.",
+        "start": 47.127,
+        "end": 50.752
+      },
+      {
+        "text": "That's not right.",
+        "start": 51.353,
+        "end": 52.655
+      },
+      {
+        "text": "Equals, wait, OK, equals 4.",
+        "start": 52.675,
+        "end": 56.38
+      },
+      {
+        "text": " Plus, oh, it's, okay, I got this.",
+        "start": 58.385,
+        "end": 60.047
+      },
+      {
+        "text": "So four, I think I just changed the minus to a plus.",
+        "start": 60.647,
+        "end": 63.65
+      },
+      {
+        "text": "That's six.",
+        "start": 64.771,
+        "end": 65.972
+      },
+      {
+        "text": "Okay, let's try that.",
+        "start": 66.833,
+        "end": 67.613
+      },
+      {
+        "text": "Oh, it's wrong.",
+        "start": 68.534,
+        "end": 69.095
+      },
+      {
+        "text": "Darn it.",
+        "start": 69.375,
+        "end": 69.695
+      },
+      {
+        "text": "Okay.",
+        "start": 70.156,
+        "end": 70.436
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 71.857,
+        "end": 72.458
+      },
+      {
+        "text": "No, okay.",
+        "start": 72.878,
+        "end": 73.519
+      },
+      {
+        "text": "So that's six equals four minus two, or plus two.",
+        "start": 75.441,
+        "end": 85.81
+      },
+      {
+        "text": " Oh, wait, is that what I did?",
+        "start": 87.123,
+        "end": 88.364
+      },
+      {
+        "text": "OK.",
+        "start": 88.384,
+        "end": 88.444
+      },
+      {
+        "text": "We've got v1.",
+        "start": 89.465,
+        "end": 90.606
+      },
+      {
+        "text": "That's 6 equals 1v is 4.",
+        "start": 90.666,
+        "end": 96.011
+      },
+      {
+        "text": "And then we go plus 2.",
+        "start": 96.992,
+        "end": 102.417
+      },
+      {
+        "text": "Right?",
+        "start": 104.979,
+        "end": 105.279
+      },
+      {
+        "text": "Try that one.",
+        "start": 105.48,
+        "end": 105.96
+      },
+      {
+        "text": "Come on!",
+        "start": 106.26,
+        "end": 106.681
+      },
+      {
+        "text": "What am I doing wrong?",
+        "start": 106.721,
+        "end": 107.481
+      },
+      {
+        "text": "That's 5 and 1.",
+        "start": 109.784,
+        "end": 111.525
+      },
+      {
+        "text": "That's 6 equals 1v is 4.",
+        "start": 111.645,
+        "end": 116.91
+      },
+      {
+        "text": " I can't just change it to a plus?",
+        "start": 119.489,
+        "end": 120.891
+      },
+      {
+        "text": "I don't know what I just did.",
+        "start": 123.914,
+        "end": 124.815
+      },
+      {
+        "text": "OK.",
+        "start": 124.936,
+        "end": 125.236
+      },
+      {
+        "text": "Wait.",
+        "start": 125.616,
+        "end": 126.517
+      },
+      {
+        "text": "Can we do this?",
+        "start": 126.537,
+        "end": 127.158
+      },
+      {
+        "text": "No, we can't do that.",
+        "start": 128.139,
+        "end": 128.78
+      },
+      {
+        "text": "OK.",
+        "start": 128.88,
+        "end": 129.141
+      },
+      {
+        "text": "We go v1 is 6 equals the 1v is 4.",
+        "start": 129.761,
+        "end": 145.26
+      },
+      {
+        "text": " Floss?",
+        "start": 148.058,
+        "end": 148.599
+      },
+      {
+        "text": "Why can't it... I have to remove one.",
+        "start": 148.659,
+        "end": 151.603
+      },
+      {
+        "text": "I can't add one.",
+        "start": 151.643,
+        "end": 152.604
+      },
+      {
+        "text": "Oh, I have to move one.",
+        "start": 152.684,
+        "end": 153.866
+      },
+      {
+        "text": "Dumbass.",
+        "start": 154.386,
+        "end": 155.007
+      },
+      {
+        "text": "Okay.",
+        "start": 155.027,
+        "end": 155.348
+      },
+      {
+        "text": "That's why.",
+        "start": 155.848,
+        "end": 156.369
+      },
+      {
+        "text": "I have to move one.",
+        "start": 156.389,
+        "end": 157.651
+      },
+      {
+        "text": "I can't change it.",
+        "start": 158.071,
+        "end": 159.013
+      },
+      {
+        "text": "I can't add it.",
+        "start": 160.334,
+        "end": 161.035
+      },
+      {
+        "text": "Alright, so... I have to move one.",
+        "start": 161.075,
+        "end": 165.842
+      },
+      {
+        "text": "I have to move it.",
+        "start": 172.691,
+        "end": 173.752
+      },
+      {
+        "text": "Oh, I can't do this.",
+        "start": 173.772,
+        "end": 174.994
+      },
+      {
+        "text": " V1 is 6 equals.",
+        "start": 176.932,
+        "end": 178.874
+      },
+      {
+        "text": "How can I move 1?",
+        "start": 180.976,
+        "end": 182.177
+      },
+      {
+        "text": "4.",
+        "start": 182.197,
+        "end": 189.845
+      },
+      {
+        "text": "Oh, my god.",
+        "start": 191.527,
+        "end": 192.308
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 192.348,
+        "end": 194.61
+      },
+      {
+        "text": "Wait.",
+        "start": 195.271,
+        "end": 196.272
+      },
+      {
+        "text": "Oh, I think I got this.",
+        "start": 196.292,
+        "end": 197.333
+      },
+      {
+        "text": "Minus.",
+        "start": 198.434,
+        "end": 198.935
+      },
+      {
+        "text": "I can change that to an x, right?",
+        "start": 200.957,
+        "end": 202.939
+      },
+      {
+        "text": " I hope I'm right.",
+        "start": 205.265,
+        "end": 206.106
+      },
+      {
+        "text": "Come on.",
+        "start": 206.186,
+        "end": 206.867
+      },
+      {
+        "text": "What am I doing?",
+        "start": 207.728,
+        "end": 208.709
+      },
+      {
+        "text": "B1, that is 6.",
+        "start": 208.729,
+        "end": 213.415
+      },
+      {
+        "text": "I need to write this down.",
+        "start": 213.956,
+        "end": 216.019
+      },
+      {
+        "text": "6.",
+        "start": 216.039,
+        "end": 216.339
+      },
+      {
+        "text": "So 6, right now it says 6 equals 4 minus 1, 1.",
+        "start": 217.901,
+        "end": 227.733
+      },
+      {
+        "text": "Can I change a beginning?",
+        "start": 228.274,
+        "end": 229.436
+      },
+      {
+        "text": "I don't know.",
+        "start": 230.177,
+        "end": 230.577
+      },
+      {
+        "text": "All right, so 4 minus, no, 4 minus 2.",
+        "start": 231.258,
+        "end": 234.462
+      },
+      {
+        "text": " It would be four plus two.",
+        "start": 235.471,
+        "end": 236.702
+      },
+      {
+        "text": "Oh, wait, can I?",
+        "start": 236.722,
+        "end": 239.608
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Don't I didn't get to submit it. I did not get to submit. I hope I got it. Okay now we've got Okay, so be that's six equals four minus two Can I do this? I don't like it. Okay, let's let's just do this How do I do it? Okay V so that's four equals Huh? Oh, wait. That's 6. OK, 6 equals 4 plus 2. So I want to go, I want to change it to plus. Oh, I think I got this. All right, so V, that's 4, equals, wait. Wait a minute. V, that's 6, equals 2. That's not right. Equals, wait, OK, equals 4. Plus, oh, it's, okay, I got this. So four, I think I just changed the minus to a plus. That's six. Okay, let's try that. Oh, it's wrong. Darn it. Okay. Oh, wait. No, okay. So that's six equals four minus two, or plus two. Oh, wait, is that what I did? OK. We've got v1. That's 6 equals 1v is 4. And then we go plus 2. Right? Try that one. Come on! What am I doing wrong? That's 5 and 1. That's 6 equals 1v is 4. I can't just change it to a plus? I don't know what I just did. OK. Wait. Can we do this? No, we can't do that. OK. We go v1 is 6 equals the 1v is 4. Floss? Why can't it... I have to remove one. I can't add one. Oh, I have to move one. Dumbass. Okay. That's why. I have to move one. I can't change it. I can't add it. Alright, so... I have to move one. I have to move it. Oh, I can't do this. V1 is 6 equals. How can I move 1? 4. Oh, my god. Oh, wait. Wait. Oh, I think I got this. Minus. I can change that to an x, right? I hope I'm right. Come on. What am I doing? B1, that is 6. I need to write this down. 6. So 6, right now it says 6 equals 4 minus 1, 1. Can I change a beginning? I don't know. All right, so 4 minus, no, 4 minus 2. It would be four plus two. Oh, wait, can I?"
+  }
+}

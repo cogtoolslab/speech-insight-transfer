@@ -1,0 +1,166 @@
+{
+  "file": "data/recordings/sub_30c67a672db1/trial_3.wav",
+  "with_timestamps": {
+    "text": " 4 equals 11 minus 11.No, 4 equals 11 minus 2, which is 9, which is IX.Six. equals 11 minus 2.Nope.OK, let's do it.I'm speaking out loud.I, so 4, 4 equals 9, no, equals 9 minus 2.That's not correct.4 equals 9.Whoa, these are frustrating.4.1v.6 equals. 6 equals 9 equals 11.It's not 9, it's 11.11 minus 2 is 9.6 equals 9. 11 minus, that's not correct, 4 equals 9 minus 2.That's not correct.Nope. 9.IX is 9.XI is 11.What are we doing here?XI is 11.11 minus 11 is 0. VI6 equals IX minus 11. v i, 4 equals 11.No, 4 equals.",
+    "segments": [
+      {
+        "text": " 4 equals 11 minus 11.",
+        "start": 3.76,
+        "end": 7.726
+      },
+      {
+        "text": "No, 4 equals 11 minus 2, which is 9, which is IX.",
+        "start": 10.209,
+        "end": 20.363
+      },
+      {
+        "text": "Six.",
+        "start": 32.64,
+        "end": 33.261
+      },
+      {
+        "text": " equals 11 minus 2.",
+        "start": 33.747,
+        "end": 38.354
+      },
+      {
+        "text": "Nope.",
+        "start": 38.615,
+        "end": 41.259
+      },
+      {
+        "text": "OK, let's do it.",
+        "start": 41.279,
+        "end": 42.08
+      },
+      {
+        "text": "I'm speaking out loud.",
+        "start": 42.1,
+        "end": 43.502
+      },
+      {
+        "text": "I, so 4, 4 equals 9, no, equals",
+        "start": 43.522,
+        "end": 58.185
+      },
+      {
+        "text": " 9 minus 2.",
+        "start": 63.143,
+        "end": 69.392
+      },
+      {
+        "text": "That's not correct.",
+        "start": 70.413,
+        "end": 71.475
+      },
+      {
+        "text": "4 equals 9.",
+        "start": 71.495,
+        "end": 74.899
+      },
+      {
+        "text": "Whoa, these are frustrating.",
+        "start": 75.1,
+        "end": 83.171
+      },
+      {
+        "text": "4.",
+        "start": 83.191,
+        "end": 84.893
+      },
+      {
+        "text": "1v.",
+        "start": 84.913,
+        "end": 85.234
+      },
+      {
+        "text": "6 equals.",
+        "start": 85.254,
+        "end": 91.142
+      },
+      {
+        "text": " 6 equals 9 equals 11.",
+        "start": 97.383,
+        "end": 104.959
+      },
+      {
+        "text": "It's not 9, it's 11.",
+        "start": 104.999,
+        "end": 107.164
+      },
+      {
+        "text": "11 minus 2 is 9.",
+        "start": 107.184,
+        "end": 112.415
+      },
+      {
+        "text": "6 equals 9.",
+        "start": 112.435,
+        "end": 117.366
+      },
+      {
+        "text": " 11 minus, that's not correct, 4 equals 9 minus 2.",
+        "start": 124.855,
+        "end": 151.67
+      },
+      {
+        "text": "That's not correct.",
+        "start": 151.81,
+        "end": 152.831
+      },
+      {
+        "text": "Nope.",
+        "start": 153.272,
+        "end": 153.512
+      },
+      {
+        "text": " 9.",
+        "start": 157.087,
+        "end": 157.588
+      },
+      {
+        "text": "IX is 9.",
+        "start": 157.628,
+        "end": 162.898
+      },
+      {
+        "text": "XI is 11.",
+        "start": 163.519,
+        "end": 166.825
+      },
+      {
+        "text": "What are we doing here?",
+        "start": 166.986,
+        "end": 167.968
+      },
+      {
+        "text": "XI is 11.",
+        "start": 174.019,
+        "end": 175.462
+      },
+      {
+        "text": "11 minus 11 is 0.",
+        "start": 175.482,
+        "end": 179.77
+      },
+      {
+        "text": " VI6 equals IX minus 11.",
+        "start": 187.512,
+        "end": 208.879
+      },
+      {
+        "text": " v i, 4 equals 11.",
+        "start": 220.3,
+        "end": 229.412
+      },
+      {
+        "text": "No, 4 equals.",
+        "start": 229.432,
+        "end": 239.406
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals 11 minus 11. No, 4 equals 11 minus 2, which is 9, which is IX. Six. equals 11 minus 2. Nope. OK, let's do it. I'm speaking out loud. I, so 4, 4 equals 9, no, equals 9 minus 2. That's not correct. 4 equals 9. Whoa, these are frustrating. 4. 1v. 6 equals. 6 equals 9 equals 11. It's not 9, it's 11. 11 minus 2 is 9. 6 equals 9. 11 minus, that's not correct, 4 equals 9 minus 2. That's not correct. Nope. 9. IX is 9. XI is 11. What are we doing here? XI is 11. 11 minus 11 is 0. VI6 equals IX minus 11. v i, 4 equals 11. No, 4 equals."
+  }
+}

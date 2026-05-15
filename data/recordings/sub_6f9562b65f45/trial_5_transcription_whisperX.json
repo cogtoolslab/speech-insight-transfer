@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_6f9562b65f45/trial_5.wav",
+  "with_timestamps": {
+    "text": " what's this 9 and 7 and 4 okay I know how to do this one make this 11 equals 7 plus 4 does",
+    "segments": [
+      {
+        "text": " what's this 9 and 7 and 4 okay I know how to do this one make this 11 equals 7 plus 4 does",
+        "start": 1.263,
+        "end": 21.803
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " what's this 9 and 7 and 4 okay I know how to do this one make this 11 equals 7 plus 4 does"
+  }
+}

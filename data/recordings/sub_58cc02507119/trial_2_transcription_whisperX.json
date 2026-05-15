@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_58cc02507119/trial_2.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make the equation correct.What is the final correct equation?OK, this is 8 equals and then there's 8 plus 8.So 8 plus 8 is 16.8 plus 8 is 16.How do I make this 8?Oh. No Jesus Christ Let's see I can't move any matchstick from there.I can only move one. let's see uh I don't know.I don't see it.Five.One.Two.Three.Five, five, five. equals seven dang I don't know I can't move an angled one I have to leave one of the either this one either the minus sign or one of the ones where do I put it?I just think oh No, I can't move that.Oh shoot!",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make the equation correct.",
+        "start": 2.208,
+        "end": 5.012
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 5.032,
+        "end": 7.877
+      },
+      {
+        "text": "OK, this is 8 equals and then there's 8 plus 8.",
+        "start": 8.258,
+        "end": 13.546
+      },
+      {
+        "text": "So 8 plus 8 is 16.",
+        "start": 13.806,
+        "end": 15.429
+      },
+      {
+        "text": "8 plus 8 is 16.",
+        "start": 15.449,
+        "end": 24.323
+      },
+      {
+        "text": "How do I make this 8?",
+        "start": 24.383,
+        "end": 25.364
+      },
+      {
+        "text": "Oh.",
+        "start": 28.049,
+        "end": 28.249
+      },
+      {
+        "text": " No Jesus Christ Let's see",
+        "start": 32.971,
+        "end": 62.438
+      },
+      {
+        "text": " I can't move any matchstick from there.",
+        "start": 65.759,
+        "end": 83.725
+      },
+      {
+        "text": "I can only move one.",
+        "start": 83.745,
+        "end": 95.682
+      },
+      {
+        "text": " let's see uh",
+        "start": 111.254,
+        "end": 126.31
+      },
+      {
+        "text": " I don't know.",
+        "start": 143.468,
+        "end": 144.009
+      },
+      {
+        "text": "I don't see it.",
+        "start": 145.411,
+        "end": 146.032
+      },
+      {
+        "text": "Five.",
+        "start": 148.996,
+        "end": 149.456
+      },
+      {
+        "text": "One.",
+        "start": 162.615,
+        "end": 165.079
+      },
+      {
+        "text": "Two.",
+        "start": 165.099,
+        "end": 165.339
+      },
+      {
+        "text": "Three.",
+        "start": 167.642,
+        "end": 168.123
+      },
+      {
+        "text": "Five, five, five.",
+        "start": 170.306,
+        "end": 172.429
+      },
+      {
+        "text": " equals seven",
+        "start": 174.907,
+        "end": 203.918
+      },
+      {
+        "text": " dang I don't know I can't move an angled one I have to leave one of the either this one either the minus sign or one of the ones where do I put it?",
+        "start": 205.417,
+        "end": 228.011
+      },
+      {
+        "text": "I just think oh",
+        "start": 231.356,
+        "end": 233.179
+      },
+      {
+        "text": " No, I can't move that.",
+        "start": 237.007,
+        "end": 238.702
+      },
+      {
+        "text": "Oh shoot!",
+        "start": 238.722,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make the equation correct. What is the final correct equation? OK, this is 8 equals and then there's 8 plus 8. So 8 plus 8 is 16. 8 plus 8 is 16. How do I make this 8? Oh. No Jesus Christ Let's see I can't move any matchstick from there. I can only move one. let's see uh I don't know. I don't see it. Five. One. Two. Three. Five, five, five. equals seven dang I don't know I can't move an angled one I have to leave one of the either this one either the minus sign or one of the ones where do I put it? I just think oh No, I can't move that. Oh shoot!"
+  }
+}

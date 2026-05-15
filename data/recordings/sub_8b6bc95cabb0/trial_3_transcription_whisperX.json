@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_8b6bc95cabb0/trial_3.wav",
+  "with_timestamps": {
+    "text": " So 9 equals, no, 4 equals 11 minus 2.11 minus 2 equals 9, which does not equal 4.So I need to move one match 6 to make this correct.6 minus 2 equals 4. So if I move this X one of the matchsticks from X and move it to form a V, it should be 6 minus 2 equals 4.So I'll do that.I V equals, I'll move the X in the matchstick to form a V instead of an X. So V match, that is 6 minus 2.",
+    "segments": [
+      {
+        "text": " So 9 equals, no, 4 equals 11 minus 2.",
+        "start": 1.6,
+        "end": 10.212
+      },
+      {
+        "text": "11 minus 2 equals 9, which does not equal 4.",
+        "start": 10.793,
+        "end": 14.658
+      },
+      {
+        "text": "So I need to move one match 6 to make this correct.",
+        "start": 14.678,
+        "end": 18.764
+      },
+      {
+        "text": "6 minus 2 equals 4.",
+        "start": 20.767,
+        "end": 24.672
+      },
+      {
+        "text": " So if I move this X one of the matchsticks from X and move it to form a V, it should be 6 minus 2 equals 4.",
+        "start": 26.39,
+        "end": 35.063
+      },
+      {
+        "text": "So I'll do that.",
+        "start": 35.644,
+        "end": 36.224
+      },
+      {
+        "text": "I V equals, I'll move the X in the matchstick to form a V instead of an X. So V match, that is 6 minus 2.",
+        "start": 37.126,
+        "end": 53.089
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 9 equals, no, 4 equals 11 minus 2. 11 minus 2 equals 9, which does not equal 4. So I need to move one match 6 to make this correct. 6 minus 2 equals 4. So if I move this X one of the matchsticks from X and move it to form a V, it should be 6 minus 2 equals 4. So I'll do that. I V equals, I'll move the X in the matchstick to form a V instead of an X. So V match, that is 6 minus 2."
+  }
+}

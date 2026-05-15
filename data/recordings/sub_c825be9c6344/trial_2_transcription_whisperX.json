@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_c825be9c6344/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, well, new puzzle.Seven equals three minus four.Okay.So we need to make this six somehow, maybe, so we can have the, move one of the matchsticks, the ones from the V over to negative plus, but then you'd have six equals three plus four, and that's still incorrect. Uh... What if... No, that wouldn't work.Changing... V to an X. We could... Do do do do do... Because I think the angled ones, you can't rotate both.So those have to be either a 5 or a 10.So V or an X for the symbol.We have one match to make it correct. Oh, I see, so this could be, we can move it from the equal sign, so we have, left to right, seven minus three equals four, so move one of the matrix from the equals to over the minus, so we have Vii minus Iii equals Iv.",
+    "segments": [
+      {
+        "text": " Okay, well, new puzzle.",
+        "start": 0.031,
+        "end": 1.633
+      },
+      {
+        "text": "Seven equals three minus four.",
+        "start": 2.714,
+        "end": 4.876
+      },
+      {
+        "text": "Okay.",
+        "start": 7.84,
+        "end": 8.26
+      },
+      {
+        "text": "So we need to make this six somehow, maybe, so we can have the, move one of the matchsticks, the ones from the V over to negative plus, but then you'd have six equals three plus four, and that's still incorrect.",
+        "start": 12.205,
+        "end": 27.642
+      },
+      {
+        "text": " Uh... What if... No, that wouldn't work.",
+        "start": 30.119,
+        "end": 43.554
+      },
+      {
+        "text": "Changing... V to an X. We could... Do do do do do...",
+        "start": 43.574,
+        "end": 58.59
+      },
+      {
+        "text": " Because I think the angled ones, you can't rotate both.",
+        "start": 61.658,
+        "end": 64.724
+      },
+      {
+        "text": "So those have to be either a 5 or a 10.",
+        "start": 64.744,
+        "end": 67.269
+      },
+      {
+        "text": "So V or an X for the symbol.",
+        "start": 67.349,
+        "end": 69.273
+      },
+      {
+        "text": "We have one match to make it correct.",
+        "start": 78.031,
+        "end": 80.275
+      },
+      {
+        "text": " Oh, I see, so this could be, we can move it from the equal sign, so we have, left to right, seven minus three equals four, so move one of the matrix from the equals to over the minus, so we have Vii minus Iii equals Iv.",
+        "start": 87.713,
+        "end": 107.427
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, well, new puzzle. Seven equals three minus four. Okay. So we need to make this six somehow, maybe, so we can have the, move one of the matchsticks, the ones from the V over to negative plus, but then you'd have six equals three plus four, and that's still incorrect. Uh... What if... No, that wouldn't work. Changing... V to an X. We could... Do do do do do... Because I think the angled ones, you can't rotate both. So those have to be either a 5 or a 10. So V or an X for the symbol. We have one match to make it correct. Oh, I see, so this could be, we can move it from the equal sign, so we have, left to right, seven minus three equals four, so move one of the matrix from the equals to over the minus, so we have Vii minus Iii equals Iv."
+  }
+}

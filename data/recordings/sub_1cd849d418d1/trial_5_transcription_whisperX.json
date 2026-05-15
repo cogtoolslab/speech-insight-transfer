@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_1cd849d418d1/trial_5.wav",
+  "with_timestamps": {
+    "text": " 3 equals 11 plus 9.I'm thinking fuck face.3 equals 11. Okay. 11 And this is impossible 11 plus 9 is 20. I fucking hate this is such a waste of time. Jesus.Wasting my fucking time. Still thinking this is bullshit.I'm still thinking I'm pissed off.",
+    "segments": [
+      {
+        "text": " 3 equals 11 plus 9.",
+        "start": 1.28,
+        "end": 5.967
+      },
+      {
+        "text": "I'm thinking fuck face.",
+        "start": 21.29,
+        "end": 23.193
+      },
+      {
+        "text": "3 equals 11.",
+        "start": 23.213,
+        "end": 30.544
+      },
+      {
+        "text": " Okay.",
+        "start": 33.308,
+        "end": 35.758
+      },
+      {
+        "text": " 11 And this is impossible",
+        "start": 64.477,
+        "end": 93.64
+      },
+      {
+        "text": " 11 plus 9 is 20.",
+        "start": 104.993,
+        "end": 108.135
+      },
+      {
+        "text": " I fucking hate this is such a waste of time.",
+        "start": 143.468,
+        "end": 165.898
+      },
+      {
+        "text": " Jesus.",
+        "start": 175.615,
+        "end": 187.757
+      },
+      {
+        "text": "Wasting my fucking time.",
+        "start": 187.777,
+        "end": 189.54
+      },
+      {
+        "text": " Still thinking this is bullshit.",
+        "start": 223.186,
+        "end": 224.761
+      },
+      {
+        "text": "I'm still thinking I'm pissed off.",
+        "start": 225.205,
+        "end": 226.8
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 11 plus 9. I'm thinking fuck face. 3 equals 11. Okay. 11 And this is impossible 11 plus 9 is 20. I fucking hate this is such a waste of time. Jesus. Wasting my fucking time. Still thinking this is bullshit. I'm still thinking I'm pissed off."
+  }
+}

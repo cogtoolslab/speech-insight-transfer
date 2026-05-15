@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_b756988f57dd/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I'm on puzzle 1 out of 5.And what I'm looking at is the matchsticks set up in a VII, which is 7, equals XII12 plus VI, which is 6.So that's wrong because 7 would not equal 12 plus 6.So I have to figure out which of these matchsticks to move to make this equation correct.Now, the first thing I'm going to do is look on the resulting number, the 7, and see if moving one of the matchsticks in front of the V would do anything.And, let's see, that would be 4.No, that wouldn't work.So, 7 equals. 12 plus 6, 7 equals 12 plus 4.No.Let's see, 7 equals.I need to figure out if there is such a number as IVI in Roman numerals.I don't think there is. Okay, so basically now I'm going on the second grouping here, XII.What can I do with that?Let's see, 6 equals 7 equals 12 minus 5.This is actually very difficult. Because I see how the matchsticks are, you know, also the plus sign is matchsticks.Maybe if I remove one of the matchsticks or move it to make it a negative, to make it a minus sign, it'll be easier.So let's say 12 minus 6 equals 12 minus 6 would equal 6.That wouldn't work. All right.So, let's say I go 12 plus 4 equals 16.Hmm.12.My plus the 7 equals. This is hard.I'm not seeing it.I mean, I'm not sure exactly what I should do here.5 plus 2 is 7 equals x plus 2, which is 12 plus 6.So that's wrong.So what do I move one of these matchsticks to?12 plus 4 equals 16.Okay, that doesn't work.12 minus 6 equals 6.That doesn't work. No, okay.Wow.I am blanking out here.I cannot see how that can move one matchstick to make the equation correct.I'm not seeing it at all.I am not seeing it at all.I have no idea what to do here.I'm run up against a brick wall.",
+    "segments": [
+      {
+        "text": " Okay, so I'm on puzzle 1 out of 5.",
+        "start": 1.28,
+        "end": 4.104
+      },
+      {
+        "text": "And what I'm looking at is the matchsticks set up in a VII, which is 7, equals XII12 plus VI, which is 6.",
+        "start": 6.187,
+        "end": 18.546
+      },
+      {
+        "text": "So that's wrong because 7 would not equal 12 plus 6.",
+        "start": 19.147,
+        "end": 26.197
+      },
+      {
+        "text": "So I have to figure out which of these matchsticks to move",
+        "start": 26.959,
+        "end": 30.544
+      },
+      {
+        "text": " to make this equation correct.",
+        "start": 32.279,
+        "end": 34.222
+      },
+      {
+        "text": "Now, the first thing I'm going to do is look on the resulting number, the 7, and see if moving one of the matchsticks in front of the V would do anything.",
+        "start": 34.302,
+        "end": 46.521
+      },
+      {
+        "text": "And, let's see, that would be 4.",
+        "start": 47.203,
+        "end": 48.905
+      },
+      {
+        "text": "No, that wouldn't work.",
+        "start": 50.988,
+        "end": 51.93
+      },
+      {
+        "text": "So, 7 equals.",
+        "start": 52.331,
+        "end": 58.32
+      },
+      {
+        "text": " 12 plus 6, 7 equals 12 plus 4.",
+        "start": 59.38,
+        "end": 65.448
+      },
+      {
+        "text": "No.",
+        "start": 65.488,
+        "end": 68.832
+      },
+      {
+        "text": "Let's see, 7 equals.",
+        "start": 72.997,
+        "end": 75.72
+      },
+      {
+        "text": "I need to figure out if there is such a number as IVI in Roman numerals.",
+        "start": 76.641,
+        "end": 82.388
+      },
+      {
+        "text": "I don't think there is.",
+        "start": 82.569,
+        "end": 83.65
+      },
+      {
+        "text": " Okay, so basically now I'm going on the second grouping here, XII.",
+        "start": 87.882,
+        "end": 92.329
+      },
+      {
+        "text": "What can I do with that?",
+        "start": 92.689,
+        "end": 93.691
+      },
+      {
+        "text": "Let's see, 6 equals 7 equals 12 minus 5.",
+        "start": 101.102,
+        "end": 115.242
+      },
+      {
+        "text": "This is actually very difficult.",
+        "start": 115.403,
+        "end": 117.045
+      },
+      {
+        "text": " Because I see how the matchsticks are, you know, also the plus sign is matchsticks.",
+        "start": 118.055,
+        "end": 122.5
+      },
+      {
+        "text": "Maybe if I remove one of the matchsticks or move it to make it a negative, to make it a minus sign, it'll be easier.",
+        "start": 122.56,
+        "end": 128.907
+      },
+      {
+        "text": "So let's say 12 minus 6 equals 12 minus 6 would equal 6.",
+        "start": 129.007,
+        "end": 146.045
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 146.265,
+        "end": 147.066
+      },
+      {
+        "text": " All right.",
+        "start": 154.37,
+        "end": 154.83
+      },
+      {
+        "text": "So, let's say I go 12 plus 4 equals 16.",
+        "start": 154.931,
+        "end": 159.755
+      },
+      {
+        "text": "Hmm.",
+        "start": 159.775,
+        "end": 159.856
+      },
+      {
+        "text": "12.",
+        "start": 159.876,
+        "end": 173.669
+      },
+      {
+        "text": "My plus the 7 equals.",
+        "start": 178.534,
+        "end": 181.137
+      },
+      {
+        "text": " This is hard.",
+        "start": 182.821,
+        "end": 183.662
+      },
+      {
+        "text": "I'm not seeing it.",
+        "start": 184.102,
+        "end": 185.143
+      },
+      {
+        "text": "I mean, I'm not sure exactly what I should do here.",
+        "start": 185.283,
+        "end": 186.965
+      },
+      {
+        "text": "5 plus 2 is 7 equals x plus 2, which is 12 plus 6.",
+        "start": 186.985,
+        "end": 194.432
+      },
+      {
+        "text": "So that's wrong.",
+        "start": 194.472,
+        "end": 195.213
+      },
+      {
+        "text": "So what do I move one of these matchsticks to?",
+        "start": 195.513,
+        "end": 198.116
+      },
+      {
+        "text": "12 plus 4 equals 16.",
+        "start": 198.136,
+        "end": 202.039
+      },
+      {
+        "text": "Okay, that doesn't work.",
+        "start": 202.16,
+        "end": 203.12
+      },
+      {
+        "text": "12 minus 6 equals 6.",
+        "start": 203.14,
+        "end": 208.566
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 208.726,
+        "end": 210.988
+      },
+      {
+        "text": " No, okay.",
+        "start": 213.095,
+        "end": 213.896
+      },
+      {
+        "text": "Wow.",
+        "start": 219.686,
+        "end": 219.887
+      },
+      {
+        "text": "I am blanking out here.",
+        "start": 221.209,
+        "end": 222.251
+      },
+      {
+        "text": "I cannot see how that can move one matchstick to make the equation correct.",
+        "start": 222.311,
+        "end": 227.46
+      },
+      {
+        "text": "I'm not seeing it at all.",
+        "start": 228.201,
+        "end": 229.223
+      },
+      {
+        "text": "I am not seeing it at all.",
+        "start": 232.468,
+        "end": 233.61
+      },
+      {
+        "text": "I have no idea what to do here.",
+        "start": 233.831,
+        "end": 235.493
+      },
+      {
+        "text": "I'm run up against a brick wall.",
+        "start": 235.834,
+        "end": 237.617
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I'm on puzzle 1 out of 5. And what I'm looking at is the matchsticks set up in a VII, which is 7, equals XII12 plus VI, which is 6. So that's wrong because 7 would not equal 12 plus 6. So I have to figure out which of these matchsticks to move to make this equation correct. Now, the first thing I'm going to do is look on the resulting number, the 7, and see if moving one of the matchsticks in front of the V would do anything. And, let's see, that would be 4. No, that wouldn't work. So, 7 equals. 12 plus 6, 7 equals 12 plus 4. No. Let's see, 7 equals. I need to figure out if there is such a number as IVI in Roman numerals. I don't think there is. Okay, so basically now I'm going on the second grouping here, XII. What can I do with that? Let's see, 6 equals 7 equals 12 minus 5. This is actually very difficult. Because I see how the matchsticks are, you know, also the plus sign is matchsticks. Maybe if I remove one of the matchsticks or move it to make it a negative, to make it a minus sign, it'll be easier. So let's say 12 minus 6 equals 12 minus 6 would equal 6. That wouldn't work. All right. So, let's say I go 12 plus 4 equals 16. Hmm. 12. My plus the 7 equals. This is hard. I'm not seeing it. I mean, I'm not sure exactly what I should do here. 5 plus 2 is 7 equals x plus 2, which is 12 plus 6. So that's wrong. So what do I move one of these matchsticks to? 12 plus 4 equals 16. Okay, that doesn't work. 12 minus 6 equals 6. That doesn't work. No, okay. Wow. I am blanking out here. I cannot see how that can move one matchstick to make the equation correct. I'm not seeing it at all. I am not seeing it at all. I have no idea what to do here. I'm run up against a brick wall."
+  }
+}

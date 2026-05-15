@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_0c29698397c7/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, 3 equals 11 minus 3.All right, so and if I made that. That would make that 6.Oh, yeah.Okay.That one's easy.So 3, if I make that a V, 3 equals 6 minus 1, 2, 3.Submit.",
+    "segments": [
+      {
+        "text": " All right, 3 equals 11 minus 3.",
+        "start": 1.718,
+        "end": 6.464
+      },
+      {
+        "text": "All right, so and if I made that.",
+        "start": 17.516,
+        "end": 27.388
+      },
+      {
+        "text": " That would make that 6.",
+        "start": 29.242,
+        "end": 31.851
+      },
+      {
+        "text": "Oh, yeah.",
+        "start": 31.971,
+        "end": 32.432
+      },
+      {
+        "text": "Okay.",
+        "start": 32.513,
+        "end": 32.733
+      },
+      {
+        "text": "That one's easy.",
+        "start": 32.754,
+        "end": 33.416
+      },
+      {
+        "text": "So 3, if I make that a V, 3 equals 6 minus 1, 2, 3.",
+        "start": 33.837,
+        "end": 45.636
+      },
+      {
+        "text": "Submit.",
+        "start": 49.107,
+        "end": 49.95
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, 3 equals 11 minus 3. All right, so and if I made that. That would make that 6. Oh, yeah. Okay. That one's easy. So 3, if I make that a V, 3 equals 6 minus 1, 2, 3. Submit."
+  }
+}

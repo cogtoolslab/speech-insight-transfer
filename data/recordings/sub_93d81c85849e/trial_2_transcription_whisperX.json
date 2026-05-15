@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_93d81c85849e/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright, I didn't manage to finish the first one, but we can definitely finish this one.I am confident.OK, so we have a 3 equals 11 plus 9.OK, that's not bad.Since there's already three over there.I think it'd be good to.Make that a subtraction because the higher side Well, the higher number is on the right side, so we're not going to get a high number by adding much to, you know, the left side.The right side has the higher numbers, so we should subtract them to get the lower number.So I think the minus, well, one should be removed from the plus to make a minus.So let's do, oh, easy.12 minus 9 equals 3, correct? yeah yeah 12 minus 9 equals 3 so it should be boom boom boom equals boom boom minus 9 there we go oh this is incorrect how's that incorrect or did I type it wrong 3 equals 12 minus 9.I must have put the V by mistake.That is 9, right?",
+    "segments": [
+      {
+        "text": " Alright, I didn't manage to finish the first one, but we can definitely finish this one.",
+        "start": 1.752,
+        "end": 7.178
+      },
+      {
+        "text": "I am confident.",
+        "start": 7.538,
+        "end": 8.399
+      },
+      {
+        "text": "OK, so we have a 3 equals 11 plus 9.",
+        "start": 9.581,
+        "end": 14.887
+      },
+      {
+        "text": "OK, that's not bad.",
+        "start": 15.828,
+        "end": 16.829
+      },
+      {
+        "text": "Since there's already three over there.",
+        "start": 19.071,
+        "end": 21.274
+      },
+      {
+        "text": "I think it'd be good to.",
+        "start": 22.615,
+        "end": 24.437
+      },
+      {
+        "text": "Make that a subtraction because the higher side",
+        "start": 24.497,
+        "end": 30.544
+      },
+      {
+        "text": " Well, the higher number is on the right side, so we're not going to get a high number by adding much to, you know, the left side.",
+        "start": 30.76,
+        "end": 40.009
+      },
+      {
+        "text": "The right side has the higher numbers, so we should subtract them to get the lower number.",
+        "start": 40.15,
+        "end": 44.654
+      },
+      {
+        "text": "So I think the minus, well, one should be removed from the plus to make a minus.",
+        "start": 45.335,
+        "end": 52.082
+      },
+      {
+        "text": "So let's do, oh, easy.",
+        "start": 52.723,
+        "end": 54.785
+      },
+      {
+        "text": "12 minus 9 equals 3, correct?",
+        "start": 54.805,
+        "end": 59.029
+      },
+      {
+        "text": " yeah yeah 12 minus 9 equals 3 so it should be boom boom boom equals boom boom minus 9 there we go oh this is incorrect how's that incorrect or did I type it wrong 3 equals",
+        "start": 59.903,
+        "end": 88.982
+      },
+      {
+        "text": " 12 minus 9.",
+        "start": 90.565,
+        "end": 95.277
+      },
+      {
+        "text": "I must have put the V by mistake.",
+        "start": 95.297,
+        "end": 98.446
+      },
+      {
+        "text": "That is 9, right?",
+        "start": 99.649,
+        "end": 100.491
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, I didn't manage to finish the first one, but we can definitely finish this one. I am confident. OK, so we have a 3 equals 11 plus 9. OK, that's not bad. Since there's already three over there. I think it'd be good to. Make that a subtraction because the higher side Well, the higher number is on the right side, so we're not going to get a high number by adding much to, you know, the left side. The right side has the higher numbers, so we should subtract them to get the lower number. So I think the minus, well, one should be removed from the plus to make a minus. So let's do, oh, easy. 12 minus 9 equals 3, correct? yeah yeah 12 minus 9 equals 3 so it should be boom boom boom equals boom boom minus 9 there we go oh this is incorrect how's that incorrect or did I type it wrong 3 equals 12 minus 9. I must have put the V by mistake. That is 9, right?"
+  }
+}

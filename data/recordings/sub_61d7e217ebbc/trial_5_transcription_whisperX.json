@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_61d7e217ebbc/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 6 equals 4 minus 2.If I move that, it becomes 5 equals 4 plus 2.6 equals 5 plus 2.6 equals 4. V's are going to have to stay.I don't know how to get from a V to an X.6 minus 6.Oh, there we go.That's so simple.So now it's VI minus IV equals II.",
+    "segments": [
+      {
+        "text": " Okay, 6 equals 4 minus 2.",
+        "start": 0.031,
+        "end": 3.494
+      },
+      {
+        "text": "If I move that, it becomes 5 equals 4 plus 2.",
+        "start": 3.514,
+        "end": 16.487
+      },
+      {
+        "text": "6 equals 5 plus 2.",
+        "start": 16.507,
+        "end": 23.134
+      },
+      {
+        "text": "6 equals 4.",
+        "start": 23.154,
+        "end": 27.658
+      },
+      {
+        "text": " V's are going to have to stay.",
+        "start": 38.489,
+        "end": 40.434
+      },
+      {
+        "text": "I don't know how to get from a V to an X.",
+        "start": 40.514,
+        "end": 44.223
+      },
+      {
+        "text": "6 minus 6.",
+        "start": 44.243,
+        "end": 45.426
+      },
+      {
+        "text": "Oh, there we go.",
+        "start": 47.17,
+        "end": 47.852
+      },
+      {
+        "text": "That's so simple.",
+        "start": 47.872,
+        "end": 49.235
+      },
+      {
+        "text": "So now it's VI minus IV equals II.",
+        "start": 50.318,
+        "end": 58.337
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 6 equals 4 minus 2. If I move that, it becomes 5 equals 4 plus 2. 6 equals 5 plus 2. 6 equals 4. V's are going to have to stay. I don't know how to get from a V to an X. 6 minus 6. Oh, there we go. That's so simple. So now it's VI minus IV equals II."
+  }
+}

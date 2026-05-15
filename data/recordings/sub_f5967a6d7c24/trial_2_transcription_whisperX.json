@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_f5967a6d7c24/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, let's see here.So this is 10 equals 7 minus 5, 6, 7 minus 3.So 7 plus 3 actually equals 10.So if I did the same thing again, if I did 10 minus 7 equals 3, that would work it's not okay let's see 10 minus B equals",
+    "segments": [
+      {
+        "text": " OK, let's see here.",
+        "start": 0.74,
+        "end": 2.081
+      },
+      {
+        "text": "So this is 10 equals 7 minus 5, 6, 7 minus 3.",
+        "start": 2.101,
+        "end": 13.032
+      },
+      {
+        "text": "So 7 plus 3 actually equals 10.",
+        "start": 13.092,
+        "end": 16.536
+      },
+      {
+        "text": "So if I did the same thing again, if I did 10 minus 7 equals 3,",
+        "start": 23.422,
+        "end": 29.008
+      },
+      {
+        "text": " that would work it's not okay let's see 10 minus B equals",
+        "start": 29.917,
+        "end": 41.057
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, let's see here. So this is 10 equals 7 minus 5, 6, 7 minus 3. So 7 plus 3 actually equals 10. So if I did the same thing again, if I did 10 minus 7 equals 3, that would work it's not okay let's see 10 minus B equals"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_d31b4ef3d2ae/trial_1.wav",
+  "with_timestamps": {
+    "text": " I can only move one matchstick to make this equation correct.What is the final correct equation?OK.I can only move one matchstick to make this equation.Oh, I know exactly where it is.I know.To make it correct.I can only move one matchstick. Uh... Ooh, this is a tough one.She got the equal sign right there at the top, but that could be an inversion.So, what, a minus is what I'm thinking?So, use the buttons below to report the correct version of the equation.All right, well, I believe it to be... Boom, boom.And if you... Do that.I'll play boom.And then v11.And that should be an equal, logically.And that should be a 4.That's incorrect.OK.Let's try this.So that should be. I can only, oh, equals, oh, hang on.So if we go 4 minus 7 would equal 4 plus 7, shoot.Let's see, 4 plus 7 equals 11, but 4 minus 7 would equal 5. How would you do that?Oh, OK.I think I got it.1b equals b11 minus 1b. Okay, so how about... Shoot, I don't know how to do this.I mean, I know how to... I just, I can't figure this puzzle out, hang on.So we got 4 plus 7 should equal 11, but it doesn't, but 4 minus 7, like that, so... If I were to... T first.Bam. Um, hmm.It's a tough one for me.You can only move one matchstick.I don't know.How about V equals V11 plus, um, one V. Then correct.So one V equals V11 plus That's incorrect.So how about IV equals V1 plus IV.How about IV equals VI plus 11V.Oh, I know what I'm doing.I see now.I see now.I see now.I got it.Nope, that's not it.",
+    "segments": [
+      {
+        "text": " I can only move one matchstick to make this equation correct.",
+        "start": 2.478,
+        "end": 5.843
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 6.363,
+        "end": 8.466
+      },
+      {
+        "text": "OK.",
+        "start": 9.588,
+        "end": 10.029
+      },
+      {
+        "text": "I can only move one matchstick to make this equation.",
+        "start": 14.255,
+        "end": 18.12
+      },
+      {
+        "text": "Oh, I know exactly where it is.",
+        "start": 18.28,
+        "end": 20.904
+      },
+      {
+        "text": "I know.",
+        "start": 20.924,
+        "end": 21.184
+      },
+      {
+        "text": "To make it correct.",
+        "start": 23.247,
+        "end": 24.269
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 25.39,
+        "end": 27.473
+      },
+      {
+        "text": " Uh... Ooh, this is a tough one.",
+        "start": 35.924,
+        "end": 42.714
+      },
+      {
+        "text": "She got the equal sign right there at the top, but that could be an inversion.",
+        "start": 43.275,
+        "end": 46.179
+      },
+      {
+        "text": "So, what, a minus is what I'm thinking?",
+        "start": 46.94,
+        "end": 48.723
+      },
+      {
+        "text": "So, use the buttons below to report the correct version of the equation.",
+        "start": 49.364,
+        "end": 52.388
+      },
+      {
+        "text": "All right, well, I believe it to be... Boom, boom.",
+        "start": 53.269,
+        "end": 56.234
+      },
+      {
+        "text": "And if you...",
+        "start": 58.998,
+        "end": 61.341
+      },
+      {
+        "text": " Do that.",
+        "start": 62.806,
+        "end": 63.207
+      },
+      {
+        "text": "I'll play boom.",
+        "start": 63.788,
+        "end": 64.489
+      },
+      {
+        "text": "And then v11.",
+        "start": 65.732,
+        "end": 66.854
+      },
+      {
+        "text": "And that should be an equal, logically.",
+        "start": 67.074,
+        "end": 72.585
+      },
+      {
+        "text": "And that should be a 4.",
+        "start": 73.587,
+        "end": 74.709
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 78.998,
+        "end": 79.799
+      },
+      {
+        "text": "OK.",
+        "start": 79.819,
+        "end": 79.98
+      },
+      {
+        "text": "Let's try this.",
+        "start": 80.0,
+        "end": 81.583
+      },
+      {
+        "text": "So that should be.",
+        "start": 82.505,
+        "end": 83.667
+      },
+      {
+        "text": " I can only, oh, equals, oh, hang on.",
+        "start": 91.595,
+        "end": 95.421
+      },
+      {
+        "text": "So if we go 4 minus 7 would equal 4 plus 7, shoot.",
+        "start": 99.506,
+        "end": 107.218
+      },
+      {
+        "text": "Let's see, 4 plus 7 equals 11, but 4 minus 7 would equal 5.",
+        "start": 109.02,
+        "end": 119.155
+      },
+      {
+        "text": " How would you do that?",
+        "start": 121.666,
+        "end": 123.388
+      },
+      {
+        "text": "Oh, OK.",
+        "start": 132.06,
+        "end": 139.05
+      },
+      {
+        "text": "I think I got it.",
+        "start": 139.07,
+        "end": 139.711
+      },
+      {
+        "text": "1b equals b11 minus 1b.",
+        "start": 139.731,
+        "end": 151.487
+      },
+      {
+        "text": " Okay, so how about... Shoot, I don't know how to do this.",
+        "start": 153.442,
+        "end": 158.97
+      },
+      {
+        "text": "I mean, I know how to... I just, I can't figure this puzzle out, hang on.",
+        "start": 161.834,
+        "end": 164.598
+      },
+      {
+        "text": "So we got 4 plus 7 should equal 11, but it doesn't, but 4 minus 7, like that, so... If I were to... T first.",
+        "start": 166.26,
+        "end": 177.075
+      },
+      {
+        "text": "Bam.",
+        "start": 178.998,
+        "end": 179.078
+      },
+      {
+        "text": " Um, hmm.",
+        "start": 180.07,
+        "end": 181.412
+      },
+      {
+        "text": "It's a tough one for me.",
+        "start": 182.634,
+        "end": 183.555
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 184.817,
+        "end": 186.48
+      },
+      {
+        "text": "I don't know.",
+        "start": 190.826,
+        "end": 191.207
+      },
+      {
+        "text": "How about V equals V11 plus, um, one V. Then correct.",
+        "start": 191.247,
+        "end": 201.883
+      },
+      {
+        "text": "So one V equals V11 plus",
+        "start": 201.903,
+        "end": 208.153
+      },
+      {
+        "text": " That's incorrect.",
+        "start": 210.361,
+        "end": 211.142
+      },
+      {
+        "text": "So how about IV equals V1 plus IV.",
+        "start": 211.523,
+        "end": 218.391
+      },
+      {
+        "text": "How about IV equals VI plus 11V.",
+        "start": 220.574,
+        "end": 227.483
+      },
+      {
+        "text": "Oh, I know what I'm doing.",
+        "start": 229.566,
+        "end": 231.068
+      },
+      {
+        "text": "I see now.",
+        "start": 231.489,
+        "end": 233.01
+      },
+      {
+        "text": "I see now.",
+        "start": 234.412,
+        "end": 234.993
+      },
+      {
+        "text": "I see now.",
+        "start": 236.095,
+        "end": 236.535
+      },
+      {
+        "text": "I got it.",
+        "start": 236.575,
+        "end": 236.976
+      },
+      {
+        "text": "Nope, that's not it.",
+        "start": 238.017,
+        "end": 238.798
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I can only move one matchstick to make this equation correct. What is the final correct equation? OK. I can only move one matchstick to make this equation. Oh, I know exactly where it is. I know. To make it correct. I can only move one matchstick. Uh... Ooh, this is a tough one. She got the equal sign right there at the top, but that could be an inversion. So, what, a minus is what I'm thinking? So, use the buttons below to report the correct version of the equation. All right, well, I believe it to be... Boom, boom. And if you... Do that. I'll play boom. And then v11. And that should be an equal, logically. And that should be a 4. That's incorrect. OK. Let's try this. So that should be. I can only, oh, equals, oh, hang on. So if we go 4 minus 7 would equal 4 plus 7, shoot. Let's see, 4 plus 7 equals 11, but 4 minus 7 would equal 5. How would you do that? Oh, OK. I think I got it. 1b equals b11 minus 1b. Okay, so how about... Shoot, I don't know how to do this. I mean, I know how to... I just, I can't figure this puzzle out, hang on. So we got 4 plus 7 should equal 11, but it doesn't, but 4 minus 7, like that, so... If I were to... T first. Bam. Um, hmm. It's a tough one for me. You can only move one matchstick. I don't know. How about V equals V11 plus, um, one V. Then correct. So one V equals V11 plus That's incorrect. So how about IV equals V1 plus IV. How about IV equals VI plus 11V. Oh, I know what I'm doing. I see now. I see now. I see now. I got it. Nope, that's not it."
+  }
+}

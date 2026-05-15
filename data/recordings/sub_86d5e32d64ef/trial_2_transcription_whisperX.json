@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_86d5e32d64ef/trial_2.wav",
+  "with_timestamps": {
+    "text": " okay um puzzle 205 um you can only make one move matchstick to make this equation correct um x y equals iv plus ii which is um 4 plus 2.Okay so the left side is 11. OK, so I think it's 11 equals 9 plus 2 x1 equal 1 x plus 1 1.",
+    "segments": [
+      {
+        "text": " okay um puzzle 205 um you can only make one move matchstick to make this equation correct um x y equals iv plus ii which is um",
+        "start": 3.98,
+        "end": 30.173
+      },
+      {
+        "text": " 4 plus 2.",
+        "start": 36.599,
+        "end": 38.502
+      },
+      {
+        "text": "Okay so the left side is 11.",
+        "start": 38.562,
+        "end": 53.865
+      },
+      {
+        "text": " OK, so I think it's 11 equals 9 plus 2 x1 equal 1 x plus 1 1.",
+        "start": 70.889,
+        "end": 93.808
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay um puzzle 205 um you can only make one move matchstick to make this equation correct um x y equals iv plus ii which is um 4 plus 2. Okay so the left side is 11. OK, so I think it's 11 equals 9 plus 2 x1 equal 1 x plus 1 1."
+  }
+}

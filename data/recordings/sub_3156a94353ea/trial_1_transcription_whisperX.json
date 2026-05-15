@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_3156a94353ea/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so we have 3 equal 9 minus 4.Let's see.9 minus 6.So I'm just going to move.I'm just going to make 3 equal 9 minus 6.I'm just going to move this matchstick here to the back of the V to make a 6.",
+    "segments": [
+      {
+        "text": " OK, so we have 3 equal 9 minus 4.",
+        "start": 0.993,
+        "end": 8.205
+      },
+      {
+        "text": "Let's see.",
+        "start": 8.245,
+        "end": 12.212
+      },
+      {
+        "text": "9 minus 6.",
+        "start": 12.232,
+        "end": 13.594
+      },
+      {
+        "text": "So I'm just going to move.",
+        "start": 13.634,
+        "end": 14.716
+      },
+      {
+        "text": "I'm just going to make 3 equal 9 minus 6.",
+        "start": 15.217,
+        "end": 22.509
+      },
+      {
+        "text": "I'm just going to move this matchstick here to the back of the V to make a 6.",
+        "start": 23.651,
+        "end": 29.481
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so we have 3 equal 9 minus 4. Let's see. 9 minus 6. So I'm just going to move. I'm just going to make 3 equal 9 minus 6. I'm just going to move this matchstick here to the back of the V to make a 6."
+  }
+}

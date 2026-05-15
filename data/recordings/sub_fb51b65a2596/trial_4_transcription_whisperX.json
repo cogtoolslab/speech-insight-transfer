@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_fb51b65a2596/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay.What do we have here?4 equals 7 plus 4.Okay.7 plus 5 equals 12.No.Can we do that?No, we can't turn that into an X. We can turn that so we can make it 9.We could go 9 equals. Can we go 9 equals, yeah.No, because that would be 7 plus 2.9 equals 7 plus 2?No.4 equals 7 plus 4.All right, 7 plus 4 equals 12.So can we make this a 12 somehow?Oh, yeah.Or we can make that. We can make that a 9, make that a 2 maybe.Will that work?I X equals, so 9 equals V I I plus I I. That work?Darn it.Okay, so 4. So 8, how about 4 equals 8 minus 4.4 equals V, I, I, I, 8 plus, nope, minus 4 equals.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.672,
+        "end": 2.334
+      },
+      {
+        "text": "What do we have here?",
+        "start": 2.354,
+        "end": 2.914
+      },
+      {
+        "text": "4 equals 7 plus 4.",
+        "start": 2.935,
+        "end": 8.341
+      },
+      {
+        "text": "Okay.",
+        "start": 10.183,
+        "end": 11.464
+      },
+      {
+        "text": "7 plus 5 equals 12.",
+        "start": 11.484,
+        "end": 14.367
+      },
+      {
+        "text": "No.",
+        "start": 16.249,
+        "end": 16.59
+      },
+      {
+        "text": "Can we do that?",
+        "start": 18.712,
+        "end": 19.453
+      },
+      {
+        "text": "No, we can't turn that into an X. We can turn that so we can make it 9.",
+        "start": 19.493,
+        "end": 25.359
+      },
+      {
+        "text": "We could go 9 equals.",
+        "start": 26.701,
+        "end": 28.603
+      },
+      {
+        "text": " Can we go 9 equals, yeah.",
+        "start": 34.287,
+        "end": 36.129
+      },
+      {
+        "text": "No, because that would be 7 plus 2.",
+        "start": 37.852,
+        "end": 39.534
+      },
+      {
+        "text": "9 equals 7 plus 2?",
+        "start": 39.554,
+        "end": 43.9
+      },
+      {
+        "text": "No.",
+        "start": 44.04,
+        "end": 45.061
+      },
+      {
+        "text": "4 equals 7 plus 4.",
+        "start": 45.081,
+        "end": 47.044
+      },
+      {
+        "text": "All right, 7 plus 4 equals 12.",
+        "start": 47.064,
+        "end": 49.387
+      },
+      {
+        "text": "So can we make this a 12 somehow?",
+        "start": 50.148,
+        "end": 52.231
+      },
+      {
+        "text": "Oh, yeah.",
+        "start": 57.698,
+        "end": 60.782
+      },
+      {
+        "text": "Or we can make that.",
+        "start": 60.802,
+        "end": 62.404
+      },
+      {
+        "text": " We can make that a 9, make that a 2 maybe.",
+        "start": 63.278,
+        "end": 66.743
+      },
+      {
+        "text": "Will that work?",
+        "start": 68.245,
+        "end": 68.786
+      },
+      {
+        "text": "I X equals, so 9 equals V I I plus I I. That work?",
+        "start": 69.127,
+        "end": 83.368
+      },
+      {
+        "text": "Darn it.",
+        "start": 85.652,
+        "end": 86.954
+      },
+      {
+        "text": "Okay, so 4.",
+        "start": 86.974,
+        "end": 90.619
+      },
+      {
+        "text": " So 8, how about 4 equals 8 minus 4.",
+        "start": 93.265,
+        "end": 99.958
+      },
+      {
+        "text": "4 equals V, I, I, I, 8 plus, nope, minus 4 equals.",
+        "start": 99.978,
+        "end": 120.977
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. What do we have here? 4 equals 7 plus 4. Okay. 7 plus 5 equals 12. No. Can we do that? No, we can't turn that into an X. We can turn that so we can make it 9. We could go 9 equals. Can we go 9 equals, yeah. No, because that would be 7 plus 2. 9 equals 7 plus 2? No. 4 equals 7 plus 4. All right, 7 plus 4 equals 12. So can we make this a 12 somehow? Oh, yeah. Or we can make that. We can make that a 9, make that a 2 maybe. Will that work? I X equals, so 9 equals V I I plus I I. That work? Darn it. Okay, so 4. So 8, how about 4 equals 8 minus 4. 4 equals V, I, I, I, 8 plus, nope, minus 4 equals."
+  }
+}

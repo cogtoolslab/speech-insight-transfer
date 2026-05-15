@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_57b8f6ba7e79/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, three equals four minus three.So before, hmm, we do, three maybe equals make it a five well this is six oh so v i would be sorry i was thinking that's instead you're just mentioning three and then that's gonna be plus three i don't know what i'm doing there because it's three equals I think because, yeah, 6 minus 3.1, 2, 3 equals, that's 6 minus 3.I'm just moving the x.",
+    "segments": [
+      {
+        "text": " Okay, three equals four minus three.",
+        "start": 0.79,
+        "end": 15.67
+      },
+      {
+        "text": "So before, hmm, we do,",
+        "start": 18.474,
+        "end": 25.684
+      },
+      {
+        "text": " three maybe equals make it a five well this is six oh so v i would be sorry i was thinking that's instead you're just mentioning three and then that's gonna be plus three i don't know what i'm doing there because it's three equals",
+        "start": 28.55,
+        "end": 57.831
+      },
+      {
+        "text": " I think because, yeah, 6 minus 3.",
+        "start": 61.085,
+        "end": 71.658
+      },
+      {
+        "text": "1, 2, 3 equals, that's 6 minus 3.",
+        "start": 71.678,
+        "end": 79.061
+      },
+      {
+        "text": "I'm just moving the x.",
+        "start": 79.161,
+        "end": 80.967
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, three equals four minus three. So before, hmm, we do, three maybe equals make it a five well this is six oh so v i would be sorry i was thinking that's instead you're just mentioning three and then that's gonna be plus three i don't know what i'm doing there because it's three equals I think because, yeah, 6 minus 3. 1, 2, 3 equals, that's 6 minus 3. I'm just moving the x."
+  }
+}

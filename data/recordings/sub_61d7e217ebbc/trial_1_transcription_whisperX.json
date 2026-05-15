@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_61d7e217ebbc/trial_1.wav",
+  "with_timestamps": {
+    "text": " Well, let's see, 4 equals 4 plus 4.Obviously, that's not right.So what we need to do, let's see. Oh, let's see.We could change the plus to a minus.But if we just did that, then we'd have 4 minus 4.So that would be 0.So we can only move one matchstick.Oh. So what we can do is we can move that one so we can do this.So we can do IV equals IV equals, because we're going to turn that one, IV.So we're going to turn that one matchstick in the plus to make it an equals because it's 6 equals 6 equals 6.",
+    "segments": [
+      {
+        "text": " Well, let's see, 4 equals 4 plus 4.",
+        "start": 1.583,
+        "end": 5.25
+      },
+      {
+        "text": "Obviously, that's not right.",
+        "start": 5.992,
+        "end": 7.314
+      },
+      {
+        "text": "So what we need to do, let's see.",
+        "start": 9.418,
+        "end": 17.955
+      },
+      {
+        "text": " Oh, let's see.",
+        "start": 29.63,
+        "end": 31.352
+      },
+      {
+        "text": "We could change the plus to a minus.",
+        "start": 31.732,
+        "end": 37.599
+      },
+      {
+        "text": "But if we just did that, then we'd have 4 minus 4.",
+        "start": 37.659,
+        "end": 40.402
+      },
+      {
+        "text": "So that would be 0.",
+        "start": 40.422,
+        "end": 41.423
+      },
+      {
+        "text": "So we can only move one matchstick.",
+        "start": 43.325,
+        "end": 52.676
+      },
+      {
+        "text": "Oh.",
+        "start": 58.423,
+        "end": 58.843
+      },
+      {
+        "text": " So what we can do is we can move that one so we can do this.",
+        "start": 61.591,
+        "end": 66.924
+      },
+      {
+        "text": "So we can do IV equals IV equals, because we're going to turn that one, IV.",
+        "start": 67.144,
+        "end": 76.687
+      },
+      {
+        "text": "So we're going to turn that one matchstick in the plus to make it an equals because it's 6 equals 6 equals 6.",
+        "start": 79.153,
+        "end": 86.13
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Well, let's see, 4 equals 4 plus 4. Obviously, that's not right. So what we need to do, let's see. Oh, let's see. We could change the plus to a minus. But if we just did that, then we'd have 4 minus 4. So that would be 0. So we can only move one matchstick. Oh. So what we can do is we can move that one so we can do this. So we can do IV equals IV equals, because we're going to turn that one, IV. So we're going to turn that one matchstick in the plus to make it an equals because it's 6 equals 6 equals 6."
+  }
+}

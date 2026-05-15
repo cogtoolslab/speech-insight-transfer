@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_97a093227203/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, the equation says 3 equals 11 plus 9, which obviously is not right.So let's see.I changed it to 1 plus 9.That would just equal 10.Let's see.If I made it 11. 11 minus 9 would just be 2, so that's not right.Let's see.11 plus 1 would be 12.I can move the x. No, I can't move the x. I can only move one matchstick.Let's see.Equals. 11 plus 9, god this is much harder than I thought it was going to be.Let's see.Okay if I took\u2026 11 plus 11 is 22, that doesn't work.Oh god, so let's see. If I move one of the X's over on the other side of the equal sign, God, that would be 13.13 equals 11 plus one.No.Um, 13 equals one plus nine.No, that's 10.Jeez. 9 plus 9 would equal 18.That's no good.10 plus 9 equals 19.That's no good.Let's see.13 equals 11 plus 1.No, that's 12. 13 equals 1 plus 9, no that's 10.God.2, if I took one of the matchsticks from in front of the equal sign that would just leave it 2, that's no good.Let's see.If I made it 11\u2026 11\u2026 Minus, no, 12 minus 9 equals 3.OK, I've got it.It's 1, 2, 3 equals 12 minus 9.And I moved one match.",
+    "segments": [
+      {
+        "text": " OK, the equation says 3 equals 11 plus 9, which obviously is not right.",
+        "start": 0.638,
+        "end": 16.152
+      },
+      {
+        "text": "So let's see.",
+        "start": 16.573,
+        "end": 17.674
+      },
+      {
+        "text": "I changed it to 1 plus 9.",
+        "start": 17.694,
+        "end": 21.637
+      },
+      {
+        "text": "That would just equal 10.",
+        "start": 21.678,
+        "end": 22.939
+      },
+      {
+        "text": "Let's see.",
+        "start": 26.082,
+        "end": 27.062
+      },
+      {
+        "text": "If I made it 11.",
+        "start": 27.863,
+        "end": 29.785
+      },
+      {
+        "text": " 11 minus 9 would just be 2, so that's not right.",
+        "start": 30.068,
+        "end": 35.654
+      },
+      {
+        "text": "Let's see.",
+        "start": 38.597,
+        "end": 39.358
+      },
+      {
+        "text": "11 plus 1 would be 12.",
+        "start": 39.378,
+        "end": 46.045
+      },
+      {
+        "text": "I can move the x. No, I can't move the x. I can only move one matchstick.",
+        "start": 46.546,
+        "end": 51.651
+      },
+      {
+        "text": "Let's see.",
+        "start": 53.714,
+        "end": 54.434
+      },
+      {
+        "text": "Equals.",
+        "start": 54.474,
+        "end": 56.937
+      },
+      {
+        "text": " 11 plus 9, god this is much harder than I thought it was going to be.",
+        "start": 58.975,
+        "end": 63.662
+      },
+      {
+        "text": "Let's see.",
+        "start": 63.702,
+        "end": 65.645
+      },
+      {
+        "text": "Okay if I took\u2026 11 plus 11 is 22, that doesn't work.",
+        "start": 65.705,
+        "end": 77.102
+      },
+      {
+        "text": "Oh god, so let's see.",
+        "start": 78.123,
+        "end": 88.138
+      },
+      {
+        "text": " If I move one of the X's over on the other side of the equal sign, God, that would be 13.",
+        "start": 90.43,
+        "end": 97.481
+      },
+      {
+        "text": "13 equals 11 plus one.",
+        "start": 97.501,
+        "end": 104.231
+      },
+      {
+        "text": "No.",
+        "start": 104.412,
+        "end": 104.812
+      },
+      {
+        "text": "Um, 13 equals one plus nine.",
+        "start": 107.657,
+        "end": 111.903
+      },
+      {
+        "text": "No, that's 10.",
+        "start": 111.963,
+        "end": 113.005
+      },
+      {
+        "text": "Jeez.",
+        "start": 114.347,
+        "end": 115.088
+      },
+      {
+        "text": " 9 plus 9 would equal 18.",
+        "start": 123.421,
+        "end": 125.604
+      },
+      {
+        "text": "That's no good.",
+        "start": 125.684,
+        "end": 126.625
+      },
+      {
+        "text": "10 plus 9 equals 19.",
+        "start": 126.645,
+        "end": 134.655
+      },
+      {
+        "text": "That's no good.",
+        "start": 134.755,
+        "end": 135.776
+      },
+      {
+        "text": "Let's see.",
+        "start": 138.94,
+        "end": 142.224
+      },
+      {
+        "text": "13 equals 11 plus 1.",
+        "start": 142.244,
+        "end": 145.789
+      },
+      {
+        "text": "No, that's 12.",
+        "start": 145.829,
+        "end": 146.83
+      },
+      {
+        "text": " 13 equals 1 plus 9, no that's 10.",
+        "start": 151.062,
+        "end": 156.267
+      },
+      {
+        "text": "God.",
+        "start": 157.568,
+        "end": 158.008
+      },
+      {
+        "text": "2, if I took one of the matchsticks from in front of the equal sign that would just leave it 2, that's no good.",
+        "start": 158.028,
+        "end": 168.879
+      },
+      {
+        "text": "Let's see.",
+        "start": 170.86,
+        "end": 171.561
+      },
+      {
+        "text": "If I made it 11\u2026 11\u2026",
+        "start": 173.923,
+        "end": 177.947
+      },
+      {
+        "text": " Minus, no, 12 minus 9 equals 3.",
+        "start": 180.172,
+        "end": 183.002
+      },
+      {
+        "text": "OK, I've got it.",
+        "start": 183.082,
+        "end": 183.824
+      },
+      {
+        "text": "It's 1, 2, 3 equals 12 minus 9.",
+        "start": 183.845,
+        "end": 195.665
+      },
+      {
+        "text": "And I moved one match.",
+        "start": 195.705,
+        "end": 197.792
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, the equation says 3 equals 11 plus 9, which obviously is not right. So let's see. I changed it to 1 plus 9. That would just equal 10. Let's see. If I made it 11. 11 minus 9 would just be 2, so that's not right. Let's see. 11 plus 1 would be 12. I can move the x. No, I can't move the x. I can only move one matchstick. Let's see. Equals. 11 plus 9, god this is much harder than I thought it was going to be. Let's see. Okay if I took\u2026 11 plus 11 is 22, that doesn't work. Oh god, so let's see. If I move one of the X's over on the other side of the equal sign, God, that would be 13. 13 equals 11 plus one. No. Um, 13 equals one plus nine. No, that's 10. Jeez. 9 plus 9 would equal 18. That's no good. 10 plus 9 equals 19. That's no good. Let's see. 13 equals 11 plus 1. No, that's 12. 13 equals 1 plus 9, no that's 10. God. 2, if I took one of the matchsticks from in front of the equal sign that would just leave it 2, that's no good. Let's see. If I made it 11\u2026 11\u2026 Minus, no, 12 minus 9 equals 3. OK, I've got it. It's 1, 2, 3 equals 12 minus 9. And I moved one match."
+  }
+}

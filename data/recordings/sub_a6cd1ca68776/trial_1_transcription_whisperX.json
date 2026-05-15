@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_a6cd1ca68776/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 3 plus 3.That's not true.Let's see, you can only have a maximum of 4 matchsticks.No, 3.No, wait. No, that's right, it's not 3 because 4 is IV.Let's think.I can only move one matchstick to make this equation correct. Okay, no, don't let me do that.Three plus, oh no.How in the world am I gonna do this? Oh!Oh, I gotta use the buttons on the bottom.Okay.One.Use the buttons to report the correct version of the equation. I'm putting the matchsticks in the example box and it's not working. Three equals six.Okay, I'm not sure what I'm supposed to be doing here.One.It won't let me move anything.It won't let me move the matchsticks. Okay, I'm doing something wrong because I can't get this to work.I don't understand what's happening.I can't get this to work.",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 3 plus 3.",
+        "start": 1.769,
+        "end": 5.374
+      },
+      {
+        "text": "That's not true.",
+        "start": 5.634,
+        "end": 6.355
+      },
+      {
+        "text": "Let's see, you can only have a maximum of 4 matchsticks.",
+        "start": 13.284,
+        "end": 19.031
+      },
+      {
+        "text": "No, 3.",
+        "start": 21.194,
+        "end": 23.738
+      },
+      {
+        "text": "No, wait.",
+        "start": 23.758,
+        "end": 24.098
+      },
+      {
+        "text": " No, that's right, it's not 3 because 4 is IV.",
+        "start": 29.95,
+        "end": 34.636
+      },
+      {
+        "text": "Let's think.",
+        "start": 46.91,
+        "end": 51.896
+      },
+      {
+        "text": "I can only move one matchstick to make this equation correct.",
+        "start": 51.916,
+        "end": 55.941
+      },
+      {
+        "text": " Okay, no, don't let me do that.",
+        "start": 62.3,
+        "end": 64.282
+      },
+      {
+        "text": "Three plus, oh no.",
+        "start": 80.197,
+        "end": 83.52
+      },
+      {
+        "text": "How in the world am I gonna do this?",
+        "start": 89.025,
+        "end": 91.007
+      },
+      {
+        "text": " Oh!",
+        "start": 103.576,
+        "end": 104.017
+      },
+      {
+        "text": "Oh, I gotta use the buttons on the bottom.",
+        "start": 104.057,
+        "end": 105.58
+      },
+      {
+        "text": "Okay.",
+        "start": 107.765,
+        "end": 108.106
+      },
+      {
+        "text": "One.",
+        "start": 111.915,
+        "end": 112.095
+      },
+      {
+        "text": "Use the buttons to report the correct version of the equation.",
+        "start": 114.52,
+        "end": 117.467
+      },
+      {
+        "text": " I'm putting the matchsticks in the example box and it's not working.",
+        "start": 134.086,
+        "end": 163.873
+      },
+      {
+        "text": " Three equals six.",
+        "start": 170.182,
+        "end": 185.438
+      },
+      {
+        "text": "Okay, I'm not sure what I'm supposed to be doing here.",
+        "start": 185.458,
+        "end": 188.161
+      },
+      {
+        "text": "One.",
+        "start": 188.181,
+        "end": 188.261
+      },
+      {
+        "text": "It won't let me move anything.",
+        "start": 192.325,
+        "end": 195.669
+      },
+      {
+        "text": "It won't let me move the matchsticks.",
+        "start": 195.689,
+        "end": 199.733
+      },
+      {
+        "text": " Okay, I'm doing something wrong because I can't get this to work.",
+        "start": 210.766,
+        "end": 215.473
+      },
+      {
+        "text": "I don't understand what's happening.",
+        "start": 235.684,
+        "end": 237.007
+      },
+      {
+        "text": "I can't get this to work.",
+        "start": 237.027,
+        "end": 237.988
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 3 plus 3. That's not true. Let's see, you can only have a maximum of 4 matchsticks. No, 3. No, wait. No, that's right, it's not 3 because 4 is IV. Let's think. I can only move one matchstick to make this equation correct. Okay, no, don't let me do that. Three plus, oh no. How in the world am I gonna do this? Oh! Oh, I gotta use the buttons on the bottom. Okay. One. Use the buttons to report the correct version of the equation. I'm putting the matchsticks in the example box and it's not working. Three equals six. Okay, I'm not sure what I'm supposed to be doing here. One. It won't let me move anything. It won't let me move the matchsticks. Okay, I'm doing something wrong because I can't get this to work. I don't understand what's happening. I can't get this to work."
+  }
+}

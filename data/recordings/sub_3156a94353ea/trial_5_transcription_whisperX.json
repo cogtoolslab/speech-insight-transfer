@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_3156a94353ea/trial_5.wav",
+  "with_timestamps": {
+    "text": " The last one would be 9 equals 7 plus 4.Now we're going to make it as 11 equals 7 plus 4 by moving the first matchstick to the back of the 10 and make 11 instead of 9.",
+    "segments": [
+      {
+        "text": " The last one would be 9 equals 7 plus 4.",
+        "start": 0.031,
+        "end": 7.867
+      },
+      {
+        "text": "Now we're going to make it as 11 equals 7 plus 4 by moving the first matchstick to the back of the 10 and make 11 instead of 9.",
+        "start": 10.051,
+        "end": 27.928
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " The last one would be 9 equals 7 plus 4. Now we're going to make it as 11 equals 7 plus 4 by moving the first matchstick to the back of the 10 and make 11 instead of 9."
+  }
+}

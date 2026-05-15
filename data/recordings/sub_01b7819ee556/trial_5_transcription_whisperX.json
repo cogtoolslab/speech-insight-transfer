@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_01b7819ee556/trial_5.wav",
+  "with_timestamps": {
+    "text": " Puzzle five of five, you can only move one match stick to make this equation correct.What is the final correct equation?So this is nine equals 12 plus four.12 plus four is 16.Okay, but we have a nine right here.So that means, I'm gonna go ahead and put this... equals... uh... Okay, I'm finna just play with this and see what I get Because I Forgot what eight is eight supposed to be VIII I think Ummm... Hmm.",
+    "segments": [
+      {
+        "text": " Puzzle five of five, you can only move one match stick to make this equation correct.",
+        "start": 0.031,
+        "end": 6.497
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 6.558,
+        "end": 8.339
+      },
+      {
+        "text": "So this is nine equals 12 plus four.",
+        "start": 9.34,
+        "end": 14.585
+      },
+      {
+        "text": "12 plus four is 16.",
+        "start": 14.606,
+        "end": 18.089
+      },
+      {
+        "text": "Okay, but we have a nine right here.",
+        "start": 21.633,
+        "end": 24.335
+      },
+      {
+        "text": "So that means,",
+        "start": 27.458,
+        "end": 29.16
+      },
+      {
+        "text": " I'm gonna go ahead and put this... equals... uh...",
+        "start": 45.914,
+        "end": 63.602
+      },
+      {
+        "text": " Okay, I'm finna just play with this and see what I get Because I Forgot what eight is eight supposed to be VIII I think",
+        "start": 105.989,
+        "end": 125.162
+      },
+      {
+        "text": " Ummm...",
+        "start": 162.2,
+        "end": 163.115
+      },
+      {
+        "text": " Hmm.",
+        "start": 212.42,
+        "end": 213.082
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle five of five, you can only move one match stick to make this equation correct. What is the final correct equation? So this is nine equals 12 plus four. 12 plus four is 16. Okay, but we have a nine right here. So that means, I'm gonna go ahead and put this... equals... uh... Okay, I'm finna just play with this and see what I get Because I Forgot what eight is eight supposed to be VIII I think Ummm... Hmm."
+  }
+}

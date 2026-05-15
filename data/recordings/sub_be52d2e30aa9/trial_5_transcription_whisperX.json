@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_be52d2e30aa9/trial_5.wav",
+  "with_timestamps": {
+    "text": " Yeah, that's eight.So eight equals eight equals eight.Oops.",
+    "segments": [
+      {
+        "text": " Yeah, that's eight.",
+        "start": 1.955,
+        "end": 3.161
+      },
+      {
+        "text": "So eight equals eight equals eight.",
+        "start": 3.603,
+        "end": 9.653
+      },
+      {
+        "text": "Oops.",
+        "start": 10.095,
+        "end": 10.497
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Yeah, that's eight. So eight equals eight equals eight. Oops."
+  }
+}

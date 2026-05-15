@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_2dba0fd1be9e/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so we're saying A equals 2 minus 2 plus 4.Now, we're saying Vii equals 2 plus Vi. What?Oh, I see.A equals 3 plus 5.What the hell? I don't understand this.A equals 2 plus 6.Vii equals 2 plus Vi. Oh.I'm not putting in a... What the hell?E-I-I equals...",
+    "segments": [
+      {
+        "text": " Okay, so we're saying A equals 2 minus 2 plus 4.",
+        "start": 1.415,
+        "end": 11.048
+      },
+      {
+        "text": "Now, we're saying Vii equals 2 plus Vi.",
+        "start": 11.128,
+        "end": 28.232
+      },
+      {
+        "text": " What?",
+        "start": 32.482,
+        "end": 33.023
+      },
+      {
+        "text": "Oh, I see.",
+        "start": 37.969,
+        "end": 38.59
+      },
+      {
+        "text": "A equals 3 plus 5.",
+        "start": 41.454,
+        "end": 50.626
+      },
+      {
+        "text": "What the hell?",
+        "start": 52.989,
+        "end": 53.95
+      },
+      {
+        "text": " I don't understand this.",
+        "start": 67.598,
+        "end": 69.04
+      },
+      {
+        "text": "A equals 2 plus 6.",
+        "start": 73.344,
+        "end": 78.71
+      },
+      {
+        "text": "Vii equals 2 plus Vi.",
+        "start": 85.117,
+        "end": 93.707
+      },
+      {
+        "text": " Oh.",
+        "start": 101.433,
+        "end": 101.834
+      },
+      {
+        "text": "I'm not putting in a... What the hell?",
+        "start": 104.602,
+        "end": 111.061
+      },
+      {
+        "text": "E-I-I equals...",
+        "start": 111.221,
+        "end": 114.21
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so we're saying A equals 2 minus 2 plus 4. Now, we're saying Vii equals 2 plus Vi. What? Oh, I see. A equals 3 plus 5. What the hell? I don't understand this. A equals 2 plus 6. Vii equals 2 plus Vi. Oh. I'm not putting in a... What the hell? E-I-I equals..."
+  }
+}

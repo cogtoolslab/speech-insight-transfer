@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_3e34f5df0625/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay.So right here, we've got three.So we've got one, two, three.So three equals one X minus one V. So that would be three equals one X is nine minus one V. which is 4.9 minus 4 is not 3.So 9 minus 4 is what? Yeah, okay, so 9 minus 4 is 5.So that's not going to work.So what we need is to move something around to make this this.Alright, let's see.So if I move the X to the beginning, that would be 13.That would be 13 equals 1 minus 4.That wouldn't work.So we can't do that.So... Okay, so that's 9.What if I moved the V around?So if I put the V in front of this, that would be 8 equals 9 minus 1.That's it!9 minus 1 equals 8! Okay, so it will be V111 equals 1X minus 1.That's it!Okay, so V111 equals 1X minus 1. Yay, I did it!That's incorrect, oh.Oh, I did it wrong, I did it wrong, I did it wrong.Right?I moved the V over in front of the ones.It says it's incorrect.How is that incorrect? Let's try again.B111 equals 1x minus 1.How is that incorrect?That's got to be it.That would be 8. equals 9 minus 1.If I move the V over here and leave everything else as it is, that should be the correct answer.Why is it saying it's not correct?I don't understand that.Because 8 does equal 9 minus 1.You move the V to turn the 4 into a 1.You move the V in front of the three 1's and that's it. 1, 1, 1, 8 equals 9 minus 1.I don't understand why I'm saying that same",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 1.583,
+        "end": 3.485
+      },
+      {
+        "text": "So right here, we've got three.",
+        "start": 3.505,
+        "end": 5.087
+      },
+      {
+        "text": "So we've got one, two, three.",
+        "start": 5.147,
+        "end": 9.513
+      },
+      {
+        "text": "So three equals one X minus one V. So that would be three equals one X is nine minus one V.",
+        "start": 9.613,
+        "end": 29.177
+      },
+      {
+        "text": " which is 4.",
+        "start": 30.845,
+        "end": 31.767
+      },
+      {
+        "text": "9 minus 4 is not 3.",
+        "start": 31.787,
+        "end": 36.437
+      },
+      {
+        "text": "So 9 minus 4 is what?",
+        "start": 41.127,
+        "end": 43.993
+      },
+      {
+        "text": " Yeah, okay, so 9 minus 4 is 5.",
+        "start": 45.863,
+        "end": 47.746
+      },
+      {
+        "text": "So that's not going to work.",
+        "start": 48.066,
+        "end": 48.888
+      },
+      {
+        "text": "So what we need is to move something around to make this this.",
+        "start": 49.268,
+        "end": 55.317
+      },
+      {
+        "text": "Alright, let's see.",
+        "start": 56.039,
+        "end": 56.519
+      },
+      {
+        "text": "So if I move the X to the beginning, that would be 13.",
+        "start": 57.26,
+        "end": 60.626
+      },
+      {
+        "text": "That would be 13 equals",
+        "start": 61.908,
+        "end": 72.023
+      },
+      {
+        "text": " 1 minus 4.",
+        "start": 73.133,
+        "end": 74.734
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 74.775,
+        "end": 75.735
+      },
+      {
+        "text": "So we can't do that.",
+        "start": 76.676,
+        "end": 77.617
+      },
+      {
+        "text": "So... Okay, so that's 9.",
+        "start": 77.777,
+        "end": 84.744
+      },
+      {
+        "text": "What if I moved the V around?",
+        "start": 85.184,
+        "end": 87.927
+      },
+      {
+        "text": "So if I put the V in front of this, that would be 8 equals 9 minus 1.",
+        "start": 88.747,
+        "end": 98.456
+      },
+      {
+        "text": "That's it!",
+        "start": 99.557,
+        "end": 100.098
+      },
+      {
+        "text": "9 minus 1 equals 8!",
+        "start": 100.738,
+        "end": 102.6
+      },
+      {
+        "text": " Okay, so it will be V111 equals 1X minus 1.",
+        "start": 103.778,
+        "end": 116.473
+      },
+      {
+        "text": "That's it!",
+        "start": 117.174,
+        "end": 117.674
+      },
+      {
+        "text": "Okay, so V111 equals 1X minus 1.",
+        "start": 118.075,
+        "end": 133.633
+      },
+      {
+        "text": " Yay, I did it!",
+        "start": 135.487,
+        "end": 137.329
+      },
+      {
+        "text": "That's incorrect, oh.",
+        "start": 138.49,
+        "end": 139.751
+      },
+      {
+        "text": "Oh, I did it wrong, I did it wrong, I did it wrong.",
+        "start": 141.613,
+        "end": 143.795
+      },
+      {
+        "text": "Right?",
+        "start": 145.097,
+        "end": 145.477
+      },
+      {
+        "text": "I moved the V over in front of the ones.",
+        "start": 146.358,
+        "end": 150.182
+      },
+      {
+        "text": "It says it's incorrect.",
+        "start": 154.927,
+        "end": 156.148
+      },
+      {
+        "text": "How is that incorrect?",
+        "start": 162.254,
+        "end": 164.076
+      },
+      {
+        "text": " Let's try again.",
+        "start": 164.748,
+        "end": 166.27
+      },
+      {
+        "text": "B111 equals 1x minus 1.",
+        "start": 166.29,
+        "end": 186.573
+      },
+      {
+        "text": "How is that incorrect?",
+        "start": 189.356,
+        "end": 190.858
+      },
+      {
+        "text": "That's got to be it.",
+        "start": 192.019,
+        "end": 193.0
+      },
+      {
+        "text": "That would be 8.",
+        "start": 193.04,
+        "end": 194.502
+      },
+      {
+        "text": " equals 9 minus 1.",
+        "start": 194.6,
+        "end": 195.941
+      },
+      {
+        "text": "If I move the V over here and leave everything else as it is, that should be the correct answer.",
+        "start": 196.762,
+        "end": 202.428
+      },
+      {
+        "text": "Why is it saying it's not correct?",
+        "start": 202.468,
+        "end": 204.049
+      },
+      {
+        "text": "I don't understand that.",
+        "start": 205.03,
+        "end": 205.871
+      },
+      {
+        "text": "Because 8 does equal 9 minus 1.",
+        "start": 208.974,
+        "end": 210.936
+      },
+      {
+        "text": "You move the V to turn the 4 into a 1.",
+        "start": 211.677,
+        "end": 216.782
+      },
+      {
+        "text": "You move the V in front of the three 1's and that's it.",
+        "start": 217.402,
+        "end": 224.269
+      },
+      {
+        "text": " 1, 1, 1, 8 equals 9 minus 1.",
+        "start": 225.278,
+        "end": 235.562
+      },
+      {
+        "text": "I don't understand why I'm saying that same",
+        "start": 238.474,
+        "end": 239.659
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. So right here, we've got three. So we've got one, two, three. So three equals one X minus one V. So that would be three equals one X is nine minus one V. which is 4. 9 minus 4 is not 3. So 9 minus 4 is what? Yeah, okay, so 9 minus 4 is 5. So that's not going to work. So what we need is to move something around to make this this. Alright, let's see. So if I move the X to the beginning, that would be 13. That would be 13 equals 1 minus 4. That wouldn't work. So we can't do that. So... Okay, so that's 9. What if I moved the V around? So if I put the V in front of this, that would be 8 equals 9 minus 1. That's it! 9 minus 1 equals 8! Okay, so it will be V111 equals 1X minus 1. That's it! Okay, so V111 equals 1X minus 1. Yay, I did it! That's incorrect, oh. Oh, I did it wrong, I did it wrong, I did it wrong. Right? I moved the V over in front of the ones. It says it's incorrect. How is that incorrect? Let's try again. B111 equals 1x minus 1. How is that incorrect? That's got to be it. That would be 8. equals 9 minus 1. If I move the V over here and leave everything else as it is, that should be the correct answer. Why is it saying it's not correct? I don't understand that. Because 8 does equal 9 minus 1. You move the V to turn the 4 into a 1. You move the V in front of the three 1's and that's it. 1, 1, 1, 8 equals 9 minus 1. I don't understand why I'm saying that same"
+  }
+}

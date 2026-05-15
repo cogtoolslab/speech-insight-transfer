@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_96150e178ddb/trial_5.wav",
+  "with_timestamps": {
+    "text": " Now, this one's different.Oof.Well, that's easy.So no, it's not.Oh, plus 2.No, shoot.So I've got 6 equals 6 plus 1, which is just impossible, right?Oh, again, I'm just going to move this over here.So it's going to be 6 equals 7 minus 1.",
+    "segments": [
+      {
+        "text": " Now, this one's different.",
+        "start": 2.123,
+        "end": 3.084
+      },
+      {
+        "text": "Oof.",
+        "start": 3.945,
+        "end": 4.225
+      },
+      {
+        "text": "Well, that's easy.",
+        "start": 5.967,
+        "end": 6.547
+      },
+      {
+        "text": "So no, it's not.",
+        "start": 6.587,
+        "end": 8.489
+      },
+      {
+        "text": "Oh, plus 2.",
+        "start": 9.83,
+        "end": 10.631
+      },
+      {
+        "text": "No, shoot.",
+        "start": 10.991,
+        "end": 11.912
+      },
+      {
+        "text": "So I've got 6 equals 6 plus 1, which is just impossible, right?",
+        "start": 17.577,
+        "end": 27.406
+      },
+      {
+        "text": "Oh, again, I'm just going to move this over here.",
+        "start": 27.426,
+        "end": 29.048
+      },
+      {
+        "text": "So it's going to be 6 equals 7 minus 1.",
+        "start": 29.288,
+        "end": 31.59
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Now, this one's different. Oof. Well, that's easy. So no, it's not. Oh, plus 2. No, shoot. So I've got 6 equals 6 plus 1, which is just impossible, right? Oh, again, I'm just going to move this over here. So it's going to be 6 equals 7 minus 1."
+  }
+}

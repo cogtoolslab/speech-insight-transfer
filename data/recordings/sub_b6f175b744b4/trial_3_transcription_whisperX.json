@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_b6f175b744b4/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, so we've got another puzzle here.We've got another 13 equals 9 minus 4.Obviously 9 minus 4 is equal to 5, so that's 13 is equal to 5.That's not going to work.My first thought is to try what worked with the other two and see if I can changes from a subtraction to an equals, or change this subtraction to an equals.So, 13 minus 9 equals 4, which would be true.So, I'm wondering if that is the key for solving all the puzzles, or is it just the key for solving this group?This seems deceptively easy. x equals 4.So 13 minus 9 equals 4.",
+    "segments": [
+      {
+        "text": " All right, so we've got another puzzle here.",
+        "start": 2.275,
+        "end": 4.238
+      },
+      {
+        "text": "We've got another 13 equals 9 minus 4.",
+        "start": 4.258,
+        "end": 10.689
+      },
+      {
+        "text": "Obviously 9 minus 4 is equal to 5, so that's 13 is equal to 5.",
+        "start": 11.891,
+        "end": 19.825
+      },
+      {
+        "text": "That's not going to work.",
+        "start": 19.905,
+        "end": 22.709
+      },
+      {
+        "text": "My first thought is to try what worked with the other two and see if I can",
+        "start": 22.97,
+        "end": 25.414
+      },
+      {
+        "text": " changes from a subtraction to an equals, or change this subtraction to an equals.",
+        "start": 25.63,
+        "end": 31.637
+      },
+      {
+        "text": "So, 13 minus 9 equals 4, which would be true.",
+        "start": 32.658,
+        "end": 39.406
+      },
+      {
+        "text": "So, I'm wondering if that is the key for solving all the puzzles, or is it just the key for solving this group?",
+        "start": 39.807,
+        "end": 48.317
+      },
+      {
+        "text": "This seems deceptively easy.",
+        "start": 48.337,
+        "end": 50.119
+      },
+      {
+        "text": " x equals 4.",
+        "start": 52.563,
+        "end": 55.615
+      },
+      {
+        "text": "So 13 minus 9 equals 4.",
+        "start": 57.122,
+        "end": 59.451
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so we've got another puzzle here. We've got another 13 equals 9 minus 4. Obviously 9 minus 4 is equal to 5, so that's 13 is equal to 5. That's not going to work. My first thought is to try what worked with the other two and see if I can changes from a subtraction to an equals, or change this subtraction to an equals. So, 13 minus 9 equals 4, which would be true. So, I'm wondering if that is the key for solving all the puzzles, or is it just the key for solving this group? This seems deceptively easy. x equals 4. So 13 minus 9 equals 4."
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_da15d261510f/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, we've learned something here.We've learned that we can move the matchstick on either side of the equals sign.I went into this thinking that you could only change the matchsticks in the right-hand side of the equation, which was not correct.I think the instruction should clarify that any part of the application can be changed.But anyway, moving on.So this is 7 equals 9 plus 3.7 equals 9 plus 3. So if I'm... Let me think.Let me think.Hmm.So the left-hand side is going to be either 8 or 6. What can I do on the right-hand side to be 8 or 6?That actually makes sense as a Roman numeral.Move it from the 9, that will leave 10 plus, that'd be 8 equals 10 plus 3, which is not correct. If I move it from the threes, it would be 7 equals 9 plus 2, which is not correct.Or it would be 8 equals 9 plus 2.Let me think. If I can move the matchstick away from the left-hand side of the equation plus sign, then it could be 8 equals 9.See, it'd be 8 equals 9 minus 3, which is not correct either. OK, so 7 equals 9 plus 3.I can only move one.7 equals 9 plus 3.7 equals 9 plus 3. If I could move 2 with him, I could make it 6 equals 9 minus 3, and that would work.But I can only move 1, so that won't work.Let me think.Let me think.Let me think.7 equals 9 plus 3.7 equals 9 plus 3. Are these all solvable properly?I really don't think they are.Some of these are just trick questions to waste people's time.It's really, really annoying.Let me think.Yeah, it just doesn't work.It doesn't work no matter what you move. It's either going to be a 6, a 10, a 2, a minus sign, any of those.If you change any one of those, it still doesn't work.6 equals 9 plus 3.7 equals 9 minus 3.",
+    "segments": [
+      {
+        "text": " OK, we've learned something here.",
+        "start": 2.157,
+        "end": 3.619
+      },
+      {
+        "text": "We've learned that we can move the matchstick on either side of the equals sign.",
+        "start": 3.679,
+        "end": 7.943
+      },
+      {
+        "text": "I went into this thinking that you could only change the matchsticks in the right-hand side of the equation, which was not correct.",
+        "start": 8.344,
+        "end": 16.112
+      },
+      {
+        "text": "I think the instruction should clarify that any part of the application can be changed.",
+        "start": 16.152,
+        "end": 19.816
+      },
+      {
+        "text": "But anyway, moving on.",
+        "start": 20.297,
+        "end": 21.478
+      },
+      {
+        "text": "So this is 7 equals 9 plus 3.",
+        "start": 22.259,
+        "end": 26.163
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 26.183,
+        "end": 30.308
+      },
+      {
+        "text": " So if I'm... Let me think.",
+        "start": 33.865,
+        "end": 38.492
+      },
+      {
+        "text": "Let me think.",
+        "start": 41.377,
+        "end": 42.579
+      },
+      {
+        "text": "Hmm.",
+        "start": 54.758,
+        "end": 54.838
+      },
+      {
+        "text": "So the left-hand side is going to be either 8 or 6.",
+        "start": 54.858,
+        "end": 60.767
+      },
+      {
+        "text": " What can I do on the right-hand side to be 8 or 6?",
+        "start": 62.047,
+        "end": 65.592
+      },
+      {
+        "text": "That actually makes sense as a Roman numeral.",
+        "start": 71.902,
+        "end": 74.366
+      },
+      {
+        "text": "Move it from the 9, that will leave 10 plus, that'd be 8 equals 10 plus 3, which is not correct.",
+        "start": 77.491,
+        "end": 88.948
+      },
+      {
+        "text": " If I move it from the threes, it would be 7 equals 9 plus 2, which is not correct.",
+        "start": 90.008,
+        "end": 99.645
+      },
+      {
+        "text": "Or it would be 8 equals 9 plus 2.",
+        "start": 100.527,
+        "end": 103.532
+      },
+      {
+        "text": "Let me think.",
+        "start": 109.743,
+        "end": 110.464
+      },
+      {
+        "text": " If I can move the matchstick away from the left-hand side of the equation plus sign, then it could be 8 equals 9.",
+        "start": 121.362,
+        "end": 133.561
+      },
+      {
+        "text": "See, it'd be 8 equals 9 minus 3, which is not correct either.",
+        "start": 139.932,
+        "end": 146.442
+      },
+      {
+        "text": " OK, so 7 equals 9 plus 3.",
+        "start": 148.328,
+        "end": 152.715
+      },
+      {
+        "text": "I can only move one.",
+        "start": 155.539,
+        "end": 156.581
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 156.601,
+        "end": 163.632
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 163.652,
+        "end": 165.595
+      },
+      {
+        "text": " If I could move 2 with him, I could make it 6 equals 9 minus 3, and that would work.",
+        "start": 172.865,
+        "end": 177.713
+      },
+      {
+        "text": "But I can only move 1, so that won't work.",
+        "start": 177.753,
+        "end": 181.259
+      },
+      {
+        "text": "Let me think.",
+        "start": 185.946,
+        "end": 186.567
+      },
+      {
+        "text": "Let me think.",
+        "start": 186.607,
+        "end": 187.128
+      },
+      {
+        "text": "Let me think.",
+        "start": 187.188,
+        "end": 187.709
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 190.754,
+        "end": 193.238
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 193.258,
+        "end": 195.261
+      },
+      {
+        "text": " Are these all solvable properly?",
+        "start": 197.063,
+        "end": 199.206
+      },
+      {
+        "text": "I really don't think they are.",
+        "start": 199.226,
+        "end": 201.529
+      },
+      {
+        "text": "Some of these are just trick questions to waste people's time.",
+        "start": 201.549,
+        "end": 204.634
+      },
+      {
+        "text": "It's really, really annoying.",
+        "start": 204.734,
+        "end": 206.376
+      },
+      {
+        "text": "Let me think.",
+        "start": 208.899,
+        "end": 209.52
+      },
+      {
+        "text": "Yeah, it just doesn't work.",
+        "start": 215.148,
+        "end": 216.17
+      },
+      {
+        "text": "It doesn't work no matter what you move.",
+        "start": 217.151,
+        "end": 220.135
+      },
+      {
+        "text": " It's either going to be a 6, a 10, a 2, a minus sign, any of those.",
+        "start": 220.3,
+        "end": 226.715
+      },
+      {
+        "text": "If you change any one of those, it still doesn't work.",
+        "start": 226.735,
+        "end": 229.04
+      },
+      {
+        "text": "6 equals 9 plus 3.",
+        "start": 229.06,
+        "end": 233.952
+      },
+      {
+        "text": "7 equals 9 minus 3.",
+        "start": 233.972,
+        "end": 237.921
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, we've learned something here. We've learned that we can move the matchstick on either side of the equals sign. I went into this thinking that you could only change the matchsticks in the right-hand side of the equation, which was not correct. I think the instruction should clarify that any part of the application can be changed. But anyway, moving on. So this is 7 equals 9 plus 3. 7 equals 9 plus 3. So if I'm... Let me think. Let me think. Hmm. So the left-hand side is going to be either 8 or 6. What can I do on the right-hand side to be 8 or 6? That actually makes sense as a Roman numeral. Move it from the 9, that will leave 10 plus, that'd be 8 equals 10 plus 3, which is not correct. If I move it from the threes, it would be 7 equals 9 plus 2, which is not correct. Or it would be 8 equals 9 plus 2. Let me think. If I can move the matchstick away from the left-hand side of the equation plus sign, then it could be 8 equals 9. See, it'd be 8 equals 9 minus 3, which is not correct either. OK, so 7 equals 9 plus 3. I can only move one. 7 equals 9 plus 3. 7 equals 9 plus 3. If I could move 2 with him, I could make it 6 equals 9 minus 3, and that would work. But I can only move 1, so that won't work. Let me think. Let me think. Let me think. 7 equals 9 plus 3. 7 equals 9 plus 3. Are these all solvable properly? I really don't think they are. Some of these are just trick questions to waste people's time. It's really, really annoying. Let me think. Yeah, it just doesn't work. It doesn't work no matter what you move. It's either going to be a 6, a 10, a 2, a minus sign, any of those. If you change any one of those, it still doesn't work. 6 equals 9 plus 3. 7 equals 9 minus 3."
+  }
+}

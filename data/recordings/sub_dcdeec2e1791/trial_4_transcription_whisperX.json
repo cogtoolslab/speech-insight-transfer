@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_dcdeec2e1791/trial_4.wav",
+  "with_timestamps": {
+    "text": " 13 minus 7 equals 6.So it's the same thing.We just go 13 minus 7, and that equals 6.So the same thing.",
+    "segments": [
+      {
+        "text": " 13 minus 7 equals 6.",
+        "start": 0.149,
+        "end": 6.167
+      },
+      {
+        "text": "So it's the same thing.",
+        "start": 6.368,
+        "end": 7.21
+      },
+      {
+        "text": "We just go 13 minus 7, and that equals 6.",
+        "start": 7.25,
+        "end": 15.515
+      },
+      {
+        "text": "So the same thing.",
+        "start": 15.715,
+        "end": 17.601
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 13 minus 7 equals 6. So it's the same thing. We just go 13 minus 7, and that equals 6. So the same thing."
+  }
+}

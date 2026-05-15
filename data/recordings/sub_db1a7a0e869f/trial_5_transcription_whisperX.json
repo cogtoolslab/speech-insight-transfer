@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_db1a7a0e869f/trial_5.wav",
+  "with_timestamps": {
+    "text": " 14 equals 9 minus 5.That's 13.13 equals 9 minus 5. and minus 4.13 equals 9 minus 4.So what if we left the X?That would be 12 equals minus 9 plus 12 equals 2x, so that would be 8.I can't do that.Let's do the plus again. 12 equals 9 plus 12 equals.OK, we move this over here.So that's 12 equals 9 plus 4.OK, 12 equals 9. Okay, 13 equals nine plus, that's not it, plus four.That is it. Oh, okay, great.Didn't get it.13 equals nine plus four, okay.Okay, okay, okay.Plus five, nine. 12 equals 9 plus 3.What the hell?12.Carry the 12 and go to... Oh, it can't be plus.It has to be minus. plus 4.12 equals...",
+    "segments": [
+      {
+        "text": " 14 equals 9 minus 5.",
+        "start": 0.031,
+        "end": 6.258
+      },
+      {
+        "text": "That's 13.",
+        "start": 20.773,
+        "end": 23.216
+      },
+      {
+        "text": "13 equals 9 minus 5.",
+        "start": 23.236,
+        "end": 27.22
+      },
+      {
+        "text": " and minus 4.",
+        "start": 32.617,
+        "end": 33.479
+      },
+      {
+        "text": "13 equals 9 minus 4.",
+        "start": 33.499,
+        "end": 40.592
+      },
+      {
+        "text": "So what if we left the X?",
+        "start": 45.882,
+        "end": 48.166
+      },
+      {
+        "text": "That would be 12 equals",
+        "start": 51.532,
+        "end": 54.017
+      },
+      {
+        "text": " minus 9 plus 12 equals 2x, so that would be 8.",
+        "start": 62.03,
+        "end": 84.06
+      },
+      {
+        "text": "I can't do that.",
+        "start": 84.08,
+        "end": 88.947
+      },
+      {
+        "text": "Let's do the plus again.",
+        "start": 89.929,
+        "end": 90.99
+      },
+      {
+        "text": " 12 equals 9 plus 12 equals.",
+        "start": 91.595,
+        "end": 102.512
+      },
+      {
+        "text": "OK, we move this over here.",
+        "start": 104.034,
+        "end": 105.496
+      },
+      {
+        "text": "So that's 12 equals 9 plus 4.",
+        "start": 105.516,
+        "end": 114.149
+      },
+      {
+        "text": "OK, 12 equals 9.",
+        "start": 117.374,
+        "end": 119.357
+      },
+      {
+        "text": " Okay, 13 equals nine plus, that's not it, plus four.",
+        "start": 120.603,
+        "end": 135.146
+      },
+      {
+        "text": "That is it.",
+        "start": 138.631,
+        "end": 141.295
+      },
+      {
+        "text": " Oh, okay, great.",
+        "start": 151.906,
+        "end": 152.968
+      },
+      {
+        "text": "Didn't get it.",
+        "start": 153.889,
+        "end": 154.33
+      },
+      {
+        "text": "13 equals nine plus four, okay.",
+        "start": 157.595,
+        "end": 175.762
+      },
+      {
+        "text": "Okay, okay, okay.",
+        "start": 175.782,
+        "end": 176.863
+      },
+      {
+        "text": "Plus five, nine.",
+        "start": 176.883,
+        "end": 179.247
+      },
+      {
+        "text": " 12 equals 9 plus 3.",
+        "start": 189.993,
+        "end": 192.036
+      },
+      {
+        "text": "What the hell?",
+        "start": 193.398,
+        "end": 214.351
+      },
+      {
+        "text": "12.",
+        "start": 214.371,
+        "end": 214.431
+      },
+      {
+        "text": "Carry the 12 and go to... Oh, it can't be plus.",
+        "start": 214.471,
+        "end": 217.516
+      },
+      {
+        "text": "It has to be minus.",
+        "start": 217.536,
+        "end": 218.397
+      },
+      {
+        "text": " plus 4.",
+        "start": 222.224,
+        "end": 225.352
+      },
+      {
+        "text": "12 equals...",
+        "start": 225.372,
+        "end": 226.26
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 14 equals 9 minus 5. That's 13. 13 equals 9 minus 5. and minus 4. 13 equals 9 minus 4. So what if we left the X? That would be 12 equals minus 9 plus 12 equals 2x, so that would be 8. I can't do that. Let's do the plus again. 12 equals 9 plus 12 equals. OK, we move this over here. So that's 12 equals 9 plus 4. OK, 12 equals 9. Okay, 13 equals nine plus, that's not it, plus four. That is it. Oh, okay, great. Didn't get it. 13 equals nine plus four, okay. Okay, okay, okay. Plus five, nine. 12 equals 9 plus 3. What the hell? 12. Carry the 12 and go to... Oh, it can't be plus. It has to be minus. plus 4. 12 equals..."
+  }
+}

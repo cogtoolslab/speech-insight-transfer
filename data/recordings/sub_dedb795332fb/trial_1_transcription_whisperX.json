@@ -1,0 +1,166 @@
+{
+  "file": "data/recordings/sub_dedb795332fb/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so 8 equals 8 plus 8.Not going to be very good at this. I don't know.I don't know how to do it.I don't know.I've never been good at this. I am saying stuff out loud.I'm thinking and my brain is doing nothing.Eight.Seven.Nope.Shit.I don't know.Yep.I'm going to have to just put that.I have to keep going until I get it.I'm not going to get it.I don't know how to do these.I've never been good at these.Move one.Ugh.Um. Um... Um... Um... Hmm... Hmm... Um... Wow... I don't know.How many times do I have to stay on each of the five puzzles for four minutes?Because I'm never going to get any of them. I don't know.I don't know how to do it. This is not fun at all.I don't know.I don't know how to do it.",
+    "segments": [
+      {
+        "text": " Okay, so 8 equals 8 plus 8.",
+        "start": 1.297,
+        "end": 8.746
+      },
+      {
+        "text": "Not going to be very good at this.",
+        "start": 19.219,
+        "end": 30.072
+      },
+      {
+        "text": " I don't know.",
+        "start": 34.051,
+        "end": 34.592
+      },
+      {
+        "text": "I don't know how to do it.",
+        "start": 34.612,
+        "end": 35.474
+      },
+      {
+        "text": "I don't know.",
+        "start": 35.494,
+        "end": 35.835
+      },
+      {
+        "text": "I've never been good at this.",
+        "start": 36.015,
+        "end": 54.034
+      },
+      {
+        "text": " I am saying stuff out loud.",
+        "start": 62.384,
+        "end": 64.366
+      },
+      {
+        "text": "I'm thinking and my brain is doing nothing.",
+        "start": 64.386,
+        "end": 65.988
+      },
+      {
+        "text": "Eight.",
+        "start": 67.39,
+        "end": 67.75
+      },
+      {
+        "text": "Seven.",
+        "start": 69.492,
+        "end": 72.416
+      },
+      {
+        "text": "Nope.",
+        "start": 72.436,
+        "end": 73.157
+      },
+      {
+        "text": "Shit.",
+        "start": 73.177,
+        "end": 73.397
+      },
+      {
+        "text": "I don't know.",
+        "start": 73.417,
+        "end": 73.878
+      },
+      {
+        "text": "Yep.",
+        "start": 78.003,
+        "end": 78.243
+      },
+      {
+        "text": "I'm going to have to just put that.",
+        "start": 78.623,
+        "end": 79.685
+      },
+      {
+        "text": "I have to keep going until I get it.",
+        "start": 79.965,
+        "end": 81.326
+      },
+      {
+        "text": "I'm not going to get it.",
+        "start": 81.347,
+        "end": 82.127
+      },
+      {
+        "text": "I don't know how to do these.",
+        "start": 82.588,
+        "end": 83.629
+      },
+      {
+        "text": "I've never been good at these.",
+        "start": 83.849,
+        "end": 84.831
+      },
+      {
+        "text": "Move one.",
+        "start": 86.172,
+        "end": 86.833
+      },
+      {
+        "text": "Ugh.",
+        "start": 88.275,
+        "end": 88.395
+      },
+      {
+        "text": "Um.",
+        "start": 90.678,
+        "end": 91.058
+      },
+      {
+        "text": " Um... Um... Um... Hmm... Hmm... Um... Wow...",
+        "start": 93.586,
+        "end": 122.783
+      },
+      {
+        "text": " I don't know.",
+        "start": 125.497,
+        "end": 131.448
+      },
+      {
+        "text": "How many times do I have to stay on each of the five puzzles for four minutes?",
+        "start": 138.121,
+        "end": 142.229
+      },
+      {
+        "text": "Because I'm never going to get any of them.",
+        "start": 142.269,
+        "end": 146.998
+      },
+      {
+        "text": " I don't know.",
+        "start": 170.08,
+        "end": 181.865
+      },
+      {
+        "text": "I don't know how to do it.",
+        "start": 183.548,
+        "end": 184.41
+      },
+      {
+        "text": " This is not fun at all.",
+        "start": 202.565,
+        "end": 206.46
+      },
+      {
+        "text": "I don't know.",
+        "start": 209.953,
+        "end": 210.354
+      },
+      {
+        "text": "I don't know how to do it.",
+        "start": 210.375,
+        "end": 211.579
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so 8 equals 8 plus 8. Not going to be very good at this. I don't know. I don't know how to do it. I don't know. I've never been good at this. I am saying stuff out loud. I'm thinking and my brain is doing nothing. Eight. Seven. Nope. Shit. I don't know. Yep. I'm going to have to just put that. I have to keep going until I get it. I'm not going to get it. I don't know how to do these. I've never been good at these. Move one. Ugh. Um. Um... Um... Um... Hmm... Hmm... Um... Wow... I don't know. How many times do I have to stay on each of the five puzzles for four minutes? Because I'm never going to get any of them. I don't know. I don't know how to do it. This is not fun at all. I don't know. I don't know how to do it."
+  }
+}

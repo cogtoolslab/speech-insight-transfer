@@ -1,0 +1,341 @@
+{
+  "file": "data/recordings/sub_489928f1993d/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, let's try it again.So 11 plus 9, 3 equals 11 plus 9.Well, we know that's not true.So what if I put the x there?So 13.So just put the x there. Oh wait, that's it, that's it, that's it.I got it.Yay, I got it.I got one.So first it's an X, and then it's 1, 2, 3.All right, so that's 13.So, oh shit.I lost it again.It's got to be 12 plus 1. Right, the X goes first, so the X would go there, 13.So these have to equal 13, take away the X. No, that's not right.That's 11, 12.Nope, not right.It's gotta be one plus three.All right.I had it, where did it go? So that's 13.So this has to come to 13.And there's no way I can do that.All right.Cross it out.That's not right.13.Oh, come on.I can do this.I can do this. 13 equals, it would have to be 12 plus 1.But I can't get 12 plus 1 out of that, because I done took up the x. OK, what if I put the x back?So, oh, that's a 9.That's not 11.All right, so that's 11, and that's 9. Okay, let me rethink this.What equals... That won't work.All right, so 13... What did I do to make these 13?So that's 11.Wait, wait, wait, wait, wait.What if I made that a subtraction?13 equals... 11?Nope.Nope.So if I made that 13, how would I come up with 13 over here?There's 11.Minus 9, and that comes up with 2.I've got too many. Oh, oh, oh, wait.So wait, 12.So that would be 11.That's it.That's it.That's it.Okay.Hang on.Now, where'd it go?Where'd it go?Wait a minute.I just hit him.Where'd it go?So there's, so it's, Nein.",
+    "segments": [
+      {
+        "text": " All right, let's try it again.",
+        "start": 0.031,
+        "end": 3.637
+      },
+      {
+        "text": "So 11 plus 9, 3 equals 11 plus 9.",
+        "start": 7.002,
+        "end": 14.795
+      },
+      {
+        "text": "Well, we know that's not true.",
+        "start": 15.456,
+        "end": 16.457
+      },
+      {
+        "text": "So what if I put the x there?",
+        "start": 17.239,
+        "end": 18.561
+      },
+      {
+        "text": "So 13.",
+        "start": 18.661,
+        "end": 19.502
+      },
+      {
+        "text": "So just put the x there.",
+        "start": 20.304,
+        "end": 24.25
+      },
+      {
+        "text": " Oh wait, that's it, that's it, that's it.",
+        "start": 24.702,
+        "end": 27.026
+      },
+      {
+        "text": "I got it.",
+        "start": 27.046,
+        "end": 27.406
+      },
+      {
+        "text": "Yay, I got it.",
+        "start": 27.727,
+        "end": 28.408
+      },
+      {
+        "text": "I got one.",
+        "start": 28.448,
+        "end": 28.909
+      },
+      {
+        "text": "So first it's an X, and then it's 1, 2, 3.",
+        "start": 29.55,
+        "end": 36.301
+      },
+      {
+        "text": "All right, so that's 13.",
+        "start": 36.321,
+        "end": 38.885
+      },
+      {
+        "text": "So, oh shit.",
+        "start": 39.646,
+        "end": 43.433
+      },
+      {
+        "text": "I lost it again.",
+        "start": 45.276,
+        "end": 47.239
+      },
+      {
+        "text": "It's got to be 12 plus 1.",
+        "start": 48.381,
+        "end": 49.883
+      },
+      {
+        "text": " Right, the X goes first, so the X would go there, 13.",
+        "start": 52.748,
+        "end": 55.251
+      },
+      {
+        "text": "So these have to equal 13, take away the X. No, that's not right.",
+        "start": 56.112,
+        "end": 59.615
+      },
+      {
+        "text": "That's 11, 12.",
+        "start": 62.578,
+        "end": 63.74
+      },
+      {
+        "text": "Nope, not right.",
+        "start": 65.421,
+        "end": 66.262
+      },
+      {
+        "text": "It's gotta be one plus three.",
+        "start": 70.106,
+        "end": 72.489
+      },
+      {
+        "text": "All right.",
+        "start": 74.171,
+        "end": 74.431
+      },
+      {
+        "text": "I had it, where did it go?",
+        "start": 77.875,
+        "end": 80.157
+      },
+      {
+        "text": " So that's 13.",
+        "start": 81.908,
+        "end": 83.09
+      },
+      {
+        "text": "So this has to come to 13.",
+        "start": 83.751,
+        "end": 86.194
+      },
+      {
+        "text": "And there's no way I can do that.",
+        "start": 87.056,
+        "end": 88.318
+      },
+      {
+        "text": "All right.",
+        "start": 93.185,
+        "end": 93.565
+      },
+      {
+        "text": "Cross it out.",
+        "start": 95.689,
+        "end": 96.27
+      },
+      {
+        "text": "That's not right.",
+        "start": 101.658,
+        "end": 102.339
+      },
+      {
+        "text": "13.",
+        "start": 102.359,
+        "end": 104.522
+      },
+      {
+        "text": "Oh, come on.",
+        "start": 106.325,
+        "end": 106.865
+      },
+      {
+        "text": "I can do this.",
+        "start": 106.905,
+        "end": 107.607
+      },
+      {
+        "text": "I can do this.",
+        "start": 107.667,
+        "end": 108.608
+      },
+      {
+        "text": " 13 equals, it would have to be 12 plus 1.",
+        "start": 111.187,
+        "end": 120.26
+      },
+      {
+        "text": "But I can't get 12 plus 1 out of that, because I done took up the x. OK, what if I put the x back?",
+        "start": 120.641,
+        "end": 129.714
+      },
+      {
+        "text": "So, oh, that's a 9.",
+        "start": 133.399,
+        "end": 134.721
+      },
+      {
+        "text": "That's not 11.",
+        "start": 134.781,
+        "end": 135.642
+      },
+      {
+        "text": "All right, so that's 11, and that's 9.",
+        "start": 136.483,
+        "end": 139.708
+      },
+      {
+        "text": " Okay, let me rethink this.",
+        "start": 142.321,
+        "end": 145.025
+      },
+      {
+        "text": "What equals... That won't work.",
+        "start": 146.627,
+        "end": 152.055
+      },
+      {
+        "text": "All right, so 13... What did I do to make these 13?",
+        "start": 152.075,
+        "end": 158.223
+      },
+      {
+        "text": "So that's 11.",
+        "start": 158.844,
+        "end": 160.106
+      },
+      {
+        "text": "Wait, wait, wait, wait, wait.",
+        "start": 162.129,
+        "end": 163.01
+      },
+      {
+        "text": "What if I made that a subtraction?",
+        "start": 164.132,
+        "end": 165.894
+      },
+      {
+        "text": "13 equals...",
+        "start": 165.914,
+        "end": 169.459
+      },
+      {
+        "text": " 11?",
+        "start": 172.274,
+        "end": 172.875
+      },
+      {
+        "text": "Nope.",
+        "start": 172.915,
+        "end": 177.519
+      },
+      {
+        "text": "Nope.",
+        "start": 179.381,
+        "end": 179.642
+      },
+      {
+        "text": "So if I made that 13, how would I come up with 13 over here?",
+        "start": 183.826,
+        "end": 191.854
+      },
+      {
+        "text": "There's 11.",
+        "start": 192.415,
+        "end": 193.136
+      },
+      {
+        "text": "Minus 9, and that comes up with 2.",
+        "start": 197.921,
+        "end": 200.543
+      },
+      {
+        "text": "I've got too many.",
+        "start": 201.064,
+        "end": 202.045
+      },
+      {
+        "text": " Oh, oh, oh, wait.",
+        "start": 203.29,
+        "end": 204.071
+      },
+      {
+        "text": "So wait, 12.",
+        "start": 204.932,
+        "end": 206.214
+      },
+      {
+        "text": "So that would be 11.",
+        "start": 208.817,
+        "end": 209.618
+      },
+      {
+        "text": "That's it.",
+        "start": 212.842,
+        "end": 217.508
+      },
+      {
+        "text": "That's it.",
+        "start": 217.688,
+        "end": 218.129
+      },
+      {
+        "text": "That's it.",
+        "start": 218.149,
+        "end": 218.489
+      },
+      {
+        "text": "Okay.",
+        "start": 219.751,
+        "end": 219.991
+      },
+      {
+        "text": "Hang on.",
+        "start": 220.011,
+        "end": 220.252
+      },
+      {
+        "text": "Now, where'd it go?",
+        "start": 220.312,
+        "end": 221.133
+      },
+      {
+        "text": "Where'd it go?",
+        "start": 221.153,
+        "end": 221.553
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 225.899,
+        "end": 226.299
+      },
+      {
+        "text": "I just hit him.",
+        "start": 226.319,
+        "end": 226.94
+      },
+      {
+        "text": "Where'd it go?",
+        "start": 227.06,
+        "end": 227.481
+      },
+      {
+        "text": "So there's, so it's,",
+        "start": 228.362,
+        "end": 230.665
+      },
+      {
+        "text": " Nein.",
+        "start": 239.318,
+        "end": 239.848
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's try it again. So 11 plus 9, 3 equals 11 plus 9. Well, we know that's not true. So what if I put the x there? So 13. So just put the x there. Oh wait, that's it, that's it, that's it. I got it. Yay, I got it. I got one. So first it's an X, and then it's 1, 2, 3. All right, so that's 13. So, oh shit. I lost it again. It's got to be 12 plus 1. Right, the X goes first, so the X would go there, 13. So these have to equal 13, take away the X. No, that's not right. That's 11, 12. Nope, not right. It's gotta be one plus three. All right. I had it, where did it go? So that's 13. So this has to come to 13. And there's no way I can do that. All right. Cross it out. That's not right. 13. Oh, come on. I can do this. I can do this. 13 equals, it would have to be 12 plus 1. But I can't get 12 plus 1 out of that, because I done took up the x. OK, what if I put the x back? So, oh, that's a 9. That's not 11. All right, so that's 11, and that's 9. Okay, let me rethink this. What equals... That won't work. All right, so 13... What did I do to make these 13? So that's 11. Wait, wait, wait, wait, wait. What if I made that a subtraction? 13 equals... 11? Nope. Nope. So if I made that 13, how would I come up with 13 over here? There's 11. Minus 9, and that comes up with 2. I've got too many. Oh, oh, oh, wait. So wait, 12. So that would be 11. That's it. That's it. That's it. Okay. Hang on. Now, where'd it go? Where'd it go? Wait a minute. I just hit him. Where'd it go? So there's, so it's, Nein."
+  }
+}

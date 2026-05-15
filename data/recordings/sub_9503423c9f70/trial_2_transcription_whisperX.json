@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_9503423c9f70/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, 7 equals 12 plus 12.Oh, wait, 12 equals 12 plus 12.12 equals 12 plus, it's the same thing.12 equals 12 equals, oh. I pushed 5, 12.That's moving one stick.",
+    "segments": [
+      {
+        "text": " Okay, 7 equals 12 plus 12.",
+        "start": 1.33,
+        "end": 7.095
+      },
+      {
+        "text": "Oh, wait, 12 equals 12 plus 12.",
+        "start": 10.658,
+        "end": 14.121
+      },
+      {
+        "text": "12 equals 12 plus, it's the same thing.",
+        "start": 14.141,
+        "end": 19.566
+      },
+      {
+        "text": "12 equals 12 equals, oh.",
+        "start": 19.586,
+        "end": 30.375
+      },
+      {
+        "text": " I pushed 5, 12.",
+        "start": 31.115,
+        "end": 34.649
+      },
+      {
+        "text": "That's moving one stick.",
+        "start": 36.276,
+        "end": 38.003
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 7 equals 12 plus 12. Oh, wait, 12 equals 12 plus 12. 12 equals 12 plus, it's the same thing. 12 equals 12 equals, oh. I pushed 5, 12. That's moving one stick."
+  }
+}

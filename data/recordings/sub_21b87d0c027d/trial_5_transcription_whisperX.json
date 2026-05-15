@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_21b87d0c027d/trial_5.wav",
+  "with_timestamps": {
+    "text": " Three equals 11 plus nine.So, three equals 11 minus nine. No, that's two.I'm getting there.Okay, this...",
+    "segments": [
+      {
+        "text": " Three equals 11 plus nine.",
+        "start": 2.343,
+        "end": 8.489
+      },
+      {
+        "text": "So, three equals 11 minus nine.",
+        "start": 12.734,
+        "end": 31.793
+      },
+      {
+        "text": " No, that's two.",
+        "start": 33.595,
+        "end": 34.918
+      },
+      {
+        "text": "I'm getting there.",
+        "start": 34.958,
+        "end": 43.838
+      },
+      {
+        "text": "Okay, this...",
+        "start": 43.899,
+        "end": 45.883
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Three equals 11 plus nine. So, three equals 11 minus nine. No, that's two. I'm getting there. Okay, this..."
+  }
+}

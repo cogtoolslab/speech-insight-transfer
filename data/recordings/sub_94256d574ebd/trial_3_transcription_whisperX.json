@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_94256d574ebd/trial_3.wav",
+  "with_timestamps": {
+    "text": " Let's try this again.Alright.OK.10.Or no, that's 99 equals 11.No.1212 plus four.12. Minus four.Only one matchstick.Must they always torch me?This is this sucks. This simply sucks.I mean, this is... Okay I'm still just confused.Okay.Oh, it's just one.Okay, but then I have to make people Okay, how about nine How about nine plus?OK, how about 12?Or 13 minus four? OK, OK, I think I got it.I think I got this one.I think I got this 113 equals.Let me try this.Let me see, maybe I got it, maybe I",
+    "segments": [
+      {
+        "text": " Let's try this again.",
+        "start": 0.149,
+        "end": 0.97
+      },
+      {
+        "text": "Alright.",
+        "start": 1.17,
+        "end": 1.631
+      },
+      {
+        "text": "OK.",
+        "start": 3.614,
+        "end": 4.275
+      },
+      {
+        "text": "10.",
+        "start": 4.295,
+        "end": 6.257
+      },
+      {
+        "text": "Or no, that's 99 equals 11.",
+        "start": 6.297,
+        "end": 12.646
+      },
+      {
+        "text": "No.",
+        "start": 12.666,
+        "end": 12.786
+      },
+      {
+        "text": "1212 plus four.",
+        "start": 12.806,
+        "end": 20.076
+      },
+      {
+        "text": "12.",
+        "start": 20.096,
+        "end": 26.325
+      },
+      {
+        "text": " Minus four.",
+        "start": 32.667,
+        "end": 33.708
+      },
+      {
+        "text": "Only one matchstick.",
+        "start": 37.312,
+        "end": 38.793
+      },
+      {
+        "text": "Must they always torch me?",
+        "start": 42.577,
+        "end": 44.119
+      },
+      {
+        "text": "This is this sucks.",
+        "start": 59.374,
+        "end": 60.936
+      },
+      {
+        "text": " This simply sucks.",
+        "start": 82.448,
+        "end": 85.032
+      },
+      {
+        "text": "I mean, this is...",
+        "start": 98.472,
+        "end": 99.934
+      },
+      {
+        "text": " Okay I'm still just confused.",
+        "start": 115.102,
+        "end": 129.039
+      },
+      {
+        "text": "Okay.",
+        "start": 129.059,
+        "end": 129.54
+      },
+      {
+        "text": "Oh, it's just one.",
+        "start": 129.88,
+        "end": 131.362
+      },
+      {
+        "text": "Okay, but then I have to make people Okay, how about nine",
+        "start": 131.422,
+        "end": 143.657
+      },
+      {
+        "text": " How about nine plus?",
+        "start": 144.802,
+        "end": 147.084
+      },
+      {
+        "text": "OK, how about 12?",
+        "start": 157.355,
+        "end": 166.645
+      },
+      {
+        "text": "Or 13 minus four?",
+        "start": 170.949,
+        "end": 172.851
+      },
+      {
+        "text": " OK, OK, I think I got it.",
+        "start": 176.965,
+        "end": 178.288
+      },
+      {
+        "text": "I think I got this one.",
+        "start": 178.348,
+        "end": 179.271
+      },
+      {
+        "text": "I think I got this 113 equals.",
+        "start": 179.291,
+        "end": 182.318
+      },
+      {
+        "text": "Let me try this.",
+        "start": 184.684,
+        "end": 187.951
+      },
+      {
+        "text": "Let me see, maybe I got it, maybe I",
+        "start": 188.593,
+        "end": 201.083
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's try this again. Alright. OK. 10. Or no, that's 99 equals 11. No. 1212 plus four. 12. Minus four. Only one matchstick. Must they always torch me? This is this sucks. This simply sucks. I mean, this is... Okay I'm still just confused. Okay. Oh, it's just one. Okay, but then I have to make people Okay, how about nine How about nine plus? OK, how about 12? Or 13 minus four? OK, OK, I think I got it. I think I got this one. I think I got this 113 equals. Let me try this. Let me see, maybe I got it, maybe I"
+  }
+}

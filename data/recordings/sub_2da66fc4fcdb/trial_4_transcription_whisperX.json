@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_2da66fc4fcdb/trial_4.wav",
+  "with_timestamps": {
+    "text": " And 11, 12 is equal to 12 plus 12.So if I say, let me see here.13. 13 is equal to, not 10, 11, 12, is equal to minus, oh.Maybe I'll put that into chat GBT. I'm being recorded. 11 plus 12 is equal to 12 plus 12 is 24 I'm going to make that zero 12 12 I'm going to move one So that's 12 is equal to 6 plus 6, but that's maybe more than 1. Okay, so x12 is equal to 5, 6, 7, 8 8 plus 6, no, plus 6 is equal to 9",
+    "segments": [
+      {
+        "text": " And 11, 12 is equal to 12 plus 12.",
+        "start": 2.005,
+        "end": 14.336
+      },
+      {
+        "text": "So if I say, let me see here.",
+        "start": 18.5,
+        "end": 22.763
+      },
+      {
+        "text": "13.",
+        "start": 22.783,
+        "end": 30.19
+      },
+      {
+        "text": " 13 is equal to, not 10, 11, 12, is equal to minus, oh.",
+        "start": 32.903,
+        "end": 57.08
+      },
+      {
+        "text": "Maybe I'll put that into chat GBT.",
+        "start": 57.1,
+        "end": 59.383
+      },
+      {
+        "text": " I'm being recorded.",
+        "start": 62.654,
+        "end": 85.067
+      },
+      {
+        "text": " 11 plus 12 is equal to 12 plus 12 is 24 I'm going to make that zero 12 12 I'm going to move one",
+        "start": 113.262,
+        "end": 137.329
+      },
+      {
+        "text": " So that's 12 is equal to 6 plus 6, but that's maybe more than 1.",
+        "start": 151.805,
+        "end": 167.637
+      },
+      {
+        "text": " Okay, so x12 is equal to 5, 6, 7, 8",
+        "start": 182.602,
+        "end": 206.466
+      },
+      {
+        "text": " 8 plus 6, no, plus 6 is equal to 9",
+        "start": 214.073,
+        "end": 237.853
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " And 11, 12 is equal to 12 plus 12. So if I say, let me see here. 13. 13 is equal to, not 10, 11, 12, is equal to minus, oh. Maybe I'll put that into chat GBT. I'm being recorded. 11 plus 12 is equal to 12 plus 12 is 24 I'm going to make that zero 12 12 I'm going to move one So that's 12 is equal to 6 plus 6, but that's maybe more than 1. Okay, so x12 is equal to 5, 6, 7, 8 8 plus 6, no, plus 6 is equal to 9"
+  }
+}

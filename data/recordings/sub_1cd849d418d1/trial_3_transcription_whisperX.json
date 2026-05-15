@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_1cd849d418d1/trial_3.wav",
+  "with_timestamps": {
+    "text": " Nine equals seven plus four.Uh.",
+    "segments": [
+      {
+        "text": " Nine equals seven plus four.",
+        "start": 1.229,
+        "end": 4.141
+      },
+      {
+        "text": "Uh.",
+        "start": 4.161,
+        "end": 10.648
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Nine equals seven plus four. Uh."
+  }
+}

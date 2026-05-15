@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_1cd849d418d1/trial_4.wav",
+  "with_timestamps": {
+    "text": " 7 equals 3 minus 4 equals plus 4.That is actually correct. Okay, eight, seven equals.You're wrong.Fuck you, you stupid fucking piece of shit. Y minus 4. I already solved this, this is impossible without... Yeah, this is dumb and a huge waste of fucking time and you're pissing me off.Unless you did.",
+    "segments": [
+      {
+        "text": " 7 equals 3 minus 4 equals plus 4.",
+        "start": 1.634,
+        "end": 15.408
+      },
+      {
+        "text": "That is actually correct.",
+        "start": 25.538,
+        "end": 29.582
+      },
+      {
+        "text": " Okay, eight, seven equals.",
+        "start": 40.548,
+        "end": 47.839
+      },
+      {
+        "text": "You're wrong.",
+        "start": 62.422,
+        "end": 63.143
+      },
+      {
+        "text": "Fuck you, you stupid fucking piece of shit.",
+        "start": 63.183,
+        "end": 66.488
+      },
+      {
+        "text": " Y minus 4.",
+        "start": 70.67,
+        "end": 71.585
+      },
+      {
+        "text": " I already solved this, this is impossible without... Yeah, this is dumb and a huge waste of fucking time and you're pissing me off.",
+        "start": 120.383,
+        "end": 133.538
+      },
+      {
+        "text": "Unless you did.",
+        "start": 141.827,
+        "end": 142.408
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 equals 3 minus 4 equals plus 4. That is actually correct. Okay, eight, seven equals. You're wrong. Fuck you, you stupid fucking piece of shit. Y minus 4. I already solved this, this is impossible without... Yeah, this is dumb and a huge waste of fucking time and you're pissing me off. Unless you did."
+  }
+}

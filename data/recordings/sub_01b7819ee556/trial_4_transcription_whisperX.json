@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_01b7819ee556/trial_4.wav",
+  "with_timestamps": {
+    "text": " Puzzle four of five, you can only move one matchstick to make this equation correct.What is the final correct equation?So we have four equals 11 minus two.11 minus two does not equal four, but Yeah. Because if I was to put this stick in front of the X, then that would be a 9.And 9 minus 2 is not 4.We can only move one stick.So... This is really difficult because if we can only move one matchstick We still can't get all this to equal 4.Because if I was to move this stick right here to the right, that's going to be a 3.Then it'll be 10 minus 3.And 10 minus 3 is 7.That does not equal 4.If I was to move this right here to the left, that would be 9 minus 2. 9 minus 2 is 7 does not equal 4.If I was to move one of these to the left then that would be 12 minus 1 and that would be 11 that does not equal 4.If I could take this away and move this right here, that'd be 12 minus two and that would equal 10 and that does not equal five.Okay.If I was to put this right here, it'd be 11 minus two.That doesn't equal six either.If I was to 11 minus, I don't know.",
+    "segments": [
+      {
+        "text": " Puzzle four of five, you can only move one matchstick to make this equation correct.",
+        "start": 0.757,
+        "end": 6.963
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 7.664,
+        "end": 10.927
+      },
+      {
+        "text": "So we have four equals 11 minus two.",
+        "start": 10.947,
+        "end": 16.572
+      },
+      {
+        "text": "11 minus two does not equal four, but",
+        "start": 18.835,
+        "end": 28.384
+      },
+      {
+        "text": " Yeah.",
+        "start": 34.253,
+        "end": 35.135
+      },
+      {
+        "text": " Because if I was to put this stick in front of the X, then that would be a 9.",
+        "start": 60.578,
+        "end": 68.931
+      },
+      {
+        "text": "And 9 minus 2 is not 4.",
+        "start": 69.512,
+        "end": 71.575
+      },
+      {
+        "text": "We can only move one stick.",
+        "start": 76.823,
+        "end": 78.766
+      },
+      {
+        "text": "So...",
+        "start": 85.837,
+        "end": 86.839
+      },
+      {
+        "text": " This is really difficult because if we can only move one matchstick",
+        "start": 101.467,
+        "end": 130.596
+      },
+      {
+        "text": " We still can't get all this to equal 4.",
+        "start": 133.158,
+        "end": 137.303
+      },
+      {
+        "text": "Because if I was to move this stick right here to the right, that's going to be a 3.",
+        "start": 139.546,
+        "end": 146.295
+      },
+      {
+        "text": "Then it'll be 10 minus 3.",
+        "start": 146.435,
+        "end": 148.458
+      },
+      {
+        "text": "And 10 minus 3 is 7.",
+        "start": 149.639,
+        "end": 151.041
+      },
+      {
+        "text": "That does not equal 4.",
+        "start": 151.341,
+        "end": 152.543
+      },
+      {
+        "text": "If I was to move this right here to the left, that would be 9 minus 2.",
+        "start": 153.724,
+        "end": 162.135
+      },
+      {
+        "text": " 9 minus 2 is 7 does not equal 4.",
+        "start": 162.622,
+        "end": 166.205
+      },
+      {
+        "text": "If I was to move one of these to the left then that would be 12 minus 1 and that would be 11 that does not equal 4.",
+        "start": 166.225,
+        "end": 182.28
+      },
+      {
+        "text": "If I could take this away",
+        "start": 186.224,
+        "end": 189.287
+      },
+      {
+        "text": " and move this right here, that'd be 12 minus two and that would equal 10 and that does not equal five.",
+        "start": 189.487,
+        "end": 196.777
+      },
+      {
+        "text": "Okay.",
+        "start": 196.817,
+        "end": 198.599
+      },
+      {
+        "text": "If I was to put this right here, it'd be 11 minus two.",
+        "start": 199.04,
+        "end": 204.407
+      },
+      {
+        "text": "That doesn't equal six either.",
+        "start": 205.448,
+        "end": 207.071
+      },
+      {
+        "text": "If I was to",
+        "start": 207.111,
+        "end": 212.558
+      },
+      {
+        "text": " 11 minus, I don't know.",
+        "start": 222.697,
+        "end": 237.921
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle four of five, you can only move one matchstick to make this equation correct. What is the final correct equation? So we have four equals 11 minus two. 11 minus two does not equal four, but Yeah. Because if I was to put this stick in front of the X, then that would be a 9. And 9 minus 2 is not 4. We can only move one stick. So... This is really difficult because if we can only move one matchstick We still can't get all this to equal 4. Because if I was to move this stick right here to the right, that's going to be a 3. Then it'll be 10 minus 3. And 10 minus 3 is 7. That does not equal 4. If I was to move this right here to the left, that would be 9 minus 2. 9 minus 2 is 7 does not equal 4. If I was to move one of these to the left then that would be 12 minus 1 and that would be 11 that does not equal 4. If I could take this away and move this right here, that'd be 12 minus two and that would equal 10 and that does not equal five. Okay. If I was to put this right here, it'd be 11 minus two. That doesn't equal six either. If I was to 11 minus, I don't know."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_612d041941ce/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, so we have 11 equals 4 plus 2.So 11 equals 6.So just because we've done the same thing on every one of these, if I change the 11, if I move the one match stick and make that 6, it'll be 6 equals 4 plus 2.So like this, 6 equals 4 plus 2. Two.",
+    "segments": [
+      {
+        "text": " OK, so we have 11 equals 4 plus 2.",
+        "start": 1.432,
+        "end": 7.778
+      },
+      {
+        "text": "So 11 equals 6.",
+        "start": 8.018,
+        "end": 9.739
+      },
+      {
+        "text": "So just because we've done the same thing on every one of these, if I change the 11, if I move the one match stick and make that 6, it'll be 6 equals 4 plus 2.",
+        "start": 10.42,
+        "end": 22.39
+      },
+      {
+        "text": "So like this, 6 equals 4 plus 2.",
+        "start": 23.571,
+        "end": 31.438
+      },
+      {
+        "text": " Two.",
+        "start": 31.418,
+        "end": 32.199
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so we have 11 equals 4 plus 2. So 11 equals 6. So just because we've done the same thing on every one of these, if I change the 11, if I move the one match stick and make that 6, it'll be 6 equals 4 plus 2. So like this, 6 equals 4 plus 2. Two."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "file": "data/recordings/sub_489928f1993d/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, that's the one.I've got to move that one.No, that's wrong.Oh, I'm on the second one already?OK, 6 equals 6 plus 1.No, 7 equals 6 plus 1.7 equals 6 plus 1.OK. Why isn't it going?It's not going.OK, so that would be, there's 6 equals 6 plus 1.No, 7.So I would have, so I would have 7.Why won't it print?What the hell?Why is that, why isn't, why won't it go? 7 equals.No, that's not it.No, that's not it either.OK, that's 6.I had it.Where'd it go?That's 6 equals.It's got to be 5 plus 1.What if I moved that one?Why won't it go? So that's 6.What equals 6?OK.5 plus 1 would equal 6.But where would I put this one?How about make it like this? Oh, I see.Click on that.So that's 1.All right, so there's 7 equals 6 plus 1.But that's not right.That's not right because I'm moving more than 1.7 equals 6. plus 1.Is that right?7 equals... no, 5 plus 1.Nope, that's not right.7 equals... I gotta have another one here.7 equals... well, that'll work.Incorrect!I moved more than one.Oh, shoot! Alright, do it again.Okay.6 equals... Okay.So that's 6.So 5 plus 1.Maybe I'm looking at it wrong.Okay, what if I put that down there?6.Okay.Move... Okay. Move that one.6 equals 5 plus 1.But then where does that one go?All right, that's 6.So that's got to stay there.No, yeah, that's 6.OK, so 6 equals, it's got to be 5 plus 1, but how do I",
+    "segments": [
+      {
+        "text": " OK, that's the one.",
+        "start": 0.031,
+        "end": 2.716
+      },
+      {
+        "text": "I've got to move that one.",
+        "start": 2.736,
+        "end": 3.517
+      },
+      {
+        "text": "No, that's wrong.",
+        "start": 5.621,
+        "end": 7.604
+      },
+      {
+        "text": "Oh, I'm on the second one already?",
+        "start": 10.469,
+        "end": 12.273
+      },
+      {
+        "text": "OK, 6 equals 6 plus 1.",
+        "start": 12.313,
+        "end": 17.101
+      },
+      {
+        "text": "No, 7 equals 6 plus 1.",
+        "start": 18.804,
+        "end": 20.627
+      },
+      {
+        "text": "7 equals 6 plus 1.",
+        "start": 20.647,
+        "end": 23.753
+      },
+      {
+        "text": "OK.",
+        "start": 24.474,
+        "end": 24.975
+      },
+      {
+        "text": " Why isn't it going?",
+        "start": 31.672,
+        "end": 32.573
+      },
+      {
+        "text": "It's not going.",
+        "start": 33.915,
+        "end": 34.536
+      },
+      {
+        "text": "OK, so that would be, there's 6 equals 6 plus 1.",
+        "start": 35.337,
+        "end": 40.904
+      },
+      {
+        "text": "No, 7.",
+        "start": 41.304,
+        "end": 42.386
+      },
+      {
+        "text": "So I would have, so I would have 7.",
+        "start": 43.928,
+        "end": 52.399
+      },
+      {
+        "text": "Why won't it print?",
+        "start": 52.719,
+        "end": 53.981
+      },
+      {
+        "text": "What the hell?",
+        "start": 54.021,
+        "end": 54.601
+      },
+      {
+        "text": "Why is that, why isn't, why won't it go?",
+        "start": 56.624,
+        "end": 61.29
+      },
+      {
+        "text": " 7 equals.",
+        "start": 65.455,
+        "end": 66.536
+      },
+      {
+        "text": "No, that's not it.",
+        "start": 68.038,
+        "end": 68.779
+      },
+      {
+        "text": "No, that's not it either.",
+        "start": 74.006,
+        "end": 74.988
+      },
+      {
+        "text": "OK, that's 6.",
+        "start": 75.588,
+        "end": 77.111
+      },
+      {
+        "text": "I had it.",
+        "start": 77.231,
+        "end": 77.711
+      },
+      {
+        "text": "Where'd it go?",
+        "start": 78.112,
+        "end": 78.593
+      },
+      {
+        "text": "That's 6 equals.",
+        "start": 79.594,
+        "end": 83.018
+      },
+      {
+        "text": "It's got to be 5 plus 1.",
+        "start": 83.839,
+        "end": 85.161
+      },
+      {
+        "text": "What if I moved that one?",
+        "start": 85.582,
+        "end": 86.503
+      },
+      {
+        "text": "Why won't it go?",
+        "start": 89.387,
+        "end": 90.248
+      },
+      {
+        "text": " So that's 6.",
+        "start": 97.113,
+        "end": 98.475
+      },
+      {
+        "text": "What equals 6?",
+        "start": 100.838,
+        "end": 101.74
+      },
+      {
+        "text": "OK.",
+        "start": 102.681,
+        "end": 103.042
+      },
+      {
+        "text": "5 plus 1 would equal 6.",
+        "start": 103.062,
+        "end": 105.485
+      },
+      {
+        "text": "But where would I put this one?",
+        "start": 107.308,
+        "end": 108.369
+      },
+      {
+        "text": "How about make it like this?",
+        "start": 113.396,
+        "end": 120.066
+      },
+      {
+        "text": " Oh, I see.",
+        "start": 126.931,
+        "end": 127.552
+      },
+      {
+        "text": "Click on that.",
+        "start": 127.632,
+        "end": 128.393
+      },
+      {
+        "text": "So that's 1.",
+        "start": 128.413,
+        "end": 129.074
+      },
+      {
+        "text": "All right, so there's 7 equals 6 plus 1.",
+        "start": 129.094,
+        "end": 142.235
+      },
+      {
+        "text": "But that's not right.",
+        "start": 142.275,
+        "end": 143.978
+      },
+      {
+        "text": "That's not right because I'm moving more than 1.",
+        "start": 145.54,
+        "end": 147.463
+      },
+      {
+        "text": "7 equals 6.",
+        "start": 147.563,
+        "end": 154.474
+      },
+      {
+        "text": " plus 1.",
+        "start": 156.243,
+        "end": 158.225
+      },
+      {
+        "text": "Is that right?",
+        "start": 160.528,
+        "end": 161.049
+      },
+      {
+        "text": "7 equals... no, 5 plus 1.",
+        "start": 161.069,
+        "end": 164.232
+      },
+      {
+        "text": "Nope, that's not right.",
+        "start": 166.235,
+        "end": 166.996
+      },
+      {
+        "text": "7 equals... I gotta have another one here.",
+        "start": 167.016,
+        "end": 171.181
+      },
+      {
+        "text": "7 equals... well, that'll work.",
+        "start": 171.201,
+        "end": 176.527
+      },
+      {
+        "text": "Incorrect!",
+        "start": 180.311,
+        "end": 180.892
+      },
+      {
+        "text": "I moved more than one.",
+        "start": 181.433,
+        "end": 182.334
+      },
+      {
+        "text": "Oh, shoot!",
+        "start": 182.474,
+        "end": 183.415
+      },
+      {
+        "text": " Alright, do it again.",
+        "start": 184.475,
+        "end": 185.256
+      },
+      {
+        "text": "Okay.",
+        "start": 186.357,
+        "end": 186.678
+      },
+      {
+        "text": "6 equals... Okay.",
+        "start": 187.499,
+        "end": 192.305
+      },
+      {
+        "text": "So that's 6.",
+        "start": 194.789,
+        "end": 195.57
+      },
+      {
+        "text": "So 5 plus 1.",
+        "start": 197.753,
+        "end": 198.654
+      },
+      {
+        "text": "Maybe I'm looking at it wrong.",
+        "start": 198.674,
+        "end": 201.778
+      },
+      {
+        "text": "Okay, what if I put that down there?",
+        "start": 201.798,
+        "end": 203.32
+      },
+      {
+        "text": "6.",
+        "start": 203.34,
+        "end": 204.682
+      },
+      {
+        "text": "Okay.",
+        "start": 209.108,
+        "end": 209.428
+      },
+      {
+        "text": "Move... Okay.",
+        "start": 210.349,
+        "end": 211.731
+      },
+      {
+        "text": " Move that one.",
+        "start": 213.77,
+        "end": 214.752
+      },
+      {
+        "text": "6 equals 5 plus 1.",
+        "start": 214.772,
+        "end": 219.041
+      },
+      {
+        "text": "But then where does that one go?",
+        "start": 219.863,
+        "end": 221.045
+      },
+      {
+        "text": "All right, that's 6.",
+        "start": 221.546,
+        "end": 225.014
+      },
+      {
+        "text": "So that's got to stay there.",
+        "start": 228.481,
+        "end": 229.583
+      },
+      {
+        "text": "No, yeah, that's 6.",
+        "start": 230.064,
+        "end": 231.147
+      },
+      {
+        "text": "OK, so 6 equals, it's got to be 5 plus 1, but how do I",
+        "start": 231.968,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, that's the one. I've got to move that one. No, that's wrong. Oh, I'm on the second one already? OK, 6 equals 6 plus 1. No, 7 equals 6 plus 1. 7 equals 6 plus 1. OK. Why isn't it going? It's not going. OK, so that would be, there's 6 equals 6 plus 1. No, 7. So I would have, so I would have 7. Why won't it print? What the hell? Why is that, why isn't, why won't it go? 7 equals. No, that's not it. No, that's not it either. OK, that's 6. I had it. Where'd it go? That's 6 equals. It's got to be 5 plus 1. What if I moved that one? Why won't it go? So that's 6. What equals 6? OK. 5 plus 1 would equal 6. But where would I put this one? How about make it like this? Oh, I see. Click on that. So that's 1. All right, so there's 7 equals 6 plus 1. But that's not right. That's not right because I'm moving more than 1. 7 equals 6. plus 1. Is that right? 7 equals... no, 5 plus 1. Nope, that's not right. 7 equals... I gotta have another one here. 7 equals... well, that'll work. Incorrect! I moved more than one. Oh, shoot! Alright, do it again. Okay. 6 equals... Okay. So that's 6. So 5 plus 1. Maybe I'm looking at it wrong. Okay, what if I put that down there? 6. Okay. Move... Okay. Move that one. 6 equals 5 plus 1. But then where does that one go? All right, that's 6. So that's got to stay there. No, yeah, that's 6. OK, so 6 equals, it's got to be 5 plus 1, but how do I"
+  }
+}

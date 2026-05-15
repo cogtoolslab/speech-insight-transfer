@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_e77dffb7fe67/trial_5.wav",
+  "with_timestamps": {
+    "text": " which says 3 equals 9 minus 4.We want to make that 9 minus 6 instead.So here's the 3, here's the equals, here's the 9 minus, and we'll do V1 instead of 1V.",
+    "segments": [
+      {
+        "text": " which says 3 equals 9 minus 4.",
+        "start": 0.031,
+        "end": 4.302
+      },
+      {
+        "text": "We want to make that 9 minus 6 instead.",
+        "start": 4.422,
+        "end": 8.312
+      },
+      {
+        "text": "So here's the 3, here's the equals, here's the 9 minus, and we'll do V1 instead of 1V.",
+        "start": 8.332,
+        "end": 16.774
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " which says 3 equals 9 minus 4. We want to make that 9 minus 6 instead. So here's the 3, here's the equals, here's the 9 minus, and we'll do V1 instead of 1V."
+  }
+}

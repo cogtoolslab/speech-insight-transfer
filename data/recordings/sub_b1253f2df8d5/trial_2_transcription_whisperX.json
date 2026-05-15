@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_b1253f2df8d5/trial_2.wav",
+  "with_timestamps": {
+    "text": " So we have 3 equals 11 plus 9.So 11 minus 9 would give us 2.So 12 minus 9 would give us 3.So we're going to move that plus sign to be a negative.So 3 equals. 12 minus 9.",
+    "segments": [
+      {
+        "text": " So we have 3 equals 11 plus 9.",
+        "start": 1.516,
+        "end": 6.04
+      },
+      {
+        "text": "So 11 minus 9 would give us 2.",
+        "start": 7.242,
+        "end": 13.027
+      },
+      {
+        "text": "So 12 minus 9 would give us 3.",
+        "start": 13.328,
+        "end": 20.415
+      },
+      {
+        "text": "So we're going to move that plus sign to be a negative.",
+        "start": 20.575,
+        "end": 24.899
+      },
+      {
+        "text": "So 3 equals.",
+        "start": 24.939,
+        "end": 28.823
+      },
+      {
+        "text": " 12 minus 9.",
+        "start": 30.676,
+        "end": 35.252
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So we have 3 equals 11 plus 9. So 11 minus 9 would give us 2. So 12 minus 9 would give us 3. So we're going to move that plus sign to be a negative. So 3 equals. 12 minus 9."
+  }
+}

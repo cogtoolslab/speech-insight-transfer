@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_0c29698397c7/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay.Seven equals nine plus three.But I can't, can I take out like, oh no, that wouldn't work anyways.That would make it six.Silly.All right.Seven. What if I made that, what is that 9 plus, okay, so I'll make that an x, and that would equal 12 equals 9 plus 3.Got that one pretty quick.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.352,
+        "end": 2.594
+      },
+      {
+        "text": "Seven equals nine plus three.",
+        "start": 2.614,
+        "end": 6.018
+      },
+      {
+        "text": "But I can't, can I take out like, oh no, that wouldn't work anyways.",
+        "start": 10.443,
+        "end": 16.409
+      },
+      {
+        "text": "That would make it six.",
+        "start": 16.79,
+        "end": 18.672
+      },
+      {
+        "text": "Silly.",
+        "start": 18.692,
+        "end": 18.992
+      },
+      {
+        "text": "All right.",
+        "start": 19.893,
+        "end": 20.273
+      },
+      {
+        "text": "Seven.",
+        "start": 25.779,
+        "end": 26.46
+      },
+      {
+        "text": " What if I made that, what is that 9 plus, okay, so I'll make that an x, and that would equal 12 equals 9 plus 3.",
+        "start": 29.174,
+        "end": 37.794
+      },
+      {
+        "text": "Got that one pretty quick.",
+        "start": 50.564,
+        "end": 52.228
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. Seven equals nine plus three. But I can't, can I take out like, oh no, that wouldn't work anyways. That would make it six. Silly. All right. Seven. What if I made that, what is that 9 plus, okay, so I'll make that an x, and that would equal 12 equals 9 plus 3. Got that one pretty quick."
+  }
+}

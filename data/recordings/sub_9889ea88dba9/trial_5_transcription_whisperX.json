@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_9889ea88dba9/trial_5.wav",
+  "with_timestamps": {
+    "text": " So we'll just do the same thing with this one.We'll keep it all the same and only change the plus to equals.",
+    "segments": [
+      {
+        "text": " So we'll just do the same thing with this one.",
+        "start": 1.803,
+        "end": 4.354
+      },
+      {
+        "text": "We'll keep it all the same and only change the plus to equals.",
+        "start": 4.575,
+        "end": 11.627
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So we'll just do the same thing with this one. We'll keep it all the same and only change the plus to equals."
+  }
+}

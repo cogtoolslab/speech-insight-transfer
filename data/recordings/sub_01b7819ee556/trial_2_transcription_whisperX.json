@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_01b7819ee556/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so puzzle two of five, you can only move one matchstick to make this equation correct.What is the final correct equation?Right here on the left side of the equal sign, I see a six.So on the right side of the equal sign is a four minus two. Four minus two does not equal six.So we need to get something that's going to add up to six.And we can't add no sticks and can't remove anything, but we can move sticks.So This is a tricky one.This is really, really tricky. Because I know four plus two would be a six But we can't add a stick So but we can do a stick so what I'm gonna do is say 6 equals 7 minus 1 Well, that didn't work so now I'm gonna try Six Equals I Oh man, this is really difficult.Oh. This is really difficult",
+    "segments": [
+      {
+        "text": " All right, so puzzle two of five, you can only move one matchstick to make this equation correct.",
+        "start": 2.512,
+        "end": 9.001
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 9.742,
+        "end": 12.266
+      },
+      {
+        "text": "Right here on the left side of the equal sign, I see a six.",
+        "start": 14.549,
+        "end": 22.941
+      },
+      {
+        "text": "So on the right side of the equal sign is a four minus two.",
+        "start": 23.782,
+        "end": 29.43
+      },
+      {
+        "text": " Four minus two does not equal six.",
+        "start": 30.575,
+        "end": 36.483
+      },
+      {
+        "text": "So we need to get something that's going to add up to six.",
+        "start": 36.503,
+        "end": 48.058
+      },
+      {
+        "text": "And we can't add no sticks and can't remove anything, but we can move sticks.",
+        "start": 48.078,
+        "end": 54.126
+      },
+      {
+        "text": "So",
+        "start": 58.512,
+        "end": 59.333
+      },
+      {
+        "text": " This is a tricky one.",
+        "start": 61.135,
+        "end": 78.081
+      },
+      {
+        "text": "This is really, really tricky.",
+        "start": 86.715,
+        "end": 88.898
+      },
+      {
+        "text": " Because I know four plus two would be a six But we can't add a stick So",
+        "start": 90.278,
+        "end": 118.328
+      },
+      {
+        "text": " but we can do a stick so what I'm gonna do is say 6 equals 7 minus 1",
+        "start": 126.998,
+        "end": 152.145
+      },
+      {
+        "text": " Well, that didn't work so now I'm gonna try Six Equals I",
+        "start": 161.288,
+        "end": 185.052
+      },
+      {
+        "text": " Oh man, this is really difficult.",
+        "start": 199.763,
+        "end": 218.203
+      },
+      {
+        "text": "Oh.",
+        "start": 218.303,
+        "end": 218.363
+      },
+      {
+        "text": " This is really difficult",
+        "start": 228.687,
+        "end": 236.79
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so puzzle two of five, you can only move one matchstick to make this equation correct. What is the final correct equation? Right here on the left side of the equal sign, I see a six. So on the right side of the equal sign is a four minus two. Four minus two does not equal six. So we need to get something that's going to add up to six. And we can't add no sticks and can't remove anything, but we can move sticks. So This is a tricky one. This is really, really tricky. Because I know four plus two would be a six But we can't add a stick So but we can do a stick so what I'm gonna do is say 6 equals 7 minus 1 Well, that didn't work so now I'm gonna try Six Equals I Oh man, this is really difficult. Oh. This is really difficult"
+  }
+}

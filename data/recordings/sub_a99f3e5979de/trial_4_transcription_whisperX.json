@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_a99f3e5979de/trial_4.wav",
+  "with_timestamps": {
+    "text": " That last one was tough.What is this, three?Am I able, okay. Trying to think.Let me think.Could I do... I don't know if I could change that.I think I can.I'm just changing the orientation, right?Could I do three, like III equals VI minus III?Because that would be three equals six minus three, which is three equals three.Let's see if that works. v i minus i i.",
+    "segments": [
+      {
+        "text": " That last one was tough.",
+        "start": 3.878,
+        "end": 4.859
+      },
+      {
+        "text": "What is this, three?",
+        "start": 11.228,
+        "end": 12.49
+      },
+      {
+        "text": "Am I able, okay.",
+        "start": 31.635,
+        "end": 32.957
+      },
+      {
+        "text": " Trying to think.",
+        "start": 35.468,
+        "end": 37.03
+      },
+      {
+        "text": "Let me think.",
+        "start": 37.771,
+        "end": 38.332
+      },
+      {
+        "text": "Could I do... I don't know if I could change that.",
+        "start": 39.713,
+        "end": 44.519
+      },
+      {
+        "text": "I think I can.",
+        "start": 44.8,
+        "end": 45.5
+      },
+      {
+        "text": "I'm just changing the orientation, right?",
+        "start": 45.52,
+        "end": 47.082
+      },
+      {
+        "text": "Could I do three, like III equals VI minus III?",
+        "start": 48.024,
+        "end": 54.932
+      },
+      {
+        "text": "Because that would be three equals six minus three, which is three equals three.",
+        "start": 54.972,
+        "end": 62.361
+      },
+      {
+        "text": "Let's see if that works.",
+        "start": 63.322,
+        "end": 64.564
+      },
+      {
+        "text": " v i minus i i.",
+        "start": 66.485,
+        "end": 70.099
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " That last one was tough. What is this, three? Am I able, okay. Trying to think. Let me think. Could I do... I don't know if I could change that. I think I can. I'm just changing the orientation, right? Could I do three, like III equals VI minus III? Because that would be three equals six minus three, which is three equals three. Let's see if that works. v i minus i i."
+  }
+}

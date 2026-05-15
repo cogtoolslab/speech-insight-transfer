@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_7b1a31a79a42/trial_1.wav",
+  "with_timestamps": {
+    "text": " you can move only one matchstick to make this equation correct so x is 9 x is 10 so this is 13 13 is equals to 5 6 7 minus 5 6 so 13 is equals to 7 minus 6 so 13 is equals to 1 okay 13 is equal to 1 7 plus 6 is 13 so where do I get I can't get an extra matchstick.Okay.So, what to do, what to do.Twelve.Eight.Seven minus six. 7 plus 6 but then now this is going to be 12 10 plus 5, 12 ah yes so I'm going to move one matchstick from 12 Oh no That was not the brilliant idea I thought it was How do I make 12?No, how do I make 13?Equal to How do we make 13 equal to 1? I don't know, I don't know, I'm so lost Lunchtime is running out 8 minus 6 is 2 minus 6",
+    "segments": [
+      {
+        "text": " you can move only one matchstick to make this equation correct so x is 9",
+        "start": 4.385,
+        "end": 12.572
+      },
+      {
+        "text": " x is 10 so this is 13 13 is equals to 5 6 7 minus 5 6 so 13 is equals to 7 minus 6 so 13 is equals to 1 okay",
+        "start": 29.562,
+        "end": 56.818
+      },
+      {
+        "text": " 13 is equal to 1 7 plus 6 is 13 so where do I get",
+        "start": 58.807,
+        "end": 84.257
+      },
+      {
+        "text": " I can't get an extra matchstick.",
+        "start": 85.705,
+        "end": 88.589
+      },
+      {
+        "text": "Okay.",
+        "start": 88.609,
+        "end": 89.05
+      },
+      {
+        "text": "So, what to do, what to do.",
+        "start": 94.377,
+        "end": 97.161
+      },
+      {
+        "text": "Twelve.",
+        "start": 98.923,
+        "end": 108.677
+      },
+      {
+        "text": "Eight.",
+        "start": 111.701,
+        "end": 112.102
+      },
+      {
+        "text": "Seven minus six.",
+        "start": 112.943,
+        "end": 114.345
+      },
+      {
+        "text": " 7 plus 6 but then now this is going to be 12 10 plus 5, 12 ah yes so",
+        "start": 118.797,
+        "end": 144.855
+      },
+      {
+        "text": " I'm going to move one matchstick from 12 Oh no That was not the brilliant idea I thought it was How do I make 12?",
+        "start": 146.742,
+        "end": 169.506
+      },
+      {
+        "text": "No, how do I make 13?",
+        "start": 171.948,
+        "end": 173.23
+      },
+      {
+        "text": "Equal to",
+        "start": 174.451,
+        "end": 175.332
+      },
+      {
+        "text": " How do we make 13 equal to 1?",
+        "start": 177.488,
+        "end": 194.198
+      },
+      {
+        "text": " I don't know, I don't know, I'm so lost Lunchtime is running out 8 minus 6 is 2 minus 6",
+        "start": 219.338,
+        "end": 236.976
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " you can move only one matchstick to make this equation correct so x is 9 x is 10 so this is 13 13 is equals to 5 6 7 minus 5 6 so 13 is equals to 7 minus 6 so 13 is equals to 1 okay 13 is equal to 1 7 plus 6 is 13 so where do I get I can't get an extra matchstick. Okay. So, what to do, what to do. Twelve. Eight. Seven minus six. 7 plus 6 but then now this is going to be 12 10 plus 5, 12 ah yes so I'm going to move one matchstick from 12 Oh no That was not the brilliant idea I thought it was How do I make 12? No, how do I make 13? Equal to How do we make 13 equal to 1? I don't know, I don't know, I'm so lost Lunchtime is running out 8 minus 6 is 2 minus 6"
+  }
+}

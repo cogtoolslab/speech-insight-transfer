@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_97a093227203/trial_5.wav",
+  "with_timestamps": {
+    "text": " OK, now this equation says 7 equals, let's see, 12 plus 6, which obviously is not correct.So let's see.If it was 12 minus 6, it would be 6.So that's not right. Yeah, 12 minus 6.Okay, what if I took one of the matchsticks away from the 12?That would be 11.Oh no, 11 plus 6.That's still not right.Hmm.Okay.What if it was?No, 2 plus 6 equals 8.That's not right.Let's see, 11 plus 6. would be 17.No, that's not right.OK, let's see.12, 12 minus 6 would be 6.That's not right.What about 12, 12, 12, 12 minus 7 is 5.That's no good.What if it was, I don't know, what if it was 13 minus 6 equals 7.So I'm going to take one of the matchsticks from the plus sign and make the 12 a 13.So let's see.7 equals x 1, 2, 3 minus 6.There we go.",
+    "segments": [
+      {
+        "text": " OK, now this equation says 7 equals, let's see, 12 plus 6, which obviously is not correct.",
+        "start": 1.55,
+        "end": 16.585
+      },
+      {
+        "text": "So let's see.",
+        "start": 17.425,
+        "end": 18.306
+      },
+      {
+        "text": "If it was 12 minus 6, it would be 6.",
+        "start": 18.366,
+        "end": 25.974
+      },
+      {
+        "text": "So that's not right.",
+        "start": 26.014,
+        "end": 27.355
+      },
+      {
+        "text": " Yeah, 12 minus 6.",
+        "start": 29.613,
+        "end": 31.936
+      },
+      {
+        "text": "Okay, what if I took one of the matchsticks away from the 12?",
+        "start": 32.056,
+        "end": 35.181
+      },
+      {
+        "text": "That would be 11.",
+        "start": 35.241,
+        "end": 36.242
+      },
+      {
+        "text": "Oh no, 11 plus 6.",
+        "start": 36.262,
+        "end": 39.186
+      },
+      {
+        "text": "That's still not right.",
+        "start": 39.266,
+        "end": 40.368
+      },
+      {
+        "text": "Hmm.",
+        "start": 43.592,
+        "end": 44.053
+      },
+      {
+        "text": "Okay.",
+        "start": 44.454,
+        "end": 46.316
+      },
+      {
+        "text": "What if it was?",
+        "start": 46.336,
+        "end": 47.378
+      },
+      {
+        "text": "No, 2 plus 6 equals 8.",
+        "start": 48.199,
+        "end": 49.761
+      },
+      {
+        "text": "That's not right.",
+        "start": 50.602,
+        "end": 51.684
+      },
+      {
+        "text": "Let's see, 11 plus 6.",
+        "start": 53.446,
+        "end": 57.612
+      },
+      {
+        "text": " would be 17.",
+        "start": 59.245,
+        "end": 60.487
+      },
+      {
+        "text": "No, that's not right.",
+        "start": 60.507,
+        "end": 62.009
+      },
+      {
+        "text": "OK, let's see.",
+        "start": 62.189,
+        "end": 63.171
+      },
+      {
+        "text": "12, 12 minus 6 would be 6.",
+        "start": 63.271,
+        "end": 69.02
+      },
+      {
+        "text": "That's not right.",
+        "start": 69.08,
+        "end": 69.801
+      },
+      {
+        "text": "What about 12, 12, 12, 12 minus 7 is 5.",
+        "start": 70.221,
+        "end": 80.997
+      },
+      {
+        "text": "That's no good.",
+        "start": 81.058,
+        "end": 82.339
+      },
+      {
+        "text": "What if it was, I don't know, what if it was",
+        "start": 84.683,
+        "end": 88.729
+      },
+      {
+        "text": " 13 minus 6 equals 7.",
+        "start": 89.789,
+        "end": 92.56
+      },
+      {
+        "text": "So I'm going to take one of the matchsticks from the plus sign and make the 12 a 13.",
+        "start": 92.74,
+        "end": 97.017
+      },
+      {
+        "text": "So let's see.",
+        "start": 98.041,
+        "end": 99.406
+      },
+      {
+        "text": "7 equals x 1, 2, 3 minus 6.",
+        "start": 99.426,
+        "end": 108.501
+      },
+      {
+        "text": "There we go.",
+        "start": 108.802,
+        "end": 109.063
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, now this equation says 7 equals, let's see, 12 plus 6, which obviously is not correct. So let's see. If it was 12 minus 6, it would be 6. So that's not right. Yeah, 12 minus 6. Okay, what if I took one of the matchsticks away from the 12? That would be 11. Oh no, 11 plus 6. That's still not right. Hmm. Okay. What if it was? No, 2 plus 6 equals 8. That's not right. Let's see, 11 plus 6. would be 17. No, that's not right. OK, let's see. 12, 12 minus 6 would be 6. That's not right. What about 12, 12, 12, 12 minus 7 is 5. That's no good. What if it was, I don't know, what if it was 13 minus 6 equals 7. So I'm going to take one of the matchsticks from the plus sign and make the 12 a 13. So let's see. 7 equals x 1, 2, 3 minus 6. There we go."
+  }
+}

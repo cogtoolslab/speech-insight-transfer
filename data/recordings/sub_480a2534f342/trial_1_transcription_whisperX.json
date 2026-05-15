@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_480a2534f342/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so the matchstick says 6 equals 6 plus 1, so that would be 6 equals 7, but we are gonna need it to say... minus 1... or... hmm... 6 plus 1.If we did 6 minus 1 it would be 5, so that still would work.If we did 7, that would equal 6 minus 1.We could move. the six to be four plus one won't work okay six plus one is seven but this is giving six So 5.7.I can move the 1 to be a 7 plus 1, but that would be 8.7 minus 2 works, but I can't 7 minus 2.Oh no, that makes 6.That would make 5, not 6.Let's see.Hmm. 6 equals 6 plus 1 equals 8i plus 1 okay if i needed to move only one matchstick Hmm.",
+    "segments": [
+      {
+        "text": " Okay, so the matchstick says 6 equals 6 plus 1, so that would be 6 equals 7, but we are gonna need it to say... minus 1... or... hmm...",
+        "start": 1.229,
+        "end": 28.789
+      },
+      {
+        "text": " 6 plus 1.",
+        "start": 32.296,
+        "end": 33.719
+      },
+      {
+        "text": "If we did 6 minus 1 it would be 5, so that still would work.",
+        "start": 34.2,
+        "end": 37.066
+      },
+      {
+        "text": "If we did 7, that would equal 6 minus 1.",
+        "start": 38.69,
+        "end": 48.089
+      },
+      {
+        "text": "We could move.",
+        "start": 51.036,
+        "end": 52.178
+      },
+      {
+        "text": " the six to be four plus one won't work okay six plus one is seven but this is giving six",
+        "start": 59.583,
+        "end": 84.358
+      },
+      {
+        "text": " So 5.",
+        "start": 88.76,
+        "end": 89.861
+      },
+      {
+        "text": "7.",
+        "start": 89.881,
+        "end": 102.757
+      },
+      {
+        "text": "I can move the 1 to be a 7 plus 1, but that would be 8.",
+        "start": 102.917,
+        "end": 107.823
+      },
+      {
+        "text": "7 minus 2 works, but I can't",
+        "start": 107.844,
+        "end": 113.13
+      },
+      {
+        "text": " 7 minus 2.",
+        "start": 114.882,
+        "end": 116.444
+      },
+      {
+        "text": "Oh no, that makes 6.",
+        "start": 116.885,
+        "end": 117.746
+      },
+      {
+        "text": "That would make 5, not 6.",
+        "start": 117.786,
+        "end": 119.348
+      },
+      {
+        "text": "Let's see.",
+        "start": 127.44,
+        "end": 128.281
+      },
+      {
+        "text": "Hmm.",
+        "start": 141.4,
+        "end": 141.48
+      },
+      {
+        "text": " 6 equals 6 plus 1 equals 8i plus 1",
+        "start": 145.358,
+        "end": 174.218
+      },
+      {
+        "text": " okay if i needed to move only one matchstick",
+        "start": 180.965,
+        "end": 200.188
+      },
+      {
+        "text": " Hmm.",
+        "start": 213.55,
+        "end": 221.822
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so the matchstick says 6 equals 6 plus 1, so that would be 6 equals 7, but we are gonna need it to say... minus 1... or... hmm... 6 plus 1. If we did 6 minus 1 it would be 5, so that still would work. If we did 7, that would equal 6 minus 1. We could move. the six to be four plus one won't work okay six plus one is seven but this is giving six So 5. 7. I can move the 1 to be a 7 plus 1, but that would be 8. 7 minus 2 works, but I can't 7 minus 2. Oh no, that makes 6. That would make 5, not 6. Let's see. Hmm. 6 equals 6 plus 1 equals 8i plus 1 okay if i needed to move only one matchstick Hmm."
+  }
+}

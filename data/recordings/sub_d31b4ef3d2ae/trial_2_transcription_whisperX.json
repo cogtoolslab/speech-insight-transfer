@@ -1,0 +1,226 @@
+{
+  "file": "data/recordings/sub_d31b4ef3d2ae/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay.You can only move one matchstick.You can only move one matchstick to make this equation correct.What is the final equation?This is a tough one. How about 1, 1, 1, 1 equals 1, 1, 1 minus 1, 1, 1.Nope.OK, so how about 1, 1 equals 1, 1, 1, 1.That doesn't make sense.Plus 1, 1, 1.That doesn't make sense.All right, so I can only remove that.So 1, 2, 3, 4 equals. 1, 2 plus 1, 2, 3.How about 1, 1, 1 minus or equals 1, 1, 1 minus 1, 1, 1, 1.How about 1, 2, 3, 4 equals 1, 2, 3 minus 1, 2.That doesn't make sense either.Hang on.OK, so how about 1, 1, 1, 1 equals 1, 2, 3, 4 minus 1, 2, 3.Now I just did that.So how about 1, 2, 3, 4 equals 1, 1, 1 plus 1, 2.Now Jeepers, it's a tough one. Oh, I don't know.How about 1, 2, 3, 4 minus 1, 2, 3 plus 1, 2, 3.Nope.Man, I swear I've tried every combination here.Oh, OK.1, 2, 3 minus 1, 2, 3, 4 plus 1, 2, 3. I'm going to do this.One, two, three.Minus one, two, three.Minus one, two, three, four.I can only move one matchstick. So I believe I've tried it.I'm missing a combination, obviously.That would be four.Now I've already tried that.Two equals four.Now how about three minus four plus three?Dang. Really?",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.537,
+        "end": 0.897
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 0.917,
+        "end": 3.58
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 3.64,
+        "end": 6.042
+      },
+      {
+        "text": "What is the final equation?",
+        "start": 6.603,
+        "end": 8.064
+      },
+      {
+        "text": "This is a tough one.",
+        "start": 26.281,
+        "end": 27.422
+      },
+      {
+        "text": " How about 1, 1, 1, 1 equals 1, 1, 1 minus 1, 1, 1.",
+        "start": 29.056,
+        "end": 39.506
+      },
+      {
+        "text": "Nope.",
+        "start": 39.526,
+        "end": 41.368
+      },
+      {
+        "text": "OK, so how about 1, 1 equals 1, 1, 1, 1.",
+        "start": 41.388,
+        "end": 47.314
+      },
+      {
+        "text": "That doesn't make sense.",
+        "start": 47.654,
+        "end": 48.575
+      },
+      {
+        "text": "Plus 1, 1, 1.",
+        "start": 49.156,
+        "end": 50.757
+      },
+      {
+        "text": "That doesn't make sense.",
+        "start": 50.857,
+        "end": 51.698
+      },
+      {
+        "text": "All right, so I can only remove that.",
+        "start": 52.459,
+        "end": 53.72
+      },
+      {
+        "text": "So 1, 2, 3, 4 equals.",
+        "start": 53.78,
+        "end": 58.725
+      },
+      {
+        "text": " 1, 2 plus 1, 2, 3.",
+        "start": 59.752,
+        "end": 63.217
+      },
+      {
+        "text": "How about 1, 1, 1 minus or equals 1, 1, 1 minus",
+        "start": 66.161,
+        "end": 87.852
+      },
+      {
+        "text": " 1, 1, 1, 1.",
+        "start": 88.912,
+        "end": 89.713
+      },
+      {
+        "text": "How about 1, 2, 3, 4 equals 1, 2, 3 minus 1, 2.",
+        "start": 90.494,
+        "end": 105.551
+      },
+      {
+        "text": "That doesn't make sense either.",
+        "start": 105.811,
+        "end": 109.315
+      },
+      {
+        "text": "Hang on.",
+        "start": 109.335,
+        "end": 110.957
+      },
+      {
+        "text": "OK, so how about",
+        "start": 110.977,
+        "end": 112.118
+      },
+      {
+        "text": " 1, 1, 1, 1 equals 1, 2, 3, 4 minus 1, 2, 3.",
+        "start": 114.055,
+        "end": 123.567
+      },
+      {
+        "text": "Now I just did that.",
+        "start": 123.587,
+        "end": 127.191
+      },
+      {
+        "text": "So how about 1, 2, 3, 4 equals 1, 1, 1 plus 1, 2.",
+        "start": 127.211,
+        "end": 135.442
+      },
+      {
+        "text": "Now Jeepers, it's a tough one.",
+        "start": 137.364,
+        "end": 142.29
+      },
+      {
+        "text": " Oh, I don't know.",
+        "start": 145.038,
+        "end": 145.619
+      },
+      {
+        "text": "How about 1, 2, 3, 4 minus 1, 2, 3 plus 1, 2, 3.",
+        "start": 145.659,
+        "end": 152.707
+      },
+      {
+        "text": "Nope.",
+        "start": 154.609,
+        "end": 155.47
+      },
+      {
+        "text": "Man, I swear I've tried every combination here.",
+        "start": 155.49,
+        "end": 157.052
+      },
+      {
+        "text": "Oh, OK.",
+        "start": 157.112,
+        "end": 159.154
+      },
+      {
+        "text": "1, 2, 3 minus 1, 2, 3, 4 plus 1, 2, 3.",
+        "start": 159.174,
+        "end": 173.931
+      },
+      {
+        "text": " I'm going to do this.",
+        "start": 177.623,
+        "end": 179.485
+      },
+      {
+        "text": "One, two, three.",
+        "start": 179.605,
+        "end": 180.346
+      },
+      {
+        "text": "Minus one, two, three.",
+        "start": 180.406,
+        "end": 183.709
+      },
+      {
+        "text": "Minus one, two, three, four.",
+        "start": 183.769,
+        "end": 189.195
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 189.215,
+        "end": 204.39
+      },
+      {
+        "text": " So I believe I've tried it.",
+        "start": 206.176,
+        "end": 209.22
+      },
+      {
+        "text": "I'm missing a combination, obviously.",
+        "start": 210.021,
+        "end": 211.703
+      },
+      {
+        "text": "That would be four.",
+        "start": 211.723,
+        "end": 213.885
+      },
+      {
+        "text": "Now I've already tried that.",
+        "start": 214.366,
+        "end": 215.567
+      },
+      {
+        "text": "Two equals four.",
+        "start": 215.607,
+        "end": 218.291
+      },
+      {
+        "text": "Now how about three minus four plus three?",
+        "start": 218.431,
+        "end": 233.049
+      },
+      {
+        "text": "Dang.",
+        "start": 233.069,
+        "end": 235.812
+      },
+      {
+        "text": " Really?",
+        "start": 237.563,
+        "end": 238.007
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. You can only move one matchstick. You can only move one matchstick to make this equation correct. What is the final equation? This is a tough one. How about 1, 1, 1, 1 equals 1, 1, 1 minus 1, 1, 1. Nope. OK, so how about 1, 1 equals 1, 1, 1, 1. That doesn't make sense. Plus 1, 1, 1. That doesn't make sense. All right, so I can only remove that. So 1, 2, 3, 4 equals. 1, 2 plus 1, 2, 3. How about 1, 1, 1 minus or equals 1, 1, 1 minus 1, 1, 1, 1. How about 1, 2, 3, 4 equals 1, 2, 3 minus 1, 2. That doesn't make sense either. Hang on. OK, so how about 1, 1, 1, 1 equals 1, 2, 3, 4 minus 1, 2, 3. Now I just did that. So how about 1, 2, 3, 4 equals 1, 1, 1 plus 1, 2. Now Jeepers, it's a tough one. Oh, I don't know. How about 1, 2, 3, 4 minus 1, 2, 3 plus 1, 2, 3. Nope. Man, I swear I've tried every combination here. Oh, OK. 1, 2, 3 minus 1, 2, 3, 4 plus 1, 2, 3. I'm going to do this. One, two, three. Minus one, two, three. Minus one, two, three, four. I can only move one matchstick. So I believe I've tried it. I'm missing a combination, obviously. That would be four. Now I've already tried that. Two equals four. Now how about three minus four plus three? Dang. Really?"
+  }
+}

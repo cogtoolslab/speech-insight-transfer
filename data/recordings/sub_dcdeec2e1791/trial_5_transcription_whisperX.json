@@ -1,0 +1,16 @@
+{
+  "file": "data/recordings/sub_dcdeec2e1791/trial_5.wav",
+  "with_timestamps": {
+    "text": " 7 minus 3 equals 4, so it's exactly the same thing.",
+    "segments": [
+      {
+        "text": " 7 minus 3 equals 4, so it's exactly the same thing.",
+        "start": 0.031,
+        "end": 3.409
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 minus 3 equals 4, so it's exactly the same thing."
+  }
+}

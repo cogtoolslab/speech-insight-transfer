@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_eb19178b58f7/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, that was sucky.So I have 8 equals 2 plus 4.Okay.Or 8 equals, oh, yeah, yeah.8 equals 2 plus 4.So that's 6.But I need it to be equal to 8 or 7.So if I did 2. So that would change it into a six.Oh, that's it.Okay.Got it.Equals.Plus V1.",
+    "segments": [
+      {
+        "text": " All right, that was sucky.",
+        "start": 1.837,
+        "end": 3.279
+      },
+      {
+        "text": "So I have 8 equals 2 plus 4.",
+        "start": 4.861,
+        "end": 10.189
+      },
+      {
+        "text": "Okay.",
+        "start": 12.232,
+        "end": 12.873
+      },
+      {
+        "text": "Or 8 equals, oh, yeah, yeah.",
+        "start": 14.555,
+        "end": 16.498
+      },
+      {
+        "text": "8 equals 2 plus 4.",
+        "start": 17.259,
+        "end": 18.561
+      },
+      {
+        "text": "So that's 6.",
+        "start": 18.881,
+        "end": 19.743
+      },
+      {
+        "text": "But I need it to be equal to 8 or 7.",
+        "start": 20.644,
+        "end": 25.17
+      },
+      {
+        "text": "So if I did 2.",
+        "start": 26.272,
+        "end": 30.578
+      },
+      {
+        "text": " So that would change it into a six.",
+        "start": 32.465,
+        "end": 34.252
+      },
+      {
+        "text": "Oh, that's it.",
+        "start": 34.613,
+        "end": 35.657
+      },
+      {
+        "text": "Okay.",
+        "start": 35.677,
+        "end": 35.979
+      },
+      {
+        "text": "Got it.",
+        "start": 35.999,
+        "end": 38.026
+      },
+      {
+        "text": "Equals.",
+        "start": 38.046,
+        "end": 38.408
+      },
+      {
+        "text": "Plus V1.",
+        "start": 43.829,
+        "end": 45.495
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, that was sucky. So I have 8 equals 2 plus 4. Okay. Or 8 equals, oh, yeah, yeah. 8 equals 2 plus 4. So that's 6. But I need it to be equal to 8 or 7. So if I did 2. So that would change it into a six. Oh, that's it. Okay. Got it. Equals. Plus V1."
+  }
+}

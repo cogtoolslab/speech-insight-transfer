@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_5e8f2feeceb3/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, let's see, that's five and three is eight.So in order to make this right, let me press on the V. Two, three equals one, two. And I switched the one match sticks to after the V. And that makes 6 plus 2 equals 8. No?I made a wrong thing.I made a mistake. Okay, I switched the four to a six by moving the one matchstick around the V. And that should do it.",
+    "segments": [
+      {
+        "text": " Okay, let's see, that's five and three is eight.",
+        "start": 29.107,
+        "end": 34.612
+      },
+      {
+        "text": "So in order to make this right, let me press on the V. Two, three equals one, two.",
+        "start": 38.576,
+        "end": 57.713
+      },
+      {
+        "text": " And I switched the one match sticks to after the V. And that makes 6 plus 2 equals 8.",
+        "start": 58.52,
+        "end": 68.344
+      },
+      {
+        "text": " No?",
+        "start": 88.844,
+        "end": 89.285
+      },
+      {
+        "text": "I made a wrong thing.",
+        "start": 89.305,
+        "end": 90.307
+      },
+      {
+        "text": "I made a mistake.",
+        "start": 106.306,
+        "end": 107.308
+      },
+      {
+        "text": " Okay, I switched the four to a six by moving the one matchstick around the V. And that should do it.",
+        "start": 132.449,
+        "end": 159.807
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let's see, that's five and three is eight. So in order to make this right, let me press on the V. Two, three equals one, two. And I switched the one match sticks to after the V. And that makes 6 plus 2 equals 8. No? I made a wrong thing. I made a mistake. Okay, I switched the four to a six by moving the one matchstick around the V. And that should do it."
+  }
+}

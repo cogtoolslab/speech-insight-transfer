@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_5ddddc986d75/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, so this one is 13 equals 7 minus 6.Okay, so we could make it 12 equals 7 plus 6, which is not correct. We could make it 12 minus 7 equals 6.That still would not be correct.13 minus 6 equals 7.Yeah, that would be it.So it's 13 minus 7 equals 6.",
+    "segments": [
+      {
+        "text": " Okay, so this one is 13 equals 7 minus 6.",
+        "start": 1.297,
+        "end": 11.572
+      },
+      {
+        "text": "Okay, so we could make it 12 equals 7 plus 6, which is not correct.",
+        "start": 15.117,
+        "end": 27.034
+      },
+      {
+        "text": " We could make it 12 minus 7 equals 6.",
+        "start": 45.155,
+        "end": 59.073
+      },
+      {
+        "text": "That still would not be correct.",
+        "start": 59.213,
+        "end": 60.655
+      },
+      {
+        "text": "13 minus 6 equals 7.",
+        "start": 63.9,
+        "end": 65.722
+      },
+      {
+        "text": "Yeah, that would be it.",
+        "start": 65.982,
+        "end": 66.743
+      },
+      {
+        "text": "So it's 13 minus",
+        "start": 69.126,
+        "end": 74.233
+      },
+      {
+        "text": " 7 equals 6.",
+        "start": 91.088,
+        "end": 97.993
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this one is 13 equals 7 minus 6. Okay, so we could make it 12 equals 7 plus 6, which is not correct. We could make it 12 minus 7 equals 6. That still would not be correct. 13 minus 6 equals 7. Yeah, that would be it. So it's 13 minus 7 equals 6."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_cf97da5a22d4/trial_1.wav",
+  "with_timestamps": {
+    "text": " I'm a little confused on this first one.Um, let's see.I think it's going to be I X minus V equals.Hmm. That's not going to be right.Let's back that out.V, no.IXVI, no.Oh, what about XI equals, no that's wrong too how about v i equals x minus and i want to change I can't change that.That's wrong.I knew that was wrong.Can't be.I can't reuse that.I can only move one matchstick.So if I do IV equals X minus Oh, can't be a plus sign.Okay, that's got to be wrong.Let's try this again.How about... V equals... No, I'm going to erase that.X equals... V plus V minus I. Let's try that.Well, it was 10 equals 10.Let's see.x minus i. No, can't be minus i. I x equals. Nope, I don't want that.x i equals v i plus v. That's incorrect, too.I have to remove one matchstick.i x? equals b plus ib.That is incorrect.I don't know which one to move.Maybe it's just the minus.No, maybe it's the plus.",
+    "segments": [
+      {
+        "text": " I'm a little confused on this first one.",
+        "start": 1.229,
+        "end": 4.592
+      },
+      {
+        "text": "Um, let's see.",
+        "start": 4.612,
+        "end": 8.576
+      },
+      {
+        "text": "I think it's going to be I X minus V equals.",
+        "start": 8.596,
+        "end": 25.313
+      },
+      {
+        "text": "Hmm.",
+        "start": 29.097,
+        "end": 29.177
+      },
+      {
+        "text": " That's not going to be right.",
+        "start": 30.727,
+        "end": 32.129
+      },
+      {
+        "text": "Let's back that out.",
+        "start": 32.289,
+        "end": 33.35
+      },
+      {
+        "text": "V, no.",
+        "start": 40.699,
+        "end": 41.48
+      },
+      {
+        "text": "IXVI, no.",
+        "start": 44.384,
+        "end": 46.266
+      },
+      {
+        "text": "Oh, what about XI equals,",
+        "start": 46.306,
+        "end": 57.46
+      },
+      {
+        "text": " no that's wrong too how about v i equals x minus and i want to change",
+        "start": 60.578,
+        "end": 89.742
+      },
+      {
+        "text": " I can't change that.",
+        "start": 92.017,
+        "end": 93.379
+      },
+      {
+        "text": "That's wrong.",
+        "start": 98.044,
+        "end": 98.745
+      },
+      {
+        "text": "I knew that was wrong.",
+        "start": 98.845,
+        "end": 99.766
+      },
+      {
+        "text": "Can't be.",
+        "start": 99.826,
+        "end": 100.687
+      },
+      {
+        "text": "I can't reuse that.",
+        "start": 100.707,
+        "end": 102.469
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 102.87,
+        "end": 110.379
+      },
+      {
+        "text": "So if I do IV equals X minus",
+        "start": 110.399,
+        "end": 120.15
+      },
+      {
+        "text": " Oh, can't be a plus sign.",
+        "start": 122.56,
+        "end": 124.102
+      },
+      {
+        "text": "Okay, that's got to be wrong.",
+        "start": 124.182,
+        "end": 126.304
+      },
+      {
+        "text": "Let's try this again.",
+        "start": 126.324,
+        "end": 127.345
+      },
+      {
+        "text": "How about... V equals... No, I'm going to erase that.",
+        "start": 129.127,
+        "end": 139.758
+      },
+      {
+        "text": "X equals... V plus V minus I.",
+        "start": 140.239,
+        "end": 150.93
+      },
+      {
+        "text": " Let's try that.",
+        "start": 151.805,
+        "end": 152.586
+      },
+      {
+        "text": "Well, it was 10 equals 10.",
+        "start": 153.668,
+        "end": 157.474
+      },
+      {
+        "text": "Let's see.",
+        "start": 157.514,
+        "end": 166.91
+      },
+      {
+        "text": "x minus i. No, can't be minus i. I x equals.",
+        "start": 166.93,
+        "end": 177.087
+      },
+      {
+        "text": " Nope, I don't want that.",
+        "start": 182.433,
+        "end": 183.654
+      },
+      {
+        "text": "x i equals v i plus v. That's incorrect, too.",
+        "start": 184.616,
+        "end": 198.473
+      },
+      {
+        "text": "I have to remove one matchstick.",
+        "start": 198.493,
+        "end": 209.566
+      },
+      {
+        "text": "i x?",
+        "start": 210.267,
+        "end": 210.347
+      },
+      {
+        "text": " equals b plus ib.",
+        "start": 211.998,
+        "end": 223.331
+      },
+      {
+        "text": "That is incorrect.",
+        "start": 225.193,
+        "end": 226.494
+      },
+      {
+        "text": "I don't know which one to move.",
+        "start": 227.916,
+        "end": 229.357
+      },
+      {
+        "text": "Maybe it's just the minus.",
+        "start": 232.141,
+        "end": 237.246
+      },
+      {
+        "text": "No, maybe it's the plus.",
+        "start": 237.386,
+        "end": 238.748
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm a little confused on this first one. Um, let's see. I think it's going to be I X minus V equals. Hmm. That's not going to be right. Let's back that out. V, no. IXVI, no. Oh, what about XI equals, no that's wrong too how about v i equals x minus and i want to change I can't change that. That's wrong. I knew that was wrong. Can't be. I can't reuse that. I can only move one matchstick. So if I do IV equals X minus Oh, can't be a plus sign. Okay, that's got to be wrong. Let's try this again. How about... V equals... No, I'm going to erase that. X equals... V plus V minus I. Let's try that. Well, it was 10 equals 10. Let's see. x minus i. No, can't be minus i. I x equals. Nope, I don't want that. x i equals v i plus v. That's incorrect, too. I have to remove one matchstick. i x? equals b plus ib. That is incorrect. I don't know which one to move. Maybe it's just the minus. No, maybe it's the plus."
+  }
+}

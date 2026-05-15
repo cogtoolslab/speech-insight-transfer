@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_cc38e1eafa3b/trial_3.wav",
+  "with_timestamps": {
+    "text": " um 2 equals 11 minus 7 that is wrong 11 minus 7 is 4 so um let's see here 2 equals uh 10 minus 8 so let's do 2 equals 10 minus 8",
+    "segments": [
+      {
+        "text": " um 2 equals 11 minus 7 that is wrong 11 minus 7 is 4 so um let's see here 2 equals uh",
+        "start": 2.461,
+        "end": 32.248
+      },
+      {
+        "text": " 10 minus 8 so let's do 2 equals 10 minus 8",
+        "start": 34.439,
+        "end": 48.195
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " um 2 equals 11 minus 7 that is wrong 11 minus 7 is 4 so um let's see here 2 equals uh 10 minus 8 so let's do 2 equals 10 minus 8"
+  }
+}

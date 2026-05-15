@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_d31b4ef3d2ae/trial_3.wav",
+  "with_timestamps": {
+    "text": " OK, 4 equals 4 minus 2 is incorrect.How about 4 plus 4 minus 1, or 11?No, that would be, how about? That minus 1, that minus 1, 2.Nope.How about IV minus that minus 1, 1?No.How about IV equals VI minus 1, 1?",
+    "segments": [
+      {
+        "text": " OK, 4 equals 4 minus 2 is incorrect.",
+        "start": 0.655,
+        "end": 6.085
+      },
+      {
+        "text": "How about 4 plus 4 minus 1, or 11?",
+        "start": 12.577,
+        "end": 18.828
+      },
+      {
+        "text": "No, that would be, how about?",
+        "start": 18.848,
+        "end": 24.418
+      },
+      {
+        "text": " That minus 1, that minus 1, 2.",
+        "start": 26.272,
+        "end": 30.899
+      },
+      {
+        "text": "Nope.",
+        "start": 32.201,
+        "end": 32.341
+      },
+      {
+        "text": "How about IV minus that minus 1, 1?",
+        "start": 32.361,
+        "end": 43.658
+      },
+      {
+        "text": "No.",
+        "start": 44.179,
+        "end": 45.461
+      },
+      {
+        "text": "How about IV equals VI minus 1, 1?",
+        "start": 45.481,
+        "end": 55.536
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, 4 equals 4 minus 2 is incorrect. How about 4 plus 4 minus 1, or 11? No, that would be, how about? That minus 1, that minus 1, 2. Nope. How about IV minus that minus 1, 1? No. How about IV equals VI minus 1, 1?"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_4e9959f85e5f/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so 3 equals 3 plus 3?Okay... 3 equals... Hmm... Um... Use the buttons below to report... So... it'll be can only move one matchstick so three equals It can't be three minus three because that's zero.None of these.My goodness.Let's see.If you move one over, that would be four, so that wouldn't work. what okay you can only use one move one matchstick oh my goodness one two three equals okay wait uh three Wow three equals um what if I did okay wait move one over so four none of I know what 3 equals, wait, 4 equals 1, 2, plus, Nope, that can't work either.I don't get this.If I move one of these.Yeah, I can't figure this one out.1, 2, 3 equals. and make it current.How can you make this correct?3 2 equals 3 1, 2, 3, minus",
+    "segments": [
+      {
+        "text": " Okay, so 3 equals 3 plus 3?",
+        "start": 0.031,
+        "end": 9.586
+      },
+      {
+        "text": "Okay... 3 equals... Hmm... Um... Use the buttons below to report... So...",
+        "start": 12.07,
+        "end": 27.675
+      },
+      {
+        "text": " it'll be can only move one matchstick so three equals",
+        "start": 30.153,
+        "end": 54.287
+      },
+      {
+        "text": " It can't be three minus three because that's zero.",
+        "start": 57.305,
+        "end": 60.65
+      },
+      {
+        "text": "None of these.",
+        "start": 60.69,
+        "end": 65.737
+      },
+      {
+        "text": "My goodness.",
+        "start": 65.797,
+        "end": 67.92
+      },
+      {
+        "text": "Let's see.",
+        "start": 70.504,
+        "end": 71.625
+      },
+      {
+        "text": "If you move one over, that would be four, so that wouldn't work.",
+        "start": 74.469,
+        "end": 81.439
+      },
+      {
+        "text": " what okay you can only use one move one matchstick oh my goodness one two three equals okay wait uh three",
+        "start": 83.68,
+        "end": 108.996
+      },
+      {
+        "text": " Wow three equals um what if I did okay wait move one over so four none of I know what",
+        "start": 117.903,
+        "end": 144.383
+      },
+      {
+        "text": " 3 equals, wait, 4 equals 1, 2, plus,",
+        "start": 146.118,
+        "end": 172.598
+      },
+      {
+        "text": " Nope, that can't work either.",
+        "start": 176.02,
+        "end": 177.662
+      },
+      {
+        "text": "I don't get this.",
+        "start": 177.682,
+        "end": 183.31
+      },
+      {
+        "text": "If I move one of these.",
+        "start": 185.894,
+        "end": 189.659
+      },
+      {
+        "text": "Yeah, I can't figure this one out.",
+        "start": 194.906,
+        "end": 196.789
+      },
+      {
+        "text": "1, 2, 3 equals.",
+        "start": 197.87,
+        "end": 201.235
+      },
+      {
+        "text": " and make it current.",
+        "start": 205.822,
+        "end": 210.567
+      },
+      {
+        "text": "How can you make this correct?",
+        "start": 216.273,
+        "end": 218.135
+      },
+      {
+        "text": "3 2 equals 3",
+        "start": 218.155,
+        "end": 230.007
+      },
+      {
+        "text": " 1, 2, 3, minus",
+        "start": 236.753,
+        "end": 239.608
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so 3 equals 3 plus 3? Okay... 3 equals... Hmm... Um... Use the buttons below to report... So... it'll be can only move one matchstick so three equals It can't be three minus three because that's zero. None of these. My goodness. Let's see. If you move one over, that would be four, so that wouldn't work. what okay you can only use one move one matchstick oh my goodness one two three equals okay wait uh three Wow three equals um what if I did okay wait move one over so four none of I know what 3 equals, wait, 4 equals 1, 2, plus, Nope, that can't work either. I don't get this. If I move one of these. Yeah, I can't figure this one out. 1, 2, 3 equals. and make it current. How can you make this correct? 3 2 equals 3 1, 2, 3, minus"
+  }
+}

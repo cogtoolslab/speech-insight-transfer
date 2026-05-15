@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_5411cf457e21/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay.So 3 equals 9.9 minus 4.So 9 minus 4 is 5.But we want 3.So, okay.Use the buttons to correct.Okay.All right.Something 3.So the numbers are 3, 4, 3. 4 and 9.3, 4, and 9.So 3, 4, and 9.9 minus 3.So this is going to, OK.So 4.But we could do like, we can only move one number.All right. Okay.So for 5, we have a 5 and a 4.Okay, we have a 5 and a 4.So if we go 5 plus 4, that would equal 9, right?So if we could move I don't know if we could do that.10.Okay, 10.Let's see.So 10. Use the buttons below to report the correct version of the equation.So 4 minus 4.OK.9 and 4.3, 4, 7.This is really hard.This is really, really hard.OK.So 3. We could make this a 4 and then we'd have 10 minus 4 is 6.So, can we move this like that?I don't know if that's allowed.So, you can only move to make this correct.Okay, one matchstick. Okay so oh maybe we can go 8.If we can move the V over here.The V over here.So 8 equals and that would be 4 minus 5.No that wouldn't work. Okay, four, oh my gosh, I don't know if I can get this, okay.Okay, so X, four, we can make this a, can we add a plus?I don't know if this is going, okay.",
+    "segments": [
+      {
+        "text": " Okay.",
+        "start": 0.976,
+        "end": 2.257
+      },
+      {
+        "text": "So 3 equals 9.",
+        "start": 2.277,
+        "end": 6.122
+      },
+      {
+        "text": "9 minus 4.",
+        "start": 6.142,
+        "end": 8.925
+      },
+      {
+        "text": "So 9 minus 4 is 5.",
+        "start": 8.965,
+        "end": 13.209
+      },
+      {
+        "text": "But we want 3.",
+        "start": 13.79,
+        "end": 14.791
+      },
+      {
+        "text": "So, okay.",
+        "start": 15.632,
+        "end": 16.973
+      },
+      {
+        "text": "Use the buttons to correct.",
+        "start": 16.993,
+        "end": 18.275
+      },
+      {
+        "text": "Okay.",
+        "start": 19.276,
+        "end": 19.376
+      },
+      {
+        "text": "All right.",
+        "start": 19.396,
+        "end": 20.677
+      },
+      {
+        "text": "Something 3.",
+        "start": 20.697,
+        "end": 22.699
+      },
+      {
+        "text": "So the numbers are 3, 4, 3.",
+        "start": 22.84,
+        "end": 27.945
+      },
+      {
+        "text": " 4 and 9.",
+        "start": 29.36,
+        "end": 30.061
+      },
+      {
+        "text": "3, 4, and 9.",
+        "start": 30.221,
+        "end": 31.942
+      },
+      {
+        "text": "So 3, 4, and 9.",
+        "start": 33.204,
+        "end": 37.728
+      },
+      {
+        "text": "9 minus 3.",
+        "start": 37.748,
+        "end": 38.989
+      },
+      {
+        "text": "So this is going to, OK.",
+        "start": 40.911,
+        "end": 42.893
+      },
+      {
+        "text": "So 4.",
+        "start": 42.913,
+        "end": 46.336
+      },
+      {
+        "text": "But we could do like, we can only move one number.",
+        "start": 47.357,
+        "end": 52.222
+      },
+      {
+        "text": "All right.",
+        "start": 52.282,
+        "end": 58.928
+      },
+      {
+        "text": " Okay.",
+        "start": 63.987,
+        "end": 64.848
+      },
+      {
+        "text": "So for 5, we have a 5 and a 4.",
+        "start": 70.334,
+        "end": 75.519
+      },
+      {
+        "text": "Okay, we have a 5 and a 4.",
+        "start": 75.539,
+        "end": 80.985
+      },
+      {
+        "text": "So if we go 5 plus 4, that would equal 9, right?",
+        "start": 82.506,
+        "end": 92.297
+      },
+      {
+        "text": "So if we could move",
+        "start": 92.357,
+        "end": 93.538
+      },
+      {
+        "text": " I don't know if we could do that.",
+        "start": 94.784,
+        "end": 95.926
+      },
+      {
+        "text": "10.",
+        "start": 95.946,
+        "end": 98.33
+      },
+      {
+        "text": "Okay, 10.",
+        "start": 108.526,
+        "end": 109.528
+      },
+      {
+        "text": "Let's see.",
+        "start": 112.533,
+        "end": 116.179
+      },
+      {
+        "text": "So 10.",
+        "start": 120.465,
+        "end": 121.467
+      },
+      {
+        "text": " Use the buttons below to report the correct version of the equation.",
+        "start": 122.408,
+        "end": 125.312
+      },
+      {
+        "text": "So 4 minus 4.",
+        "start": 125.332,
+        "end": 132.02
+      },
+      {
+        "text": "OK.",
+        "start": 132.04,
+        "end": 132.1
+      },
+      {
+        "text": "9 and 4.",
+        "start": 132.12,
+        "end": 133.822
+      },
+      {
+        "text": "3, 4, 7.",
+        "start": 133.842,
+        "end": 136.025
+      },
+      {
+        "text": "This is really hard.",
+        "start": 137.586,
+        "end": 138.808
+      },
+      {
+        "text": "This is really, really hard.",
+        "start": 138.848,
+        "end": 140.89
+      },
+      {
+        "text": "OK.",
+        "start": 141.191,
+        "end": 142.573
+      },
+      {
+        "text": "So 3.",
+        "start": 144.475,
+        "end": 148.72
+      },
+      {
+        "text": " We could make this a 4 and then we'd have 10 minus 4 is 6.",
+        "start": 150.117,
+        "end": 158.046
+      },
+      {
+        "text": "So, can we move this like that?",
+        "start": 159.769,
+        "end": 164.494
+      },
+      {
+        "text": "I don't know if that's allowed.",
+        "start": 165.095,
+        "end": 166.156
+      },
+      {
+        "text": "So, you can only move to make this correct.",
+        "start": 167.558,
+        "end": 169.56
+      },
+      {
+        "text": "Okay, one matchstick.",
+        "start": 169.58,
+        "end": 171.062
+      },
+      {
+        "text": " Okay so oh maybe we can go 8.",
+        "start": 171.7,
+        "end": 174.663
+      },
+      {
+        "text": "If we can move the V over here.",
+        "start": 176.125,
+        "end": 179.228
+      },
+      {
+        "text": "The V over here.",
+        "start": 179.248,
+        "end": 182.671
+      },
+      {
+        "text": "So 8 equals and that would be 4 minus 5.",
+        "start": 182.691,
+        "end": 192.922
+      },
+      {
+        "text": "No that wouldn't work.",
+        "start": 193.723,
+        "end": 197.607
+      },
+      {
+        "text": " Okay, four, oh my gosh, I don't know if I can get this, okay.",
+        "start": 200.675,
+        "end": 206.289
+      },
+      {
+        "text": "Okay, so X, four, we can make this a, can we add a plus?",
+        "start": 208.335,
+        "end": 218.019
+      },
+      {
+        "text": "I don't know if this is going, okay.",
+        "start": 218.541,
+        "end": 222.21
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay. So 3 equals 9. 9 minus 4. So 9 minus 4 is 5. But we want 3. So, okay. Use the buttons to correct. Okay. All right. Something 3. So the numbers are 3, 4, 3. 4 and 9. 3, 4, and 9. So 3, 4, and 9. 9 minus 3. So this is going to, OK. So 4. But we could do like, we can only move one number. All right. Okay. So for 5, we have a 5 and a 4. Okay, we have a 5 and a 4. So if we go 5 plus 4, that would equal 9, right? So if we could move I don't know if we could do that. 10. Okay, 10. Let's see. So 10. Use the buttons below to report the correct version of the equation. So 4 minus 4. OK. 9 and 4. 3, 4, 7. This is really hard. This is really, really hard. OK. So 3. We could make this a 4 and then we'd have 10 minus 4 is 6. So, can we move this like that? I don't know if that's allowed. So, you can only move to make this correct. Okay, one matchstick. Okay so oh maybe we can go 8. If we can move the V over here. The V over here. So 8 equals and that would be 4 minus 5. No that wouldn't work. Okay, four, oh my gosh, I don't know if I can get this, okay. Okay, so X, four, we can make this a, can we add a plus? I don't know if this is going, okay."
+  }
+}

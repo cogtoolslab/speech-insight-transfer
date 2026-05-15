@@ -1,0 +1,256 @@
+{
+  "file": "data/recordings/sub_d35aa8f4d33f/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK.Let's see.4 equals 4 plus 4.OK.So let me see.So 6 plus 4.6 minus 4.No.Let's see.Let's see.P. Equation.4. So if I do equals, and then I can switch.Let's see.This is 4, 4, 6, minus 2.Let's see.OK, this is 4.And if I switch. 3, 1, minus.No, that's not enough.Let me go back.4.Oh, my goodness.Let's see.They got to equal each other.Let's see.Oh, wait a minute.We can't put. No, you can't put that either.Equals... Let's see... Um, let me go back.So I gotta... Okay, so it's 4 equals... Let's see... Let me see.Oh, wait a minute.Equals... Equals x minus.No, that's not it either.OK, there we go.So that's. OK, let me go back.So it's 1, 4 equals.OK, and we can switch.Let me see.If we do B, what is it?That's 4. 1 equals 4 minus 3.OK.So. I don't know what this is.It's confusing.Let's see.",
+    "segments": [
+      {
+        "text": " OK.",
+        "start": 0.031,
+        "end": 2.513
+      },
+      {
+        "text": "Let's see.",
+        "start": 2.553,
+        "end": 3.094
+      },
+      {
+        "text": "4 equals 4 plus 4.",
+        "start": 3.114,
+        "end": 7.017
+      },
+      {
+        "text": "OK.",
+        "start": 8.518,
+        "end": 9.339
+      },
+      {
+        "text": "So let me see.",
+        "start": 9.519,
+        "end": 10.48
+      },
+      {
+        "text": "So 6 plus 4.",
+        "start": 10.5,
+        "end": 16.485
+      },
+      {
+        "text": "6 minus 4.",
+        "start": 16.505,
+        "end": 18.487
+      },
+      {
+        "text": "No.",
+        "start": 18.507,
+        "end": 18.707
+      },
+      {
+        "text": "Let's see.",
+        "start": 18.727,
+        "end": 20.629
+      },
+      {
+        "text": "Let's see.",
+        "start": 20.649,
+        "end": 21.029
+      },
+      {
+        "text": "P. Equation.",
+        "start": 22.751,
+        "end": 26.614
+      },
+      {
+        "text": "4.",
+        "start": 26.634,
+        "end": 28.536
+      },
+      {
+        "text": " So if I do equals, and then I can switch.",
+        "start": 33.038,
+        "end": 41.406
+      },
+      {
+        "text": "Let's see.",
+        "start": 44.509,
+        "end": 45.15
+      },
+      {
+        "text": "This is 4, 4, 6, minus 2.",
+        "start": 48.033,
+        "end": 55.6
+      },
+      {
+        "text": "Let's see.",
+        "start": 55.94,
+        "end": 57.302
+      },
+      {
+        "text": "OK, this is 4.",
+        "start": 57.322,
+        "end": 58.803
+      },
+      {
+        "text": "And if I switch.",
+        "start": 60.365,
+        "end": 61.746
+      },
+      {
+        "text": " 3, 1, minus.",
+        "start": 63.548,
+        "end": 66.152
+      },
+      {
+        "text": "No, that's not enough.",
+        "start": 71.319,
+        "end": 72.401
+      },
+      {
+        "text": "Let me go back.",
+        "start": 73.162,
+        "end": 73.983
+      },
+      {
+        "text": "4.",
+        "start": 75.685,
+        "end": 76.126
+      },
+      {
+        "text": "Oh, my goodness.",
+        "start": 79.211,
+        "end": 80.432
+      },
+      {
+        "text": "Let's see.",
+        "start": 80.452,
+        "end": 80.973
+      },
+      {
+        "text": "They got to equal each other.",
+        "start": 81.594,
+        "end": 83.657
+      },
+      {
+        "text": "Let's see.",
+        "start": 84.017,
+        "end": 84.518
+      },
+      {
+        "text": "Oh, wait a minute.",
+        "start": 88.023,
+        "end": 88.945
+      },
+      {
+        "text": "We can't put.",
+        "start": 90.327,
+        "end": 91.328
+      },
+      {
+        "text": " No, you can't put that either.",
+        "start": 91.848,
+        "end": 93.209
+      },
+      {
+        "text": "Equals... Let's see... Um, let me go back.",
+        "start": 94.19,
+        "end": 104.962
+      },
+      {
+        "text": "So I gotta... Okay, so it's 4 equals... Let's see... Let me see.",
+        "start": 105.903,
+        "end": 116.614
+      },
+      {
+        "text": "Oh, wait a minute.",
+        "start": 117.435,
+        "end": 118.196
+      },
+      {
+        "text": "Equals...",
+        "start": 118.736,
+        "end": 119.577
+      },
+      {
+        "text": " Equals x minus.",
+        "start": 121.666,
+        "end": 126.773
+      },
+      {
+        "text": "No, that's not it either.",
+        "start": 142.516,
+        "end": 143.698
+      },
+      {
+        "text": "OK, there we go.",
+        "start": 145.12,
+        "end": 148.264
+      },
+      {
+        "text": "So that's.",
+        "start": 150.287,
+        "end": 151.048
+      },
+      {
+        "text": " OK, let me go back.",
+        "start": 154.96,
+        "end": 158.946
+      },
+      {
+        "text": "So it's 1, 4 equals.",
+        "start": 159.988,
+        "end": 163.733
+      },
+      {
+        "text": "OK, and we can switch.",
+        "start": 166.618,
+        "end": 167.88
+      },
+      {
+        "text": "Let me see.",
+        "start": 170.984,
+        "end": 171.625
+      },
+      {
+        "text": "If we do B, what is it?",
+        "start": 172.967,
+        "end": 179.177
+      },
+      {
+        "text": "That's 4.",
+        "start": 179.197,
+        "end": 182.622
+      },
+      {
+        "text": " 1 equals 4 minus 3.",
+        "start": 200.27,
+        "end": 204.614
+      },
+      {
+        "text": "OK.",
+        "start": 206.243,
+        "end": 207.047
+      },
+      {
+        "text": "So.",
+        "start": 207.228,
+        "end": 207.63
+      },
+      {
+        "text": " I don't know what this is.",
+        "start": 232.805,
+        "end": 234.172
+      },
+      {
+        "text": "It's confusing.",
+        "start": 234.534,
+        "end": 235.418
+      },
+      {
+        "text": "Let's see.",
+        "start": 236.664,
+        "end": 238.393
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK. Let's see. 4 equals 4 plus 4. OK. So let me see. So 6 plus 4. 6 minus 4. No. Let's see. Let's see. P. Equation. 4. So if I do equals, and then I can switch. Let's see. This is 4, 4, 6, minus 2. Let's see. OK, this is 4. And if I switch. 3, 1, minus. No, that's not enough. Let me go back. 4. Oh, my goodness. Let's see. They got to equal each other. Let's see. Oh, wait a minute. We can't put. No, you can't put that either. Equals... Let's see... Um, let me go back. So I gotta... Okay, so it's 4 equals... Let's see... Let me see. Oh, wait a minute. Equals... Equals x minus. No, that's not it either. OK, there we go. So that's. OK, let me go back. So it's 1, 4 equals. OK, and we can switch. Let me see. If we do B, what is it? That's 4. 1 equals 4 minus 3. OK. So. I don't know what this is. It's confusing. Let's see."
+  }
+}

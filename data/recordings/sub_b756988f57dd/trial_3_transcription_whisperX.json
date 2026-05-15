@@ -1,0 +1,201 @@
+{
+  "file": "data/recordings/sub_b756988f57dd/trial_3.wav",
+  "with_timestamps": {
+    "text": " The third one here, I'm happy I got the last one, the first one I didn't get.This third one, it says IV4 equals 7 plus 4.So, 7 and 4. Seven and four, OK.So, seven plus six, no.OK, IV is four, right?IV is four.Four minus four, let's see, four minus seven, no, that doesn't work. IV of 4 equals 7 plus 4.7 plus 4, 11.7 minus 4 is 3.7 minus 6 is 1.OK.4 equals 4.6 plus 7 is 13. KVI 6, 6 equals 7 minus 4 is equal to 11.All right, 7 or CIV, 27.OK.And this is a tough one, 7 plus 4. 7 plus 4, 7 plus 6 is 13, 7 minus 4, 3, 7 minus 6 is 1.That's 6 equals 7, so 6 equals 7 plus 4, no?Am I missing something with these, with doing an x here?Let's see.Yeah. This is tough.This is really tough here.Really, really tough.I'm thinking right now that I'm not seeing this.I'm just playing with the plus minus sign.It doesn't seem to change anything.Let's say I move one here.Seven. 7 equals 6 plus 4, no?7, 4 equals 8, 8.I got it.I think I got it here finally. IV4 equals, oh man, I lost it, 8 minus 4, yeah.IV equals 7, 4 equals,",
+    "segments": [
+      {
+        "text": " The third one here, I'm happy I got the last one, the first one I didn't get.",
+        "start": 0.098,
+        "end": 6.826
+      },
+      {
+        "text": "This third one, it says IV4 equals 7 plus 4.",
+        "start": 6.886,
+        "end": 14.014
+      },
+      {
+        "text": "So, 7 and 4.",
+        "start": 16.897,
+        "end": 22.123
+      },
+      {
+        "text": " Seven and four, OK.",
+        "start": 24.803,
+        "end": 26.665
+      },
+      {
+        "text": "So, seven plus six, no.",
+        "start": 26.685,
+        "end": 30.808
+      },
+      {
+        "text": "OK, IV is four, right?",
+        "start": 34.351,
+        "end": 37.794
+      },
+      {
+        "text": "IV is four.",
+        "start": 39.916,
+        "end": 40.596
+      },
+      {
+        "text": "Four minus four, let's see, four minus seven, no, that doesn't work.",
+        "start": 41.817,
+        "end": 54.388
+      },
+      {
+        "text": " IV of 4 equals 7 plus 4.",
+        "start": 55.82,
+        "end": 62.306
+      },
+      {
+        "text": "7 plus 4, 11.",
+        "start": 62.326,
+        "end": 64.429
+      },
+      {
+        "text": "7 minus 4 is 3.",
+        "start": 64.509,
+        "end": 67.131
+      },
+      {
+        "text": "7 minus 6 is 1.",
+        "start": 67.151,
+        "end": 70.555
+      },
+      {
+        "text": "OK.",
+        "start": 70.575,
+        "end": 70.695
+      },
+      {
+        "text": "4 equals 4.",
+        "start": 70.715,
+        "end": 79.844
+      },
+      {
+        "text": "6 plus 7 is 13.",
+        "start": 79.864,
+        "end": 84.949
+      },
+      {
+        "text": " KVI 6, 6 equals 7 minus 4 is equal to 11.",
+        "start": 88.608,
+        "end": 95.136
+      },
+      {
+        "text": "All right, 7 or CIV, 27.",
+        "start": 99.341,
+        "end": 111.536
+      },
+      {
+        "text": "OK.",
+        "start": 114.239,
+        "end": 114.38
+      },
+      {
+        "text": "And this is a tough one, 7 plus 4.",
+        "start": 114.4,
+        "end": 117.163
+      },
+      {
+        "text": " 7 plus 4, 7 plus 6 is 13, 7 minus 4, 3, 7 minus 6 is 1.",
+        "start": 122.543,
+        "end": 129.232
+      },
+      {
+        "text": "That's 6 equals 7, so 6 equals 7 plus 4, no?",
+        "start": 129.272,
+        "end": 138.344
+      },
+      {
+        "text": "Am I missing something with these, with doing an x here?",
+        "start": 142.329,
+        "end": 146.134
+      },
+      {
+        "text": "Let's see.",
+        "start": 146.154,
+        "end": 146.495
+      },
+      {
+        "text": "Yeah.",
+        "start": 151.462,
+        "end": 151.842
+      },
+      {
+        "text": " This is tough.",
+        "start": 153.543,
+        "end": 154.184
+      },
+      {
+        "text": "This is really tough here.",
+        "start": 154.364,
+        "end": 155.545
+      },
+      {
+        "text": "Really, really tough.",
+        "start": 155.605,
+        "end": 157.307
+      },
+      {
+        "text": "I'm thinking right now that I'm not seeing this.",
+        "start": 165.795,
+        "end": 168.378
+      },
+      {
+        "text": "I'm just playing with the plus minus sign.",
+        "start": 168.678,
+        "end": 173.683
+      },
+      {
+        "text": "It doesn't seem to change anything.",
+        "start": 173.704,
+        "end": 175.065
+      },
+      {
+        "text": "Let's say I move one here.",
+        "start": 175.125,
+        "end": 179.329
+      },
+      {
+        "text": "Seven.",
+        "start": 179.369,
+        "end": 180.09
+      },
+      {
+        "text": " 7 equals 6 plus 4, no?",
+        "start": 181.673,
+        "end": 186.56
+      },
+      {
+        "text": "7, 4 equals 8, 8.",
+        "start": 186.58,
+        "end": 200.539
+      },
+      {
+        "text": "I got it.",
+        "start": 203.043,
+        "end": 205.146
+      },
+      {
+        "text": "I think I got it here finally.",
+        "start": 205.486,
+        "end": 206.888
+      },
+      {
+        "text": " IV4 equals, oh man, I lost it, 8 minus 4, yeah.",
+        "start": 209.483,
+        "end": 220.896
+      },
+      {
+        "text": "IV equals 7, 4 equals,",
+        "start": 230.307,
+        "end": 234.732
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " The third one here, I'm happy I got the last one, the first one I didn't get. This third one, it says IV4 equals 7 plus 4. So, 7 and 4. Seven and four, OK. So, seven plus six, no. OK, IV is four, right? IV is four. Four minus four, let's see, four minus seven, no, that doesn't work. IV of 4 equals 7 plus 4. 7 plus 4, 11. 7 minus 4 is 3. 7 minus 6 is 1. OK. 4 equals 4. 6 plus 7 is 13. KVI 6, 6 equals 7 minus 4 is equal to 11. All right, 7 or CIV, 27. OK. And this is a tough one, 7 plus 4. 7 plus 4, 7 plus 6 is 13, 7 minus 4, 3, 7 minus 6 is 1. That's 6 equals 7, so 6 equals 7 plus 4, no? Am I missing something with these, with doing an x here? Let's see. Yeah. This is tough. This is really tough here. Really, really tough. I'm thinking right now that I'm not seeing this. I'm just playing with the plus minus sign. It doesn't seem to change anything. Let's say I move one here. Seven. 7 equals 6 plus 4, no? 7, 4 equals 8, 8. I got it. I think I got it here finally. IV4 equals, oh man, I lost it, 8 minus 4, yeah. IV equals 7, 4 equals,"
+  }
+}

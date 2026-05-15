@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_637f9b42b2c3/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, now what do we got?3 is equal to 11 minus 3.So 3 is equal to 8.3 is equal to 8.Let's see, what would be the easiest to move here?I can't imagine that I'm going to be lucky enough to just switch an x and a v and it be correct again. 3 is equal to, if I move it to the left of the, no, it's just switch the x to the v, it's the same thing.So, one, two, three, minus, no wait, it's a v, then the one, minus one, two, three.That's not correct, that's three, If that's a V, that's 6 minus 3.3 is equal to 3.Is it not?1, 2, 3 is equal to, if I make the X a V, that's 6 minus 1, 2, 3.",
+    "segments": [
+      {
+        "text": " All right, now what do we got?",
+        "start": 0.537,
+        "end": 1.959
+      },
+      {
+        "text": "3 is equal to 11 minus 3.",
+        "start": 1.979,
+        "end": 7.549
+      },
+      {
+        "text": "So 3 is equal to 8.",
+        "start": 7.769,
+        "end": 9.072
+      },
+      {
+        "text": "3 is equal to 8.",
+        "start": 9.252,
+        "end": 11.937
+      },
+      {
+        "text": "Let's see, what would be the easiest to move here?",
+        "start": 14.561,
+        "end": 17.045
+      },
+      {
+        "text": "I can't imagine that I'm going to be lucky enough to just switch an x and a v and it be correct again.",
+        "start": 17.105,
+        "end": 24.418
+      },
+      {
+        "text": " 3 is equal to, if I move it to the left of the, no, it's just switch the x to the v, it's the same thing.",
+        "start": 26.778,
+        "end": 34.568
+      },
+      {
+        "text": "So, one, two, three, minus, no wait, it's a v, then the one, minus one, two, three.",
+        "start": 35.99,
+        "end": 50.629
+      },
+      {
+        "text": "That's not correct, that's three,",
+        "start": 53.113,
+        "end": 54.895
+      },
+      {
+        "text": " If that's a V, that's 6 minus 3.",
+        "start": 56.63,
+        "end": 59.317
+      },
+      {
+        "text": "3 is equal to 3.",
+        "start": 59.337,
+        "end": 60.501
+      },
+      {
+        "text": "Is it not?",
+        "start": 62.326,
+        "end": 62.827
+      },
+      {
+        "text": "1, 2, 3 is equal to, if I make the X a V, that's 6 minus 1, 2, 3.",
+        "start": 62.847,
+        "end": 75.381
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, now what do we got? 3 is equal to 11 minus 3. So 3 is equal to 8. 3 is equal to 8. Let's see, what would be the easiest to move here? I can't imagine that I'm going to be lucky enough to just switch an x and a v and it be correct again. 3 is equal to, if I move it to the left of the, no, it's just switch the x to the v, it's the same thing. So, one, two, three, minus, no wait, it's a v, then the one, minus one, two, three. That's not correct, that's three, If that's a V, that's 6 minus 3. 3 is equal to 3. Is it not? 1, 2, 3 is equal to, if I make the X a V, that's 6 minus 1, 2, 3."
+  }
+}

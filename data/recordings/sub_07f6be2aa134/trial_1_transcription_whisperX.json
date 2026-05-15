@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_07f6be2aa134/trial_1.wav",
+  "with_timestamps": {
+    "text": " So we have eight equals 11 plus four, which is wrong.So what if I do eight, and then I take the match on the, okay, report the correct version.Okay, so I'm gonna do five, six, seven, oh, that's not how I do it.The correct version of the equation, the whole equation, VIII equals, 1, 2, 3, plus V. That should do it.So I'll take this matchstick and move it over left.So I think that would be correct.And then you have 5, 6, 7, 8 over here.And then you wouldn't have 4.You would have a 5 plus the 3.That would be 8.",
+    "segments": [
+      {
+        "text": " So we have eight equals 11 plus four, which is wrong.",
+        "start": 0.689,
+        "end": 5.815
+      },
+      {
+        "text": "So what if I do eight, and then I take the match on the, okay, report the correct version.",
+        "start": 7.076,
+        "end": 15.005
+      },
+      {
+        "text": "Okay, so I'm gonna do five, six, seven, oh, that's not how I do it.",
+        "start": 15.185,
+        "end": 20.852
+      },
+      {
+        "text": "The correct version of the equation, the whole equation, VIII equals,",
+        "start": 21.432,
+        "end": 30.122
+      },
+      {
+        "text": " 1, 2, 3, plus V. That should do it.",
+        "start": 31.385,
+        "end": 36.839
+      },
+      {
+        "text": "So I'll take this matchstick and move it over left.",
+        "start": 36.859,
+        "end": 40.588
+      },
+      {
+        "text": "So I think that would be correct.",
+        "start": 41.37,
+        "end": 44.879
+      },
+      {
+        "text": "And then you have 5, 6, 7, 8 over here.",
+        "start": 44.919,
+        "end": 47.084
+      },
+      {
+        "text": "And then you wouldn't have 4.",
+        "start": 47.104,
+        "end": 50.051
+      },
+      {
+        "text": "You would have a 5 plus the 3.",
+        "start": 50.091,
+        "end": 53.159
+      },
+      {
+        "text": "That would be 8.",
+        "start": 53.48,
+        "end": 54.743
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So we have eight equals 11 plus four, which is wrong. So what if I do eight, and then I take the match on the, okay, report the correct version. Okay, so I'm gonna do five, six, seven, oh, that's not how I do it. The correct version of the equation, the whole equation, VIII equals, 1, 2, 3, plus V. That should do it. So I'll take this matchstick and move it over left. So I think that would be correct. And then you have 5, 6, 7, 8 over here. And then you wouldn't have 4. You would have a 5 plus the 3. That would be 8."
+  }
+}

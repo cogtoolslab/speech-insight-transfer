@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_7b1a31a79a42/trial_3.wav",
+  "with_timestamps": {
+    "text": " figure it out so 3 is equals to 11 minus 3 11 minus 3 is 8 3 is equals to 8 which is not true so you need to make each side 5 5 or 10 and 5 so what I have 10 no gonna be it's going to be ten ten I have ten I have five and I have one then I have plus and I have a minus oh so I have to choose that's five this is one What?Ah, yes. I think I got it yes okay 5 minus how about we say x minus v is equals to v incorrect 5 plus 5 is equals to x incorrect if I move 2 it's 4 10 minus 3 is not 4 12 minus 3 i'm sorry",
+    "segments": [
+      {
+        "text": " figure it out so 3 is equals to 11 minus 3 11 minus 3 is 8 3 is equals to 8 which is not true so you need to make each side 5 5",
+        "start": 1.027,
+        "end": 25.043
+      },
+      {
+        "text": " or 10 and 5 so what I have 10 no gonna be it's going to be",
+        "start": 32.937,
+        "end": 62.91
+      },
+      {
+        "text": " ten ten I have ten I have five and I have one then I have plus and I have a minus oh so I have to choose that's five this is one",
+        "start": 80.845,
+        "end": 107.747
+      },
+      {
+        "text": " What?",
+        "start": 112.57,
+        "end": 113.191
+      },
+      {
+        "text": "Ah, yes.",
+        "start": 138.363,
+        "end": 139.725
+      },
+      {
+        "text": " I think I got it",
+        "start": 144.11,
+        "end": 145.649
+      },
+      {
+        "text": " yes okay 5 minus how about we say x minus v is equals to v incorrect 5 plus 5 is equals to",
+        "start": 176.898,
+        "end": 205.656
+      },
+      {
+        "text": " x incorrect if I move 2 it's 4 10 minus 3 is not 4 12 minus 3",
+        "start": 207.34,
+        "end": 237.229
+      },
+      {
+        "text": " i'm sorry",
+        "start": 239.167,
+        "end": 239.779
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " figure it out so 3 is equals to 11 minus 3 11 minus 3 is 8 3 is equals to 8 which is not true so you need to make each side 5 5 or 10 and 5 so what I have 10 no gonna be it's going to be ten ten I have ten I have five and I have one then I have plus and I have a minus oh so I have to choose that's five this is one What? Ah, yes. I think I got it yes okay 5 minus how about we say x minus v is equals to v incorrect 5 plus 5 is equals to x incorrect if I move 2 it's 4 10 minus 3 is not 4 12 minus 3 i'm sorry"
+  }
+}

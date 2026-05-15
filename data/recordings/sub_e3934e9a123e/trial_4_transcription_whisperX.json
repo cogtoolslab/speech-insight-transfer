@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e3934e9a123e/trial_4.wav",
+  "with_timestamps": {
+    "text": " In this equation, we have 3 equals 9 minus 4.It should be 9 minus 6, so we'll turn IV into VI.",
+    "segments": [
+      {
+        "text": " In this equation, we have 3 equals 9 minus 4.",
+        "start": 0.537,
+        "end": 5.52
+      },
+      {
+        "text": "It should be 9 minus 6, so we'll turn IV into VI.",
+        "start": 5.561,
+        "end": 9.72
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " In this equation, we have 3 equals 9 minus 4. It should be 9 minus 6, so we'll turn IV into VI."
+  }
+}

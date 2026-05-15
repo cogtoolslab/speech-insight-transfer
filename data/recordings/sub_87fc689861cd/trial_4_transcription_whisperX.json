@@ -1,0 +1,86 @@
+{
+  "file": "data/recordings/sub_87fc689861cd/trial_4.wav",
+  "with_timestamps": {
+    "text": " 11 equals 10 minus 7 I mean 11 minus 7 11 so I would say 11 minus 7 equals 4 I think it's 1, 2, 3, 4 equal X minus V1.Oh, shoot.So 11, 7.OK.Oh, that's 2.That's 2. seven okay it's equal to 11 take away 7 8, 9, 10, 11 that'll be four but it's not that so I'm just gonna make 11 If we do 8, 2, 7, 8, 9, 10, 11.8, 9, 7, 8, 9, 10, 11.If we're trying to make 2 equal x1, Take away 11, 9, V, 1, 2, 3, I wonder why this is not 1, 2, 3, 4 equals x 1 subtract v 1 1 ok so if I put make that 9 oh 1 1 equals 1 x Take away V11.",
+    "segments": [
+      {
+        "text": " 11 equals 10 minus 7 I mean 11 minus 7 11 so I would say 11 minus 7 equals 4 I think it's 1, 2, 3, 4",
+        "start": 2.242,
+        "end": 31.388
+      },
+      {
+        "text": " equal X minus V1.",
+        "start": 33.055,
+        "end": 41.003
+      },
+      {
+        "text": "Oh, shoot.",
+        "start": 43.746,
+        "end": 48.811
+      },
+      {
+        "text": "So 11, 7.",
+        "start": 50.713,
+        "end": 52.354
+      },
+      {
+        "text": "OK.",
+        "start": 53.916,
+        "end": 54.296
+      },
+      {
+        "text": "Oh, that's 2.",
+        "start": 56.158,
+        "end": 56.879
+      },
+      {
+        "text": "That's 2.",
+        "start": 57.84,
+        "end": 59.181
+      },
+      {
+        "text": " seven okay it's equal to 11 take away 7 8, 9, 10, 11 that'll be four but it's not that so I'm just gonna make 11",
+        "start": 62.232,
+        "end": 91.041
+      },
+      {
+        "text": " If we do 8, 2, 7, 8, 9, 10, 11.",
+        "start": 93.265,
+        "end": 101.313
+      },
+      {
+        "text": "8, 9, 7, 8, 9, 10, 11.",
+        "start": 105.476,
+        "end": 109.78
+      },
+      {
+        "text": "If we're trying to make 2 equal x1,",
+        "start": 109.8,
+        "end": 122.192
+      },
+      {
+        "text": " Take away 11, 9, V, 1, 2, 3,",
+        "start": 124.619,
+        "end": 151.487
+      },
+      {
+        "text": " I wonder why this is not 1, 2, 3, 4 equals",
+        "start": 153.728,
+        "end": 178.521
+      },
+      {
+        "text": " x 1 subtract v 1 1 ok so if I put make that 9 oh 1 1 equals 1 x",
+        "start": 180.745,
+        "end": 209.638
+      },
+      {
+        "text": " Take away V11.",
+        "start": 211.525,
+        "end": 215.427
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 11 equals 10 minus 7 I mean 11 minus 7 11 so I would say 11 minus 7 equals 4 I think it's 1, 2, 3, 4 equal X minus V1. Oh, shoot. So 11, 7. OK. Oh, that's 2. That's 2. seven okay it's equal to 11 take away 7 8, 9, 10, 11 that'll be four but it's not that so I'm just gonna make 11 If we do 8, 2, 7, 8, 9, 10, 11. 8, 9, 7, 8, 9, 10, 11. If we're trying to make 2 equal x1, Take away 11, 9, V, 1, 2, 3, I wonder why this is not 1, 2, 3, 4 equals x 1 subtract v 1 1 ok so if I put make that 9 oh 1 1 equals 1 x Take away V11."
+  }
+}

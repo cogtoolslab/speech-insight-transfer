@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_14a77ad08e5b/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, it's 9 equals 9 plus 9.9 equals 9 plus 9. version.Okay, 9 equals, it should be 9 equals 9, so I need to take away, I can't be taking away that, I'll be minus that.9, 9 equals, Okay, nine equals, how about nine equals 11.Okay, how about I switch the first one, 11.Now I can only move one match stick.Let's see.It's gotta be the plus. I gotta take away the plus somehow.One index, that's nine.Nine equals, should be nine equals nine.But I got two nines over there, so.Hmm. nine equals... not sure how much time I've got left... nine equals nine... I wonder if I go nine equals nine equals nine?I don't know, we'll see.nine... 1x equals 1x equals 1x.",
+    "segments": [
+      {
+        "text": " OK, it's 9 equals 9 plus 9.",
+        "start": 0.537,
+        "end": 13.493
+      },
+      {
+        "text": "9 equals 9 plus 9.",
+        "start": 13.513,
+        "end": 29.413
+      },
+      {
+        "text": " version.",
+        "start": 41.662,
+        "end": 42.203
+      },
+      {
+        "text": "Okay, 9 equals, it should be 9 equals 9, so I need to take away, I can't be taking away that, I'll be minus that.",
+        "start": 43.224,
+        "end": 61.308
+      },
+      {
+        "text": "9, 9 equals,",
+        "start": 65.754,
+        "end": 70.74
+      },
+      {
+        "text": " Okay, nine equals, how about nine equals 11.",
+        "start": 75.614,
+        "end": 80.441
+      },
+      {
+        "text": "Okay, how about I switch the first one, 11.",
+        "start": 80.481,
+        "end": 86.89
+      },
+      {
+        "text": "Now I can only move one match stick.",
+        "start": 88.512,
+        "end": 93.66
+      },
+      {
+        "text": "Let's see.",
+        "start": 96.524,
+        "end": 97.585
+      },
+      {
+        "text": "It's gotta be the plus.",
+        "start": 99.248,
+        "end": 102.432
+      },
+      {
+        "text": " I gotta take away the plus somehow.",
+        "start": 102.817,
+        "end": 105.502
+      },
+      {
+        "text": "One index, that's nine.",
+        "start": 110.891,
+        "end": 113.135
+      },
+      {
+        "text": "Nine equals, should be nine equals nine.",
+        "start": 113.196,
+        "end": 118.906
+      },
+      {
+        "text": "But I got two nines over there, so.",
+        "start": 119.827,
+        "end": 122.192
+      },
+      {
+        "text": "Hmm.",
+        "start": 126.82,
+        "end": 126.9
+      },
+      {
+        "text": " nine equals... not sure how much time I've got left... nine equals nine... I wonder if I go nine equals nine equals nine?",
+        "start": 133.107,
+        "end": 152.465
+      },
+      {
+        "text": "I don't know, we'll see.",
+        "start": 152.485,
+        "end": 153.166
+      },
+      {
+        "text": "nine...",
+        "start": 155.408,
+        "end": 162.034
+      },
+      {
+        "text": " 1x equals 1x equals 1x.",
+        "start": 166.047,
+        "end": 177.508
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, it's 9 equals 9 plus 9. 9 equals 9 plus 9. version. Okay, 9 equals, it should be 9 equals 9, so I need to take away, I can't be taking away that, I'll be minus that. 9, 9 equals, Okay, nine equals, how about nine equals 11. Okay, how about I switch the first one, 11. Now I can only move one match stick. Let's see. It's gotta be the plus. I gotta take away the plus somehow. One index, that's nine. Nine equals, should be nine equals nine. But I got two nines over there, so. Hmm. nine equals... not sure how much time I've got left... nine equals nine... I wonder if I go nine equals nine equals nine? I don't know, we'll see. nine... 1x equals 1x equals 1x."
+  }
+}

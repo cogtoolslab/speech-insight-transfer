@@ -1,0 +1,156 @@
+{
+  "file": "data/recordings/sub_637f9b42b2c3/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, what do we got here?We got 7 is equal to 9 plus 3, so that's 6.So 7 is equal to 6.I can only move one chopstick.Where am I going to start to move it?Let's see.If I remove one from the right side, I can make it 6 is equal to 9 plus 4, that's just incorrect.If I remove one from to the right of the x, I can make it 7 is equal to 11 plus 3.If I remove one chopstick and make it 9 minus 3, that's 7 minus 3.That is incorrect.If I put 1 in front of the V, would that be 5?Then 5 is equal to 9 plus 3, no.What do I got to move here?That's 7, 9, 3. So 12 and seven, how can I bridge a five digit gap here?Which one am I gonna move?I can't make it multiplication.I already tried that last time.Let's see.So seven is equal to, how can I make the side on the less more? What do we got?Seven is equal to, how can I get seven to be seven? Let's see, 7 is equal to, can I remove one X chopstick?I don't even know what that would do.Can I make an X a V?Or can I make a V an X? Let's try seeing if it lets us make an X of V. I doubt that that's going to be allowed, but why not?",
+    "segments": [
+      {
+        "text": " Okay, what do we got here?",
+        "start": 0.301,
+        "end": 1.983
+      },
+      {
+        "text": "We got 7 is equal to 9 plus 3, so that's 6.",
+        "start": 2.383,
+        "end": 8.869
+      },
+      {
+        "text": "So 7 is equal to 6.",
+        "start": 9.19,
+        "end": 11.592
+      },
+      {
+        "text": "I can only move one chopstick.",
+        "start": 13.454,
+        "end": 15.516
+      },
+      {
+        "text": "Where am I going to start to move it?",
+        "start": 18.099,
+        "end": 20.061
+      },
+      {
+        "text": "Let's see.",
+        "start": 21.642,
+        "end": 21.922
+      },
+      {
+        "text": "If I remove one from the right side, I can make it 6 is equal to 9",
+        "start": 21.982,
+        "end": 27.608
+      },
+      {
+        "text": " plus 4, that's just incorrect.",
+        "start": 29.123,
+        "end": 31.487
+      },
+      {
+        "text": "If I remove one from to the right of the x, I can make it 7 is equal to 11 plus 3.",
+        "start": 34.712,
+        "end": 41.443
+      },
+      {
+        "text": "If I remove one chopstick and make it 9 minus 3, that's 7 minus 3.",
+        "start": 42.444,
+        "end": 48.294
+      },
+      {
+        "text": "That is incorrect.",
+        "start": 48.394,
+        "end": 49.416
+      },
+      {
+        "text": "If I put",
+        "start": 52.401,
+        "end": 53.342
+      },
+      {
+        "text": " 1 in front of the V, would that be 5?",
+        "start": 54.368,
+        "end": 57.614
+      },
+      {
+        "text": "Then 5 is equal to 9 plus 3, no.",
+        "start": 57.654,
+        "end": 61.741
+      },
+      {
+        "text": "What do I got to move here?",
+        "start": 62.162,
+        "end": 71.499
+      },
+      {
+        "text": "That's 7, 9, 3.",
+        "start": 74.464,
+        "end": 77.71
+      },
+      {
+        "text": " So 12 and seven, how can I bridge a five digit gap here?",
+        "start": 79.057,
+        "end": 84.826
+      },
+      {
+        "text": "Which one am I gonna move?",
+        "start": 84.886,
+        "end": 89.593
+      },
+      {
+        "text": "I can't make it multiplication.",
+        "start": 89.613,
+        "end": 92.157
+      },
+      {
+        "text": "I already tried that last time.",
+        "start": 92.177,
+        "end": 93.719
+      },
+      {
+        "text": "Let's see.",
+        "start": 98.327,
+        "end": 99.308
+      },
+      {
+        "text": "So seven is equal to, how can I make the side on the less more?",
+        "start": 99.328,
+        "end": 107.781
+      },
+      {
+        "text": " What do we got?",
+        "start": 110.309,
+        "end": 127.598
+      },
+      {
+        "text": "Seven is equal to, how can I get seven to be seven?",
+        "start": 128.118,
+        "end": 132.165
+      },
+      {
+        "text": " Let's see, 7 is equal to, can I remove one X chopstick?",
+        "start": 138.035,
+        "end": 145.589
+      },
+      {
+        "text": "I don't even know what that would do.",
+        "start": 146.17,
+        "end": 150.698
+      },
+      {
+        "text": "Can I make an X a V?",
+        "start": 150.758,
+        "end": 152.001
+      },
+      {
+        "text": "Or can I make a V an X?",
+        "start": 154.305,
+        "end": 158.693
+      },
+      {
+        "text": " Let's try seeing if it lets us make an X of V. I doubt that that's going to be allowed, but why not?",
+        "start": 162.723,
+        "end": 171.687
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, what do we got here? We got 7 is equal to 9 plus 3, so that's 6. So 7 is equal to 6. I can only move one chopstick. Where am I going to start to move it? Let's see. If I remove one from the right side, I can make it 6 is equal to 9 plus 4, that's just incorrect. If I remove one from to the right of the x, I can make it 7 is equal to 11 plus 3. If I remove one chopstick and make it 9 minus 3, that's 7 minus 3. That is incorrect. If I put 1 in front of the V, would that be 5? Then 5 is equal to 9 plus 3, no. What do I got to move here? That's 7, 9, 3. So 12 and seven, how can I bridge a five digit gap here? Which one am I gonna move? I can't make it multiplication. I already tried that last time. Let's see. So seven is equal to, how can I make the side on the less more? What do we got? Seven is equal to, how can I get seven to be seven? Let's see, 7 is equal to, can I remove one X chopstick? I don't even know what that would do. Can I make an X a V? Or can I make a V an X? Let's try seeing if it lets us make an X of V. I doubt that that's going to be allowed, but why not?"
+  }
+}

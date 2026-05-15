@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_188439c95744/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, so 3 equals 9 minus 4.Okay.Just thinking.Um.Okay. Okay, all I have to do is I think I just move this one.Okay, so V equals I X minus... Wait.That's already a minus.Okay, good.",
+    "segments": [
+      {
+        "text": " Okay, so 3 equals 9 minus 4.",
+        "start": 2.123,
+        "end": 5.707
+      },
+      {
+        "text": "Okay.",
+        "start": 10.373,
+        "end": 10.674
+      },
+      {
+        "text": "Just thinking.",
+        "start": 12.035,
+        "end": 12.816
+      },
+      {
+        "text": "Um.",
+        "start": 14.879,
+        "end": 15.099
+      },
+      {
+        "text": "Okay.",
+        "start": 30.258,
+        "end": 30.358
+      },
+      {
+        "text": " Okay, all I have to do is I think I just move this one.",
+        "start": 32.92,
+        "end": 35.569
+      },
+      {
+        "text": "Okay, so V equals I X minus... Wait.",
+        "start": 35.629,
+        "end": 49.215
+      },
+      {
+        "text": "That's already a minus.",
+        "start": 49.235,
+        "end": 49.978
+      },
+      {
+        "text": "Okay, good.",
+        "start": 49.998,
+        "end": 51.503
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so 3 equals 9 minus 4. Okay. Just thinking. Um. Okay. Okay, all I have to do is I think I just move this one. Okay, so V equals I X minus... Wait. That's already a minus. Okay, good."
+  }
+}

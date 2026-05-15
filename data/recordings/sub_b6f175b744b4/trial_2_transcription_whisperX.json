@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_b6f175b744b4/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, we've got 13 equals 6, 7 minus 6.13 equals 7 minus 6.This one is very easy, I think.Wait a second, maybe it's not.10, 11, 12, 13.Okay, so my first thought is I can move the second match to make it 6 plus 6, but that would not equal 13.Can this be solved maybe by doing the same thing as the first one?13 minus 7.What would that be?13 minus 7.That would be difference of 6.So all I have to do is, so this is 13, and then you change this to a minus, and then we do 7, and that equals 6.",
+    "segments": [
+      {
+        "text": " All right, we've got 13 equals 6, 7 minus 6.",
+        "start": 0.638,
+        "end": 7.767
+      },
+      {
+        "text": "13 equals 7 minus 6.",
+        "start": 7.788,
+        "end": 11.132
+      },
+      {
+        "text": "This one is very easy, I think.",
+        "start": 13.575,
+        "end": 18.161
+      },
+      {
+        "text": "Wait a second, maybe it's not.",
+        "start": 18.181,
+        "end": 19.503
+      },
+      {
+        "text": "10, 11, 12, 13.",
+        "start": 19.523,
+        "end": 22.747
+      },
+      {
+        "text": "Okay, so my first thought is I can move the second match to make it",
+        "start": 23.288,
+        "end": 26.933
+      },
+      {
+        "text": " 6 plus 6, but that would not equal 13.",
+        "start": 27.419,
+        "end": 31.003
+      },
+      {
+        "text": "Can this be solved maybe by doing the same thing as the first one?",
+        "start": 33.306,
+        "end": 35.889
+      },
+      {
+        "text": "13 minus 7.",
+        "start": 35.909,
+        "end": 40.875
+      },
+      {
+        "text": "What would that be?",
+        "start": 42.416,
+        "end": 43.057
+      },
+      {
+        "text": "13 minus 7.",
+        "start": 43.077,
+        "end": 46.021
+      },
+      {
+        "text": "That would be",
+        "start": 50.926,
+        "end": 51.587
+      },
+      {
+        "text": " difference of 6.",
+        "start": 51.938,
+        "end": 52.66
+      },
+      {
+        "text": "So all I have to do is, so this is 13, and then you change this to a minus, and then we do 7, and that equals 6.",
+        "start": 52.68,
+        "end": 67.838
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, we've got 13 equals 6, 7 minus 6. 13 equals 7 minus 6. This one is very easy, I think. Wait a second, maybe it's not. 10, 11, 12, 13. Okay, so my first thought is I can move the second match to make it 6 plus 6, but that would not equal 13. Can this be solved maybe by doing the same thing as the first one? 13 minus 7. What would that be? 13 minus 7. That would be difference of 6. So all I have to do is, so this is 13, and then you change this to a minus, and then we do 7, and that equals 6."
+  }
+}

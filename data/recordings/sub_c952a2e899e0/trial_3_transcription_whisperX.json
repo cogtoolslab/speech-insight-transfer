@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_c952a2e899e0/trial_3.wav",
+  "with_timestamps": {
+    "text": " Puzzle 3, 9 equals 7 plus 4.So, let's see.Let's change something.We can change. Instead of 9, we can change it to 11.So in the first Roman numeral, instead of 9, we can change it to 11, moving the matchstick over.So we'll do 11 equals VII7 plus IV is 4.",
+    "segments": [
+      {
+        "text": " Puzzle 3, 9 equals 7 plus 4.",
+        "start": 1.955,
+        "end": 6.341
+      },
+      {
+        "text": "So, let's see.",
+        "start": 18.617,
+        "end": 22.622
+      },
+      {
+        "text": "Let's change something.",
+        "start": 22.642,
+        "end": 28.731
+      },
+      {
+        "text": "We can change.",
+        "start": 28.771,
+        "end": 29.852
+      },
+      {
+        "text": " Instead of 9, we can change it to 11.",
+        "start": 33.123,
+        "end": 35.827
+      },
+      {
+        "text": "So in the first Roman numeral, instead of 9, we can change it to 11, moving the matchstick over.",
+        "start": 36.788,
+        "end": 44.92
+      },
+      {
+        "text": "So we'll do 11 equals VII7 plus IV is 4.",
+        "start": 44.98,
+        "end": 56.717
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Puzzle 3, 9 equals 7 plus 4. So, let's see. Let's change something. We can change. Instead of 9, we can change it to 11. So in the first Roman numeral, instead of 9, we can change it to 11, moving the matchstick over. So we'll do 11 equals VII7 plus IV is 4."
+  }
+}

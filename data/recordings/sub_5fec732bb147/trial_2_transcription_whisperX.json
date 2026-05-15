@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_5fec732bb147/trial_2.wav",
+  "with_timestamps": {
+    "text": " Four equals four minus two.No.Okay.What if we move the one and make it... No, that doesn't work.I was thinking move the one to the minus and make it a plus.That doesn't work. One matchstick.The angles all have to stay the same.I can do times.Okay.That doesn't work either.I have to use the minus.Uh, We can just put them in front of each other.We can make the 4 into a 6.6 minus 2 equals 4.4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " Four equals four minus two.",
+        "start": 1.921,
+        "end": 5.185
+      },
+      {
+        "text": "No.",
+        "start": 8.109,
+        "end": 8.45
+      },
+      {
+        "text": "Okay.",
+        "start": 10.933,
+        "end": 11.393
+      },
+      {
+        "text": "What if we move the one and make it... No, that doesn't work.",
+        "start": 17.421,
+        "end": 25.092
+      },
+      {
+        "text": "I was thinking move the one to the minus and make it a plus.",
+        "start": 25.112,
+        "end": 28.536
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 28.576,
+        "end": 31.54
+      },
+      {
+        "text": " One matchstick.",
+        "start": 34.338,
+        "end": 36.1
+      },
+      {
+        "text": "The angles all have to stay the same.",
+        "start": 38.703,
+        "end": 40.144
+      },
+      {
+        "text": "I can do times.",
+        "start": 43.127,
+        "end": 44.268
+      },
+      {
+        "text": "Okay.",
+        "start": 48.313,
+        "end": 48.793
+      },
+      {
+        "text": "That doesn't work either.",
+        "start": 53.338,
+        "end": 54.599
+      },
+      {
+        "text": "I have to use the minus.",
+        "start": 54.619,
+        "end": 55.56
+      },
+      {
+        "text": "Uh,",
+        "start": 58.243,
+        "end": 58.303
+      },
+      {
+        "text": " We can just put them in front of each other.",
+        "start": 62.08,
+        "end": 63.764
+      },
+      {
+        "text": "We can make the 4 into a 6.",
+        "start": 63.784,
+        "end": 67.352
+      },
+      {
+        "text": "6 minus 2 equals 4.",
+        "start": 67.372,
+        "end": 71.22
+      },
+      {
+        "text": "4 equals 6 minus 2.",
+        "start": 71.24,
+        "end": 80.14
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Four equals four minus two. No. Okay. What if we move the one and make it... No, that doesn't work. I was thinking move the one to the minus and make it a plus. That doesn't work. One matchstick. The angles all have to stay the same. I can do times. Okay. That doesn't work either. I have to use the minus. Uh, We can just put them in front of each other. We can make the 4 into a 6. 6 minus 2 equals 4. 4 equals 6 minus 2."
+  }
+}

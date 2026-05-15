@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_1fd86ec6bf44/trial_2.wav",
+  "with_timestamps": {
+    "text": " we have 11 equals 9 plus 2 11 equals 9 plus 2 then 11 is already 11 so that is correct equals V plus 11 Oh, that is a 4.If we change that, change x to a v, v1 equals iv plus",
+    "segments": [
+      {
+        "text": " we have 11 equals 9 plus 2 11 equals 9 plus 2 then 11 is already 11 so that is correct equals V plus 11",
+        "start": 2.579,
+        "end": 30.915
+      },
+      {
+        "text": " Oh, that is a 4.",
+        "start": 33.308,
+        "end": 37.694
+      },
+      {
+        "text": "If we change that, change x to a v, v1 equals iv plus",
+        "start": 42.942,
+        "end": 56.582
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " we have 11 equals 9 plus 2 11 equals 9 plus 2 then 11 is already 11 so that is correct equals V plus 11 Oh, that is a 4. If we change that, change x to a v, v1 equals iv plus"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_eb76a1267103/trial_3.wav",
+  "with_timestamps": {
+    "text": " I think I was confused because I didn't realize I could change the Vs and the Xs by moving the things.I don't know why I didn't think about that.It's embarrassing.So we have four equals four minus two.So two does not equal four.So, um, We could do 6 minus 2, so we'll do IV equals 4 equals 6 minus 2.",
+    "segments": [
+      {
+        "text": " I think I was confused because I didn't realize I could change the Vs and the Xs by moving the things.",
+        "start": 0.031,
+        "end": 5.782
+      },
+      {
+        "text": "I don't know why I didn't think about that.",
+        "start": 6.162,
+        "end": 7.465
+      },
+      {
+        "text": "It's embarrassing.",
+        "start": 7.605,
+        "end": 9.228
+      },
+      {
+        "text": "So we have four equals four minus two.",
+        "start": 9.248,
+        "end": 15.119
+      },
+      {
+        "text": "So two does not equal four.",
+        "start": 15.68,
+        "end": 17.223
+      },
+      {
+        "text": "So, um,",
+        "start": 18.866,
+        "end": 23.254
+      },
+      {
+        "text": " We could do 6 minus 2, so we'll do IV equals 4 equals 6 minus 2.",
+        "start": 27.689,
+        "end": 44.128
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I think I was confused because I didn't realize I could change the Vs and the Xs by moving the things. I don't know why I didn't think about that. It's embarrassing. So we have four equals four minus two. So two does not equal four. So, um, We could do 6 minus 2, so we'll do IV equals 4 equals 6 minus 2."
+  }
+}

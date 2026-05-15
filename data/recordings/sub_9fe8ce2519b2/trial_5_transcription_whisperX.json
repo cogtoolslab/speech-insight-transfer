@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_9fe8ce2519b2/trial_5.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick.So this says 13 minus 7 equals 6.So switch those.13 minus 7 equals 6.Why is that wrong?13 minus 7 equals 6. okay so 13 equals 6 no that's not right that's 2 use buttons below to report the conversion of the equation 13 minus 7 equals 6.13 minus 7 equals 6.No?OK.6. 7, 6, 13.Okay.It would be 10, maybe.What would equal 10, maybe?12. No, 12 would be 6 plus 6.So it's just not moving 1.I've already done it.OK, 13 minus, wait, back, minus 7 equals 6.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick.",
+        "start": 1.988,
+        "end": 3.51
+      },
+      {
+        "text": "So this says 13 minus 7 equals 6.",
+        "start": 3.53,
+        "end": 8.417
+      },
+      {
+        "text": "So switch those.",
+        "start": 9.258,
+        "end": 10.019
+      },
+      {
+        "text": "13 minus 7 equals 6.",
+        "start": 10.039,
+        "end": 16.688
+      },
+      {
+        "text": "Why is that wrong?",
+        "start": 18.81,
+        "end": 19.852
+      },
+      {
+        "text": "13 minus 7 equals 6.",
+        "start": 19.872,
+        "end": 25.279
+      },
+      {
+        "text": " okay so 13 equals 6 no that's not right that's 2 use buttons below to report the conversion of the equation",
+        "start": 30.085,
+        "end": 57.105
+      },
+      {
+        "text": " 13 minus 7 equals 6.",
+        "start": 60.089,
+        "end": 66.3
+      },
+      {
+        "text": "13 minus 7 equals 6.",
+        "start": 66.32,
+        "end": 76.939
+      },
+      {
+        "text": "No?",
+        "start": 81.306,
+        "end": 81.747
+      },
+      {
+        "text": "OK.",
+        "start": 81.767,
+        "end": 82.068
+      },
+      {
+        "text": "6.",
+        "start": 82.088,
+        "end": 85.033
+      },
+      {
+        "text": " 7, 6, 13.",
+        "start": 89.3,
+        "end": 90.041
+      },
+      {
+        "text": "Okay.",
+        "start": 101.111,
+        "end": 102.972
+      },
+      {
+        "text": "It would be 10, maybe.",
+        "start": 104.213,
+        "end": 106.776
+      },
+      {
+        "text": "What would equal 10, maybe?",
+        "start": 106.796,
+        "end": 114.282
+      },
+      {
+        "text": "12.",
+        "start": 114.302,
+        "end": 117.265
+      },
+      {
+        "text": " No, 12 would be 6 plus 6.",
+        "start": 117.565,
+        "end": 119.509
+      },
+      {
+        "text": "So it's just not moving 1.",
+        "start": 119.769,
+        "end": 121.673
+      },
+      {
+        "text": "I've already done it.",
+        "start": 125.179,
+        "end": 126.441
+      },
+      {
+        "text": "OK, 13 minus, wait, back, minus 7 equals 6.",
+        "start": 126.662,
+        "end": 141.649
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick. So this says 13 minus 7 equals 6. So switch those. 13 minus 7 equals 6. Why is that wrong? 13 minus 7 equals 6. okay so 13 equals 6 no that's not right that's 2 use buttons below to report the conversion of the equation 13 minus 7 equals 6. 13 minus 7 equals 6. No? OK. 6. 7, 6, 13. Okay. It would be 10, maybe. What would equal 10, maybe? 12. No, 12 would be 6 plus 6. So it's just not moving 1. I've already done it. OK, 13 minus, wait, back, minus 7 equals 6."
+  }
+}

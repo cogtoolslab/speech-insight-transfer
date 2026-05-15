@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_84dc13f9f35a/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright, 6 equals 6 plus 1.These are really stupid.Can you remove a matchstick?Okay, let's try that.VI equals V plus 1.This is so... Oh!No. So 4 plus 1 would be 5. x, x. No.Well, we'll try it, because this is really stupid that you can't x minus 1. Of course it's incorrect.This is really dumb.You can't do it.You can't do it.Four plus one is five, so that's not it.You can't do it without moving one matchstick.Let's see.So it's four.Four equals 5 minus 1, let's try it, equals IV minus 1.Oh, wait, no.Let's try that.6 minus 1.No, that's incorrect.Of course it is, because you can't 4 plus 1 is 5, so that's not it.6 minus 1.6 minus 1 would be 5.So you can't.There's no way to do it.We could try this. No, you can't do that either.All right, let's try it.I know it's not going to let me do it, because it's stupid.5 minus 4.That's IV.Of course that's incorrect.What the hell is this?This is stupid.You can't do it. by only moving one matchstick.I hope you're going to show us the answers because this is dumb.6 minus 1.It's still changing.6 minus 1.Let's try it.Let's try it.5 equals VI minus 1.That's, of course, incorrect. 1, 2, 3, no, 6.All right, let's try that.1 equals v i minus i",
+    "segments": [
+      {
+        "text": " Alright, 6 equals 6 plus 1.",
+        "start": 0.031,
+        "end": 4.536
+      },
+      {
+        "text": "These are really stupid.",
+        "start": 6.318,
+        "end": 7.6
+      },
+      {
+        "text": "Can you remove a matchstick?",
+        "start": 9.362,
+        "end": 13.046
+      },
+      {
+        "text": "Okay, let's try that.",
+        "start": 15.088,
+        "end": 16.209
+      },
+      {
+        "text": "VI equals V plus 1.",
+        "start": 16.39,
+        "end": 22.296
+      },
+      {
+        "text": "This is so... Oh!",
+        "start": 25.26,
+        "end": 26.621
+      },
+      {
+        "text": "No.",
+        "start": 28.003,
+        "end": 28.283
+      },
+      {
+        "text": " So 4 plus 1 would be 5. x, x. No.",
+        "start": 30.406,
+        "end": 47.845
+      },
+      {
+        "text": "Well, we'll try it, because this is really stupid that you can't x minus 1.",
+        "start": 48.245,
+        "end": 55.873
+      },
+      {
+        "text": " Of course it's incorrect.",
+        "start": 57.929,
+        "end": 59.211
+      },
+      {
+        "text": "This is really dumb.",
+        "start": 59.411,
+        "end": 60.673
+      },
+      {
+        "text": "You can't do it.",
+        "start": 61.193,
+        "end": 62.075
+      },
+      {
+        "text": "You can't do it.",
+        "start": 63.396,
+        "end": 64.218
+      },
+      {
+        "text": "Four plus one is five, so that's not it.",
+        "start": 66.521,
+        "end": 71.387
+      },
+      {
+        "text": "You can't do it without moving one matchstick.",
+        "start": 73.27,
+        "end": 75.653
+      },
+      {
+        "text": "Let's see.",
+        "start": 78.117,
+        "end": 78.798
+      },
+      {
+        "text": "So it's four.",
+        "start": 79.919,
+        "end": 80.96
+      },
+      {
+        "text": "Four equals",
+        "start": 84.325,
+        "end": 86.468
+      },
+      {
+        "text": " 5 minus 1, let's try it, equals IV minus 1.",
+        "start": 89.924,
+        "end": 100.556
+      },
+      {
+        "text": "Oh, wait, no.",
+        "start": 102.217,
+        "end": 103.279
+      },
+      {
+        "text": "Let's try that.",
+        "start": 107.103,
+        "end": 107.904
+      },
+      {
+        "text": "6 minus 1.",
+        "start": 107.924,
+        "end": 111.828
+      },
+      {
+        "text": "No, that's incorrect.",
+        "start": 114.511,
+        "end": 115.632
+      },
+      {
+        "text": "Of course it is, because you can't",
+        "start": 115.652,
+        "end": 118.395
+      },
+      {
+        "text": " 4 plus 1 is 5, so that's not it.",
+        "start": 119.557,
+        "end": 122.261
+      },
+      {
+        "text": "6 minus 1.",
+        "start": 122.281,
+        "end": 127.509
+      },
+      {
+        "text": "6 minus 1 would be 5.",
+        "start": 127.529,
+        "end": 133.759
+      },
+      {
+        "text": "So you can't.",
+        "start": 137.624,
+        "end": 143.053
+      },
+      {
+        "text": "There's no way to do it.",
+        "start": 143.373,
+        "end": 144.535
+      },
+      {
+        "text": "We could try this.",
+        "start": 145.917,
+        "end": 147.319
+      },
+      {
+        "text": " No, you can't do that either.",
+        "start": 149.78,
+        "end": 151.463
+      },
+      {
+        "text": "All right, let's try it.",
+        "start": 151.503,
+        "end": 153.906
+      },
+      {
+        "text": "I know it's not going to let me do it, because it's stupid.",
+        "start": 154.147,
+        "end": 157.171
+      },
+      {
+        "text": "5 minus 4.",
+        "start": 157.191,
+        "end": 163.882
+      },
+      {
+        "text": "That's IV.",
+        "start": 166.746,
+        "end": 167.908
+      },
+      {
+        "text": "Of course that's incorrect.",
+        "start": 171.213,
+        "end": 172.475
+      },
+      {
+        "text": "What the hell is this?",
+        "start": 173.797,
+        "end": 175.399
+      },
+      {
+        "text": "This is stupid.",
+        "start": 175.78,
+        "end": 176.741
+      },
+      {
+        "text": "You can't do it.",
+        "start": 177.523,
+        "end": 178.504
+      },
+      {
+        "text": " by only moving one matchstick.",
+        "start": 182.247,
+        "end": 184.951
+      },
+      {
+        "text": "I hope you're going to show us the answers because this is dumb.",
+        "start": 184.971,
+        "end": 188.235
+      },
+      {
+        "text": "6 minus 1.",
+        "start": 188.255,
+        "end": 192.14
+      },
+      {
+        "text": "It's still changing.",
+        "start": 193.862,
+        "end": 194.923
+      },
+      {
+        "text": "6 minus 1.",
+        "start": 194.943,
+        "end": 197.266
+      },
+      {
+        "text": "Let's try it.",
+        "start": 198.148,
+        "end": 198.949
+      },
+      {
+        "text": "Let's try it.",
+        "start": 200.971,
+        "end": 201.612
+      },
+      {
+        "text": "5 equals VI minus 1.",
+        "start": 201.632,
+        "end": 208.261
+      },
+      {
+        "text": "That's, of course, incorrect.",
+        "start": 209.823,
+        "end": 211.545
+      },
+      {
+        "text": " 1, 2, 3, no, 6.",
+        "start": 213.196,
+        "end": 221.297
+      },
+      {
+        "text": "All right, let's try that.",
+        "start": 223.803,
+        "end": 224.926
+      },
+      {
+        "text": "1 equals v i minus i",
+        "start": 230.4,
+        "end": 239.423
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, 6 equals 6 plus 1. These are really stupid. Can you remove a matchstick? Okay, let's try that. VI equals V plus 1. This is so... Oh! No. So 4 plus 1 would be 5. x, x. No. Well, we'll try it, because this is really stupid that you can't x minus 1. Of course it's incorrect. This is really dumb. You can't do it. You can't do it. Four plus one is five, so that's not it. You can't do it without moving one matchstick. Let's see. So it's four. Four equals 5 minus 1, let's try it, equals IV minus 1. Oh, wait, no. Let's try that. 6 minus 1. No, that's incorrect. Of course it is, because you can't 4 plus 1 is 5, so that's not it. 6 minus 1. 6 minus 1 would be 5. So you can't. There's no way to do it. We could try this. No, you can't do that either. All right, let's try it. I know it's not going to let me do it, because it's stupid. 5 minus 4. That's IV. Of course that's incorrect. What the hell is this? This is stupid. You can't do it. by only moving one matchstick. I hope you're going to show us the answers because this is dumb. 6 minus 1. It's still changing. 6 minus 1. Let's try it. Let's try it. 5 equals VI minus 1. That's, of course, incorrect. 1, 2, 3, no, 6. All right, let's try that. 1 equals v i minus i"
+  }
+}

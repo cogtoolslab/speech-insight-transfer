@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_71fc70db9a34/trial_5.wav",
+  "with_timestamps": {
+    "text": " This equation, we have 2 equals 9 minus 2.If we turn the x into a v, it'll be 4 minus 2.",
+    "segments": [
+      {
+        "text": " This equation, we have 2 equals 9 minus 2.",
+        "start": 0.031,
+        "end": 5.214
+      },
+      {
+        "text": "If we turn the x into a v, it'll be 4 minus 2.",
+        "start": 5.515,
+        "end": 8.91
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This equation, we have 2 equals 9 minus 2. If we turn the x into a v, it'll be 4 minus 2."
+  }
+}

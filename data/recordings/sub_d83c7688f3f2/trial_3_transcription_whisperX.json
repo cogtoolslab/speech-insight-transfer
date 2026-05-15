@@ -1,0 +1,161 @@
+{
+  "file": "data/recordings/sub_d83c7688f3f2/trial_3.wav",
+  "with_timestamps": {
+    "text": " This is way harder than I thought.4 equals 11 minus 2.11 minus 2 is 9.4 does not equal 9.Remove this matchstick.6 equals 9, which is not true.Remove this one. 4, 9, minus 2, which equals 7.No.If I move this one to the X, it'll be 4 equals 12 minus 1.No.If I move this X, can we get negatives?I don't think we can do negatives. Okay, what if I move this one over here?It would be 5 equals 12 minus 2.It would be 5 equals 12 minus 2.Now that's 10. It will be 11 minus 7, 4 is not equal to 1.If I move this X, no.Whatever I move, it will be 14 minus 2. I'll move one of these.11 minus 1.7.10 minus 3.4.Wait.6. 6 equals 11 minus 6 okay oh i'm so confused let me play here 6 equals 11 minus 2 no that doesn't work this will be 9 so four equals okay how about switch it nine minus two that's seven no this is four and seven no okay 10 minus 3 is 7 it's not equal 4 11 minus",
+    "segments": [
+      {
+        "text": " This is way harder than I thought.",
+        "start": 0.031,
+        "end": 7.26
+      },
+      {
+        "text": "4 equals 11 minus 2.",
+        "start": 7.28,
+        "end": 10.744
+      },
+      {
+        "text": "11 minus 2 is 9.",
+        "start": 12.286,
+        "end": 13.848
+      },
+      {
+        "text": "4 does not equal 9.",
+        "start": 13.868,
+        "end": 17.712
+      },
+      {
+        "text": "Remove this matchstick.",
+        "start": 20.416,
+        "end": 21.717
+      },
+      {
+        "text": "6 equals 9, which is not true.",
+        "start": 23.359,
+        "end": 25.902
+      },
+      {
+        "text": "Remove this one.",
+        "start": 27.364,
+        "end": 29.987
+      },
+      {
+        "text": " 4, 9, minus 2, which equals 7.",
+        "start": 30.76,
+        "end": 36.766
+      },
+      {
+        "text": "No.",
+        "start": 37.006,
+        "end": 37.207
+      },
+      {
+        "text": "If I move this one to the X, it'll be 4 equals 12 minus 1.",
+        "start": 38.908,
+        "end": 45.455
+      },
+      {
+        "text": "No.",
+        "start": 45.515,
+        "end": 45.816
+      },
+      {
+        "text": "If I move this X, can we get negatives?",
+        "start": 47.517,
+        "end": 51.321
+      },
+      {
+        "text": "I don't think we can do negatives.",
+        "start": 54.304,
+        "end": 55.806
+      },
+      {
+        "text": " Okay, what if I move this one over here?",
+        "start": 61.338,
+        "end": 63.061
+      },
+      {
+        "text": "It would be 5 equals 12 minus 2.",
+        "start": 63.341,
+        "end": 70.653
+      },
+      {
+        "text": "It would be 5 equals 12 minus 2.",
+        "start": 82.07,
+        "end": 86.678
+      },
+      {
+        "text": "Now that's 10.",
+        "start": 87.138,
+        "end": 88.24
+      },
+      {
+        "text": " It will be 11 minus 7, 4 is not equal to 1.",
+        "start": 96.303,
+        "end": 101.449
+      },
+      {
+        "text": "If I move this X, no.",
+        "start": 103.111,
+        "end": 111.922
+      },
+      {
+        "text": "Whatever I move, it will be 14 minus 2.",
+        "start": 111.942,
+        "end": 116.488
+      },
+      {
+        "text": " I'll move one of these.",
+        "start": 127.083,
+        "end": 128.085
+      },
+      {
+        "text": "11 minus 1.",
+        "start": 128.105,
+        "end": 131.249
+      },
+      {
+        "text": "7.",
+        "start": 131.269,
+        "end": 131.309
+      },
+      {
+        "text": "10 minus 3.",
+        "start": 135.916,
+        "end": 140.423
+      },
+      {
+        "text": "4.",
+        "start": 140.443,
+        "end": 140.483
+      },
+      {
+        "text": "Wait.",
+        "start": 141.865,
+        "end": 142.046
+      },
+      {
+        "text": "6.",
+        "start": 142.066,
+        "end": 153.563
+      },
+      {
+        "text": " 6 equals 11 minus 6 okay oh i'm so confused let me play here 6 equals 11 minus 2 no that doesn't work this will be 9",
+        "start": 159.398,
+        "end": 181.407
+      },
+      {
+        "text": " so four equals okay how about switch it nine minus two that's seven no this is four and seven no",
+        "start": 188.255,
+        "end": 214.903
+      },
+      {
+        "text": " okay 10 minus 3 is 7 it's not equal 4 11 minus",
+        "start": 219.912,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " This is way harder than I thought. 4 equals 11 minus 2. 11 minus 2 is 9. 4 does not equal 9. Remove this matchstick. 6 equals 9, which is not true. Remove this one. 4, 9, minus 2, which equals 7. No. If I move this one to the X, it'll be 4 equals 12 minus 1. No. If I move this X, can we get negatives? I don't think we can do negatives. Okay, what if I move this one over here? It would be 5 equals 12 minus 2. It would be 5 equals 12 minus 2. Now that's 10. It will be 11 minus 7, 4 is not equal to 1. If I move this X, no. Whatever I move, it will be 14 minus 2. I'll move one of these. 11 minus 1. 7. 10 minus 3. 4. Wait. 6. 6 equals 11 minus 6 okay oh i'm so confused let me play here 6 equals 11 minus 2 no that doesn't work this will be 9 so four equals okay how about switch it nine minus two that's seven no this is four and seven no okay 10 minus 3 is 7 it's not equal 4 11 minus"
+  }
+}

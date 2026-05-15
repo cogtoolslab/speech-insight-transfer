@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_43f76795edbe/trial_3.wav",
+  "with_timestamps": {
+    "text": " So we're working with 6 equals 6 plus 1, which we're working with 7 on the other side.We need to somehow, oh, can't we just move the eye to the other side and it'd be 4 Plus four plus one would be, no, that doesn't work.Could we do, oh, hold on.I could move this match stick from the plus sign to the six and make it seven minus one.So VI equals VII minus one.",
+    "segments": [
+      {
+        "text": " So we're working with 6 equals 6 plus 1, which we're working with 7 on the other side.",
+        "start": 2.039,
+        "end": 10.254
+      },
+      {
+        "text": "We need to somehow, oh, can't we just move the eye to the other side and it'd be 4",
+        "start": 10.294,
+        "end": 25.06
+      },
+      {
+        "text": " Plus four plus one would be, no, that doesn't work.",
+        "start": 26.693,
+        "end": 30.158
+      },
+      {
+        "text": "Could we do, oh, hold on.",
+        "start": 36.587,
+        "end": 38.811
+      },
+      {
+        "text": "I could move this match stick from the plus sign to the six and make it seven minus one.",
+        "start": 38.911,
+        "end": 47.022
+      },
+      {
+        "text": "So VI equals VII minus one.",
+        "start": 48.384,
+        "end": 55.755
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So we're working with 6 equals 6 plus 1, which we're working with 7 on the other side. We need to somehow, oh, can't we just move the eye to the other side and it'd be 4 Plus four plus one would be, no, that doesn't work. Could we do, oh, hold on. I could move this match stick from the plus sign to the six and make it seven minus one. So VI equals VII minus one."
+  }
+}

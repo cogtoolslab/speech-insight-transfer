@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_fdb029ec5a9d/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, this one is 4 equals 5, 6, 7 plus 4.So I guess I'll just change the numbers.So 7 7 minus 4.Then I'll change 3.Okay, so I guess 7.Can I change this to 11?Oh yeah, I just switched the V and the I. So 11.Oh no, that's not.That's 6.Hmm. I'm a little bit stuck with this one.5, 6, 7.If I can't do subtract, then it would change this value as well. Yeah, so I'm kind of sick with this one. I'm just gonna try to change this to 11 to see if that'll work.I know that that doesn't really follow the rules, but we'll see.Nope.Oh, what if I do 8? 8 minus 4.I have two matchsticks.",
+    "segments": [
+      {
+        "text": " Okay, this one is 4 equals 5, 6, 7 plus 4.",
+        "start": 1.533,
+        "end": 13.929
+      },
+      {
+        "text": "So I guess I'll just change the numbers.",
+        "start": 23.24,
+        "end": 25.042
+      },
+      {
+        "text": "So 7",
+        "start": 25.083,
+        "end": 27.085
+      },
+      {
+        "text": " 7 minus 4.",
+        "start": 33.157,
+        "end": 34.339
+      },
+      {
+        "text": "Then I'll change 3.",
+        "start": 37.384,
+        "end": 38.886
+      },
+      {
+        "text": "Okay, so I guess 7.",
+        "start": 38.906,
+        "end": 41.31
+      },
+      {
+        "text": "Can I change this to 11?",
+        "start": 41.33,
+        "end": 45.638
+      },
+      {
+        "text": "Oh yeah, I just switched the V and the I. So 11.",
+        "start": 45.658,
+        "end": 50.806
+      },
+      {
+        "text": "Oh no, that's not.",
+        "start": 50.826,
+        "end": 53.07
+      },
+      {
+        "text": "That's 6.",
+        "start": 53.09,
+        "end": 54.252
+      },
+      {
+        "text": "Hmm.",
+        "start": 57.537,
+        "end": 58.118
+      },
+      {
+        "text": " I'm a little bit stuck with this one.",
+        "start": 93.383,
+        "end": 95.328
+      },
+      {
+        "text": "5, 6, 7.",
+        "start": 95.348,
+        "end": 103.447
+      },
+      {
+        "text": "If I can't do subtract, then it would change this value as well.",
+        "start": 104.048,
+        "end": 108.118
+      },
+      {
+        "text": " Yeah, so I'm kind of sick with this one.",
+        "start": 140.127,
+        "end": 170.117
+      },
+      {
+        "text": " I'm just gonna try to change this to 11 to see if that'll work.",
+        "start": 179.918,
+        "end": 183.723
+      },
+      {
+        "text": "I know that that doesn't really follow the rules, but we'll see.",
+        "start": 184.104,
+        "end": 191.634
+      },
+      {
+        "text": "Nope.",
+        "start": 191.654,
+        "end": 191.914
+      },
+      {
+        "text": "Oh, what if I do 8?",
+        "start": 205.953,
+        "end": 207.495
+      },
+      {
+        "text": " 8 minus 4.",
+        "start": 208.606,
+        "end": 210.515
+      },
+      {
+        "text": "I have two matchsticks.",
+        "start": 210.535,
+        "end": 215.258
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, this one is 4 equals 5, 6, 7 plus 4. So I guess I'll just change the numbers. So 7 7 minus 4. Then I'll change 3. Okay, so I guess 7. Can I change this to 11? Oh yeah, I just switched the V and the I. So 11. Oh no, that's not. That's 6. Hmm. I'm a little bit stuck with this one. 5, 6, 7. If I can't do subtract, then it would change this value as well. Yeah, so I'm kind of sick with this one. I'm just gonna try to change this to 11 to see if that'll work. I know that that doesn't really follow the rules, but we'll see. Nope. Oh, what if I do 8? 8 minus 4. I have two matchsticks."
+  }
+}

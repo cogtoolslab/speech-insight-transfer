@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_94256d574ebd/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, I get that one.I get that one.It took me a while.It took me a good while to get that one.I'm happy.That made me happy.Yes.Okay.Now for this one, this one is 7.7 equals 12 plus 12 plus 6, 7 equals 12 plus 6.Which is not right.7 equals 12 plus 6, 12 minus 6. 7, ok, hold on.So, ok, ok, ok, ok, ok, vii equals xii i minus vi.How about that one?How about that one?How about that one?",
+    "segments": [
+      {
+        "text": " Okay, I get that one.",
+        "start": 0.031,
+        "end": 1.854
+      },
+      {
+        "text": "I get that one.",
+        "start": 1.874,
+        "end": 2.595
+      },
+      {
+        "text": "It took me a while.",
+        "start": 2.655,
+        "end": 3.457
+      },
+      {
+        "text": "It took me a good while to get that one.",
+        "start": 4.138,
+        "end": 6.141
+      },
+      {
+        "text": "I'm happy.",
+        "start": 6.161,
+        "end": 6.662
+      },
+      {
+        "text": "That made me happy.",
+        "start": 7.483,
+        "end": 8.865
+      },
+      {
+        "text": "Yes.",
+        "start": 8.905,
+        "end": 9.166
+      },
+      {
+        "text": "Okay.",
+        "start": 9.286,
+        "end": 10.067
+      },
+      {
+        "text": "Now for this one, this one is 7.",
+        "start": 10.087,
+        "end": 13.974
+      },
+      {
+        "text": "7 equals 12 plus",
+        "start": 13.994,
+        "end": 20.284
+      },
+      {
+        "text": " 12 plus 6, 7 equals 12 plus 6.",
+        "start": 26.609,
+        "end": 30.055
+      },
+      {
+        "text": "Which is not right.",
+        "start": 33.1,
+        "end": 33.801
+      },
+      {
+        "text": "7 equals 12 plus 6, 12 minus 6.",
+        "start": 33.821,
+        "end": 45.141
+      },
+      {
+        "text": " 7, ok, hold on.",
+        "start": 48.867,
+        "end": 50.492
+      },
+      {
+        "text": "So, ok, ok, ok, ok, ok, vii equals xii i minus vi.",
+        "start": 51.495,
+        "end": 64.272
+      },
+      {
+        "text": "How about that one?",
+        "start": 64.292,
+        "end": 65.536
+      },
+      {
+        "text": "How about that one?",
+        "start": 65.857,
+        "end": 66.499
+      },
+      {
+        "text": "How about that one?",
+        "start": 66.519,
+        "end": 67.281
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, I get that one. I get that one. It took me a while. It took me a good while to get that one. I'm happy. That made me happy. Yes. Okay. Now for this one, this one is 7. 7 equals 12 plus 12 plus 6, 7 equals 12 plus 6. Which is not right. 7 equals 12 plus 6, 12 minus 6. 7, ok, hold on. So, ok, ok, ok, ok, ok, vii equals xii i minus vi. How about that one? How about that one? How about that one?"
+  }
+}

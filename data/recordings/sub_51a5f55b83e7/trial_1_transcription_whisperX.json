@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_51a5f55b83e7/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, 1x, that's 9, equals 7 plus 4.That is not correct.To move one matchstick, does it say 7 plus 4?Okay, I see.7 plus 4 it would be. Okay, if I move this matchstick in front of the X, so 10 plus 1, since I switched the matchstick to the front, this is now 11.So 11 equals 7 plus 4.",
+    "segments": [
+      {
+        "text": " Okay, 1x, that's 9, equals 7 plus 4.",
+        "start": 1.617,
+        "end": 10.667
+      },
+      {
+        "text": "That is not correct.",
+        "start": 11.448,
+        "end": 13.03
+      },
+      {
+        "text": "To move one matchstick, does it say 7 plus 4?",
+        "start": 15.993,
+        "end": 22.621
+      },
+      {
+        "text": "Okay, I see.",
+        "start": 24.643,
+        "end": 25.604
+      },
+      {
+        "text": "7 plus 4 it would be.",
+        "start": 25.624,
+        "end": 27.827
+      },
+      {
+        "text": " Okay, if I move this matchstick in front of the X, so 10 plus 1, since I switched the matchstick to the front, this is now 11.",
+        "start": 29.849,
+        "end": 44.913
+      },
+      {
+        "text": "So 11 equals 7 plus 4.",
+        "start": 46.495,
+        "end": 53.967
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 1x, that's 9, equals 7 plus 4. That is not correct. To move one matchstick, does it say 7 plus 4? Okay, I see. 7 plus 4 it would be. Okay, if I move this matchstick in front of the X, so 10 plus 1, since I switched the matchstick to the front, this is now 11. So 11 equals 7 plus 4."
+  }
+}

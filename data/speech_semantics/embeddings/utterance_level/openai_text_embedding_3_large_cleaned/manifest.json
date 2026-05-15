@@ -1,0 +1,8 @@
+{
+  "model": "text-embedding-3-large",
+  "batch_size": 100,
+  "n_utterances": 22068,
+  "metadata_path": "embeddings/utterance_level/openai_text_embedding_3_large_cleaned/utterance_metadata.parquet",
+  "embeddings_path": "embeddings/utterance_level/openai_text_embedding_3_large_cleaned/utterance_embeddings.npy",
+  "notes": "Embeddings saved incrementally; row order matches utterance_metadata.parquet. One excluded participant was omitted before embedding."
+}

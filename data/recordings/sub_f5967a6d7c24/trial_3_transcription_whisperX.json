@@ -1,0 +1,41 @@
+{
+  "file": "data/recordings/sub_f5967a6d7c24/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, so I've got seven equals, so three minus four.So it's three plus four.Three plus four, seven.I can do seven minus three equals four, I guess.Seven minus three equals, okay.That's easy enough.",
+    "segments": [
+      {
+        "text": " All right, so I've got seven equals, so three minus four.",
+        "start": 1.853,
+        "end": 8.967
+      },
+      {
+        "text": "So it's three plus four.",
+        "start": 9.047,
+        "end": 10.77
+      },
+      {
+        "text": "Three plus four, seven.",
+        "start": 10.81,
+        "end": 15.119
+      },
+      {
+        "text": "I can do seven minus three equals four, I guess.",
+        "start": 17.283,
+        "end": 19.708
+      },
+      {
+        "text": "Seven minus three equals, okay.",
+        "start": 19.728,
+        "end": 21.291
+      },
+      {
+        "text": "That's easy enough.",
+        "start": 22.834,
+        "end": 23.575
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so I've got seven equals, so three minus four. So it's three plus four. Three plus four, seven. I can do seven minus three equals four, I guess. Seven minus three equals, okay. That's easy enough."
+  }
+}

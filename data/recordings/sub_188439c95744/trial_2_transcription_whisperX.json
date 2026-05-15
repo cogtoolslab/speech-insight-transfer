@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_188439c95744/trial_2.wav",
+  "with_timestamps": {
+    "text": " So 7 equals 3 minus 4.7 minus 4.It just has to be plus 4.But I have to move something.So it doesn't already exist.Let me just think. Hmm.Oh, okay.I can just move this.Okay, so. What I'm thinking is that this could turn into a subtraction thing.I just move where the signs are.So it'd be the 7 minus 3 equals 4.",
+    "segments": [
+      {
+        "text": " So 7 equals 3 minus 4.",
+        "start": 1.263,
+        "end": 4.708
+      },
+      {
+        "text": "7 minus 4.",
+        "start": 4.728,
+        "end": 16.766
+      },
+      {
+        "text": "It just has to be plus 4.",
+        "start": 16.926,
+        "end": 19.169
+      },
+      {
+        "text": "But I have to move something.",
+        "start": 20.331,
+        "end": 22.133
+      },
+      {
+        "text": "So it doesn't already exist.",
+        "start": 22.214,
+        "end": 26.4
+      },
+      {
+        "text": "Let me just think.",
+        "start": 26.42,
+        "end": 27.321
+      },
+      {
+        "text": " Hmm.",
+        "start": 36.295,
+        "end": 39.379
+      },
+      {
+        "text": "Oh, okay.",
+        "start": 60.764,
+        "end": 61.204
+      },
+      {
+        "text": "I can just move this.",
+        "start": 61.244,
+        "end": 63.647
+      },
+      {
+        "text": "Okay, so.",
+        "start": 63.807,
+        "end": 64.328
+      },
+      {
+        "text": " What I'm thinking is that this could turn into a subtraction thing.",
+        "start": 64.932,
+        "end": 69.82
+      },
+      {
+        "text": "I just move where the signs are.",
+        "start": 69.84,
+        "end": 72.625
+      },
+      {
+        "text": "So it'd be the 7 minus 3 equals 4.",
+        "start": 72.705,
+        "end": 81.76
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 7 equals 3 minus 4. 7 minus 4. It just has to be plus 4. But I have to move something. So it doesn't already exist. Let me just think. Hmm. Oh, okay. I can just move this. Okay, so. What I'm thinking is that this could turn into a subtraction thing. I just move where the signs are. So it'd be the 7 minus 3 equals 4."
+  }
+}

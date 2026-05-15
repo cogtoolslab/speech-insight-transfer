@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_a3e279103ed5/trial_3.wav",
+  "with_timestamps": {
+    "text": " I'm probably going to be the same thing again.Move that again to where that's equals.That would probably be... That's 9.Yep, same thing.They're all the same.So I'm going to do the same thing.I'm going to do 13 minus 9 equals... 4 by moving the minus where the equals is and the equals where the minus is.",
+    "segments": [
+      {
+        "text": " I'm probably going to be the same thing again.",
+        "start": 0.79,
+        "end": 2.813
+      },
+      {
+        "text": "Move that again to where that's equals.",
+        "start": 3.814,
+        "end": 5.978
+      },
+      {
+        "text": "That would probably be... That's 9.",
+        "start": 5.998,
+        "end": 12.527
+      },
+      {
+        "text": "Yep, same thing.",
+        "start": 13.409,
+        "end": 14.19
+      },
+      {
+        "text": "They're all the same.",
+        "start": 15.832,
+        "end": 16.533
+      },
+      {
+        "text": "So I'm going to do the same thing.",
+        "start": 16.553,
+        "end": 19.798
+      },
+      {
+        "text": "I'm going to do 13 minus 9 equals...",
+        "start": 19.818,
+        "end": 29.312
+      },
+      {
+        "text": " 4 by moving the minus where the equals is and the equals where the minus is.",
+        "start": 31.081,
+        "end": 36.568
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm probably going to be the same thing again. Move that again to where that's equals. That would probably be... That's 9. Yep, same thing. They're all the same. So I'm going to do the same thing. I'm going to do 13 minus 9 equals... 4 by moving the minus where the equals is and the equals where the minus is."
+  }
+}

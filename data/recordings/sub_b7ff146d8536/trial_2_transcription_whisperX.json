@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_b7ff146d8536/trial_2.wav",
+  "with_timestamps": {
+    "text": " Very difficult.All right, so we have 11 equals 4 plus 2.4 plus 2 is 6.So 11 and 6.11, 6.Now, if I were to put the 5 over here, that'd change into a 6 plus 2, which is 8, which is still not enough. If I change this to there, that'd be a nine, four plus two, six, so that's not gonna work.If I change, let's see, if I put the one, gosh, it's hard. One.I would have made this into a six.Six plus two.That's still only eight.That's not gonna work.Nine.Can you put it on both sides?You can only move one matchstick.So you can't put it on both sides. I can only move one matchstick.Let's see here.Nine, four.Yeah, that's not gonna, over here, that's not gonna work.Man, this is tough.X over here, that's not gonna work. If I do 1 over here, what would that be?4 plus 3, right?4 plus 3 is 7, that's not going to work.Move it to 5, that's not going to work.So it has to be, if I change it to a minus sign, that's not going to work either. I don't know.This is very difficult.One.If I put the five over here, it's only gonna make it into seven, eight.Five on this side, six, seven, eight.See, regardless of where I put the five, it's still gonna be eight. Hmm, if I make that a subtraction, same thing.It's not gonna work.Um... I don't know.I really don't know.Um... You can only move one matchstick.Hmm... 9 equals 1.No, that's going to be 10.Let me just guess.x equals 1 plus that.",
+    "segments": [
+      {
+        "text": " Very difficult.",
+        "start": 0.031,
+        "end": 0.752
+      },
+      {
+        "text": "All right, so we have 11 equals 4 plus 2.",
+        "start": 2.834,
+        "end": 10.281
+      },
+      {
+        "text": "4 plus 2 is 6.",
+        "start": 10.301,
+        "end": 14.906
+      },
+      {
+        "text": "So 11 and 6.",
+        "start": 16.367,
+        "end": 17.929
+      },
+      {
+        "text": "11, 6.",
+        "start": 17.949,
+        "end": 21.733
+      },
+      {
+        "text": "Now, if I were to put the 5 over here, that'd change into a 6 plus 2, which is 8, which is still not enough.",
+        "start": 22.113,
+        "end": 30.021
+      },
+      {
+        "text": " If I change this to there, that'd be a nine, four plus two, six, so that's not gonna work.",
+        "start": 32.988,
+        "end": 43.561
+      },
+      {
+        "text": "If I change, let's see, if I put the one, gosh, it's hard.",
+        "start": 47.365,
+        "end": 61.122
+      },
+      {
+        "text": " One.",
+        "start": 66.232,
+        "end": 66.732
+      },
+      {
+        "text": "I would have made this into a six.",
+        "start": 66.753,
+        "end": 71.878
+      },
+      {
+        "text": "Six plus two.",
+        "start": 73.279,
+        "end": 74.44
+      },
+      {
+        "text": "That's still only eight.",
+        "start": 76.022,
+        "end": 76.943
+      },
+      {
+        "text": "That's not gonna work.",
+        "start": 78.424,
+        "end": 81.087
+      },
+      {
+        "text": "Nine.",
+        "start": 81.107,
+        "end": 81.707
+      },
+      {
+        "text": "Can you put it on both sides?",
+        "start": 85.611,
+        "end": 86.732
+      },
+      {
+        "text": "You can only move one matchstick.",
+        "start": 86.752,
+        "end": 89.295
+      },
+      {
+        "text": "So you can't put it on both sides.",
+        "start": 89.315,
+        "end": 91.497
+      },
+      {
+        "text": " I can only move one matchstick.",
+        "start": 96.05,
+        "end": 97.833
+      },
+      {
+        "text": "Let's see here.",
+        "start": 99.855,
+        "end": 100.516
+      },
+      {
+        "text": "Nine, four.",
+        "start": 100.556,
+        "end": 106.144
+      },
+      {
+        "text": "Yeah, that's not gonna, over here, that's not gonna work.",
+        "start": 110.911,
+        "end": 113.835
+      },
+      {
+        "text": "Man, this is tough.",
+        "start": 116.9,
+        "end": 120.124
+      },
+      {
+        "text": "X over here, that's not gonna work.",
+        "start": 121.907,
+        "end": 125.652
+      },
+      {
+        "text": " If I do 1 over here, what would that be?",
+        "start": 126.762,
+        "end": 129.265
+      },
+      {
+        "text": "4 plus 3, right?",
+        "start": 129.285,
+        "end": 134.011
+      },
+      {
+        "text": "4 plus 3 is 7, that's not going to work.",
+        "start": 134.732,
+        "end": 141.161
+      },
+      {
+        "text": "Move it to 5, that's not going to work.",
+        "start": 141.181,
+        "end": 144.765
+      },
+      {
+        "text": "So it has to be, if I change it to a minus sign, that's not going to work either.",
+        "start": 146.748,
+        "end": 155.419
+      },
+      {
+        "text": " I don't know.",
+        "start": 159.095,
+        "end": 160.637
+      },
+      {
+        "text": "This is very difficult.",
+        "start": 160.657,
+        "end": 162.359
+      },
+      {
+        "text": "One.",
+        "start": 164.482,
+        "end": 164.642
+      },
+      {
+        "text": "If I put the five over here, it's only gonna make it into seven, eight.",
+        "start": 164.662,
+        "end": 172.572
+      },
+      {
+        "text": "Five on this side, six, seven, eight.",
+        "start": 177.959,
+        "end": 180.242
+      },
+      {
+        "text": "See, regardless of where I put the five, it's still gonna be eight.",
+        "start": 180.262,
+        "end": 184.427
+      },
+      {
+        "text": " Hmm, if I make that a subtraction, same thing.",
+        "start": 189.183,
+        "end": 191.706
+      },
+      {
+        "text": "It's not gonna work.",
+        "start": 191.726,
+        "end": 192.466
+      },
+      {
+        "text": "Um... I don't know.",
+        "start": 198.473,
+        "end": 203.798
+      },
+      {
+        "text": "I really don't know.",
+        "start": 203.818,
+        "end": 206.0
+      },
+      {
+        "text": "Um... You can only move one matchstick.",
+        "start": 206.02,
+        "end": 211.646
+      },
+      {
+        "text": "Hmm...",
+        "start": 218.293,
+        "end": 218.413
+      },
+      {
+        "text": " 9 equals 1.",
+        "start": 220.857,
+        "end": 224.062
+      },
+      {
+        "text": "No, that's going to be 10.",
+        "start": 224.082,
+        "end": 227.548
+      },
+      {
+        "text": "Let me just guess.",
+        "start": 227.568,
+        "end": 230.614
+      },
+      {
+        "text": "x equals 1 plus that.",
+        "start": 231.074,
+        "end": 239.068
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Very difficult. All right, so we have 11 equals 4 plus 2. 4 plus 2 is 6. So 11 and 6. 11, 6. Now, if I were to put the 5 over here, that'd change into a 6 plus 2, which is 8, which is still not enough. If I change this to there, that'd be a nine, four plus two, six, so that's not gonna work. If I change, let's see, if I put the one, gosh, it's hard. One. I would have made this into a six. Six plus two. That's still only eight. That's not gonna work. Nine. Can you put it on both sides? You can only move one matchstick. So you can't put it on both sides. I can only move one matchstick. Let's see here. Nine, four. Yeah, that's not gonna, over here, that's not gonna work. Man, this is tough. X over here, that's not gonna work. If I do 1 over here, what would that be? 4 plus 3, right? 4 plus 3 is 7, that's not going to work. Move it to 5, that's not going to work. So it has to be, if I change it to a minus sign, that's not going to work either. I don't know. This is very difficult. One. If I put the five over here, it's only gonna make it into seven, eight. Five on this side, six, seven, eight. See, regardless of where I put the five, it's still gonna be eight. Hmm, if I make that a subtraction, same thing. It's not gonna work. Um... I don't know. I really don't know. Um... You can only move one matchstick. Hmm... 9 equals 1. No, that's going to be 10. Let me just guess. x equals 1 plus that."
+  }
+}

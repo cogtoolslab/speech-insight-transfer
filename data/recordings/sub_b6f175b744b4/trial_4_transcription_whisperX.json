@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_b6f175b744b4/trial_4.wav",
+  "with_timestamps": {
+    "text": " 7 equals 3 minus 4.Well, obviously 3 minus 4 doesn't equal 7, but 3 plus 4 would equal to 7.So we move another matchstick from the equals.So we got 7.Wait, that doesn't work, does it?Shoot. My first thought is do we move it from the equal sign and make this a plus, but then it becomes minus minus.Obviously, we need to make this a plus sign, so it would be 5 plus 3 equals 7 if I try that.If we move the match tick on the 5, 4 minus 5 would not work. 3 plus 4 would equal 7, but then we wouldn't have an equation.So I'm like, maybe if it becomes 6.If I put 6 is 2 plus 4, then that would work.So we're going to do that.6 equals Oh wait, that's 3 plus 4.That would not work.So I've got 5, 6, 7.If I make that 6, I can put the matchstick here and make that a plus.So 3 plus 4 equals 6.That wouldn't work. If I move a marker from the 3, or the 7, from the 3 it becomes 2 plus 4.So that doesn't work either.However, if I move the matchstick on the 4 end and make it 3 plus 5, that wouldn't work either I don't think.So that would be 7 equals... If I move it from the 3, that becomes a 2.2 plus 4 is 6, though.If I move the matchstick from the Roman numeral here and move it, it becomes 3 plus 5, which is 8. So if I take one from the seven, I can't leave that, or I can't leave that at equals.One, two, three, I'm not sure why I didn't see that, plus four.Oh, no, that would be six. If I take it from here, that would be a 6 equals 3 plus 4?That wouldn't work either.If I move this matchstick, I feel like I've run all the matchsticks.Unless I move an equals... Oh wait! 7 minus 3 equals 4.",
+    "segments": [
+      {
+        "text": " 7 equals 3 minus 4.",
+        "start": 2.832,
+        "end": 6.779
+      },
+      {
+        "text": "Well, obviously 3 minus 4 doesn't equal 7, but 3 plus 4 would equal to 7.",
+        "start": 8.121,
+        "end": 13.911
+      },
+      {
+        "text": "So we move another matchstick from the equals.",
+        "start": 14.352,
+        "end": 16.837
+      },
+      {
+        "text": "So we got 7.",
+        "start": 18.319,
+        "end": 19.321
+      },
+      {
+        "text": "Wait, that doesn't work, does it?",
+        "start": 24.149,
+        "end": 25.973
+      },
+      {
+        "text": "Shoot.",
+        "start": 27.075,
+        "end": 27.355
+      },
+      {
+        "text": " My first thought is do we move it from the equal sign and make this a plus, but then it becomes minus minus.",
+        "start": 29.174,
+        "end": 35.304
+      },
+      {
+        "text": "Obviously, we need to make this a plus sign, so it would be 5 plus 3 equals 7 if I try that.",
+        "start": 36.887,
+        "end": 45.962
+      },
+      {
+        "text": "If we move the match tick on the 5, 4 minus 5 would not work.",
+        "start": 47.905,
+        "end": 55.418
+      },
+      {
+        "text": " 3 plus 4 would equal 7, but then we wouldn't have an equation.",
+        "start": 58.368,
+        "end": 63.633
+      },
+      {
+        "text": "So I'm like, maybe if it becomes 6.",
+        "start": 66.256,
+        "end": 68.498
+      },
+      {
+        "text": "If I put 6 is 2 plus 4, then that would work.",
+        "start": 72.582,
+        "end": 76.927
+      },
+      {
+        "text": "So we're going to do that.",
+        "start": 77.848,
+        "end": 79.029
+      },
+      {
+        "text": "6 equals",
+        "start": 79.449,
+        "end": 84.274
+      },
+      {
+        "text": " Oh wait, that's 3 plus 4.",
+        "start": 86.633,
+        "end": 89.657
+      },
+      {
+        "text": "That would not work.",
+        "start": 91.599,
+        "end": 92.2
+      },
+      {
+        "text": "So I've got 5, 6, 7.",
+        "start": 93.181,
+        "end": 95.764
+      },
+      {
+        "text": "If I make that 6, I can put the matchstick here and make that a plus.",
+        "start": 96.465,
+        "end": 103.915
+      },
+      {
+        "text": "So 3 plus 4 equals 6.",
+        "start": 104.676,
+        "end": 106.398
+      },
+      {
+        "text": "That wouldn't work.",
+        "start": 106.478,
+        "end": 109.722
+      },
+      {
+        "text": " If I move a marker from the 3, or the 7, from the 3 it becomes 2 plus 4.",
+        "start": 113.87,
+        "end": 122.039
+      },
+      {
+        "text": "So that doesn't work either.",
+        "start": 125.403,
+        "end": 126.645
+      },
+      {
+        "text": "However, if I move the matchstick on the 4 end and make it 3 plus 5, that wouldn't work either I don't think.",
+        "start": 128.807,
+        "end": 135.755
+      },
+      {
+        "text": "So that would be 7 equals...",
+        "start": 136.917,
+        "end": 139.86
+      },
+      {
+        "text": " If I move it from the 3, that becomes a 2.",
+        "start": 140.92,
+        "end": 144.044
+      },
+      {
+        "text": "2 plus 4 is 6, though.",
+        "start": 144.064,
+        "end": 152.714
+      },
+      {
+        "text": "If I move the matchstick from the Roman numeral here and move it, it becomes 3 plus 5, which is 8.",
+        "start": 153.134,
+        "end": 163.266
+      },
+      {
+        "text": " So if I take one from the seven, I can't leave that, or I can't leave that at equals.",
+        "start": 170.452,
+        "end": 183.57
+      },
+      {
+        "text": "One, two, three, I'm not sure why I didn't see that, plus four.",
+        "start": 184.671,
+        "end": 189.858
+      },
+      {
+        "text": "Oh, no, that would be six.",
+        "start": 192.201,
+        "end": 195.025
+      },
+      {
+        "text": " If I take it from here, that would be a 6 equals 3 plus 4?",
+        "start": 196.928,
+        "end": 206.099
+      },
+      {
+        "text": "That wouldn't work either.",
+        "start": 206.139,
+        "end": 209.303
+      },
+      {
+        "text": "If I move this matchstick, I feel like I've run all the matchsticks.",
+        "start": 209.363,
+        "end": 219.776
+      },
+      {
+        "text": "Unless I move an equals... Oh wait!",
+        "start": 219.796,
+        "end": 226.564
+      },
+      {
+        "text": " 7 minus 3 equals 4.",
+        "start": 227.877,
+        "end": 234.681
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 7 equals 3 minus 4. Well, obviously 3 minus 4 doesn't equal 7, but 3 plus 4 would equal to 7. So we move another matchstick from the equals. So we got 7. Wait, that doesn't work, does it? Shoot. My first thought is do we move it from the equal sign and make this a plus, but then it becomes minus minus. Obviously, we need to make this a plus sign, so it would be 5 plus 3 equals 7 if I try that. If we move the match tick on the 5, 4 minus 5 would not work. 3 plus 4 would equal 7, but then we wouldn't have an equation. So I'm like, maybe if it becomes 6. If I put 6 is 2 plus 4, then that would work. So we're going to do that. 6 equals Oh wait, that's 3 plus 4. That would not work. So I've got 5, 6, 7. If I make that 6, I can put the matchstick here and make that a plus. So 3 plus 4 equals 6. That wouldn't work. If I move a marker from the 3, or the 7, from the 3 it becomes 2 plus 4. So that doesn't work either. However, if I move the matchstick on the 4 end and make it 3 plus 5, that wouldn't work either I don't think. So that would be 7 equals... If I move it from the 3, that becomes a 2. 2 plus 4 is 6, though. If I move the matchstick from the Roman numeral here and move it, it becomes 3 plus 5, which is 8. So if I take one from the seven, I can't leave that, or I can't leave that at equals. One, two, three, I'm not sure why I didn't see that, plus four. Oh, no, that would be six. If I take it from here, that would be a 6 equals 3 plus 4? That wouldn't work either. If I move this matchstick, I feel like I've run all the matchsticks. Unless I move an equals... Oh wait! 7 minus 3 equals 4."
+  }
+}

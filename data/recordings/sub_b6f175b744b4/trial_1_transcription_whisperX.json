@@ -1,0 +1,121 @@
+{
+  "file": "data/recordings/sub_b6f175b744b4/trial_1.wav",
+  "with_timestamps": {
+    "text": " Alright, so right now the equation reads 10 is equal to 7 minus 3.Clearly that's not true.So 10 is equal to 7 minus 3.So my first thought is, can I move a matchstick to make it a plus sign? 5, 6, 7 minus 3 would be 4.So right now it's 10 equals 4.So right now I think what I need to do is just move a matchstick.7 plus 3 would be 10.But that becomes 6 minus 3. So that wouldn't work either.Because right now we have 10 equals to 5, 6, 7 minus 3, which is 4.My thought is if I move a matchstick from the 3 to make it a plus, that's 7 plus 2, which is 9.That doesn't solve it. I could make it 8 minus 2.That wouldn't work either.I'm wondering if I can remove a matchstick from the equals sign.There's nothing that says in the instructions I can't.So I'm going to remove a matchstick from the equals sign to make it 10 minus 7 equals 3.So I'm assuming that's an okay answer. and that would be what I do.So we're going to do 10 minus 1, 2, 3, and that becomes the equal sign, and then, or 1, 2, and then 1, 2, 3.So 10 minus 7 equals 3.",
+    "segments": [
+      {
+        "text": " Alright, so right now the equation reads 10 is equal to 7 minus 3.",
+        "start": 2.461,
+        "end": 10.694
+      },
+      {
+        "text": "Clearly that's not true.",
+        "start": 11.855,
+        "end": 14.399
+      },
+      {
+        "text": "So 10 is equal to 7 minus 3.",
+        "start": 14.419,
+        "end": 19.367
+      },
+      {
+        "text": "So my first thought is, can I move a matchstick to make it a plus sign?",
+        "start": 23.413,
+        "end": 29.903
+      },
+      {
+        "text": " 5, 6, 7 minus 3 would be 4.",
+        "start": 31.908,
+        "end": 39.278
+      },
+      {
+        "text": "So right now it's 10 equals 4.",
+        "start": 39.318,
+        "end": 41.201
+      },
+      {
+        "text": "So right now I think what I need to do is just move a matchstick.",
+        "start": 41.241,
+        "end": 48.951
+      },
+      {
+        "text": "7 plus 3 would be 10.",
+        "start": 50.493,
+        "end": 53.878
+      },
+      {
+        "text": "But that becomes 6 minus 3.",
+        "start": 55.039,
+        "end": 58.624
+      },
+      {
+        "text": " So that wouldn't work either.",
+        "start": 61.405,
+        "end": 62.546
+      },
+      {
+        "text": "Because right now we have 10 equals to 5, 6, 7 minus 3, which is 4.",
+        "start": 62.586,
+        "end": 73.316
+      },
+      {
+        "text": "My thought is if I move a matchstick from the 3 to make it a plus, that's 7 plus 2, which is 9.",
+        "start": 74.718,
+        "end": 83.526
+      },
+      {
+        "text": "That doesn't solve it.",
+        "start": 83.546,
+        "end": 89.792
+      },
+      {
+        "text": " I could make it 8 minus 2.",
+        "start": 94.784,
+        "end": 99.268
+      },
+      {
+        "text": "That wouldn't work either.",
+        "start": 99.389,
+        "end": 100.45
+      },
+      {
+        "text": "I'm wondering if I can remove a matchstick from the equals sign.",
+        "start": 100.47,
+        "end": 113.383
+      },
+      {
+        "text": "There's nothing that says in the instructions I can't.",
+        "start": 113.503,
+        "end": 115.545
+      },
+      {
+        "text": "So I'm going to remove a matchstick from the equals sign to make it 10 minus 7 equals 3.",
+        "start": 116.065,
+        "end": 121.651
+      },
+      {
+        "text": "So I'm assuming that's an okay answer.",
+        "start": 121.911,
+        "end": 124.774
+      },
+      {
+        "text": " and that would be what I do.",
+        "start": 125.395,
+        "end": 126.537
+      },
+      {
+        "text": "So we're going to do 10 minus 1, 2, 3, and that becomes the equal sign, and then, or 1, 2, and then 1, 2, 3.",
+        "start": 126.557,
+        "end": 137.958
+      },
+      {
+        "text": "So 10 minus 7 equals 3.",
+        "start": 138.038,
+        "end": 139.962
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so right now the equation reads 10 is equal to 7 minus 3. Clearly that's not true. So 10 is equal to 7 minus 3. So my first thought is, can I move a matchstick to make it a plus sign? 5, 6, 7 minus 3 would be 4. So right now it's 10 equals 4. So right now I think what I need to do is just move a matchstick. 7 plus 3 would be 10. But that becomes 6 minus 3. So that wouldn't work either. Because right now we have 10 equals to 5, 6, 7 minus 3, which is 4. My thought is if I move a matchstick from the 3 to make it a plus, that's 7 plus 2, which is 9. That doesn't solve it. I could make it 8 minus 2. That wouldn't work either. I'm wondering if I can remove a matchstick from the equals sign. There's nothing that says in the instructions I can't. So I'm going to remove a matchstick from the equals sign to make it 10 minus 7 equals 3. So I'm assuming that's an okay answer. and that would be what I do. So we're going to do 10 minus 1, 2, 3, and that becomes the equal sign, and then, or 1, 2, and then 1, 2, 3. So 10 minus 7 equals 3."
+  }
+}

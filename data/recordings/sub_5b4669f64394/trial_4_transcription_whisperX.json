@@ -1,0 +1,176 @@
+{
+  "file": "data/recordings/sub_5b4669f64394/trial_4.wav",
+  "with_timestamps": {
+    "text": " puzzle 4.8 equals 8 plus 8.Okay, 8 equals... let's see... if I put another 8 equals 8 plus 8.So it's actually 8 equals 4 plus 4.So that wouldn't work.9 equals 8 plus 7.That doesn't work.Let's see.So we're going to do 8 equals, let's move one of these, seven plus one.Okay, so seven, let's see, that's supposed to be eight. 7 equals 7 plus 2.No.So let's see.Let's move... Let's go back and say... Let's see.8 equals... Hmm, eight equals eight minus eight.No, that's not right either.So we wouldn't be moving that.Let's see.Can we change this to, we can't change a V to an X. because that would require moving two matchsticks.Let's see, we could do, let's go back and let's say, let's say, seven. equals... That's moving two matchsticks as well if I try to do eight plus eight minus something.Hmm.This one's a difficult one again.Let's see.Eight equals... V plus three.Try again.Okay, I knew that wouldn't work.Eight equals V",
+    "segments": [
+      {
+        "text": " puzzle 4.",
+        "start": 0.031,
+        "end": 0.732
+      },
+      {
+        "text": "8 equals 8 plus 8.",
+        "start": 0.752,
+        "end": 4.838
+      },
+      {
+        "text": "Okay, 8 equals... let's see... if I put another",
+        "start": 6.26,
+        "end": 24.807
+      },
+      {
+        "text": " 8 equals 8 plus 8.",
+        "start": 27.098,
+        "end": 30.262
+      },
+      {
+        "text": "So it's actually 8 equals 4 plus 4.",
+        "start": 30.762,
+        "end": 34.326
+      },
+      {
+        "text": "So that wouldn't work.",
+        "start": 36.389,
+        "end": 37.51
+      },
+      {
+        "text": "9 equals 8 plus 7.",
+        "start": 37.53,
+        "end": 47.221
+      },
+      {
+        "text": "That doesn't work.",
+        "start": 47.321,
+        "end": 48.222
+      },
+      {
+        "text": "Let's see.",
+        "start": 51.506,
+        "end": 52.147
+      },
+      {
+        "text": "So we're going to do 8",
+        "start": 53.388,
+        "end": 55.03
+      },
+      {
+        "text": " equals, let's move one of these, seven plus one.",
+        "start": 55.938,
+        "end": 69.422
+      },
+      {
+        "text": "Okay, so seven, let's see, that's supposed to be eight.",
+        "start": 69.462,
+        "end": 79.92
+      },
+      {
+        "text": " 7 equals 7 plus 2.",
+        "start": 86.127,
+        "end": 88.411
+      },
+      {
+        "text": "No.",
+        "start": 89.432,
+        "end": 89.673
+      },
+      {
+        "text": "So let's see.",
+        "start": 91.035,
+        "end": 91.776
+      },
+      {
+        "text": "Let's move... Let's go back and say... Let's see.",
+        "start": 92.357,
+        "end": 106.44
+      },
+      {
+        "text": "8 equals...",
+        "start": 106.46,
+        "end": 110.447
+      },
+      {
+        "text": " Hmm, eight equals eight minus eight.",
+        "start": 120.907,
+        "end": 132.72
+      },
+      {
+        "text": "No, that's not right either.",
+        "start": 133.861,
+        "end": 135.563
+      },
+      {
+        "text": "So we wouldn't be moving that.",
+        "start": 135.623,
+        "end": 138.125
+      },
+      {
+        "text": "Let's see.",
+        "start": 143.431,
+        "end": 144.052
+      },
+      {
+        "text": "Can we change this to, we can't change a V to an X.",
+        "start": 145.633,
+        "end": 149.918
+      },
+      {
+        "text": " because that would require moving two matchsticks.",
+        "start": 151.197,
+        "end": 154.221
+      },
+      {
+        "text": "Let's see, we could do, let's go back and let's say, let's say, seven.",
+        "start": 157.365,
+        "end": 179.095
+      },
+      {
+        "text": " equals... That's moving two matchsticks as well if I try to do eight plus eight minus something.",
+        "start": 180.256,
+        "end": 193.576
+      },
+      {
+        "text": "Hmm.",
+        "start": 195.499,
+        "end": 197.001
+      },
+      {
+        "text": "This one's a difficult one again.",
+        "start": 197.021,
+        "end": 199.124
+      },
+      {
+        "text": "Let's see.",
+        "start": 199.224,
+        "end": 200.226
+      },
+      {
+        "text": "Eight equals...",
+        "start": 200.286,
+        "end": 206.415
+      },
+      {
+        "text": " V plus three.",
+        "start": 211.728,
+        "end": 221.203
+      },
+      {
+        "text": "Try again.",
+        "start": 225.109,
+        "end": 225.71
+      },
+      {
+        "text": "Okay, I knew that wouldn't work.",
+        "start": 225.77,
+        "end": 227.813
+      },
+      {
+        "text": "Eight equals V",
+        "start": 230.237,
+        "end": 239.271
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " puzzle 4. 8 equals 8 plus 8. Okay, 8 equals... let's see... if I put another 8 equals 8 plus 8. So it's actually 8 equals 4 plus 4. So that wouldn't work. 9 equals 8 plus 7. That doesn't work. Let's see. So we're going to do 8 equals, let's move one of these, seven plus one. Okay, so seven, let's see, that's supposed to be eight. 7 equals 7 plus 2. No. So let's see. Let's move... Let's go back and say... Let's see. 8 equals... Hmm, eight equals eight minus eight. No, that's not right either. So we wouldn't be moving that. Let's see. Can we change this to, we can't change a V to an X. because that would require moving two matchsticks. Let's see, we could do, let's go back and let's say, let's say, seven. equals... That's moving two matchsticks as well if I try to do eight plus eight minus something. Hmm. This one's a difficult one again. Let's see. Eight equals... V plus three. Try again. Okay, I knew that wouldn't work. Eight equals V"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_e77dffb7fe67/trial_2.wav",
+  "with_timestamps": {
+    "text": " I thought it was recording the audio before but okay, so it says four equals four Minus two and we want to make this a six Either way it could be yeah, this second one needs to be a six.So we're gonna do four Equals and then we'll make it six minus two submit answer",
+    "segments": [
+      {
+        "text": " I thought it was recording the audio before but okay, so it says four equals four Minus two and we want to make this a six Either way it could be yeah, this second one needs to be a six.",
+        "start": 0.52,
+        "end": 15.682
+      },
+      {
+        "text": "So we're gonna do four Equals and then we'll make it six minus two submit answer",
+        "start": 15.702,
+        "end": 25.228
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I thought it was recording the audio before but okay, so it says four equals four Minus two and we want to make this a six Either way it could be yeah, this second one needs to be a six. So we're gonna do four Equals and then we'll make it six minus two submit answer"
+  }
+}

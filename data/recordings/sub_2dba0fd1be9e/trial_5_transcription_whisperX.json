@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_2dba0fd1be9e/trial_5.wav",
+  "with_timestamps": {
+    "text": " IX equals nine equals.Wow.This one is harder. 9 equals 7 plus 4, that's 11.So maybe I can do change the beginning.Let's try it. x i equals 3.1 plus i b.",
+    "segments": [
+      {
+        "text": " IX equals nine equals.",
+        "start": 4.452,
+        "end": 9.902
+      },
+      {
+        "text": "Wow.",
+        "start": 21.184,
+        "end": 21.364
+      },
+      {
+        "text": "This one is harder.",
+        "start": 23.568,
+        "end": 24.57
+      },
+      {
+        "text": " 9 equals 7 plus 4, that's 11.",
+        "start": 42.86,
+        "end": 55.138
+      },
+      {
+        "text": "So maybe I can do change the beginning.",
+        "start": 58.303,
+        "end": 66.535
+      },
+      {
+        "text": "Let's try it.",
+        "start": 72.083,
+        "end": 72.664
+      },
+      {
+        "text": " x i equals 3.1 plus i b.",
+        "start": 74.922,
+        "end": 85.354
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " IX equals nine equals. Wow. This one is harder. 9 equals 7 plus 4, that's 11. So maybe I can do change the beginning. Let's try it. x i equals 3.1 plus i b."
+  }
+}

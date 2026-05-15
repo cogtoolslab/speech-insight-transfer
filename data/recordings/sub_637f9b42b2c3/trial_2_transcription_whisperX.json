@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_637f9b42b2c3/trial_2.wav",
+  "with_timestamps": {
+    "text": " Let's see, we got 11 is equal to four plus two.So 11 is equal to six.If I move the one matchstick on the right of the V, that would be six plus two, that's eight.If I move the matchstick to the left of the X, that's nine is equal to six plus two is eight. What if I put a minus there?That would be four minus two is two.But then that's too high on the left-hand side.Let's see.Can we move the X somewhere or is that just, does that not count?Let's try one is equal to, 4 plus 12.No, that's incorrect.Let's try 9 is equal to 3 plus I mean, the answer's correct, but I moved like eight match sticks there, so that's incorrect.Let's see, you can only move one.Nine.That would be eight.It's 11 now. If I make that a minus, that's two.But then how do I get the other side to go lower here?Let me see, what can I do here?What can I do?What can I do?If I wanna move it, is there a way to make it like a division problem? I'm trying to think, I got nothing here.If I go with... I can't move the X or the V because those are two chopsticks each.So that's impossible.So where can I move one chopstick to make it?I don't think that this is solvable. If I move it to the right of the V, that's 6 plus 2, that's 8, that's still 11.If I move it to the left of the X, that's 9, is equal to 4 plus 2.I can't make a multiplication, that would make it easiest. The vision, I have absolutely no clue here.I'm like completely lost.",
+    "segments": [
+      {
+        "text": " Let's see, we got 11 is equal to four plus two.",
+        "start": 1.094,
+        "end": 4.98
+      },
+      {
+        "text": "So 11 is equal to six.",
+        "start": 5.0,
+        "end": 9.106
+      },
+      {
+        "text": "If I move the one matchstick on the right of the V, that would be six plus two, that's eight.",
+        "start": 10.268,
+        "end": 15.076
+      },
+      {
+        "text": "If I move the matchstick to the left of the X, that's nine is equal to six plus two is eight.",
+        "start": 16.458,
+        "end": 24.25
+      },
+      {
+        "text": " What if I put a minus there?",
+        "start": 25.529,
+        "end": 29.435
+      },
+      {
+        "text": "That would be four minus two is two.",
+        "start": 29.835,
+        "end": 32.92
+      },
+      {
+        "text": "But then that's too high on the left-hand side.",
+        "start": 35.584,
+        "end": 38.628
+      },
+      {
+        "text": "Let's see.",
+        "start": 38.668,
+        "end": 43.335
+      },
+      {
+        "text": "Can we move the X somewhere or is that just, does that not count?",
+        "start": 46.259,
+        "end": 51.527
+      },
+      {
+        "text": "Let's try one is equal to,",
+        "start": 51.687,
+        "end": 53.73
+      },
+      {
+        "text": " 4 plus 12.",
+        "start": 56.731,
+        "end": 66.549
+      },
+      {
+        "text": "No, that's incorrect.",
+        "start": 66.769,
+        "end": 67.951
+      },
+      {
+        "text": "Let's try 9 is equal to 3 plus",
+        "start": 69.755,
+        "end": 81.135
+      },
+      {
+        "text": " I mean, the answer's correct, but I moved like eight match sticks there, so that's incorrect.",
+        "start": 83.073,
+        "end": 88.299
+      },
+      {
+        "text": "Let's see, you can only move one.",
+        "start": 91.122,
+        "end": 93.184
+      },
+      {
+        "text": "Nine.",
+        "start": 93.224,
+        "end": 95.987
+      },
+      {
+        "text": "That would be eight.",
+        "start": 96.007,
+        "end": 100.712
+      },
+      {
+        "text": "It's 11 now.",
+        "start": 100.752,
+        "end": 110.903
+      },
+      {
+        "text": " If I make that a minus, that's two.",
+        "start": 116.553,
+        "end": 119.396
+      },
+      {
+        "text": "But then how do I get the other side to go lower here?",
+        "start": 121.539,
+        "end": 124.422
+      },
+      {
+        "text": "Let me see, what can I do here?",
+        "start": 128.727,
+        "end": 130.65
+      },
+      {
+        "text": "What can I do?",
+        "start": 130.69,
+        "end": 131.511
+      },
+      {
+        "text": "What can I do?",
+        "start": 131.571,
+        "end": 133.493
+      },
+      {
+        "text": "If I wanna move it, is there a way to make it like a division problem?",
+        "start": 133.553,
+        "end": 146.408
+      },
+      {
+        "text": " I'm trying to think, I got nothing here.",
+        "start": 147.923,
+        "end": 162.622
+      },
+      {
+        "text": "If I go with...",
+        "start": 173.536,
+        "end": 174.657
+      },
+      {
+        "text": " I can't move the X or the V because those are two chopsticks each.",
+        "start": 176.594,
+        "end": 180.058
+      },
+      {
+        "text": "So that's impossible.",
+        "start": 180.819,
+        "end": 181.94
+      },
+      {
+        "text": "So where can I move one chopstick to make it?",
+        "start": 183.542,
+        "end": 189.088
+      },
+      {
+        "text": "I don't think that this is solvable.",
+        "start": 201.202,
+        "end": 202.804
+      },
+      {
+        "text": " If I move it to the right of the V, that's 6 plus 2, that's 8, that's still 11.",
+        "start": 204.573,
+        "end": 210.322
+      },
+      {
+        "text": "If I move it to the left of the X, that's 9, is equal to 4 plus 2.",
+        "start": 210.342,
+        "end": 216.733
+      },
+      {
+        "text": "I can't make a multiplication, that would make it easiest.",
+        "start": 216.753,
+        "end": 226.328
+      },
+      {
+        "text": " The vision, I have absolutely no clue here.",
+        "start": 230.324,
+        "end": 234.02
+      },
+      {
+        "text": "I'm like completely lost.",
+        "start": 234.06,
+        "end": 238.9
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Let's see, we got 11 is equal to four plus two. So 11 is equal to six. If I move the one matchstick on the right of the V, that would be six plus two, that's eight. If I move the matchstick to the left of the X, that's nine is equal to six plus two is eight. What if I put a minus there? That would be four minus two is two. But then that's too high on the left-hand side. Let's see. Can we move the X somewhere or is that just, does that not count? Let's try one is equal to, 4 plus 12. No, that's incorrect. Let's try 9 is equal to 3 plus I mean, the answer's correct, but I moved like eight match sticks there, so that's incorrect. Let's see, you can only move one. Nine. That would be eight. It's 11 now. If I make that a minus, that's two. But then how do I get the other side to go lower here? Let me see, what can I do here? What can I do? What can I do? If I wanna move it, is there a way to make it like a division problem? I'm trying to think, I got nothing here. If I go with... I can't move the X or the V because those are two chopsticks each. So that's impossible. So where can I move one chopstick to make it? I don't think that this is solvable. If I move it to the right of the V, that's 6 plus 2, that's 8, that's still 11. If I move it to the left of the X, that's 9, is equal to 4 plus 2. I can't make a multiplication, that would make it easiest. The vision, I have absolutely no clue here. I'm like completely lost."
+  }
+}

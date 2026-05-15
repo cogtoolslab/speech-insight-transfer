@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_2b639dd64c84/trial_2.wav",
+  "with_timestamps": {
+    "text": " 4 plus 1... 10... 9... 9 plus 8... 9... 4 minus... Minus five.Minus, wait, that's nine.Ten.Minus.No.Ten.Oh, that's nine. plus nine plus nine wait minus nine nine plus Minus 5 equals 9 minus 5. 10 minus 5 equals 5.6.Oh, wait.9. plus one equals ten nine plus 9 plus 8 9 plus 9 9 minus 8 9+.",
+    "segments": [
+      {
+        "text": " 4 plus 1... 10... 9... 9 plus 8... 9... 4 minus...",
+        "start": 2.174,
+        "end": 26.19
+      },
+      {
+        "text": " Minus five.",
+        "start": 30.963,
+        "end": 33.186
+      },
+      {
+        "text": "Minus, wait, that's nine.",
+        "start": 33.226,
+        "end": 34.367
+      },
+      {
+        "text": "Ten.",
+        "start": 42.377,
+        "end": 42.798
+      },
+      {
+        "text": "Minus.",
+        "start": 45.841,
+        "end": 46.462
+      },
+      {
+        "text": "No.",
+        "start": 50.527,
+        "end": 53.791
+      },
+      {
+        "text": "Ten.",
+        "start": 53.811,
+        "end": 54.151
+      },
+      {
+        "text": "Oh, that's nine.",
+        "start": 54.171,
+        "end": 57.055
+      },
+      {
+        "text": " plus nine plus nine wait minus nine nine plus",
+        "start": 62.941,
+        "end": 84.493
+      },
+      {
+        "text": " Minus 5 equals 9 minus 5.",
+        "start": 102.682,
+        "end": 120.302
+      },
+      {
+        "text": " 10 minus 5 equals 5.",
+        "start": 133.462,
+        "end": 140.372
+      },
+      {
+        "text": "6.",
+        "start": 140.392,
+        "end": 140.432
+      },
+      {
+        "text": "Oh, wait.",
+        "start": 152.87,
+        "end": 157.718
+      },
+      {
+        "text": "9.",
+        "start": 157.738,
+        "end": 158.018
+      },
+      {
+        "text": " plus one equals ten nine plus",
+        "start": 163.651,
+        "end": 186.823
+      },
+      {
+        "text": " 9 plus 8 9 plus 9 9 minus 8",
+        "start": 194.549,
+        "end": 223.122
+      },
+      {
+        "text": " 9+.",
+        "start": 230.763,
+        "end": 232.1
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 plus 1... 10... 9... 9 plus 8... 9... 4 minus... Minus five. Minus, wait, that's nine. Ten. Minus. No. Ten. Oh, that's nine. plus nine plus nine wait minus nine nine plus Minus 5 equals 9 minus 5. 10 minus 5 equals 5. 6. Oh, wait. 9. plus one equals ten nine plus 9 plus 8 9 plus 9 9 minus 8 9+."
+  }
+}

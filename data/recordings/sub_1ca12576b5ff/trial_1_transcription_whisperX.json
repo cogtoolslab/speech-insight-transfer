@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_1ca12576b5ff/trial_1.wav",
+  "with_timestamps": {
+    "text": " 3 equals to 9 minus 4 not 2 so I move the vertical matchstick from the left of B to the right of B so that 9 minus 6 equals to 3 so 3 equals to 9, minus 6.",
+    "segments": [
+      {
+        "text": " 3 equals to 9 minus 4 not 2 so I move the vertical matchstick from the left of B to the right of B so that 9 minus 6 equals to 3 so 3 equals to",
+        "start": 2.444,
+        "end": 32.383
+      },
+      {
+        "text": " 9, minus 6.",
+        "start": 33.477,
+        "end": 37.193
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals to 9 minus 4 not 2 so I move the vertical matchstick from the left of B to the right of B so that 9 minus 6 equals to 3 so 3 equals to 9, minus 6."
+  }
+}

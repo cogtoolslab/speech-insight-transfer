@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_58cc02507119/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What is the final correct equation?Let's see... 9 equals... let's see... what is that?9 plus... 9 plus 9?So that means I have to move... 9 plus 9 is 18, so I need to make this a 9.My matchstick. One matchstick.Oh, I've got to move one matchstick.Use the buttons below to report the correct version of the equation.Okay.How do I make that a nine? Jesus, the pressure. Jesus I can only move one matchstick.How do I make this equation be true?I cannot change the answer.I cannot change the equation. Oh, uh, no.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 2.275,
+        "end": 5.701
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 5.721,
+        "end": 7.804
+      },
+      {
+        "text": "Let's see... 9 equals... let's see... what is that?",
+        "start": 8.625,
+        "end": 12.131
+      },
+      {
+        "text": "9 plus... 9 plus 9?",
+        "start": 12.692,
+        "end": 16.117
+      },
+      {
+        "text": "So that means I have to move...",
+        "start": 23.71,
+        "end": 25.853
+      },
+      {
+        "text": " 9 plus 9 is 18, so I need to make this a 9.",
+        "start": 31.823,
+        "end": 39.814
+      },
+      {
+        "text": "My matchstick.",
+        "start": 55.095,
+        "end": 56.076
+      },
+      {
+        "text": " One matchstick.",
+        "start": 63.397,
+        "end": 64.339
+      },
+      {
+        "text": "Oh, I've got to move one matchstick.",
+        "start": 64.961,
+        "end": 66.524
+      },
+      {
+        "text": "Use the buttons below to report the correct version of the equation.",
+        "start": 67.627,
+        "end": 71.315
+      },
+      {
+        "text": "Okay.",
+        "start": 71.716,
+        "end": 72.137
+      },
+      {
+        "text": "How do I make that a nine?",
+        "start": 81.718,
+        "end": 82.941
+      },
+      {
+        "text": " Jesus, the pressure.",
+        "start": 97.4,
+        "end": 121.821
+      },
+      {
+        "text": " Jesus I can only move one matchstick.",
+        "start": 141.477,
+        "end": 161.957
+      },
+      {
+        "text": "How do I make this equation be true?",
+        "start": 162.077,
+        "end": 165.261
+      },
+      {
+        "text": "I cannot change the answer.",
+        "start": 165.401,
+        "end": 167.483
+      },
+      {
+        "text": "I cannot change the equation.",
+        "start": 167.523,
+        "end": 169.645
+      },
+      {
+        "text": " Oh, uh, no.",
+        "start": 201.62,
+        "end": 225.163
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What is the final correct equation? Let's see... 9 equals... let's see... what is that? 9 plus... 9 plus 9? So that means I have to move... 9 plus 9 is 18, so I need to make this a 9. My matchstick. One matchstick. Oh, I've got to move one matchstick. Use the buttons below to report the correct version of the equation. Okay. How do I make that a nine? Jesus, the pressure. Jesus I can only move one matchstick. How do I make this equation be true? I cannot change the answer. I cannot change the equation. Oh, uh, no."
+  }
+}

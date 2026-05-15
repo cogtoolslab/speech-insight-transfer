@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_61d7e217ebbc/trial_4.wav",
+  "with_timestamps": {
+    "text": " Seven equals nine plus three.Oh, let's see if we take, how do we do this?We gotta get, see I can make that a minus. But 8 does not equal 9 minus 3.7 does not equal 9 minus 3.7 equals 10 plus 3.7 equals 10 minus 3.7 equals, but I can only move one matchstick, so that's not going to work. So, oh, no, I could do that.10 minus three is seven, but that would involve moving two of them.Seven. minus... No, but I can only move one matchstick.If I can only move one matchstick, that's the tricky part.And I could move that over there, but that doesn't, if I made that do this.I go V I I equals I V plus I I I.",
+    "segments": [
+      {
+        "text": " Seven equals nine plus three.",
+        "start": 1.077,
+        "end": 3.42
+      },
+      {
+        "text": "Oh, let's see if we take, how do we do this?",
+        "start": 3.48,
+        "end": 25.208
+      },
+      {
+        "text": "We gotta get, see I can make that a minus.",
+        "start": 25.388,
+        "end": 28.452
+      },
+      {
+        "text": " But 8 does not equal 9 minus 3.",
+        "start": 34.22,
+        "end": 36.604
+      },
+      {
+        "text": "7 does not equal 9 minus 3.",
+        "start": 36.624,
+        "end": 43.854
+      },
+      {
+        "text": "7 equals 10 plus 3.",
+        "start": 43.874,
+        "end": 48.902
+      },
+      {
+        "text": "7 equals 10 minus 3.",
+        "start": 48.922,
+        "end": 52.968
+      },
+      {
+        "text": "7 equals, but I can only move one matchstick, so that's not going to work.",
+        "start": 52.988,
+        "end": 62.522
+      },
+      {
+        "text": " So, oh, no, I could do that.",
+        "start": 73.623,
+        "end": 94.335
+      },
+      {
+        "text": "10 minus three is seven, but that would involve moving two of them.",
+        "start": 94.355,
+        "end": 98.382
+      },
+      {
+        "text": "Seven.",
+        "start": 101.226,
+        "end": 101.807
+      },
+      {
+        "text": " minus... No, but I can only move one matchstick.",
+        "start": 103.171,
+        "end": 109.177
+      },
+      {
+        "text": "If I can only move one matchstick, that's the tricky part.",
+        "start": 109.298,
+        "end": 113.802
+      },
+      {
+        "text": "And I could move that over there, but that doesn't, if I made that",
+        "start": 126.175,
+        "end": 129.499
+      },
+      {
+        "text": " do this.",
+        "start": 132.702,
+        "end": 133.324
+      },
+      {
+        "text": "I go V I I equals I V plus I I I.",
+        "start": 133.344,
+        "end": 142.932
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Seven equals nine plus three. Oh, let's see if we take, how do we do this? We gotta get, see I can make that a minus. But 8 does not equal 9 minus 3. 7 does not equal 9 minus 3. 7 equals 10 plus 3. 7 equals 10 minus 3. 7 equals, but I can only move one matchstick, so that's not going to work. So, oh, no, I could do that. 10 minus three is seven, but that would involve moving two of them. Seven. minus... No, but I can only move one matchstick. If I can only move one matchstick, that's the tricky part. And I could move that over there, but that doesn't, if I made that do this. I go V I I equals I V plus I I I."
+  }
+}

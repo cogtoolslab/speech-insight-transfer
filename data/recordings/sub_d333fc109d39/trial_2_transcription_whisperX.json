@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_d333fc109d39/trial_2.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What is the final correct equation?So 3 equals 3 plus 3.Use the buttons to report the correct version.So I'm going to move one matchstick. 3.4.This is hard.3.4 equals 3 plus 2. Thinking, thinking.Minus, plus.Maybe I'm thinking too logically in terms of equations.Two equals.We can only move one.So three. two equals four four equals yeah four equals Once we do five equals, that doesn't work either.This is frustrating.Three, Six, so we can do six.Yeah, we can do six equals three plus three.Incorrect.Six. Let me think.Let me write this down.I'm thinking. I don't even know if this is possible.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 2.647,
+        "end": 4.789
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 4.91,
+        "end": 7.272
+      },
+      {
+        "text": "So 3 equals 3 plus 3.",
+        "start": 8.013,
+        "end": 10.936
+      },
+      {
+        "text": "Use the buttons to report the correct version.",
+        "start": 13.259,
+        "end": 15.261
+      },
+      {
+        "text": "So I'm going to move one matchstick.",
+        "start": 16.883,
+        "end": 25.633
+      },
+      {
+        "text": " 3.4.",
+        "start": 33.207,
+        "end": 34.59
+      },
+      {
+        "text": "This is hard.",
+        "start": 39.359,
+        "end": 40.08
+      },
+      {
+        "text": "3.",
+        "start": 44.87,
+        "end": 45.691
+      },
+      {
+        "text": "4 equals 3 plus 2.",
+        "start": 49.919,
+        "end": 52.785
+      },
+      {
+        "text": " Thinking, thinking.",
+        "start": 61.895,
+        "end": 63.557
+      },
+      {
+        "text": "Minus, plus.",
+        "start": 69.546,
+        "end": 70.767
+      },
+      {
+        "text": "Maybe I'm thinking too logically in terms of equations.",
+        "start": 76.215,
+        "end": 80.842
+      },
+      {
+        "text": "Two equals.",
+        "start": 83.125,
+        "end": 85.268
+      },
+      {
+        "text": "We can only move one.",
+        "start": 87.591,
+        "end": 88.693
+      },
+      {
+        "text": "So three.",
+        "start": 89.954,
+        "end": 91.176
+      },
+      {
+        "text": " two equals four four equals yeah four equals",
+        "start": 95.695,
+        "end": 106.144
+      },
+      {
+        "text": " Once we do five equals, that doesn't work either.",
+        "start": 125.463,
+        "end": 148.228
+      },
+      {
+        "text": "This is frustrating.",
+        "start": 150.81,
+        "end": 151.932
+      },
+      {
+        "text": "Three,",
+        "start": 154.254,
+        "end": 155.115
+      },
+      {
+        "text": " Six, so we can do six.",
+        "start": 160.698,
+        "end": 162.881
+      },
+      {
+        "text": "Yeah, we can do six equals three plus three.",
+        "start": 167.287,
+        "end": 176.12
+      },
+      {
+        "text": "Incorrect.",
+        "start": 176.14,
+        "end": 179.104
+      },
+      {
+        "text": "Six.",
+        "start": 185.854,
+        "end": 186.655
+      },
+      {
+        "text": " Let me think.",
+        "start": 192.558,
+        "end": 193.461
+      },
+      {
+        "text": "Let me write this down.",
+        "start": 195.468,
+        "end": 196.492
+      },
+      {
+        "text": "I'm thinking.",
+        "start": 196.532,
+        "end": 203.817
+      },
+      {
+        "text": " I don't even know if this is possible.",
+        "start": 229.143,
+        "end": 237.938
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What is the final correct equation? So 3 equals 3 plus 3. Use the buttons to report the correct version. So I'm going to move one matchstick. 3.4. This is hard. 3. 4 equals 3 plus 2. Thinking, thinking. Minus, plus. Maybe I'm thinking too logically in terms of equations. Two equals. We can only move one. So three. two equals four four equals yeah four equals Once we do five equals, that doesn't work either. This is frustrating. Three, Six, so we can do six. Yeah, we can do six equals three plus three. Incorrect. Six. Let me think. Let me write this down. I'm thinking. I don't even know if this is possible."
+  }
+}

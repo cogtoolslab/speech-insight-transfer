@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_9146808bb050/trial_1.wav",
+  "with_timestamps": {
+    "text": " Uh, okay.6 plus 12 does not equal 7.You can move one matchstick.Move one matchstick maybe to the end.It'll be 6 plus 9. 6 plus 12 is 18 I guess you could do V equals oh my god maybe four four plus jesus christ four plus twelve sixteen that's still seven though wow uh This is ridiculous, let's see x, 1, 1, plus 4 Oh, wait, minus 12 minus 4 is 8 12 minus 6 Let's do that So 12 equals Let's do this equals x1 no equals x11 oh yeah yeah yeah equals x11 minus xv that's it 12 minus 6 12 minus 6 equals 8 9 no 12 minus 7 It goes.",
+    "segments": [
+      {
+        "text": " Uh, okay.",
+        "start": 24.28,
+        "end": 25.782
+      },
+      {
+        "text": "6 plus 12 does not equal 7.",
+        "start": 27.664,
+        "end": 35.653
+      },
+      {
+        "text": "You can move one matchstick.",
+        "start": 35.673,
+        "end": 38.436
+      },
+      {
+        "text": "Move one matchstick maybe to the end.",
+        "start": 42.22,
+        "end": 44.162
+      },
+      {
+        "text": "It'll be 6 plus 9.",
+        "start": 44.202,
+        "end": 47.706
+      },
+      {
+        "text": " 6 plus 12 is 18 I guess you could do V",
+        "start": 50.453,
+        "end": 77.153
+      },
+      {
+        "text": " equals oh my god maybe four four plus jesus christ four plus twelve sixteen that's still seven though wow uh",
+        "start": 79.327,
+        "end": 107.865
+      },
+      {
+        "text": " This is ridiculous, let's see x, 1, 1, plus 4",
+        "start": 112.891,
+        "end": 124.977
+      },
+      {
+        "text": " Oh, wait, minus 12 minus 4 is 8 12 minus 6 Let's do that So 12 equals Let's do this equals x1",
+        "start": 144.11,
+        "end": 173.88
+      },
+      {
+        "text": " no equals x11 oh yeah yeah yeah equals x11 minus xv that's it 12 minus 6 12 minus 6 equals 8 9 no 12 minus 7",
+        "start": 176.29,
+        "end": 205.993
+      },
+      {
+        "text": " It goes.",
+        "start": 237.817,
+        "end": 238.85
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Uh, okay. 6 plus 12 does not equal 7. You can move one matchstick. Move one matchstick maybe to the end. It'll be 6 plus 9. 6 plus 12 is 18 I guess you could do V equals oh my god maybe four four plus jesus christ four plus twelve sixteen that's still seven though wow uh This is ridiculous, let's see x, 1, 1, plus 4 Oh, wait, minus 12 minus 4 is 8 12 minus 6 Let's do that So 12 equals Let's do this equals x1 no equals x11 oh yeah yeah yeah equals x11 minus xv that's it 12 minus 6 12 minus 6 equals 8 9 no 12 minus 7 It goes."
+  }
+}

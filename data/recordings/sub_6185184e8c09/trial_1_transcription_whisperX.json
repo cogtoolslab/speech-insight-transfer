@@ -1,0 +1,226 @@
+{
+  "file": "data/recordings/sub_6185184e8c09/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, not gonna lie, I'm dreading this a little.I am not good at this kind of thing at all.So, okay, so this reads 11 equals four plus two.Use the buttons below to report the correct version of the equation.Use the buttons below. Um, okay.I, I, I, okay.Let me see if I have to only change one.So let's see if I did.Honestly, I have no idea.I'm, I don't even know where to start.Um, I'm just not familiar enough with Roman numerals.Um, okay, well let's experiment. Okay, let's leave this the same.So let's say the answer's nine.Oh no, 11, that's 11.The answer's 11.Is there anything I could change on this side that would make it, so if I did this one and this one, that would make it six. Six plus two is still not 11.Um, Oh my goodness.I really don't know.Um, that would make it without that make it nine, right?I can't just move any. matchsticks.Okay.Nine.That's still going to be four plus two, which is also wrong.Can I move a matchstick?I can't do that.Um, I thought maybe I could like take one, make that, that won't work either.Um, I really don't know. Would that be 12?I'm just going to mess around here.I really don't know.But that's moving a matchstick, so that would be 5 plus 2, which is still not 12.I have to make this number lower.I can only move one matchstick. If I move this one and make it 10, 4 plus 3 is not 10.I thought maybe I could move this one, but no.How do I make this number smaller?I can't move like this cross and make that a 1.They made that clear. So this has to stay either 10 or 11, or I could move it over and make it nine, but then that's still, if I can only move one, that doesn't help me.",
+    "segments": [
+      {
+        "text": " Okay, not gonna lie, I'm dreading this a little.",
+        "start": 3.17,
+        "end": 5.654
+      },
+      {
+        "text": "I am not good at this kind of thing at all.",
+        "start": 5.714,
+        "end": 8.078
+      },
+      {
+        "text": "So, okay, so this reads 11 equals four plus two.",
+        "start": 9.24,
+        "end": 17.795
+      },
+      {
+        "text": "Use the buttons below to report the correct version of the equation.",
+        "start": 19.698,
+        "end": 24.726
+      },
+      {
+        "text": "Use the buttons below.",
+        "start": 28.052,
+        "end": 29.194
+      },
+      {
+        "text": " Um, okay.",
+        "start": 32.347,
+        "end": 33.348
+      },
+      {
+        "text": "I, I, I, okay.",
+        "start": 34.449,
+        "end": 36.211
+      },
+      {
+        "text": "Let me see if I have to only change one.",
+        "start": 37.071,
+        "end": 40.234
+      },
+      {
+        "text": "So let's see if I did.",
+        "start": 40.274,
+        "end": 42.196
+      },
+      {
+        "text": "Honestly, I have no idea.",
+        "start": 42.236,
+        "end": 50.023
+      },
+      {
+        "text": "I'm, I don't even know where to start.",
+        "start": 50.364,
+        "end": 51.545
+      },
+      {
+        "text": "Um, I'm just not familiar enough with Roman numerals.",
+        "start": 51.625,
+        "end": 57.73
+      },
+      {
+        "text": "Um, okay, well let's experiment.",
+        "start": 59.252,
+        "end": 60.733
+      },
+      {
+        "text": " Okay, let's leave this the same.",
+        "start": 66.451,
+        "end": 67.893
+      },
+      {
+        "text": "So let's say the answer's nine.",
+        "start": 67.913,
+        "end": 71.436
+      },
+      {
+        "text": "Oh no, 11, that's 11.",
+        "start": 71.456,
+        "end": 73.519
+      },
+      {
+        "text": "The answer's 11.",
+        "start": 73.559,
+        "end": 75.421
+      },
+      {
+        "text": "Is there anything I could change on this side that would make it, so if I did this one and this one, that would make it six.",
+        "start": 75.441,
+        "end": 94.281
+      },
+      {
+        "text": " Six plus two is still not 11.",
+        "start": 97.298,
+        "end": 100.263
+      },
+      {
+        "text": "Um, Oh my goodness.",
+        "start": 103.007,
+        "end": 110.899
+      },
+      {
+        "text": "I really don't know.",
+        "start": 111.06,
+        "end": 111.781
+      },
+      {
+        "text": "Um, that would make it without that make it nine, right?",
+        "start": 118.912,
+        "end": 123.078
+      },
+      {
+        "text": "I can't just move any.",
+        "start": 124.3,
+        "end": 125.382
+      },
+      {
+        "text": " matchsticks.",
+        "start": 126.83,
+        "end": 127.591
+      },
+      {
+        "text": "Okay.",
+        "start": 127.711,
+        "end": 128.072
+      },
+      {
+        "text": "Nine.",
+        "start": 128.152,
+        "end": 128.613
+      },
+      {
+        "text": "That's still going to be four plus two, which is also wrong.",
+        "start": 129.314,
+        "end": 132.138
+      },
+      {
+        "text": "Can I move a matchstick?",
+        "start": 134.301,
+        "end": 135.563
+      },
+      {
+        "text": "I can't do that.",
+        "start": 135.803,
+        "end": 136.504
+      },
+      {
+        "text": "Um, I thought maybe I could like take one, make that, that won't work either.",
+        "start": 139.99,
+        "end": 145.077
+      },
+      {
+        "text": "Um, I really don't know.",
+        "start": 146.599,
+        "end": 155.132
+      },
+      {
+        "text": " Would that be 12?",
+        "start": 161.508,
+        "end": 162.69
+      },
+      {
+        "text": "I'm just going to mess around here.",
+        "start": 165.334,
+        "end": 167.036
+      },
+      {
+        "text": "I really don't know.",
+        "start": 167.136,
+        "end": 168.098
+      },
+      {
+        "text": "But that's moving a matchstick, so that would be 5 plus 2, which is still not 12.",
+        "start": 168.999,
+        "end": 173.706
+      },
+      {
+        "text": "I have to make this number lower.",
+        "start": 177.011,
+        "end": 178.733
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 178.753,
+        "end": 188.207
+      },
+      {
+        "text": " If I move this one and make it 10, 4 plus 3 is not 10.",
+        "start": 193.84,
+        "end": 200.968
+      },
+      {
+        "text": "I thought maybe I could move this one, but no.",
+        "start": 201.489,
+        "end": 203.21
+      },
+      {
+        "text": "How do I make this number smaller?",
+        "start": 204.572,
+        "end": 206.334
+      },
+      {
+        "text": "I can't move like this cross and make that a 1.",
+        "start": 206.354,
+        "end": 218.688
+      },
+      {
+        "text": "They made that clear.",
+        "start": 218.728,
+        "end": 222.632
+      },
+      {
+        "text": " So this has to stay either 10 or 11, or I could move it over and make it nine, but then that's still, if I can only move one, that doesn't help me.",
+        "start": 226.038,
+        "end": 233.888
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, not gonna lie, I'm dreading this a little. I am not good at this kind of thing at all. So, okay, so this reads 11 equals four plus two. Use the buttons below to report the correct version of the equation. Use the buttons below. Um, okay. I, I, I, okay. Let me see if I have to only change one. So let's see if I did. Honestly, I have no idea. I'm, I don't even know where to start. Um, I'm just not familiar enough with Roman numerals. Um, okay, well let's experiment. Okay, let's leave this the same. So let's say the answer's nine. Oh no, 11, that's 11. The answer's 11. Is there anything I could change on this side that would make it, so if I did this one and this one, that would make it six. Six plus two is still not 11. Um, Oh my goodness. I really don't know. Um, that would make it without that make it nine, right? I can't just move any. matchsticks. Okay. Nine. That's still going to be four plus two, which is also wrong. Can I move a matchstick? I can't do that. Um, I thought maybe I could like take one, make that, that won't work either. Um, I really don't know. Would that be 12? I'm just going to mess around here. I really don't know. But that's moving a matchstick, so that would be 5 plus 2, which is still not 12. I have to make this number lower. I can only move one matchstick. If I move this one and make it 10, 4 plus 3 is not 10. I thought maybe I could move this one, but no. How do I make this number smaller? I can't move like this cross and make that a 1. They made that clear. So this has to stay either 10 or 11, or I could move it over and make it nine, but then that's still, if I can only move one, that doesn't help me."
+  }
+}

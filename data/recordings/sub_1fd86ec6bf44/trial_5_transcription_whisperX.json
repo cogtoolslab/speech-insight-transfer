@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_1fd86ec6bf44/trial_5.wav",
+  "with_timestamps": {
+    "text": " Oh.Okay.V I 6 equals V I 6 plus 1 equals 7.So V I I equals V I plus 1.Oops. Am I doing something wrong?Hmm.Switch.V-I is six.V-I is six plus one is seven. So... Hmm.What?V-I-I equals V-I plus i what i was doing well before five six plus one seven Six equals six plus one.Yeah, V-I-I.Oh, I guess they want me to do V-I equals V plus one.Huh?What?Six equals five plus one. what six equals six plus hmm x Four.Four equals no.What?V equals what?Oh, am I doing this wrong? No, this is right.Equals V plus 1, or Vii.",
+    "segments": [
+      {
+        "text": " Oh.",
+        "start": 1.87,
+        "end": 6.316
+      },
+      {
+        "text": "Okay.",
+        "start": 6.617,
+        "end": 6.817
+      },
+      {
+        "text": "V I 6 equals V I 6 plus 1 equals 7.",
+        "start": 6.837,
+        "end": 18.814
+      },
+      {
+        "text": "So V I I equals V I plus 1.",
+        "start": 18.834,
+        "end": 28.487
+      },
+      {
+        "text": "Oops.",
+        "start": 30.59,
+        "end": 30.73
+      },
+      {
+        "text": " Am I doing something wrong?",
+        "start": 37.088,
+        "end": 38.57
+      },
+      {
+        "text": "Hmm.",
+        "start": 48.485,
+        "end": 48.966
+      },
+      {
+        "text": "Switch.",
+        "start": 54.634,
+        "end": 54.955
+      },
+      {
+        "text": "V-I is six.",
+        "start": 55.435,
+        "end": 56.437
+      },
+      {
+        "text": "V-I is six plus one is seven.",
+        "start": 58.5,
+        "end": 63.147
+      },
+      {
+        "text": " So... Hmm.",
+        "start": 73.285,
+        "end": 91.412
+      },
+      {
+        "text": "What?",
+        "start": 91.432,
+        "end": 91.872
+      },
+      {
+        "text": "V-I-I equals V-I",
+        "start": 94.036,
+        "end": 101.807
+      },
+      {
+        "text": " plus i what i was doing well before five six plus one seven",
+        "start": 103.306,
+        "end": 131.507
+      },
+      {
+        "text": " Six equals six plus one.",
+        "start": 132.972,
+        "end": 135.054
+      },
+      {
+        "text": "Yeah, V-I-I.",
+        "start": 140.199,
+        "end": 141.22
+      },
+      {
+        "text": "Oh, I guess they want me to do V-I equals V plus one.",
+        "start": 144.284,
+        "end": 152.612
+      },
+      {
+        "text": "Huh?",
+        "start": 154.414,
+        "end": 155.996
+      },
+      {
+        "text": "What?",
+        "start": 156.016,
+        "end": 156.256
+      },
+      {
+        "text": "Six equals five plus one.",
+        "start": 157.297,
+        "end": 160.38
+      },
+      {
+        "text": " what six equals six plus hmm x",
+        "start": 167.161,
+        "end": 190.013
+      },
+      {
+        "text": " Four.",
+        "start": 197.992,
+        "end": 198.753
+      },
+      {
+        "text": "Four equals no.",
+        "start": 201.056,
+        "end": 204.399
+      },
+      {
+        "text": "What?",
+        "start": 209.666,
+        "end": 209.926
+      },
+      {
+        "text": "V equals what?",
+        "start": 214.091,
+        "end": 218.796
+      },
+      {
+        "text": "Oh, am I doing this wrong?",
+        "start": 220.158,
+        "end": 221.94
+      },
+      {
+        "text": " No, this is right.",
+        "start": 229.092,
+        "end": 230.276
+      },
+      {
+        "text": "Equals V plus 1, or Vii.",
+        "start": 231.861,
+        "end": 239.608
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Oh. Okay. V I 6 equals V I 6 plus 1 equals 7. So V I I equals V I plus 1. Oops. Am I doing something wrong? Hmm. Switch. V-I is six. V-I is six plus one is seven. So... Hmm. What? V-I-I equals V-I plus i what i was doing well before five six plus one seven Six equals six plus one. Yeah, V-I-I. Oh, I guess they want me to do V-I equals V plus one. Huh? What? Six equals five plus one. what six equals six plus hmm x Four. Four equals no. What? V equals what? Oh, am I doing this wrong? No, this is right. Equals V plus 1, or Vii."
+  }
+}

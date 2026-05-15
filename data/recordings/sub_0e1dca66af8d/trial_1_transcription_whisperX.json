@@ -1,0 +1,301 @@
+{
+  "file": "data/recordings/sub_0e1dca66af8d/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, I have to think aloud to solve this problem.So right now, it says 3 equals 3 plus 3, which is not correct.So what matchstick?I can only move one.Oh gosh, this is going to be much harder than I thought. Does it do any good?No, that would be 4.How would I make a 6?That's not going to do it.3.OK, so adding a 1 there, you can't.You can only move one max.It's not going to do that one.Forgive me.I have to turn off notifications for something. And close that.OK.3 equals, I can only move one matchstick.I am saying it out loud.I am trying to say it out loud.And I'm embarrassed.So it wouldn't be 3 minus 3. If you move a match, stick 2 equals 4 plus 3?No.3 plus 3 is 6.Is there any way to make that a 6?A 6 is a VI.So not really. I could move this here.That doesn't do any good.I could move one of these here.I could move one here, four.No, I can only move one.If I move this one, it would be 3 minus 3 is 0.That doesn't do any good.If I move this, 2 equals. If I move this here, it doesn't do any good.Move it here, doesn't do any good.We've already got a plus.If I move this, 3 plus 3 is 6.How do I make this?How do I?I can only move one matchstick.That doesn't do any.I am saying things out loud.I am saying things out loud. 1 equals 4 minus 3.So 2 equals 4 plus 7.I don't see it.This is going to take all night.OK, what can I do?I can move 1, the correct version.2 equals, if I move this, move 1 here, how do I make this a 5? I can't make an angle.I can't.That's not going to do any good.You know, moving this here, three, if I move this here, that doesn't do any good.That doesn't do any good.",
+    "segments": [
+      {
+        "text": " OK, I have to think aloud to solve this problem.",
+        "start": 1.027,
+        "end": 5.513
+      },
+      {
+        "text": "So right now, it says 3 equals 3 plus 3, which is not correct.",
+        "start": 6.795,
+        "end": 15.087
+      },
+      {
+        "text": "So what matchstick?",
+        "start": 16.549,
+        "end": 18.833
+      },
+      {
+        "text": "I can only move one.",
+        "start": 20.014,
+        "end": 21.096
+      },
+      {
+        "text": "Oh gosh, this is going to be much harder than I thought.",
+        "start": 24.761,
+        "end": 29.548
+      },
+      {
+        "text": " Does it do any good?",
+        "start": 31.098,
+        "end": 32.079
+      },
+      {
+        "text": "No, that would be 4.",
+        "start": 32.179,
+        "end": 33.22
+      },
+      {
+        "text": "How would I make a 6?",
+        "start": 33.3,
+        "end": 38.366
+      },
+      {
+        "text": "That's not going to do it.",
+        "start": 38.546,
+        "end": 39.767
+      },
+      {
+        "text": "3.",
+        "start": 39.787,
+        "end": 44.052
+      },
+      {
+        "text": "OK, so adding a 1 there, you can't.",
+        "start": 44.072,
+        "end": 50.058
+      },
+      {
+        "text": "You can only move one max.",
+        "start": 51.08,
+        "end": 52.281
+      },
+      {
+        "text": "It's not going to do that one.",
+        "start": 53.202,
+        "end": 54.063
+      },
+      {
+        "text": "Forgive me.",
+        "start": 57.547,
+        "end": 58.307
+      },
+      {
+        "text": "I have to turn off notifications for something.",
+        "start": 58.327,
+        "end": 60.75
+      },
+      {
+        "text": " And close that.",
+        "start": 65.405,
+        "end": 68.91
+      },
+      {
+        "text": "OK.",
+        "start": 69.832,
+        "end": 70.132
+      },
+      {
+        "text": "3 equals, I can only move one matchstick.",
+        "start": 71.895,
+        "end": 78.785
+      },
+      {
+        "text": "I am saying it out loud.",
+        "start": 82.11,
+        "end": 83.372
+      },
+      {
+        "text": "I am trying to say it out loud.",
+        "start": 83.613,
+        "end": 85.215
+      },
+      {
+        "text": "And I'm embarrassed.",
+        "start": 85.896,
+        "end": 86.878
+      },
+      {
+        "text": "So it wouldn't be 3 minus 3.",
+        "start": 88.72,
+        "end": 93.167
+      },
+      {
+        "text": " If you move a match, stick 2 equals 4 plus 3?",
+        "start": 94.396,
+        "end": 104.67
+      },
+      {
+        "text": "No.",
+        "start": 104.97,
+        "end": 105.33
+      },
+      {
+        "text": "3 plus 3 is 6.",
+        "start": 105.35,
+        "end": 109.997
+      },
+      {
+        "text": "Is there any way to make that a 6?",
+        "start": 110.097,
+        "end": 112.119
+      },
+      {
+        "text": "A 6 is a VI.",
+        "start": 113.641,
+        "end": 115.183
+      },
+      {
+        "text": "So not really.",
+        "start": 116.505,
+        "end": 121.652
+      },
+      {
+        "text": " I could move this here.",
+        "start": 126.104,
+        "end": 129.389
+      },
+      {
+        "text": "That doesn't do any good.",
+        "start": 129.649,
+        "end": 130.551
+      },
+      {
+        "text": "I could move one of these here.",
+        "start": 132.053,
+        "end": 134.476
+      },
+      {
+        "text": "I could move one here, four.",
+        "start": 136.94,
+        "end": 139.884
+      },
+      {
+        "text": "No, I can only move one.",
+        "start": 139.904,
+        "end": 141.587
+      },
+      {
+        "text": "If I move this one, it would be 3 minus 3 is 0.",
+        "start": 141.607,
+        "end": 147.375
+      },
+      {
+        "text": "That doesn't do any good.",
+        "start": 147.415,
+        "end": 148.717
+      },
+      {
+        "text": "If I move this, 2 equals.",
+        "start": 148.737,
+        "end": 155.487
+      },
+      {
+        "text": " If I move this here, it doesn't do any good.",
+        "start": 156.8,
+        "end": 159.584
+      },
+      {
+        "text": "Move it here, doesn't do any good.",
+        "start": 159.904,
+        "end": 161.727
+      },
+      {
+        "text": "We've already got a plus.",
+        "start": 163.209,
+        "end": 164.29
+      },
+      {
+        "text": "If I move this, 3 plus 3 is 6.",
+        "start": 166.393,
+        "end": 170.318
+      },
+      {
+        "text": "How do I make this?",
+        "start": 170.438,
+        "end": 171.64
+      },
+      {
+        "text": "How do I?",
+        "start": 176.166,
+        "end": 176.626
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 176.807,
+        "end": 178.148
+      },
+      {
+        "text": "That doesn't do any.",
+        "start": 181.213,
+        "end": 182.154
+      },
+      {
+        "text": "I am saying things out loud.",
+        "start": 182.254,
+        "end": 183.756
+      },
+      {
+        "text": "I am saying things out loud.",
+        "start": 184.016,
+        "end": 185.338
+      },
+      {
+        "text": " 1 equals 4 minus 3.",
+        "start": 186.415,
+        "end": 189.077
+      },
+      {
+        "text": "So 2 equals 4 plus 7.",
+        "start": 190.379,
+        "end": 196.364
+      },
+      {
+        "text": "I don't see it.",
+        "start": 196.384,
+        "end": 198.586
+      },
+      {
+        "text": "This is going to take all night.",
+        "start": 198.606,
+        "end": 199.907
+      },
+      {
+        "text": "OK, what can I do?",
+        "start": 201.608,
+        "end": 202.569
+      },
+      {
+        "text": "I can move 1, the correct version.",
+        "start": 202.79,
+        "end": 207.474
+      },
+      {
+        "text": "2 equals, if I move this, move 1 here, how do I make this a 5?",
+        "start": 207.494,
+        "end": 214.6
+      },
+      {
+        "text": " I can't make an angle.",
+        "start": 216.554,
+        "end": 219.22
+      },
+      {
+        "text": "I can't.",
+        "start": 220.904,
+        "end": 221.546
+      },
+      {
+        "text": "That's not going to do any good.",
+        "start": 223.029,
+        "end": 224.493
+      },
+      {
+        "text": "You know, moving this here, three, if I move this here, that doesn't do any good.",
+        "start": 224.914,
+        "end": 232.451
+      },
+      {
+        "text": "That doesn't do any good.",
+        "start": 233.373,
+        "end": 239.187
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, I have to think aloud to solve this problem. So right now, it says 3 equals 3 plus 3, which is not correct. So what matchstick? I can only move one. Oh gosh, this is going to be much harder than I thought. Does it do any good? No, that would be 4. How would I make a 6? That's not going to do it. 3. OK, so adding a 1 there, you can't. You can only move one max. It's not going to do that one. Forgive me. I have to turn off notifications for something. And close that. OK. 3 equals, I can only move one matchstick. I am saying it out loud. I am trying to say it out loud. And I'm embarrassed. So it wouldn't be 3 minus 3. If you move a match, stick 2 equals 4 plus 3? No. 3 plus 3 is 6. Is there any way to make that a 6? A 6 is a VI. So not really. I could move this here. That doesn't do any good. I could move one of these here. I could move one here, four. No, I can only move one. If I move this one, it would be 3 minus 3 is 0. That doesn't do any good. If I move this, 2 equals. If I move this here, it doesn't do any good. Move it here, doesn't do any good. We've already got a plus. If I move this, 3 plus 3 is 6. How do I make this? How do I? I can only move one matchstick. That doesn't do any. I am saying things out loud. I am saying things out loud. 1 equals 4 minus 3. So 2 equals 4 plus 7. I don't see it. This is going to take all night. OK, what can I do? I can move 1, the correct version. 2 equals, if I move this, move 1 here, how do I make this a 5? I can't make an angle. I can't. That's not going to do any good. You know, moving this here, three, if I move this here, that doesn't do any good. That doesn't do any good."
+  }
+}

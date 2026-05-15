@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_9fe8ce2519b2/trial_4.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What's the final equation?10 equals eight.10 equals seven minus two.So it's actually 10 equals eight minus two.Okay.No way.It's 10 equals two. plus eight.10 equals eight plus two.No, that's, how's that wrong?X 10 equals B one one.Oh, cause it's two.I got it.Wait, wait. Yeah, it is.Okay.It's two.All right.How about, how about, okay.I can't change that.Cause 10 is going to be 10.So it would instead be, um, it would be two plus eight.That's still too matchstick.So, 3 plus 7 equals 10.But that doesn't move any matchsticks.10 equals 7 plus 3.No?Okay.I mean it is, but whatever. 10 minus 7 equals 10 minus 7 equals 3.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 1.904,
+        "end": 4.427
+      },
+      {
+        "text": "What's the final equation?",
+        "start": 4.447,
+        "end": 5.349
+      },
+      {
+        "text": "10 equals eight.",
+        "start": 5.909,
+        "end": 7.131
+      },
+      {
+        "text": "10 equals seven minus two.",
+        "start": 7.151,
+        "end": 12.298
+      },
+      {
+        "text": "So it's actually 10 equals eight minus two.",
+        "start": 12.378,
+        "end": 17.505
+      },
+      {
+        "text": "Okay.",
+        "start": 25.276,
+        "end": 25.636
+      },
+      {
+        "text": "No way.",
+        "start": 25.656,
+        "end": 26.037
+      },
+      {
+        "text": "It's 10 equals two.",
+        "start": 26.137,
+        "end": 30.763
+      },
+      {
+        "text": " plus eight.",
+        "start": 34.456,
+        "end": 36.558
+      },
+      {
+        "text": "10 equals eight plus two.",
+        "start": 41.002,
+        "end": 50.971
+      },
+      {
+        "text": "No, that's, how's that wrong?",
+        "start": 52.592,
+        "end": 54.354
+      },
+      {
+        "text": "X 10 equals B one one.",
+        "start": 56.216,
+        "end": 59.979
+      },
+      {
+        "text": "Oh, cause it's two.",
+        "start": 60.199,
+        "end": 60.98
+      },
+      {
+        "text": "I got it.",
+        "start": 61.401,
+        "end": 61.941
+      },
+      {
+        "text": "Wait, wait.",
+        "start": 62.441,
+        "end": 63.062
+      },
+      {
+        "text": " Yeah, it is.",
+        "start": 64.139,
+        "end": 64.76
+      },
+      {
+        "text": "Okay.",
+        "start": 64.78,
+        "end": 65.04
+      },
+      {
+        "text": "It's two.",
+        "start": 65.06,
+        "end": 65.42
+      },
+      {
+        "text": "All right.",
+        "start": 65.701,
+        "end": 65.981
+      },
+      {
+        "text": "How about, how about, okay.",
+        "start": 67.623,
+        "end": 73.129
+      },
+      {
+        "text": "I can't change that.",
+        "start": 73.149,
+        "end": 74.15
+      },
+      {
+        "text": "Cause 10 is going to be 10.",
+        "start": 74.17,
+        "end": 76.252
+      },
+      {
+        "text": "So it would instead be, um, it would be two plus eight.",
+        "start": 77.293,
+        "end": 87.004
+      },
+      {
+        "text": "That's still too matchstick.",
+        "start": 89.286,
+        "end": 90.828
+      },
+      {
+        "text": "So,",
+        "start": 90.848,
+        "end": 91.108
+      },
+      {
+        "text": " 3 plus 7 equals 10.",
+        "start": 92.708,
+        "end": 95.632
+      },
+      {
+        "text": "But that doesn't move any matchsticks.",
+        "start": 101.08,
+        "end": 105.386
+      },
+      {
+        "text": "10 equals 7 plus 3.",
+        "start": 105.406,
+        "end": 111.755
+      },
+      {
+        "text": "No?",
+        "start": 114.259,
+        "end": 114.499
+      },
+      {
+        "text": "Okay.",
+        "start": 114.799,
+        "end": 115.761
+      },
+      {
+        "text": "I mean it is, but whatever.",
+        "start": 115.781,
+        "end": 119.526
+      },
+      {
+        "text": " 10 minus 7 equals 10 minus 7 equals 3.",
+        "start": 122.189,
+        "end": 128.942
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What's the final equation? 10 equals eight. 10 equals seven minus two. So it's actually 10 equals eight minus two. Okay. No way. It's 10 equals two. plus eight. 10 equals eight plus two. No, that's, how's that wrong? X 10 equals B one one. Oh, cause it's two. I got it. Wait, wait. Yeah, it is. Okay. It's two. All right. How about, how about, okay. I can't change that. Cause 10 is going to be 10. So it would instead be, um, it would be two plus eight. That's still too matchstick. So, 3 plus 7 equals 10. But that doesn't move any matchsticks. 10 equals 7 plus 3. No? Okay. I mean it is, but whatever. 10 minus 7 equals 10 minus 7 equals 3."
+  }
+}

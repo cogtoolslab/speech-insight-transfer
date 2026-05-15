@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_41bde21ec10e/trial_3.wav",
+  "with_timestamps": {
+    "text": " 11 equals 2 equals 9 minus 11.2 equals 9 minus 2 is 7. 2 would be 8 minus 1.1, that would be 9 minus 2 is 7. x.1x.11.2 equals. 7 8 is 2 then that would only be 1 X okay, so 9 9 plus 1 if I Moved V, there is no V. Okay, one, five would be four.Okay, 11 equals, 1v minus 2.OK, so 2 would equal 1 minus 4.1 minus 5 is 4 minus 2.",
+    "segments": [
+      {
+        "text": " 11 equals 2 equals 9 minus 11.",
+        "start": 2.849,
+        "end": 11.604
+      },
+      {
+        "text": "2 equals 9 minus 2 is 7.",
+        "start": 11.624,
+        "end": 26.73
+      },
+      {
+        "text": " 2 would be 8 minus 1.",
+        "start": 30.406,
+        "end": 33.809
+      },
+      {
+        "text": "1, that would be 9 minus 2 is 7. x.",
+        "start": 33.829,
+        "end": 40.996
+      },
+      {
+        "text": "1x.",
+        "start": 41.016,
+        "end": 46.301
+      },
+      {
+        "text": "11.",
+        "start": 46.321,
+        "end": 51.947
+      },
+      {
+        "text": "2 equals.",
+        "start": 54.589,
+        "end": 60.295
+      },
+      {
+        "text": " 7 8 is 2 then that would only be 1 X okay, so 9 9 plus 1 if I Moved",
+        "start": 65.607,
+        "end": 92.492
+      },
+      {
+        "text": " V, there is no V. Okay, one, five would be four.",
+        "start": 95.847,
+        "end": 111.786
+      },
+      {
+        "text": "Okay, 11 equals,",
+        "start": 112.828,
+        "end": 119.796
+      },
+      {
+        "text": " 1v minus 2.",
+        "start": 126.458,
+        "end": 137.353
+      },
+      {
+        "text": "OK, so 2 would equal 1 minus 4.",
+        "start": 137.393,
+        "end": 144.482
+      },
+      {
+        "text": "1 minus 5 is 4 minus 2.",
+        "start": 144.502,
+        "end": 149.749
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 11 equals 2 equals 9 minus 11. 2 equals 9 minus 2 is 7. 2 would be 8 minus 1. 1, that would be 9 minus 2 is 7. x. 1x. 11. 2 equals. 7 8 is 2 then that would only be 1 X okay, so 9 9 plus 1 if I Moved V, there is no V. Okay, one, five would be four. Okay, 11 equals, 1v minus 2. OK, so 2 would equal 1 minus 4. 1 minus 5 is 4 minus 2."
+  }
+}

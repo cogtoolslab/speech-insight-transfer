@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_0bf06d808ee6/trial_5.wav",
+  "with_timestamps": {
+    "text": " line now.Four equals IV minus two, so that's four minus two, which is two.We have to convert that to a, this is a four, right?Equals a four.So let's see, I plus a V equals a four, equals sign. Then we can move that to 5 to 6.6 minus 2 is 4, yeah.So then we can do IV, which is OK, equal.And then we take one of those matchsticks and the IV on the other side and move it to, instead of being left of the V, move it to the right of the V. So V. 1 minus, that's 5.I guess 6 minus 2.6 minus 2, so add 2 matchsticks.",
+    "segments": [
+      {
+        "text": " line now.",
+        "start": 0.554,
+        "end": 2.096
+      },
+      {
+        "text": "Four equals IV minus two, so that's four minus two, which is two.",
+        "start": 3.697,
+        "end": 11.186
+      },
+      {
+        "text": "We have to convert that to a, this is a four, right?",
+        "start": 11.246,
+        "end": 18.154
+      },
+      {
+        "text": "Equals a four.",
+        "start": 18.274,
+        "end": 19.195
+      },
+      {
+        "text": "So let's see, I plus a V equals a four, equals sign.",
+        "start": 20.356,
+        "end": 26.663
+      },
+      {
+        "text": " Then we can move that to 5 to 6.",
+        "start": 28.229,
+        "end": 31.954
+      },
+      {
+        "text": "6 minus 2 is 4, yeah.",
+        "start": 31.975,
+        "end": 36.481
+      },
+      {
+        "text": "So then we can do IV, which is OK, equal.",
+        "start": 36.902,
+        "end": 41.989
+      },
+      {
+        "text": "And then we take one of those matchsticks and the IV on the other side and move it to, instead of being left of the V, move it to the right of the V. So V.",
+        "start": 43.431,
+        "end": 57.392
+      },
+      {
+        "text": " 1 minus, that's 5.",
+        "start": 58.84,
+        "end": 62.447
+      },
+      {
+        "text": "I guess 6 minus 2.",
+        "start": 62.467,
+        "end": 68.098
+      },
+      {
+        "text": "6 minus 2, so add 2 matchsticks.",
+        "start": 68.118,
+        "end": 73.508
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " line now. Four equals IV minus two, so that's four minus two, which is two. We have to convert that to a, this is a four, right? Equals a four. So let's see, I plus a V equals a four, equals sign. Then we can move that to 5 to 6. 6 minus 2 is 4, yeah. So then we can do IV, which is OK, equal. And then we take one of those matchsticks and the IV on the other side and move it to, instead of being left of the V, move it to the right of the V. So V. 1 minus, that's 5. I guess 6 minus 2. 6 minus 2, so add 2 matchsticks."
+  }
+}

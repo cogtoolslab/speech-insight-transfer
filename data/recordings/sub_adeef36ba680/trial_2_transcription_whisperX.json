@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_adeef36ba680/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright, this one is 7, oh, err, not 12, excuse me.12 equals 12 plus 12, same problem.So, Same as before, not sure whether you can change the plus or minus.The easiest way, honestly, to make the correct equation would be to put one of the slanted matchsticks through the equals sign to make the equation not equal each side.But I'm aware that's not the point of trying to solve these puzzles.Hmm. Let's see.And that doesn't work either, because it's only one, and that wouldn't become less than 10.Or 11, I guess. That's almost it.So if you move the one matchstick from the first 12 after the equals sign to make 13, that's almost right.But then you'd still have to change the addition or subtraction. symbol, which again, I'm not sure if it's allowed or not. And running out of time here again, so at some point I have to make a random guess.12 plus 11 would be 23.That doesn't work, so it doesn't equal 12. Maybe, I don't know, I'll go with 13.No, that doesn't work either.It would have to be something like, I don't know, 24- 11 equals 13, except it's not minus, it's plus.",
+    "segments": [
+      {
+        "text": " Alright, this one is 7, oh, err, not 12, excuse me.",
+        "start": 2.292,
+        "end": 7.768
+      },
+      {
+        "text": "12 equals 12 plus 12, same problem.",
+        "start": 7.788,
+        "end": 11.86
+      },
+      {
+        "text": "So,",
+        "start": 13.946,
+        "end": 14.648
+      },
+      {
+        "text": " Same as before, not sure whether you can change the plus or minus.",
+        "start": 28.111,
+        "end": 32.496
+      },
+      {
+        "text": "The easiest way, honestly, to make the correct equation would be to put one of the slanted matchsticks through the equals sign to make the equation not equal each side.",
+        "start": 35.7,
+        "end": 46.454
+      },
+      {
+        "text": "But I'm aware that's not the point of trying to solve these puzzles.",
+        "start": 47.495,
+        "end": 50.759
+      },
+      {
+        "text": "Hmm.",
+        "start": 55.625,
+        "end": 55.705
+      },
+      {
+        "text": " Let's see.",
+        "start": 75.496,
+        "end": 76.458
+      },
+      {
+        "text": "And that doesn't work either, because it's only one, and that wouldn't become less than 10.",
+        "start": 81.268,
+        "end": 90.787
+      },
+      {
+        "text": "Or 11, I guess.",
+        "start": 91.168,
+        "end": 94.635
+      },
+      {
+        "text": " That's almost it.",
+        "start": 106.647,
+        "end": 108.069
+      },
+      {
+        "text": "So if you move the one matchstick from the first 12 after the equals sign to make 13, that's almost right.",
+        "start": 110.212,
+        "end": 117.802
+      },
+      {
+        "text": "But then you'd still have to change the addition or subtraction.",
+        "start": 122.848,
+        "end": 133.262
+      },
+      {
+        "text": " symbol, which again, I'm not sure if it's allowed or not.",
+        "start": 134.677,
+        "end": 138.207
+      },
+      {
+        "text": " And running out of time here again, so at some point I have to make a random guess.",
+        "start": 164.849,
+        "end": 169.418
+      },
+      {
+        "text": "12 plus 11 would be 23.",
+        "start": 179.798,
+        "end": 183.104
+      },
+      {
+        "text": "That doesn't work, so it doesn't equal 12.",
+        "start": 184.968,
+        "end": 187.633
+      },
+      {
+        "text": " Maybe, I don't know, I'll go with 13.",
+        "start": 196.439,
+        "end": 202.389
+      },
+      {
+        "text": "No, that doesn't work either.",
+        "start": 202.409,
+        "end": 209.562
+      },
+      {
+        "text": "It would have to be something like,",
+        "start": 209.582,
+        "end": 221.282
+      },
+      {
+        "text": " I don't know, 24- 11 equals 13, except it's not minus, it's plus.",
+        "start": 228.907,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, this one is 7, oh, err, not 12, excuse me. 12 equals 12 plus 12, same problem. So, Same as before, not sure whether you can change the plus or minus. The easiest way, honestly, to make the correct equation would be to put one of the slanted matchsticks through the equals sign to make the equation not equal each side. But I'm aware that's not the point of trying to solve these puzzles. Hmm. Let's see. And that doesn't work either, because it's only one, and that wouldn't become less than 10. Or 11, I guess. That's almost it. So if you move the one matchstick from the first 12 after the equals sign to make 13, that's almost right. But then you'd still have to change the addition or subtraction. symbol, which again, I'm not sure if it's allowed or not. And running out of time here again, so at some point I have to make a random guess. 12 plus 11 would be 23. That doesn't work, so it doesn't equal 12. Maybe, I don't know, I'll go with 13. No, that doesn't work either. It would have to be something like, I don't know, 24- 11 equals 13, except it's not minus, it's plus."
+  }
+}

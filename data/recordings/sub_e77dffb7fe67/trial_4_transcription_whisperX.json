@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_e77dffb7fe67/trial_4.wav",
+  "with_timestamps": {
+    "text": " And number 4 starts out with 2 equals 11 minus 7.And we're going to change the 11 to a 9.So we're going to go 2 equals 1x minus v11, which is 2.Oops, it didn't put the minus in, so I've got to go all the way back and take these out.And now I can do it.OK.So 2 equals 9 minus 7.",
+    "segments": [
+      {
+        "text": " And number 4 starts out with 2 equals 11 minus 7.",
+        "start": 1.415,
+        "end": 6.042
+      },
+      {
+        "text": "And we're going to change the 11 to a 9.",
+        "start": 6.062,
+        "end": 8.386
+      },
+      {
+        "text": "So we're going to go 2 equals 1x minus v11, which is 2.",
+        "start": 9.467,
+        "end": 18.481
+      },
+      {
+        "text": "Oops, it didn't put the minus in, so I've got to go all the way back and take these out.",
+        "start": 18.521,
+        "end": 22.808
+      },
+      {
+        "text": "And now I can do it.",
+        "start": 24.05,
+        "end": 24.991
+      },
+      {
+        "text": "OK.",
+        "start": 26.614,
+        "end": 26.954
+      },
+      {
+        "text": "So 2 equals 9 minus 7.",
+        "start": 27.395,
+        "end": 30.139
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " And number 4 starts out with 2 equals 11 minus 7. And we're going to change the 11 to a 9. So we're going to go 2 equals 1x minus v11, which is 2. Oops, it didn't put the minus in, so I've got to go all the way back and take these out. And now I can do it. OK. So 2 equals 9 minus 7."
+  }
+}

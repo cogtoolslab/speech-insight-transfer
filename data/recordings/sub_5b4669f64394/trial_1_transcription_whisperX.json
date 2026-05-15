@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_5b4669f64394/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so this says nine equals seven, wait, no, nine equals 12 plus four.So if I were to move one matchstick, let's see, so if I did, Nine.Equals.12 Ah, so the.I would do. 9 equals 13 minus 4.So I need to move this matchstick.So I need to do 9 equals 13 minus 4.",
+    "segments": [
+      {
+        "text": " Okay, so this says nine equals seven, wait, no, nine equals 12 plus four.",
+        "start": 2.022,
+        "end": 17.66
+      },
+      {
+        "text": "So if I were to move one matchstick, let's see, so if I did,",
+        "start": 19.362,
+        "end": 30.375
+      },
+      {
+        "text": " Nine.",
+        "start": 32.903,
+        "end": 33.884
+      },
+      {
+        "text": "Equals.",
+        "start": 33.944,
+        "end": 36.786
+      },
+      {
+        "text": "12 Ah, so the.",
+        "start": 36.806,
+        "end": 59.346
+      },
+      {
+        "text": "I would do.",
+        "start": 59.366,
+        "end": 61.948
+      },
+      {
+        "text": " 9 equals 13 minus 4.",
+        "start": 62.992,
+        "end": 69.919
+      },
+      {
+        "text": "So I need to move this matchstick.",
+        "start": 71.1,
+        "end": 76.506
+      },
+      {
+        "text": "So I need to do 9 equals 13 minus 4.",
+        "start": 77.407,
+        "end": 87.717
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so this says nine equals seven, wait, no, nine equals 12 plus four. So if I were to move one matchstick, let's see, so if I did, Nine. Equals. 12 Ah, so the. I would do. 9 equals 13 minus 4. So I need to move this matchstick. So I need to do 9 equals 13 minus 4."
+  }
+}

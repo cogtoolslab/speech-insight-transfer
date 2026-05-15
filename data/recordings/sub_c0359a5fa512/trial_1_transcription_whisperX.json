@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_c0359a5fa512/trial_1.wav",
+  "with_timestamps": {
+    "text": " All right, so it starts with 3 equals 9 minus 3, or 11 minus 3, actually.3 equals 11 minus 3.That is not correct.So 11 minus 3 is 8. So let's see, I can move one matchstick.So what if I do, let's see, so there's no angled ones left, but there's two angled ones.So I could do, I could move the two Xs into a V. So I could do 3 equals 6 minus 3, which is correct.So submit answer.",
+    "segments": [
+      {
+        "text": " All right, so it starts with 3 equals 9 minus 3, or 11 minus 3, actually.",
+        "start": 1.853,
+        "end": 12.146
+      },
+      {
+        "text": "3 equals 11 minus 3.",
+        "start": 12.166,
+        "end": 15.09
+      },
+      {
+        "text": "That is not correct.",
+        "start": 15.17,
+        "end": 20.356
+      },
+      {
+        "text": "So 11 minus 3 is 8.",
+        "start": 20.376,
+        "end": 25.583
+      },
+      {
+        "text": " So let's see, I can move one matchstick.",
+        "start": 28.786,
+        "end": 32.73
+      },
+      {
+        "text": "So what if I do, let's see, so there's no angled ones left, but there's two angled ones.",
+        "start": 35.332,
+        "end": 46.342
+      },
+      {
+        "text": "So I could do, I could move the two Xs into a V.",
+        "start": 46.583,
+        "end": 56.532
+      },
+      {
+        "text": " So I could do 3 equals 6 minus 3, which is correct.",
+        "start": 57.592,
+        "end": 67.391
+      },
+      {
+        "text": "So submit answer.",
+        "start": 67.993,
+        "end": 69.559
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so it starts with 3 equals 9 minus 3, or 11 minus 3, actually. 3 equals 11 minus 3. That is not correct. So 11 minus 3 is 8. So let's see, I can move one matchstick. So what if I do, let's see, so there's no angled ones left, but there's two angled ones. So I could do, I could move the two Xs into a V. So I could do 3 equals 6 minus 3, which is correct. So submit answer."
+  }
+}

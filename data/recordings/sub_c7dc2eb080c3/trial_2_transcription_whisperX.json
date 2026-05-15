@@ -1,0 +1,81 @@
+{
+  "file": "data/recordings/sub_c7dc2eb080c3/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, six equals six plus one.Aw, shit.Oh no.Mm.Mm. v equals six minus one fuck um oops so six equals six plus one i can only move one so v 1, 2 equals 3 plus 1.God dang it.Um.Um.Uh oh.So 7.Oh my gosh. equals one plus one okay okay um six equals",
+    "segments": [
+      {
+        "text": " All right, six equals six plus one.",
+        "start": 2.208,
+        "end": 11.017
+      },
+      {
+        "text": "Aw, shit.",
+        "start": 11.037,
+        "end": 12.638
+      },
+      {
+        "text": "Oh no.",
+        "start": 19.765,
+        "end": 25.871
+      },
+      {
+        "text": "Mm.",
+        "start": 31.096,
+        "end": 31.156
+      },
+      {
+        "text": "Mm.",
+        "start": 31.176,
+        "end": 31.236
+      },
+      {
+        "text": " v equals six minus one fuck um oops so six equals six plus one i can only move one so v",
+        "start": 32.566,
+        "end": 57.392
+      },
+      {
+        "text": " 1, 2 equals 3 plus 1.",
+        "start": 58.638,
+        "end": 63.605
+      },
+      {
+        "text": "God dang it.",
+        "start": 66.569,
+        "end": 80.408
+      },
+      {
+        "text": "Um.",
+        "start": 80.428,
+        "end": 80.489
+      },
+      {
+        "text": "Um.",
+        "start": 80.509,
+        "end": 80.629
+      },
+      {
+        "text": "Uh oh.",
+        "start": 80.649,
+        "end": 80.969
+      },
+      {
+        "text": "So 7.",
+        "start": 84.795,
+        "end": 85.576
+      },
+      {
+        "text": "Oh my gosh.",
+        "start": 86.497,
+        "end": 87.278
+      },
+      {
+        "text": " equals one plus one okay okay um six equals",
+        "start": 88.523,
+        "end": 101.352
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, six equals six plus one. Aw, shit. Oh no. Mm. Mm. v equals six minus one fuck um oops so six equals six plus one i can only move one so v 1, 2 equals 3 plus 1. God dang it. Um. Um. Uh oh. So 7. Oh my gosh. equals one plus one okay okay um six equals"
+  }
+}

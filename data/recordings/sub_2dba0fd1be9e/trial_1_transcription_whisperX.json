@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_2dba0fd1be9e/trial_1.wav",
+  "with_timestamps": {
+    "text": " okay here we go three equals nine minus four no but I see the solution is three equals I X Minus.",
+    "segments": [
+      {
+        "text": " okay here we go three equals nine minus four no but I see the solution is three equals I X",
+        "start": 0.47,
+        "end": 27.827
+      },
+      {
+        "text": " Minus.",
+        "start": 30.423,
+        "end": 31.507
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " okay here we go three equals nine minus four no but I see the solution is three equals I X Minus."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_e017401724de/trial_4.wav",
+  "with_timestamps": {
+    "text": " 4 here, we have 11 equals 4 plus 2.4 plus 2 equals 6.And I could just move this guy over here to get 6.So again, it seems really similar to the last one.Fairly easy there.I'm a big fan of that.Moving through this puzzle nice and quickly.",
+    "segments": [
+      {
+        "text": " 4 here, we have 11 equals 4 plus 2.",
+        "start": 0.436,
+        "end": 6.303
+      },
+      {
+        "text": "4 plus 2 equals 6.",
+        "start": 6.323,
+        "end": 10.669
+      },
+      {
+        "text": "And I could just move this guy over here to get 6.",
+        "start": 11.53,
+        "end": 14.674
+      },
+      {
+        "text": "So again, it seems really similar to the last one.",
+        "start": 15.354,
+        "end": 17.517
+      },
+      {
+        "text": "Fairly easy there.",
+        "start": 17.557,
+        "end": 20.04
+      },
+      {
+        "text": "I'm a big fan of that.",
+        "start": 20.481,
+        "end": 21.742
+      },
+      {
+        "text": "Moving through this puzzle nice and quickly.",
+        "start": 22.463,
+        "end": 25.667
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 here, we have 11 equals 4 plus 2. 4 plus 2 equals 6. And I could just move this guy over here to get 6. So again, it seems really similar to the last one. Fairly easy there. I'm a big fan of that. Moving through this puzzle nice and quickly."
+  }
+}

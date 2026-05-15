@@ -1,0 +1,291 @@
+{
+  "file": "data/recordings/sub_d482ed5a6935/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, let me read the instructions.You can only move one matchstick to make this equation correct.What is the final correct equation?So we've got, looks like four equals four plus four.We can only move one, so obviously that's not correct.Four does not equal four plus four.Four plus... Four could equal eight, but I'd have to move.Oh wow, this is tough.I can only move one stick.Okay, this is challenging.Four equals four plus four.Four equals four plus.Four equals... Can I change something to a minus before, because that would just be zero.I can only move one matchstick.Oh man, I think I might fail this initial test.I can only move one.I can't change the angle, I can only move it, is my understanding.Four equals four. Wow, we can only move one.We don't want to multiply.Dividing wouldn't do any good, that would be one.Four, if I move 11 would not equal four plus four.Four, I don't think I can turn four into an eight.I don't think that can, that could work.Let's see.How would I turn that into an eight?I have no idea on this one.I'm stuck.I can't see four, cause even just not going to get, I'd have to make two changes to do it.I can only make one, move one matchstick. Or can I move, I wonder if I could move one matchstick.Let's see if I moved one matchstick.No, V11, I could not, that won't work.I'm trying to think this through, but I don't see any way to do it.I'd love to see the solution to this, cause I'm not getting it. 11, this is probably a five, six equals four plus, that's so close, five, you could do six equals four plus four, but obviously that's not right.It's close, it's only two off.Yeah, I don't see how six, I don't see how to do it.Subtraction wouldn't work, zero makes no sense. Yeah, this is harder than the examples that I saw, for sure.I don't know.I'm sure there's something I'm not thinking of.I don't think I can, they have to stay at the same angle.You can't move that.So that, I don't know.I'm not sure how to move these around.You know, cause it's all just four, four, you know. Yeah, I don't know how to do this.I'm just gonna have to let the time run out.I have no idea how to make this work.Simplified ones in the examples were relatively easy to understand, but this is a mystery to me.I don't know how to do it.I'm not gonna bother putting anything in, because I don't have any good ideas on how to correct it, correct the equation of four equals four plus four.",
+    "segments": [
+      {
+        "text": " Okay, let me read the instructions.",
+        "start": 0.031,
+        "end": 1.733
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 2.614,
+        "end": 4.977
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 5.037,
+        "end": 7.86
+      },
+      {
+        "text": "So we've got, looks like four equals four plus four.",
+        "start": 9.341,
+        "end": 16.149
+      },
+      {
+        "text": "We can only move one, so obviously that's not correct.",
+        "start": 16.169,
+        "end": 21.195
+      },
+      {
+        "text": "Four does not equal four plus four.",
+        "start": 21.315,
+        "end": 23.778
+      },
+      {
+        "text": "Four plus...",
+        "start": 26.921,
+        "end": 28.603
+      },
+      {
+        "text": " Four could equal eight, but I'd have to move.",
+        "start": 29.022,
+        "end": 32.108
+      },
+      {
+        "text": "Oh wow, this is tough.",
+        "start": 33.53,
+        "end": 34.532
+      },
+      {
+        "text": "I can only move one stick.",
+        "start": 35.294,
+        "end": 36.456
+      },
+      {
+        "text": "Okay, this is challenging.",
+        "start": 37.137,
+        "end": 38.299
+      },
+      {
+        "text": "Four equals four plus four.",
+        "start": 39.041,
+        "end": 43.97
+      },
+      {
+        "text": "Four equals four plus.",
+        "start": 44.03,
+        "end": 49.3
+      },
+      {
+        "text": "Four equals...",
+        "start": 50.643,
+        "end": 51.925
+      },
+      {
+        "text": " Can I change something to a minus before, because that would just be zero.",
+        "start": 54.048,
+        "end": 57.492
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 58.033,
+        "end": 59.675
+      },
+      {
+        "text": "Oh man, I think I might fail this initial test.",
+        "start": 59.996,
+        "end": 63.04
+      },
+      {
+        "text": "I can only move one.",
+        "start": 65.222,
+        "end": 66.184
+      },
+      {
+        "text": "I can't change the angle, I can only move it, is my understanding.",
+        "start": 66.204,
+        "end": 74.014
+      },
+      {
+        "text": "Four equals four.",
+        "start": 75.736,
+        "end": 77.338
+      },
+      {
+        "text": " Wow, we can only move one.",
+        "start": 79.985,
+        "end": 84.253
+      },
+      {
+        "text": "We don't want to multiply.",
+        "start": 85.094,
+        "end": 86.136
+      },
+      {
+        "text": "Dividing wouldn't do any good, that would be one.",
+        "start": 86.176,
+        "end": 89.583
+      },
+      {
+        "text": "Four, if I move 11 would not equal four plus four.",
+        "start": 89.643,
+        "end": 95.794
+      },
+      {
+        "text": "Four,",
+        "start": 97.598,
+        "end": 100.002
+      },
+      {
+        "text": " I don't think I can turn four into an eight.",
+        "start": 102.293,
+        "end": 106.179
+      },
+      {
+        "text": "I don't think that can, that could work.",
+        "start": 106.519,
+        "end": 108.502
+      },
+      {
+        "text": "Let's see.",
+        "start": 112.288,
+        "end": 112.749
+      },
+      {
+        "text": "How would I turn that into an eight?",
+        "start": 112.789,
+        "end": 115.153
+      },
+      {
+        "text": "I have no idea on this one.",
+        "start": 116.114,
+        "end": 117.456
+      },
+      {
+        "text": "I'm stuck.",
+        "start": 117.997,
+        "end": 118.498
+      },
+      {
+        "text": "I can't see four, cause even just not going to get, I'd have to make two changes to do it.",
+        "start": 121.682,
+        "end": 128.493
+      },
+      {
+        "text": "I can only make one, move one matchstick.",
+        "start": 128.593,
+        "end": 130.596
+      },
+      {
+        "text": " Or can I move, I wonder if I could move one matchstick.",
+        "start": 131.673,
+        "end": 138.72
+      },
+      {
+        "text": "Let's see if I moved one matchstick.",
+        "start": 138.76,
+        "end": 141.023
+      },
+      {
+        "text": "No, V11, I could not, that won't work.",
+        "start": 143.846,
+        "end": 148.851
+      },
+      {
+        "text": "I'm trying to think this through, but I don't see any way to do it.",
+        "start": 149.031,
+        "end": 152.315
+      },
+      {
+        "text": "I'd love to see the solution to this, cause I'm not getting it.",
+        "start": 153.376,
+        "end": 159.182
+      },
+      {
+        "text": " 11, this is probably a five, six equals four plus, that's so close, five, you could do six equals four plus four, but obviously that's not right.",
+        "start": 160.647,
+        "end": 170.721
+      },
+      {
+        "text": "It's close, it's only two off.",
+        "start": 170.861,
+        "end": 174.406
+      },
+      {
+        "text": "Yeah, I don't see how six, I don't see how to do it.",
+        "start": 176.149,
+        "end": 180.014
+      },
+      {
+        "text": "Subtraction wouldn't work, zero makes no sense.",
+        "start": 183.759,
+        "end": 187.785
+      },
+      {
+        "text": " Yeah, this is harder than the examples that I saw, for sure.",
+        "start": 189.233,
+        "end": 192.236
+      },
+      {
+        "text": "I don't know.",
+        "start": 192.256,
+        "end": 193.518
+      },
+      {
+        "text": "I'm sure there's something I'm not thinking of.",
+        "start": 193.538,
+        "end": 195.54
+      },
+      {
+        "text": "I don't think I can, they have to stay at the same angle.",
+        "start": 196.501,
+        "end": 198.964
+      },
+      {
+        "text": "You can't move that.",
+        "start": 199.004,
+        "end": 199.805
+      },
+      {
+        "text": "So that, I don't know.",
+        "start": 200.466,
+        "end": 201.447
+      },
+      {
+        "text": "I'm not sure how to move these around.",
+        "start": 201.487,
+        "end": 204.55
+      },
+      {
+        "text": "You know, cause it's all just four, four, you know.",
+        "start": 205.131,
+        "end": 214.161
+      },
+      {
+        "text": " Yeah, I don't know how to do this.",
+        "start": 216.031,
+        "end": 218.296
+      },
+      {
+        "text": "I'm just gonna have to let the time run out.",
+        "start": 218.656,
+        "end": 219.899
+      },
+      {
+        "text": "I have no idea how to make this work.",
+        "start": 219.959,
+        "end": 224.929
+      },
+      {
+        "text": "Simplified ones in the examples were relatively easy to understand, but this is a mystery to me.",
+        "start": 225.33,
+        "end": 230.861
+      },
+      {
+        "text": "I don't know how to do it.",
+        "start": 230.881,
+        "end": 231.783
+      },
+      {
+        "text": "I'm not gonna bother putting anything in, because I don't have any good ideas on how to correct it, correct the equation of four equals four plus four.",
+        "start": 232.565,
+        "end": 239.659
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, let me read the instructions. You can only move one matchstick to make this equation correct. What is the final correct equation? So we've got, looks like four equals four plus four. We can only move one, so obviously that's not correct. Four does not equal four plus four. Four plus... Four could equal eight, but I'd have to move. Oh wow, this is tough. I can only move one stick. Okay, this is challenging. Four equals four plus four. Four equals four plus. Four equals... Can I change something to a minus before, because that would just be zero. I can only move one matchstick. Oh man, I think I might fail this initial test. I can only move one. I can't change the angle, I can only move it, is my understanding. Four equals four. Wow, we can only move one. We don't want to multiply. Dividing wouldn't do any good, that would be one. Four, if I move 11 would not equal four plus four. Four, I don't think I can turn four into an eight. I don't think that can, that could work. Let's see. How would I turn that into an eight? I have no idea on this one. I'm stuck. I can't see four, cause even just not going to get, I'd have to make two changes to do it. I can only make one, move one matchstick. Or can I move, I wonder if I could move one matchstick. Let's see if I moved one matchstick. No, V11, I could not, that won't work. I'm trying to think this through, but I don't see any way to do it. I'd love to see the solution to this, cause I'm not getting it. 11, this is probably a five, six equals four plus, that's so close, five, you could do six equals four plus four, but obviously that's not right. It's close, it's only two off. Yeah, I don't see how six, I don't see how to do it. Subtraction wouldn't work, zero makes no sense. Yeah, this is harder than the examples that I saw, for sure. I don't know. I'm sure there's something I'm not thinking of. I don't think I can, they have to stay at the same angle. You can't move that. So that, I don't know. I'm not sure how to move these around. You know, cause it's all just four, four, you know. Yeah, I don't know how to do this. I'm just gonna have to let the time run out. I have no idea how to make this work. Simplified ones in the examples were relatively easy to understand, but this is a mystery to me. I don't know how to do it. I'm not gonna bother putting anything in, because I don't have any good ideas on how to correct it, correct the equation of four equals four plus four."
+  }
+}

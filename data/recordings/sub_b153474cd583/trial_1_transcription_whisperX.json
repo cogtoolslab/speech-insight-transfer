@@ -1,0 +1,151 @@
+{
+  "file": "data/recordings/sub_b153474cd583/trial_1.wav",
+  "with_timestamps": {
+    "text": " So 9 equals 9 plus 9.Well, that's 9, right?Yeah.x9 equals 9 plus 9.9 what? If I change that to 11 equals... Stop it!11 plus... 11... 9 minus... 9 equals how would I split this X 11 minus 9 I'm not exactly sure can only move one matchstick to make this hmm I am very confused.What is it?5, so 4?No.Is it 9?Shoot, so... If we make that 9 plus... 4?9 plus 4 is 13.That won't make sense. 11 This is hard.Um, I think that minus. 9 minus 9, but that's not.This is hard.This is 10.This is 9.If I put it in front, that'll be 11.I am talking out loud. If I move this to the front, it'll be 11.If I, 9 equals 11 plus 9, but that's 20.X equals, do I take, so 10, maybe I should just make it 10 equals, or nine plus one or is that nine eleven plus i'm not sure how to do this x equals i x plus x i'm not i",
+    "segments": [
+      {
+        "text": " So 9 equals 9 plus 9.",
+        "start": 2.95,
+        "end": 8.738
+      },
+      {
+        "text": "Well, that's 9, right?",
+        "start": 15.347,
+        "end": 16.89
+      },
+      {
+        "text": "Yeah.",
+        "start": 16.91,
+        "end": 17.15
+      },
+      {
+        "text": "x9 equals 9 plus 9.",
+        "start": 17.971,
+        "end": 21.356
+      },
+      {
+        "text": "9 what?",
+        "start": 21.376,
+        "end": 32.772
+      },
+      {
+        "text": " If I change that to 11 equals... Stop it!",
+        "start": 35.08,
+        "end": 43.929
+      },
+      {
+        "text": "11 plus... 11... 9 minus...",
+        "start": 43.949,
+        "end": 61.948
+      },
+      {
+        "text": " 9 equals how would I split this X 11 minus 9 I'm not exactly sure can only move one matchstick to make this hmm",
+        "start": 62.958,
+        "end": 92.695
+      },
+      {
+        "text": " I am very confused.",
+        "start": 95.442,
+        "end": 97.565
+      },
+      {
+        "text": "What is it?",
+        "start": 99.588,
+        "end": 100.129
+      },
+      {
+        "text": "5, so 4?",
+        "start": 100.149,
+        "end": 101.15
+      },
+      {
+        "text": "No.",
+        "start": 101.711,
+        "end": 101.931
+      },
+      {
+        "text": "Is it 9?",
+        "start": 106.097,
+        "end": 106.598
+      },
+      {
+        "text": "Shoot, so... If we make that 9 plus... 4?",
+        "start": 109.402,
+        "end": 116.091
+      },
+      {
+        "text": "9 plus 4 is 13.",
+        "start": 116.111,
+        "end": 121.819
+      },
+      {
+        "text": "That won't make sense.",
+        "start": 122.801,
+        "end": 123.762
+      },
+      {
+        "text": " 11 This is hard.",
+        "start": 127.96,
+        "end": 149.255
+      },
+      {
+        "text": "Um, I think that minus.",
+        "start": 149.776,
+        "end": 153.242
+      },
+      {
+        "text": " 9 minus 9, but that's not.",
+        "start": 155.99,
+        "end": 158.754
+      },
+      {
+        "text": "This is hard.",
+        "start": 173.115,
+        "end": 174.137
+      },
+      {
+        "text": "This is 10.",
+        "start": 176.801,
+        "end": 177.742
+      },
+      {
+        "text": "This is 9.",
+        "start": 180.687,
+        "end": 181.848
+      },
+      {
+        "text": "If I put it in front, that'll be 11.",
+        "start": 181.989,
+        "end": 183.571
+      },
+      {
+        "text": "I am talking out loud.",
+        "start": 184.032,
+        "end": 184.933
+      },
+      {
+        "text": " If I move this to the front, it'll be 11.",
+        "start": 186.922,
+        "end": 189.185
+      },
+      {
+        "text": "If I, 9 equals 11 plus 9, but that's 20.",
+        "start": 189.205,
+        "end": 197.917
+      },
+      {
+        "text": "X equals, do I take, so 10, maybe I should just make it 10 equals,",
+        "start": 209.473,
+        "end": 214.92
+      },
+      {
+        "text": " or nine plus one or is that nine eleven plus i'm not sure how to do this x equals i x plus x i'm not i",
+        "start": 217.702,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 9 equals 9 plus 9. Well, that's 9, right? Yeah. x9 equals 9 plus 9. 9 what? If I change that to 11 equals... Stop it! 11 plus... 11... 9 minus... 9 equals how would I split this X 11 minus 9 I'm not exactly sure can only move one matchstick to make this hmm I am very confused. What is it? 5, so 4? No. Is it 9? Shoot, so... If we make that 9 plus... 4? 9 plus 4 is 13. That won't make sense. 11 This is hard. Um, I think that minus. 9 minus 9, but that's not. This is hard. This is 10. This is 9. If I put it in front, that'll be 11. I am talking out loud. If I move this to the front, it'll be 11. If I, 9 equals 11 plus 9, but that's 20. X equals, do I take, so 10, maybe I should just make it 10 equals, or nine plus one or is that nine eleven plus i'm not sure how to do this x equals i x plus x i'm not i"
+  }
+}

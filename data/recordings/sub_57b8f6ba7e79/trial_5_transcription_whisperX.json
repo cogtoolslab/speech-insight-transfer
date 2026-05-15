@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_57b8f6ba7e79/trial_5.wav",
+  "with_timestamps": {
+    "text": " We got 9 equals 4 plus 2.OK.I think I got it by this time.It's just that, and then I'm just switching this to an x instead of a v, plus 2.",
+    "segments": [
+      {
+        "text": " We got 9 equals 4 plus 2.",
+        "start": 0.605,
+        "end": 5.159
+      },
+      {
+        "text": "OK.",
+        "start": 10.695,
+        "end": 11.859
+      },
+      {
+        "text": "I think I got it by this time.",
+        "start": 11.959,
+        "end": 14.186
+      },
+      {
+        "text": "It's just that, and then I'm just switching this to an x instead of a v, plus 2.",
+        "start": 14.206,
+        "end": 20.605
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " We got 9 equals 4 plus 2. OK. I think I got it by this time. It's just that, and then I'm just switching this to an x instead of a v, plus 2."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "file": "data/recordings/sub_637f9b42b2c3/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct.4 is equal to 6 minus 2.Yes, 6 minus 2, so 4 is equal to 4. All right, what else am I missing here?Oh, okay, I'm sorry.That's 11 minus two, so that's nine.If I move the matchstick to the left of the X, would that be nine minus two then?No.Let's see, that would be 11 minus two is nine.If I make it minus three, Huh, I'm not really sure what the answer is here.Let's see, if we go with five is equal to, five is equal to, let's see, nine minus, Well, let's go with X minus 4.No, it's not X minus 4.It's got to be X minus V. No, that's incorrect.Let's see.So that's 4.11 minus 2 is 9.I can only move one matchstick. is equal to 11 minus, no, let's see, is equal to 5 is equal to 11 minus 3. No.Huh, I'm really at a loss here.Let's see, I'm going to try with 1 is equal to 11 minus V11, that's incorrect too.If I can move one matchstick, if I can move that, can I make that six?That's equal to nine minus, Two?No.One matchstick, one matchstick.If I make it plus, it's too high of an amount.Where can I move a matchstick?I can't.Can I make that an addition?No, that's too much. trying to think I have nothing this this one really completely stumped me",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick to make this equation correct.",
+        "start": 1.111,
+        "end": 4.681
+      },
+      {
+        "text": "4 is equal to 6 minus 2.",
+        "start": 6.105,
+        "end": 9.955
+      },
+      {
+        "text": "Yes, 6 minus 2, so 4 is equal to 4.",
+        "start": 9.975,
+        "end": 15.711
+      },
+      {
+        "text": " All right, what else am I missing here?",
+        "start": 20.686,
+        "end": 22.748
+      },
+      {
+        "text": "Oh, okay, I'm sorry.",
+        "start": 23.83,
+        "end": 25.031
+      },
+      {
+        "text": "That's 11 minus two, so that's nine.",
+        "start": 25.431,
+        "end": 27.614
+      },
+      {
+        "text": "If I move the matchstick to the left of the X, would that be nine minus two then?",
+        "start": 30.377,
+        "end": 35.242
+      },
+      {
+        "text": "No.",
+        "start": 36.484,
+        "end": 36.924
+      },
+      {
+        "text": "Let's see, that would be 11 minus two is nine.",
+        "start": 38.066,
+        "end": 45.514
+      },
+      {
+        "text": "If I make it minus three,",
+        "start": 47.356,
+        "end": 48.938
+      },
+      {
+        "text": " Huh, I'm not really sure what the answer is here.",
+        "start": 51.145,
+        "end": 56.25
+      },
+      {
+        "text": "Let's see, if we go with five is equal to, five is equal to, let's see, nine minus,",
+        "start": 56.471,
+        "end": 76.832
+      },
+      {
+        "text": " Well, let's go with X minus 4.",
+        "start": 82.128,
+        "end": 84.01
+      },
+      {
+        "text": "No, it's not X minus 4.",
+        "start": 91.537,
+        "end": 92.719
+      },
+      {
+        "text": "It's got to be X minus V. No, that's incorrect.",
+        "start": 92.739,
+        "end": 98.004
+      },
+      {
+        "text": "Let's see.",
+        "start": 100.827,
+        "end": 101.528
+      },
+      {
+        "text": "So that's 4.",
+        "start": 101.668,
+        "end": 102.549
+      },
+      {
+        "text": "11 minus 2 is 9.",
+        "start": 102.569,
+        "end": 106.753
+      },
+      {
+        "text": "I can only move one matchstick.",
+        "start": 107.193,
+        "end": 108.895
+      },
+      {
+        "text": " is equal to 11 minus, no, let's see, is equal to 5 is equal to 11 minus 3.",
+        "start": 112.503,
+        "end": 140.62
+      },
+      {
+        "text": " No.",
+        "start": 142.928,
+        "end": 143.589
+      },
+      {
+        "text": "Huh, I'm really at a loss here.",
+        "start": 149.275,
+        "end": 150.477
+      },
+      {
+        "text": "Let's see, I'm going to try with 1 is equal to 11 minus",
+        "start": 163.291,
+        "end": 172.902
+      },
+      {
+        "text": " V11, that's incorrect too.",
+        "start": 176.29,
+        "end": 182.66
+      },
+      {
+        "text": "If I can move one matchstick, if I can move that, can I make that six?",
+        "start": 183.0,
+        "end": 192.776
+      },
+      {
+        "text": "That's equal to nine minus,",
+        "start": 194.919,
+        "end": 203.192
+      },
+      {
+        "text": " Two?",
+        "start": 203.307,
+        "end": 203.627
+      },
+      {
+        "text": "No.",
+        "start": 205.029,
+        "end": 205.349
+      },
+      {
+        "text": "One matchstick, one matchstick.",
+        "start": 207.412,
+        "end": 210.816
+      },
+      {
+        "text": "If I make it plus, it's too high of an amount.",
+        "start": 211.216,
+        "end": 213.559
+      },
+      {
+        "text": "Where can I move a matchstick?",
+        "start": 217.664,
+        "end": 220.347
+      },
+      {
+        "text": "I can't.",
+        "start": 226.535,
+        "end": 228.076
+      },
+      {
+        "text": "Can I make that an addition?",
+        "start": 228.096,
+        "end": 229.258
+      },
+      {
+        "text": "No, that's too much.",
+        "start": 229.418,
+        "end": 232.842
+      },
+      {
+        "text": " trying to think I have nothing this this one really completely stumped me",
+        "start": 235.42,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct. 4 is equal to 6 minus 2. Yes, 6 minus 2, so 4 is equal to 4. All right, what else am I missing here? Oh, okay, I'm sorry. That's 11 minus two, so that's nine. If I move the matchstick to the left of the X, would that be nine minus two then? No. Let's see, that would be 11 minus two is nine. If I make it minus three, Huh, I'm not really sure what the answer is here. Let's see, if we go with five is equal to, five is equal to, let's see, nine minus, Well, let's go with X minus 4. No, it's not X minus 4. It's got to be X minus V. No, that's incorrect. Let's see. So that's 4. 11 minus 2 is 9. I can only move one matchstick. is equal to 11 minus, no, let's see, is equal to 5 is equal to 11 minus 3. No. Huh, I'm really at a loss here. Let's see, I'm going to try with 1 is equal to 11 minus V11, that's incorrect too. If I can move one matchstick, if I can move that, can I make that six? That's equal to nine minus, Two? No. One matchstick, one matchstick. If I make it plus, it's too high of an amount. Where can I move a matchstick? I can't. Can I make that an addition? No, that's too much. trying to think I have nothing this this one really completely stumped me"
+  }
+}

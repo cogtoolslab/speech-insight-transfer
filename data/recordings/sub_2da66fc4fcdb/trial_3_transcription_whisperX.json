@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_2da66fc4fcdb/trial_3.wav",
+  "with_timestamps": {
+    "text": " So 5, 6, 7, 8 is equal to 2 plus 4.So if I move 3 plus 5, 5, 6, 7, 8 is equal to 2, 3,",
+    "segments": [
+      {
+        "text": " So 5, 6, 7, 8 is equal to 2 plus 4.",
+        "start": 2.157,
+        "end": 10.307
+      },
+      {
+        "text": "So if I move 3 plus 5, 5, 6, 7, 8 is equal to 2, 3,",
+        "start": 12.95,
+        "end": 25.245
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So 5, 6, 7, 8 is equal to 2 plus 4. So if I move 3 plus 5, 5, 6, 7, 8 is equal to 2, 3,"
+  }
+}

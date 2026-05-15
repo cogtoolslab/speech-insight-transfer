@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_87fc689861cd/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so 11, 11, let me see this, four plus 11 equal 11, no.Oh, okay, I got it, got it, got it, got it, okay.10, plus 1 equal equal 8, 10, 1.Submit.OK.Do I got to do it like this?10 plus 10, 1 equal x plus 1.Oh shoot, what am I doing wrong?So let me see.That is 4 plus 4 plus 2 is 6 V1 equals 4 plus 1 is 2",
+    "segments": [
+      {
+        "text": " Okay, so 11, 11, let me see this, four plus 11 equal 11, no.",
+        "start": 1.482,
+        "end": 12.773
+      },
+      {
+        "text": "Oh, okay, I got it, got it, got it, got it, okay.",
+        "start": 14.314,
+        "end": 28.308
+      },
+      {
+        "text": "10,",
+        "start": 28.328,
+        "end": 28.468
+      },
+      {
+        "text": " plus 1 equal equal 8, 10, 1.",
+        "start": 30.018,
+        "end": 44.334
+      },
+      {
+        "text": "Submit.",
+        "start": 45.676,
+        "end": 46.176
+      },
+      {
+        "text": "OK.",
+        "start": 47.097,
+        "end": 47.378
+      },
+      {
+        "text": "Do I got to do it like this?",
+        "start": 47.398,
+        "end": 48.639
+      },
+      {
+        "text": "10 plus 10, 1 equal",
+        "start": 49.08,
+        "end": 58.27
+      },
+      {
+        "text": " x plus 1.",
+        "start": 61.321,
+        "end": 68.048
+      },
+      {
+        "text": "Oh shoot, what am I doing wrong?",
+        "start": 70.311,
+        "end": 71.752
+      },
+      {
+        "text": "So let me see.",
+        "start": 76.918,
+        "end": 80.142
+      },
+      {
+        "text": "That is 4 plus",
+        "start": 82.544,
+        "end": 89.792
+      },
+      {
+        "text": " 4 plus 2 is 6 V1 equals 4 plus 1 is 2",
+        "start": 91.612,
+        "end": 116.505
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so 11, 11, let me see this, four plus 11 equal 11, no. Oh, okay, I got it, got it, got it, got it, okay. 10, plus 1 equal equal 8, 10, 1. Submit. OK. Do I got to do it like this? 10 plus 10, 1 equal x plus 1. Oh shoot, what am I doing wrong? So let me see. That is 4 plus 4 plus 2 is 6 V1 equals 4 plus 1 is 2"
+  }
+}

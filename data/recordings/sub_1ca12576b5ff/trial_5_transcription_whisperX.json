@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_1ca12576b5ff/trial_5.wav",
+  "with_timestamps": {
+    "text": " 9 equals to 7 plus 4 9 plus 7 plus 4 ok so this will be X i equals to C i S i Hmm.",
+    "segments": [
+      {
+        "text": " 9 equals to 7 plus 4 9 plus 7 plus 4 ok so this will be X i equals to C i S i",
+        "start": 0.031,
+        "end": 29.97
+      },
+      {
+        "text": " Hmm.",
+        "start": 31.334,
+        "end": 31.712
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 9 equals to 7 plus 4 9 plus 7 plus 4 ok so this will be X i equals to C i S i Hmm."
+  }
+}

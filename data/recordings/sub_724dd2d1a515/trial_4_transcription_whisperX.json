@@ -1,0 +1,216 @@
+{
+  "file": "data/recordings/sub_724dd2d1a515/trial_4.wav",
+  "with_timestamps": {
+    "text": " OK, so new one, 7 equals 3 minus 4.So you only need one matchstick to make this correct.So if I move one to make it a plus, 2 plus 4, or that, 3 plus 4 equals 7. Let's try that, 3 or 7 equals 1, 2, 3 plus 4.That's not correct.Okay.Let's try, well, if we move that, you're only going to get 1. And then you got 3 plus 4.That's incorrect.Hmm.Wow, this is very difficult.Hmm. Let's see.If I move.Maybe if we move the V in the first part, the answer to the beginning, make it 8.8 minus 4.Or no, no, no.I see.You can't because it's sideways.Sideways.It doesn't equal 1. So if we move maybe one of those over 4, or no, we make it a plus.2 plus 4 equals, let's see.Dang, I can't really solve that.It's way too difficult. 3 minus 4 equals 7.So if we move the other V there, or we move this to make this a plus, it would be 8.Still don't work.If we move this over here, that's 8 equals.And that won't work either.Jeez. 2 minus 4.That won't work.Let's see.Very difficult.I'm not really sure how we can make that work. If we move one of the matchsticks in the three and we make it a plus, let's see, then that would still be six.And we can't really do that.But let's see here. v equals 1, 2, 3 plus 2.That's incorrect.",
+    "segments": [
+      {
+        "text": " OK, so new one, 7 equals 3 minus 4.",
+        "start": 0.031,
+        "end": 7.381
+      },
+      {
+        "text": "So you only need one matchstick to make this correct.",
+        "start": 9.924,
+        "end": 14.09
+      },
+      {
+        "text": "So if I move one to make it a plus, 2 plus 4, or that, 3 plus 4 equals 7.",
+        "start": 15.912,
+        "end": 29.43
+      },
+      {
+        "text": " Let's try that, 3 or 7 equals 1, 2, 3 plus 4.",
+        "start": 30.794,
+        "end": 45.056
+      },
+      {
+        "text": "That's not correct.",
+        "start": 48.342,
+        "end": 49.303
+      },
+      {
+        "text": "Okay.",
+        "start": 49.423,
+        "end": 49.824
+      },
+      {
+        "text": "Let's try, well, if we move that, you're only going to get 1.",
+        "start": 50.786,
+        "end": 55.553
+      },
+      {
+        "text": " And then you got 3 plus 4.",
+        "start": 57.102,
+        "end": 58.905
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 65.698,
+        "end": 66.74
+      },
+      {
+        "text": "Hmm.",
+        "start": 69.384,
+        "end": 73.993
+      },
+      {
+        "text": "Wow, this is very difficult.",
+        "start": 74.013,
+        "end": 75.756
+      },
+      {
+        "text": "Hmm.",
+        "start": 80.144,
+        "end": 80.224
+      },
+      {
+        "text": " Let's see.",
+        "start": 86.617,
+        "end": 87.398
+      },
+      {
+        "text": "If I move.",
+        "start": 87.458,
+        "end": 89.36
+      },
+      {
+        "text": "Maybe if we move the V in the first part, the answer to the beginning, make it 8.",
+        "start": 94.326,
+        "end": 98.912
+      },
+      {
+        "text": "8 minus 4.",
+        "start": 98.932,
+        "end": 102.136
+      },
+      {
+        "text": "Or no, no, no.",
+        "start": 102.156,
+        "end": 105.84
+      },
+      {
+        "text": "I see.",
+        "start": 105.941,
+        "end": 106.361
+      },
+      {
+        "text": "You can't because it's sideways.",
+        "start": 106.401,
+        "end": 109.265
+      },
+      {
+        "text": "Sideways.",
+        "start": 111.608,
+        "end": 112.028
+      },
+      {
+        "text": "It doesn't equal 1.",
+        "start": 112.108,
+        "end": 113.67
+      },
+      {
+        "text": " So if we move maybe one of those over 4, or no, we make it a plus.",
+        "start": 117.008,
+        "end": 127.562
+      },
+      {
+        "text": "2 plus 4 equals, let's see.",
+        "start": 128.844,
+        "end": 136.614
+      },
+      {
+        "text": "Dang, I can't really solve that.",
+        "start": 136.674,
+        "end": 144.905
+      },
+      {
+        "text": "It's way too difficult.",
+        "start": 144.945,
+        "end": 146.307
+      },
+      {
+        "text": " 3 minus 4 equals 7.",
+        "start": 148.042,
+        "end": 152.628
+      },
+      {
+        "text": "So if we move the other V there, or we move this to make this a plus, it would be 8.",
+        "start": 154.991,
+        "end": 167.227
+      },
+      {
+        "text": "Still don't work.",
+        "start": 168.769,
+        "end": 169.53
+      },
+      {
+        "text": "If we move this over here, that's 8 equals.",
+        "start": 170.291,
+        "end": 173.274
+      },
+      {
+        "text": "And that won't work either.",
+        "start": 174.095,
+        "end": 175.217
+      },
+      {
+        "text": "Jeez.",
+        "start": 175.277,
+        "end": 176.158
+      },
+      {
+        "text": " 2 minus 4.",
+        "start": 177.472,
+        "end": 180.576
+      },
+      {
+        "text": "That won't work.",
+        "start": 180.616,
+        "end": 182.578
+      },
+      {
+        "text": "Let's see.",
+        "start": 188.745,
+        "end": 189.486
+      },
+      {
+        "text": "Very difficult.",
+        "start": 196.915,
+        "end": 197.876
+      },
+      {
+        "text": "I'm not really sure how we can make that work.",
+        "start": 198.657,
+        "end": 201.42
+      },
+      {
+        "text": " If we move one of the matchsticks in the three and we make it a plus, let's see, then that would still be six.",
+        "start": 203.999,
+        "end": 219.954
+      },
+      {
+        "text": "And we can't really do that.",
+        "start": 222.257,
+        "end": 223.658
+      },
+      {
+        "text": "But let's see here.",
+        "start": 226.1,
+        "end": 230.985
+      },
+      {
+        "text": " v equals 1, 2, 3 plus 2.",
+        "start": 232.771,
+        "end": 238.493
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 238.574,
+        "end": 242.241
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so new one, 7 equals 3 minus 4. So you only need one matchstick to make this correct. So if I move one to make it a plus, 2 plus 4, or that, 3 plus 4 equals 7. Let's try that, 3 or 7 equals 1, 2, 3 plus 4. That's not correct. Okay. Let's try, well, if we move that, you're only going to get 1. And then you got 3 plus 4. That's incorrect. Hmm. Wow, this is very difficult. Hmm. Let's see. If I move. Maybe if we move the V in the first part, the answer to the beginning, make it 8. 8 minus 4. Or no, no, no. I see. You can't because it's sideways. Sideways. It doesn't equal 1. So if we move maybe one of those over 4, or no, we make it a plus. 2 plus 4 equals, let's see. Dang, I can't really solve that. It's way too difficult. 3 minus 4 equals 7. So if we move the other V there, or we move this to make this a plus, it would be 8. Still don't work. If we move this over here, that's 8 equals. And that won't work either. Jeez. 2 minus 4. That won't work. Let's see. Very difficult. I'm not really sure how we can make that work. If we move one of the matchsticks in the three and we make it a plus, let's see, then that would still be six. And we can't really do that. But let's see here. v equals 1, 2, 3 plus 2. That's incorrect."
+  }
+}

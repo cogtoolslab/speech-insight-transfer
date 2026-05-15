@@ -1,0 +1,266 @@
+{
+  "file": "data/recordings/sub_172dafee3797/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 7 equals 9 plus 3.Okay, so I could do 9 plus 2, which is 11.Make that 8.That's not right.Okay.I could do... That would make that like 13, I don't want to move the X there.Okay, if I put, let's see.That would make it 11 if I put that there, if I switch the X and the I. That's not helping me though. equals nine plus three.Can I do... No.Okay.Let's see.Seven equals nine plus three.Just move one of these.Okay.If I move that there, I don't want to move anything from the first digital thing because then everything else, I'm not, I'm not going to equal that.So I'd have to do That'd be five.I can't get rid of the X. Okay, so what if I do seven.Six equals nine minus Wait, I put that, I moved that there.Oh, I might be dumb.Okay.And that, the one from the far right to the first digit.So eight equals IX minus two. Eight equals nine minus two.Oh, yeah, I guess that is wrong.So, oops.Okay, 58 seconds.I'm gonna get this one.Okay, I want that there.I think this is visually, it's hard for me to see it without really visualizing it in my mind with pen and paper and actually drawing it out.I think that would help.I think I'm gonna do that for the next one. Because I have 8, 7 equals 9 plus 3.7 equals 9 plus 3.30 seconds.OK.I got this.I got this.I got this.7 equals 9 plus 3.I moved the 1 there.8.Wait.That might work.So 8 equals. 10 plus three.Nope.",
+    "segments": [
+      {
+        "text": " Okay, 7 equals 9 plus 3.",
+        "start": 1.313,
+        "end": 6.0
+      },
+      {
+        "text": "Okay, so I could do 9 plus 2, which is 11.",
+        "start": 16.016,
+        "end": 19.341
+      },
+      {
+        "text": "Make that 8.",
+        "start": 19.621,
+        "end": 19.962
+      },
+      {
+        "text": "That's not right.",
+        "start": 20.222,
+        "end": 21.043
+      },
+      {
+        "text": "Okay.",
+        "start": 21.284,
+        "end": 21.584
+      },
+      {
+        "text": "I could do...",
+        "start": 23.367,
+        "end": 24.148
+      },
+      {
+        "text": " That would make that like 13, I don't want to move the X there.",
+        "start": 28.837,
+        "end": 32.982
+      },
+      {
+        "text": "Okay, if I put, let's see.",
+        "start": 33.002,
+        "end": 42.494
+      },
+      {
+        "text": "That would make it 11 if I put that there, if I switch the X and the I. That's not helping me though.",
+        "start": 48.441,
+        "end": 56.751
+      },
+      {
+        "text": " equals nine plus three.",
+        "start": 60.747,
+        "end": 62.332
+      },
+      {
+        "text": "Can I do...",
+        "start": 73.325,
+        "end": 74.368
+      },
+      {
+        "text": " No.",
+        "start": 85.874,
+        "end": 86.275
+      },
+      {
+        "text": "Okay.",
+        "start": 86.315,
+        "end": 86.996
+      },
+      {
+        "text": "Let's see.",
+        "start": 88.037,
+        "end": 88.558
+      },
+      {
+        "text": "Seven equals nine plus three.",
+        "start": 89.519,
+        "end": 91.001
+      },
+      {
+        "text": "Just move one of these.",
+        "start": 92.544,
+        "end": 93.745
+      },
+      {
+        "text": "Okay.",
+        "start": 96.53,
+        "end": 96.63
+      },
+      {
+        "text": "If I move that there, I don't want to move anything from the first digital thing because then everything else, I'm not, I'm not going to equal that.",
+        "start": 96.65,
+        "end": 107.966
+      },
+      {
+        "text": "So I'd have to do",
+        "start": 108.146,
+        "end": 111.291
+      },
+      {
+        "text": " That'd be five.",
+        "start": 118.207,
+        "end": 119.168
+      },
+      {
+        "text": "I can't get rid of the X. Okay, so what if I do seven.",
+        "start": 119.188,
+        "end": 132.421
+      },
+      {
+        "text": "Six equals nine minus",
+        "start": 132.481,
+        "end": 147.235
+      },
+      {
+        "text": " Wait, I put that, I moved that there.",
+        "start": 148.801,
+        "end": 157.611
+      },
+      {
+        "text": "Oh, I might be dumb.",
+        "start": 157.631,
+        "end": 161.195
+      },
+      {
+        "text": "Okay.",
+        "start": 162.697,
+        "end": 165.1
+      },
+      {
+        "text": "And that, the one from the far right to the first digit.",
+        "start": 165.12,
+        "end": 169.144
+      },
+      {
+        "text": "So eight equals IX minus two.",
+        "start": 169.965,
+        "end": 175.011
+      },
+      {
+        "text": " Eight equals nine minus two.",
+        "start": 178.349,
+        "end": 182.155
+      },
+      {
+        "text": "Oh, yeah, I guess that is wrong.",
+        "start": 182.175,
+        "end": 183.377
+      },
+      {
+        "text": "So, oops.",
+        "start": 183.477,
+        "end": 185.86
+      },
+      {
+        "text": "Okay, 58 seconds.",
+        "start": 185.88,
+        "end": 186.381
+      },
+      {
+        "text": "I'm gonna get this one.",
+        "start": 186.501,
+        "end": 187.222
+      },
+      {
+        "text": "Okay, I want that there.",
+        "start": 189.566,
+        "end": 190.467
+      },
+      {
+        "text": "I think this is visually, it's hard for me to see it without really visualizing it in my mind with pen and paper and actually drawing it out.",
+        "start": 190.547,
+        "end": 202.946
+      },
+      {
+        "text": "I think that would help.",
+        "start": 203.406,
+        "end": 204.188
+      },
+      {
+        "text": "I think I'm gonna do that for the next one.",
+        "start": 205.57,
+        "end": 207.192
+      },
+      {
+        "text": " Because I have 8, 7 equals 9 plus 3.",
+        "start": 208.353,
+        "end": 212.337
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 212.357,
+        "end": 214.579
+      },
+      {
+        "text": "30 seconds.",
+        "start": 214.599,
+        "end": 216.001
+      },
+      {
+        "text": "OK.",
+        "start": 216.021,
+        "end": 216.121
+      },
+      {
+        "text": "I got this.",
+        "start": 216.141,
+        "end": 216.542
+      },
+      {
+        "text": "I got this.",
+        "start": 216.562,
+        "end": 216.922
+      },
+      {
+        "text": "I got this.",
+        "start": 216.942,
+        "end": 217.322
+      },
+      {
+        "text": "7 equals 9 plus 3.",
+        "start": 217.342,
+        "end": 220.746
+      },
+      {
+        "text": "I moved the 1 there.",
+        "start": 220.766,
+        "end": 226.772
+      },
+      {
+        "text": "8.",
+        "start": 226.792,
+        "end": 228.754
+      },
+      {
+        "text": "Wait.",
+        "start": 230.516,
+        "end": 230.756
+      },
+      {
+        "text": "That might work.",
+        "start": 231.077,
+        "end": 231.597
+      },
+      {
+        "text": "So 8 equals.",
+        "start": 232.578,
+        "end": 237.263
+      },
+      {
+        "text": " 10 plus three.",
+        "start": 238.61,
+        "end": 241.171
+      },
+      {
+        "text": "Nope.",
+        "start": 242.724,
+        "end": 243.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 7 equals 9 plus 3. Okay, so I could do 9 plus 2, which is 11. Make that 8. That's not right. Okay. I could do... That would make that like 13, I don't want to move the X there. Okay, if I put, let's see. That would make it 11 if I put that there, if I switch the X and the I. That's not helping me though. equals nine plus three. Can I do... No. Okay. Let's see. Seven equals nine plus three. Just move one of these. Okay. If I move that there, I don't want to move anything from the first digital thing because then everything else, I'm not, I'm not going to equal that. So I'd have to do That'd be five. I can't get rid of the X. Okay, so what if I do seven. Six equals nine minus Wait, I put that, I moved that there. Oh, I might be dumb. Okay. And that, the one from the far right to the first digit. So eight equals IX minus two. Eight equals nine minus two. Oh, yeah, I guess that is wrong. So, oops. Okay, 58 seconds. I'm gonna get this one. Okay, I want that there. I think this is visually, it's hard for me to see it without really visualizing it in my mind with pen and paper and actually drawing it out. I think that would help. I think I'm gonna do that for the next one. Because I have 8, 7 equals 9 plus 3. 7 equals 9 plus 3. 30 seconds. OK. I got this. I got this. I got this. 7 equals 9 plus 3. I moved the 1 there. 8. Wait. That might work. So 8 equals. 10 plus three. Nope."
+  }
+}

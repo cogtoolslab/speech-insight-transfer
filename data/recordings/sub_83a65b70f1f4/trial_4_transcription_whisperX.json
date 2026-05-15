@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_83a65b70f1f4/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right.So here we have 5 minus 1 is 4, equals 4 minus 2 would equal 2.So on the right-hand side of the equation, it wouldn't matter if you moved the two matchsticks all the way to the right, because they're the same.So it wouldn't change.So it has to be something on the left-hand side.So we have what we did, 4 equals. 5 plus 1 is 6 minus 2.That works.So the left-hand equation stays the same, IV, because that would be 4, equals VI, which would be 6, minus II would give you 4.",
+    "segments": [
+      {
+        "text": " All right.",
+        "start": 0.757,
+        "end": 1.218
+      },
+      {
+        "text": "So here we have 5 minus 1 is 4, equals 4 minus 2 would equal 2.",
+        "start": 2.319,
+        "end": 9.848
+      },
+      {
+        "text": "So on the right-hand side of the equation, it wouldn't matter if you moved the two matchsticks all the way to the right, because they're the same.",
+        "start": 11.39,
+        "end": 16.336
+      },
+      {
+        "text": "So it wouldn't change.",
+        "start": 16.817,
+        "end": 17.598
+      },
+      {
+        "text": "So it has to be something on the left-hand side.",
+        "start": 18.299,
+        "end": 20.341
+      },
+      {
+        "text": "So we have what we did, 4 equals.",
+        "start": 20.421,
+        "end": 26.629
+      },
+      {
+        "text": " 5 plus 1 is 6 minus 2.",
+        "start": 27.757,
+        "end": 30.844
+      },
+      {
+        "text": "That works.",
+        "start": 31.125,
+        "end": 31.646
+      },
+      {
+        "text": "So the left-hand equation stays the same, IV, because that would be 4, equals VI, which would be 6, minus II would give you 4.",
+        "start": 31.987,
+        "end": 45.057
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right. So here we have 5 minus 1 is 4, equals 4 minus 2 would equal 2. So on the right-hand side of the equation, it wouldn't matter if you moved the two matchsticks all the way to the right, because they're the same. So it wouldn't change. So it has to be something on the left-hand side. So we have what we did, 4 equals. 5 plus 1 is 6 minus 2. That works. So the left-hand equation stays the same, IV, because that would be 4, equals VI, which would be 6, minus II would give you 4."
+  }
+}

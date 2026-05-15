@@ -1,0 +1,261 @@
+{
+  "file": "data/recordings/sub_112df383350c/trial_2.wav",
+  "with_timestamps": {
+    "text": " I'm gonna start the next one.This one says 7 is equal to 9 plus 3, which isn't true because 9 plus 3 is 12.So, I think it's gonna have to be another subtraction.Maybe.If I can only move one matchstick... I can't move the diagonal matchsticks, right?Let me see.I'm going to read the instructions again that I took notes about.Let's see.You can only move a single matchstick to make the equation correct, and all other matchsticks must stay exactly where they are, including their angle.Okay. Let's see, if I move the plus sign, if I turn the plus sign into a subtraction, nothing will equal 7 from what I understand, or 8.Wait, maybe 9 minus 3.No, because the 9 minus 3 doesn't equal 8, it equals 6.So let's see. I don't really know, this is kind of hard.I'm thinking, so don't... I'm still participating, just... Let's see.I could only move... Oh, I can move the V?Wait, no, I don't think so.Sorry, I'm going to read the instructions again. Okay, so I don't think I can move the Z. You can only move one matchstick to make this equation correct.What is the final...?This is kind of hard.Hold on, I'm still thinking.I'm not very good at this.Okay, 10 plus 3... No.So I need... I want to make this into like an X. I want to move more than one matchstick. So we can't move the matchstick on the equal sign because that wouldn't make sense.I'm thinking... So if I make the plus sign into a subtraction, it'll be 9 minus 3, which is equal to 6, which isn't true, because it's a 7.So I want to move, like, one matchstick, but I can't.So I don't think this one has a correct answer, or I'm just not seeing it.I'm going to keep running some numbers in my mind.Let's see.8. No.No, that doesn't make sense.Oh, I can't delete that.Okay.Oh, I can.This is hard.Let's see.11 plus 3 is not equal to 7.I wonder if I can move that X. Can I?No, that wouldn't make sense.7... 9 plus 3 is equal to... Wait, can I?9 plus...oh, wait, can I move it?I'm gonna try to see if I can actually do it, so I'm gonna try to move it.So 1...so I'm gonna do 12 is equal to 9 plus 3.",
+    "segments": [
+      {
+        "text": " I'm gonna start the next one.",
+        "start": 0.031,
+        "end": 1.512
+      },
+      {
+        "text": "This one says 7 is equal to 9 plus 3, which isn't true because 9 plus 3 is 12.",
+        "start": 1.532,
+        "end": 9.44
+      },
+      {
+        "text": "So, I think it's gonna have to be another subtraction.",
+        "start": 12.043,
+        "end": 15.446
+      },
+      {
+        "text": "Maybe.",
+        "start": 16.927,
+        "end": 18.689
+      },
+      {
+        "text": "If I can only move one matchstick...",
+        "start": 18.709,
+        "end": 28.198
+      },
+      {
+        "text": " I can't move the diagonal matchsticks, right?",
+        "start": 29.933,
+        "end": 32.077
+      },
+      {
+        "text": "Let me see.",
+        "start": 32.197,
+        "end": 32.597
+      },
+      {
+        "text": "I'm going to read the instructions again that I took notes about.",
+        "start": 32.617,
+        "end": 34.901
+      },
+      {
+        "text": "Let's see.",
+        "start": 39.789,
+        "end": 40.09
+      },
+      {
+        "text": "You can only move a single matchstick to make the equation correct, and all other matchsticks must stay exactly where they are, including their angle.",
+        "start": 40.11,
+        "end": 47.522
+      },
+      {
+        "text": "Okay.",
+        "start": 49.846,
+        "end": 51.148
+      },
+      {
+        "text": " Let's see, if I move the plus sign, if I turn the plus sign into a subtraction, nothing will equal 7 from what I understand, or 8.",
+        "start": 52.833,
+        "end": 64.107
+      },
+      {
+        "text": "Wait, maybe 9 minus 3.",
+        "start": 65.349,
+        "end": 67.251
+      },
+      {
+        "text": "No, because the 9 minus 3 doesn't equal 8, it equals 6.",
+        "start": 68.453,
+        "end": 73.058
+      },
+      {
+        "text": "So let's see.",
+        "start": 75.561,
+        "end": 76.022
+      },
+      {
+        "text": " I don't really know, this is kind of hard.",
+        "start": 77.977,
+        "end": 80.06
+      },
+      {
+        "text": "I'm thinking, so don't... I'm still participating, just... Let's see.",
+        "start": 84.707,
+        "end": 89.554
+      },
+      {
+        "text": "I could only move... Oh, I can move the V?",
+        "start": 89.574,
+        "end": 98.688
+      },
+      {
+        "text": "Wait, no, I don't think so.",
+        "start": 101.452,
+        "end": 102.393
+      },
+      {
+        "text": "Sorry, I'm going to read the instructions again.",
+        "start": 105.458,
+        "end": 107.781
+      },
+      {
+        "text": " Okay, so I don't think I can move the Z. You can only move one matchstick to make this equation correct.",
+        "start": 110.596,
+        "end": 117.402
+      },
+      {
+        "text": "What is the final...?",
+        "start": 118.123,
+        "end": 119.204
+      },
+      {
+        "text": "This is kind of hard.",
+        "start": 119.224,
+        "end": 121.006
+      },
+      {
+        "text": "Hold on, I'm still thinking.",
+        "start": 121.026,
+        "end": 121.887
+      },
+      {
+        "text": "I'm not very good at this.",
+        "start": 121.907,
+        "end": 122.748
+      },
+      {
+        "text": "Okay, 10 plus 3... No.",
+        "start": 124.469,
+        "end": 128.513
+      },
+      {
+        "text": "So I need... I want to make this into like an X. I want to move more than one matchstick.",
+        "start": 130.455,
+        "end": 138.983
+      },
+      {
+        "text": " So we can't move the matchstick on the equal sign because that wouldn't make sense.",
+        "start": 142.27,
+        "end": 148.026
+      },
+      {
+        "text": "I'm thinking...",
+        "start": 151.095,
+        "end": 156.55
+      },
+      {
+        "text": " So if I make the plus sign into a subtraction, it'll be 9 minus 3, which is equal to 6, which isn't true, because it's a 7.",
+        "start": 157.694,
+        "end": 169.992
+      },
+      {
+        "text": "So I want to move, like, one matchstick, but I can't.",
+        "start": 170.773,
+        "end": 174.419
+      },
+      {
+        "text": "So I don't think this one has a correct answer, or I'm just not seeing it.",
+        "start": 174.439,
+        "end": 177.563
+      },
+      {
+        "text": "I'm going to keep running some numbers in my mind.",
+        "start": 178.545,
+        "end": 181.389
+      },
+      {
+        "text": "Let's see.",
+        "start": 182.35,
+        "end": 182.751
+      },
+      {
+        "text": "8.",
+        "start": 182.771,
+        "end": 186.216
+      },
+      {
+        "text": " No.",
+        "start": 187.276,
+        "end": 187.616
+      },
+      {
+        "text": "No, that doesn't make sense.",
+        "start": 187.937,
+        "end": 188.758
+      },
+      {
+        "text": "Oh, I can't delete that.",
+        "start": 191.161,
+        "end": 192.022
+      },
+      {
+        "text": "Okay.",
+        "start": 192.122,
+        "end": 192.383
+      },
+      {
+        "text": "Oh, I can.",
+        "start": 192.703,
+        "end": 193.103
+      },
+      {
+        "text": "This is hard.",
+        "start": 196.508,
+        "end": 197.229
+      },
+      {
+        "text": "Let's see.",
+        "start": 198.19,
+        "end": 198.47
+      },
+      {
+        "text": "11 plus 3 is not equal to 7.",
+        "start": 198.49,
+        "end": 202.896
+      },
+      {
+        "text": "I wonder if I can move that X. Can I?",
+        "start": 204.258,
+        "end": 207.041
+      },
+      {
+        "text": "No, that wouldn't make sense.",
+        "start": 209.344,
+        "end": 210.305
+      },
+      {
+        "text": "7... 9 plus 3 is equal to...",
+        "start": 210.325,
+        "end": 217.114
+      },
+      {
+        "text": " Wait, can I?",
+        "start": 222.275,
+        "end": 222.997
+      },
+      {
+        "text": "9 plus...oh, wait, can I move it?",
+        "start": 223.017,
+        "end": 225.725
+      },
+      {
+        "text": "I'm gonna try to see if I can actually do it, so I'm gonna try to move it.",
+        "start": 225.785,
+        "end": 229.696
+      },
+      {
+        "text": "So 1...so I'm gonna do 12 is equal to 9 plus 3.",
+        "start": 230.599,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I'm gonna start the next one. This one says 7 is equal to 9 plus 3, which isn't true because 9 plus 3 is 12. So, I think it's gonna have to be another subtraction. Maybe. If I can only move one matchstick... I can't move the diagonal matchsticks, right? Let me see. I'm going to read the instructions again that I took notes about. Let's see. You can only move a single matchstick to make the equation correct, and all other matchsticks must stay exactly where they are, including their angle. Okay. Let's see, if I move the plus sign, if I turn the plus sign into a subtraction, nothing will equal 7 from what I understand, or 8. Wait, maybe 9 minus 3. No, because the 9 minus 3 doesn't equal 8, it equals 6. So let's see. I don't really know, this is kind of hard. I'm thinking, so don't... I'm still participating, just... Let's see. I could only move... Oh, I can move the V? Wait, no, I don't think so. Sorry, I'm going to read the instructions again. Okay, so I don't think I can move the Z. You can only move one matchstick to make this equation correct. What is the final...? This is kind of hard. Hold on, I'm still thinking. I'm not very good at this. Okay, 10 plus 3... No. So I need... I want to make this into like an X. I want to move more than one matchstick. So we can't move the matchstick on the equal sign because that wouldn't make sense. I'm thinking... So if I make the plus sign into a subtraction, it'll be 9 minus 3, which is equal to 6, which isn't true, because it's a 7. So I want to move, like, one matchstick, but I can't. So I don't think this one has a correct answer, or I'm just not seeing it. I'm going to keep running some numbers in my mind. Let's see. 8. No. No, that doesn't make sense. Oh, I can't delete that. Okay. Oh, I can. This is hard. Let's see. 11 plus 3 is not equal to 7. I wonder if I can move that X. Can I? No, that wouldn't make sense. 7... 9 plus 3 is equal to... Wait, can I? 9 plus...oh, wait, can I move it? I'm gonna try to see if I can actually do it, so I'm gonna try to move it. So 1...so I'm gonna do 12 is equal to 9 plus 3."
+  }
+}

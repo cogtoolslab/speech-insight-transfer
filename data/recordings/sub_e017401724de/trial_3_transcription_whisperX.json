@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_e017401724de/trial_3.wav",
+  "with_timestamps": {
+    "text": " Alright, now puzzle 3 here, we have 4 equals 11 minus 2, so we have 9, 4 equals 9.If we did OK, again, if we move this one here, we have 6 minus 2 equals 4, and that's 4.So that's perfect right there.It's like the same exact puzzle I'm solving, which seems too easy to me, unless I'm mistaken on something here.",
+    "segments": [
+      {
+        "text": " Alright, now puzzle 3 here, we have 4 equals 11 minus 2, so we have 9, 4 equals 9.",
+        "start": 1.685,
+        "end": 13.187
+      },
+      {
+        "text": "If we did",
+        "start": 13.227,
+        "end": 18.698
+      },
+      {
+        "text": " OK, again, if we move this one here, we have 6 minus 2 equals 4, and that's 4.",
+        "start": 20.534,
+        "end": 25.704
+      },
+      {
+        "text": "So that's perfect right there.",
+        "start": 26.025,
+        "end": 28.35
+      },
+      {
+        "text": "It's like the same exact puzzle I'm solving, which seems too easy to me, unless I'm mistaken on something here.",
+        "start": 28.39,
+        "end": 38.29
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, now puzzle 3 here, we have 4 equals 11 minus 2, so we have 9, 4 equals 9. If we did OK, again, if we move this one here, we have 6 minus 2 equals 4, and that's 4. So that's perfect right there. It's like the same exact puzzle I'm solving, which seems too easy to me, unless I'm mistaken on something here."
+  }
+}

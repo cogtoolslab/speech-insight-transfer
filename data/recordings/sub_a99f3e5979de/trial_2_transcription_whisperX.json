@@ -1,0 +1,221 @@
+{
+  "file": "data/recordings/sub_a99f3e5979de/trial_2.wav",
+  "with_timestamps": {
+    "text": " So what is this one?6 equals 6 plus 1, which would be 7.That's not true.OK.Let me think.I have to move stuff around, OK, like last time.So think, think. Can I move the one?Hmm.I might need some scratch paper for this to, like, move stuff around because doing it in my head is kind of tough.Well, I mean, Oh, wait a minute, wait a minute, wait a minute.I think I know it.Maybe VII equals V plus I, which would be seven.No, no, that doesn't make sense because, no it would, it would.It'd be, wait, no it wouldn't.Wait a minute. All right, I got hiccups. I'm trying to think.I'm trying to think.Because how do you do this?Because if I move anything, it ruins it.Oh, I think I think I figured it out.I think I figured it out.I didn't I forgot for a second.You can take Matt you can take vertical. You can take vertical matches from the plus or minus signs.So what I could do, I think I got it.So I think what I could do is I could do VI equals VI minus two or II. It's now minus instead of plus because I took a vertical match from the plus sign and made it a minus sign and added it to the end.So instead of it being VI equals VI plus one, it's VI equals VI minus two, or II, which would be six equals six minus two.How is that correct that way?I don't know if that's correct.Wait a minute. I don't think that's correct.Um, is it correct?Something is there.I'm trying to figure out how you do it.I don't know.Is that true?Cause like that would just equal six equals four, which six is not equal to four.Wait a minute.",
+    "segments": [
+      {
+        "text": " So what is this one?",
+        "start": 4.132,
+        "end": 6.055
+      },
+      {
+        "text": "6 equals 6 plus 1, which would be 7.",
+        "start": 6.075,
+        "end": 15.548
+      },
+      {
+        "text": "That's not true.",
+        "start": 15.948,
+        "end": 16.87
+      },
+      {
+        "text": "OK.",
+        "start": 16.91,
+        "end": 18.512
+      },
+      {
+        "text": "Let me think.",
+        "start": 18.532,
+        "end": 20.194
+      },
+      {
+        "text": "I have to move stuff around, OK, like last time.",
+        "start": 21.236,
+        "end": 24.12
+      },
+      {
+        "text": "So think, think.",
+        "start": 24.14,
+        "end": 33.733
+      },
+      {
+        "text": " Can I move the one?",
+        "start": 35.62,
+        "end": 36.742
+      },
+      {
+        "text": "Hmm.",
+        "start": 36.782,
+        "end": 51.342
+      },
+      {
+        "text": "I might need some scratch paper for this to, like, move stuff around because doing it in my head is kind of tough.",
+        "start": 51.362,
+        "end": 56.069
+      },
+      {
+        "text": "Well, I mean,",
+        "start": 64.921,
+        "end": 65.442
+      },
+      {
+        "text": " Oh, wait a minute, wait a minute, wait a minute.",
+        "start": 69.303,
+        "end": 70.785
+      },
+      {
+        "text": "I think I know it.",
+        "start": 71.125,
+        "end": 71.706
+      },
+      {
+        "text": "Maybe VII equals V plus I, which would be seven.",
+        "start": 72.627,
+        "end": 79.775
+      },
+      {
+        "text": "No, no, that doesn't make sense because, no it would, it would.",
+        "start": 82.638,
+        "end": 86.862
+      },
+      {
+        "text": "It'd be, wait, no it wouldn't.",
+        "start": 88.004,
+        "end": 92.749
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 93.27,
+        "end": 93.69
+      },
+      {
+        "text": " All right, I got hiccups.",
+        "start": 99.425,
+        "end": 112.489
+      },
+      {
+        "text": " I'm trying to think.",
+        "start": 140.802,
+        "end": 141.704
+      },
+      {
+        "text": "I'm trying to think.",
+        "start": 141.824,
+        "end": 142.485
+      },
+      {
+        "text": "Because how do you do this?",
+        "start": 143.627,
+        "end": 144.548
+      },
+      {
+        "text": "Because if I move anything, it ruins it.",
+        "start": 144.568,
+        "end": 146.151
+      },
+      {
+        "text": "Oh, I think I think I figured it out.",
+        "start": 156.068,
+        "end": 157.55
+      },
+      {
+        "text": "I think I figured it out.",
+        "start": 157.57,
+        "end": 158.251
+      },
+      {
+        "text": "I didn't I forgot for a second.",
+        "start": 159.494,
+        "end": 161.156
+      },
+      {
+        "text": "You can take Matt you can take vertical.",
+        "start": 161.257,
+        "end": 163.3
+      },
+      {
+        "text": " You can take vertical matches from the plus or minus signs.",
+        "start": 164.714,
+        "end": 169.143
+      },
+      {
+        "text": "So what I could do, I think I got it.",
+        "start": 169.384,
+        "end": 172.991
+      },
+      {
+        "text": "So I think what I could do is I could do VI equals VI minus two or II.",
+        "start": 173.512,
+        "end": 183.853
+      },
+      {
+        "text": " It's now minus instead of plus because I took a vertical match from the plus sign and made it a minus sign and added it to the end.",
+        "start": 184.829,
+        "end": 191.237
+      },
+      {
+        "text": "So instead of it being VI equals VI plus one, it's VI equals VI minus two, or II, which would be six equals six minus two.",
+        "start": 191.557,
+        "end": 203.332
+      },
+      {
+        "text": "How is that correct that way?",
+        "start": 211.301,
+        "end": 212.322
+      },
+      {
+        "text": "I don't know if that's correct.",
+        "start": 212.342,
+        "end": 213.163
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 213.184,
+        "end": 213.604
+      },
+      {
+        "text": " I don't think that's correct.",
+        "start": 216.065,
+        "end": 217.187
+      },
+      {
+        "text": "Um, is it correct?",
+        "start": 217.949,
+        "end": 225.784
+      },
+      {
+        "text": "Something is there.",
+        "start": 227.286,
+        "end": 229.07
+      },
+      {
+        "text": "I'm trying to figure out how you do it.",
+        "start": 229.09,
+        "end": 230.432
+      },
+      {
+        "text": "I don't know.",
+        "start": 230.493,
+        "end": 230.753
+      },
+      {
+        "text": "Is that true?",
+        "start": 230.773,
+        "end": 231.254
+      },
+      {
+        "text": "Cause like that would just equal six equals four, which six is not equal to four.",
+        "start": 231.274,
+        "end": 236.484
+      },
+      {
+        "text": "Wait a minute.",
+        "start": 237.205,
+        "end": 238.107
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So what is this one? 6 equals 6 plus 1, which would be 7. That's not true. OK. Let me think. I have to move stuff around, OK, like last time. So think, think. Can I move the one? Hmm. I might need some scratch paper for this to, like, move stuff around because doing it in my head is kind of tough. Well, I mean, Oh, wait a minute, wait a minute, wait a minute. I think I know it. Maybe VII equals V plus I, which would be seven. No, no, that doesn't make sense because, no it would, it would. It'd be, wait, no it wouldn't. Wait a minute. All right, I got hiccups. I'm trying to think. I'm trying to think. Because how do you do this? Because if I move anything, it ruins it. Oh, I think I think I figured it out. I think I figured it out. I didn't I forgot for a second. You can take Matt you can take vertical. You can take vertical matches from the plus or minus signs. So what I could do, I think I got it. So I think what I could do is I could do VI equals VI minus two or II. It's now minus instead of plus because I took a vertical match from the plus sign and made it a minus sign and added it to the end. So instead of it being VI equals VI plus one, it's VI equals VI minus two, or II, which would be six equals six minus two. How is that correct that way? I don't know if that's correct. Wait a minute. I don't think that's correct. Um, is it correct? Something is there. I'm trying to figure out how you do it. I don't know. Is that true? Cause like that would just equal six equals four, which six is not equal to four. Wait a minute."
+  }
+}

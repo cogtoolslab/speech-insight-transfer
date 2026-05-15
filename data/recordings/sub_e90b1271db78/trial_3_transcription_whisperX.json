@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_e90b1271db78/trial_3.wav",
+  "with_timestamps": {
+    "text": " 11 equals 4 plus 2, so 4 plus 2 is 6, so that's not right.If we change the x to a v, then it'll be 6 instead of 11, because, yeah.So 6 equals 4 plus 2.",
+    "segments": [
+      {
+        "text": " 11 equals 4 plus 2, so 4 plus 2 is 6, so that's not right.",
+        "start": 2.545,
+        "end": 9.154
+      },
+      {
+        "text": "If we change the x to a v, then it'll be 6 instead of 11, because, yeah.",
+        "start": 9.214,
+        "end": 20.609
+      },
+      {
+        "text": "So 6 equals 4 plus 2.",
+        "start": 21.31,
+        "end": 30.342
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 11 equals 4 plus 2, so 4 plus 2 is 6, so that's not right. If we change the x to a v, then it'll be 6 instead of 11, because, yeah. So 6 equals 4 plus 2."
+  }
+}

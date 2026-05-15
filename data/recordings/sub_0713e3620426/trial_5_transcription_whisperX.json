@@ -1,0 +1,56 @@
+{
+  "file": "data/recordings/sub_0713e3620426/trial_5.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 11 plus 9.Ain't no damn way.3 equals 11, that'd be 20 equals, no.So if I move 1, if I move, okay, let's write it out.3 equals xi plus ix, which is 11 and 9 and 3. okay so if I move that X over here that would make that 13 equals 1 plus 9 that would be 10 nope um let's see 11 move that one make that 12 minus 9 9, 10, 11, 12.So let's do 1, 2, 3 equals x 1, 2 minus 9.Let's see if that's",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 11 plus 9.",
+        "start": 0.723,
+        "end": 8.132
+      },
+      {
+        "text": "Ain't no damn way.",
+        "start": 8.152,
+        "end": 10.655
+      },
+      {
+        "text": "3 equals 11, that'd be 20 equals, no.",
+        "start": 11.516,
+        "end": 16.262
+      },
+      {
+        "text": "So if I move 1, if I move, okay, let's write it out.",
+        "start": 16.282,
+        "end": 21.348
+      },
+      {
+        "text": "3 equals xi plus ix, which is 11 and 9 and 3.",
+        "start": 21.429,
+        "end": 28.317
+      },
+      {
+        "text": " okay so if I move that X over here that would make that 13 equals 1 plus 9 that would be 10 nope um let's see 11 move that one make that 12 minus 9",
+        "start": 29.09,
+        "end": 57.19
+      },
+      {
+        "text": " 9, 10, 11, 12.",
+        "start": 59.431,
+        "end": 62.564
+      },
+      {
+        "text": "So let's do 1, 2, 3 equals x 1, 2 minus 9.",
+        "start": 62.585,
+        "end": 72.507
+      },
+      {
+        "text": "Let's see if that's",
+        "start": 72.648,
+        "end": 73.17
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 11 plus 9. Ain't no damn way. 3 equals 11, that'd be 20 equals, no. So if I move 1, if I move, okay, let's write it out. 3 equals xi plus ix, which is 11 and 9 and 3. okay so if I move that X over here that would make that 13 equals 1 plus 9 that would be 10 nope um let's see 11 move that one make that 12 minus 9 9, 10, 11, 12. So let's do 1, 2, 3 equals x 1, 2 minus 9. Let's see if that's"
+  }
+}

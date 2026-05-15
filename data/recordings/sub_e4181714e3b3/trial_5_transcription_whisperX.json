@@ -1,0 +1,46 @@
+{
+  "file": "data/recordings/sub_e4181714e3b3/trial_5.wav",
+  "with_timestamps": {
+    "text": " Two equals 11 minus seven.So I need that to be a four.So 11 minus, okay, so I could make that, but that's a five.So if I move the matchstick, that could be a five. Does 5 equal 11 minus 7?10 minus 7 equals 3.So 1, 2, 3 equals x minus 7.",
+    "segments": [
+      {
+        "text": " Two equals 11 minus seven.",
+        "start": 1.685,
+        "end": 11.175
+      },
+      {
+        "text": "So I need that to be a four.",
+        "start": 11.215,
+        "end": 14.799
+      },
+      {
+        "text": "So 11 minus, okay, so I could make that, but that's a five.",
+        "start": 14.879,
+        "end": 23.889
+      },
+      {
+        "text": "So if I move the matchstick, that could be a five.",
+        "start": 25.43,
+        "end": 30.696
+      },
+      {
+        "text": " Does 5 equal 11 minus 7?",
+        "start": 32.33,
+        "end": 41.57
+      },
+      {
+        "text": "10 minus 7 equals 3.",
+        "start": 41.59,
+        "end": 43.313
+      },
+      {
+        "text": "So 1, 2, 3 equals x minus 7.",
+        "start": 43.333,
+        "end": 52.633
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Two equals 11 minus seven. So I need that to be a four. So 11 minus, okay, so I could make that, but that's a five. So if I move the matchstick, that could be a five. Does 5 equal 11 minus 7? 10 minus 7 equals 3. So 1, 2, 3 equals x minus 7."
+  }
+}

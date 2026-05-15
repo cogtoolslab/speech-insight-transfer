@@ -1,0 +1,36 @@
+{
+  "file": "data/recordings/sub_e77dffb7fe67/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct.It says 8 equals 2 plus 4, so I would want to move the matchstick in the 4 to make it a 6.Use the buttons below to report the correct version of the equation.So I would click 8, then equals 2 plus and we'll make it a six.",
+    "segments": [
+      {
+        "text": " Okay, you can only move one matchstick to make this equation correct.",
+        "start": 1.955,
+        "end": 7.04
+      },
+      {
+        "text": "It says 8 equals 2 plus 4, so I would want to move the matchstick in the 4 to make it a 6.",
+        "start": 7.921,
+        "end": 16.168
+      },
+      {
+        "text": "Use the buttons below to report the correct version of the equation.",
+        "start": 17.089,
+        "end": 20.553
+      },
+      {
+        "text": "So I would click 8, then equals 2",
+        "start": 20.573,
+        "end": 29.481
+      },
+      {
+        "text": " plus and we'll make it a six.",
+        "start": 30.288,
+        "end": 32.485
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, you can only move one matchstick to make this equation correct. It says 8 equals 2 plus 4, so I would want to move the matchstick in the 4 to make it a 6. Use the buttons below to report the correct version of the equation. So I would click 8, then equals 2 plus and we'll make it a six."
+  }
+}

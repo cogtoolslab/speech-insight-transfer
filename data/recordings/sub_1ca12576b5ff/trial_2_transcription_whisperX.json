@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_1ca12576b5ff/trial_2.wav",
+  "with_timestamps": {
+    "text": " 4 equals to 4 minus 2 that is not true but 4 equals to 6 minus 2 that is true so we move the vertical strip from the left of it to the right of it equals to g i minus i i",
+    "segments": [
+      {
+        "text": " 4 equals to 4 minus 2 that is not true but 4 equals to 6 minus 2 that is true so we move the vertical strip from the left of it to the right of it",
+        "start": 0.031,
+        "end": 24.317
+      },
+      {
+        "text": " equals to g i minus i i",
+        "start": 25.259,
+        "end": 31.084
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 4 equals to 4 minus 2 that is not true but 4 equals to 6 minus 2 that is true so we move the vertical strip from the left of it to the right of it equals to g i minus i i"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "file": "data/recordings/sub_47198434ebe7/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, 5, 6, 7 equals 9 plus 3 is 12, right?9 plus 3 is 12.Now I have to move one matchstick.What I try to first do is start from here. Let's see 11 plus 3, no.9 minus 4, 5, no.5, 6, 7 has to be minus right?9 minus 3. 11, 9-4.This is hard.Okay 9 plus 4 will be \u2013 no. 3 plus 3, 6.5, 6.9 minus 4 is 5.This one's harder. Okay, if I change this to 12.12, okay, I see, I see, I see.Has to be this one, right?12 equals 9 plus 3. I got it.",
+    "segments": [
+      {
+        "text": " Okay, 5, 6, 7 equals 9 plus 3 is 12, right?",
+        "start": 4.621,
+        "end": 14.05
+      },
+      {
+        "text": "9 plus 3 is 12.",
+        "start": 14.07,
+        "end": 16.052
+      },
+      {
+        "text": "Now I have to move one matchstick.",
+        "start": 18.475,
+        "end": 19.976
+      },
+      {
+        "text": "What I try to first do is start from here.",
+        "start": 21.458,
+        "end": 31.708
+      },
+      {
+        "text": " Let's see 11 plus 3, no.",
+        "start": 33.292,
+        "end": 40.562
+      },
+      {
+        "text": "9 minus 4, 5, no.",
+        "start": 40.582,
+        "end": 43.526
+      },
+      {
+        "text": "5, 6, 7 has to be minus right?",
+        "start": 51.677,
+        "end": 56.263
+      },
+      {
+        "text": "9 minus 3.",
+        "start": 56.283,
+        "end": 58.506
+      },
+      {
+        "text": " 11, 9-4.",
+        "start": 65.607,
+        "end": 66.368
+      },
+      {
+        "text": "This is hard.",
+        "start": 71.995,
+        "end": 72.836
+      },
+      {
+        "text": "Okay 9 plus 4 will be \u2013 no.",
+        "start": 81.748,
+        "end": 95.125
+      },
+      {
+        "text": " 3 plus 3, 6.",
+        "start": 101.753,
+        "end": 107.821
+      },
+      {
+        "text": "5, 6.",
+        "start": 107.841,
+        "end": 116.313
+      },
+      {
+        "text": "9 minus 4 is 5.",
+        "start": 116.333,
+        "end": 124.124
+      },
+      {
+        "text": "This one's harder.",
+        "start": 124.164,
+        "end": 126.968
+      },
+      {
+        "text": " Okay, if I change this to 12.",
+        "start": 142.405,
+        "end": 143.867
+      },
+      {
+        "text": "12, okay, I see, I see, I see.",
+        "start": 143.887,
+        "end": 148.932
+      },
+      {
+        "text": "Has to be this one, right?",
+        "start": 151.955,
+        "end": 153.277
+      },
+      {
+        "text": "12 equals 9 plus 3.",
+        "start": 153.297,
+        "end": 170.235
+      },
+      {
+        "text": " I got it.",
+        "start": 172.595,
+        "end": 176.361
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 5, 6, 7 equals 9 plus 3 is 12, right? 9 plus 3 is 12. Now I have to move one matchstick. What I try to first do is start from here. Let's see 11 plus 3, no. 9 minus 4, 5, no. 5, 6, 7 has to be minus right? 9 minus 3. 11, 9-4. This is hard. Okay 9 plus 4 will be \u2013 no. 3 plus 3, 6. 5, 6. 9 minus 4 is 5. This one's harder. Okay, if I change this to 12. 12, okay, I see, I see, I see. Has to be this one, right? 12 equals 9 plus 3. I got it."
+  }
+}

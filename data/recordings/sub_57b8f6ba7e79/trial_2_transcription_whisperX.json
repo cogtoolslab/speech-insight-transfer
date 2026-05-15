@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_57b8f6ba7e79/trial_2.wav",
+  "with_timestamps": {
+    "text": " OK, so we have 9 equals, there you go, that's 4 equals 9 minus 2.So 4 equals 9 minus 2. Could it be 4 equals 9 equals 2 plus 2?Oh, I think I got that one.Because you're doing 2 equals, you take one away to make it 2, and then you add that to make it a plus 2.I was so confident on that one.Because that would be it. Take one of these away and make it two.I have no clue.So we have four equals, if I take that and make it six, I'm just moving that to make it six, minus two, because I'm moving these.I'm not taking one away, but I'm just",
+    "segments": [
+      {
+        "text": " OK, so we have 9 equals, there you go, that's 4 equals 9 minus 2.",
+        "start": 3.052,
+        "end": 23.291
+      },
+      {
+        "text": "So 4 equals 9 minus 2.",
+        "start": 27.695,
+        "end": 29.937
+      },
+      {
+        "text": " Could it be 4 equals 9 equals 2 plus 2?",
+        "start": 32.92,
+        "end": 40.347
+      },
+      {
+        "text": "Oh, I think I got that one.",
+        "start": 40.647,
+        "end": 42.189
+      },
+      {
+        "text": "Because you're doing 2 equals, you take one away to make it 2, and then you add that to make it a plus 2.",
+        "start": 42.209,
+        "end": 52.899
+      },
+      {
+        "text": "I was so confident on that one.",
+        "start": 55.001,
+        "end": 58.664
+      },
+      {
+        "text": "Because that would be it.",
+        "start": 58.684,
+        "end": 59.485
+      },
+      {
+        "text": " Take one of these away and make it two.",
+        "start": 61.523,
+        "end": 62.886
+      },
+      {
+        "text": "I have no clue.",
+        "start": 66.734,
+        "end": 67.436
+      },
+      {
+        "text": "So we have four equals, if I take that and make it six, I'm just moving that to make it six, minus two, because I'm moving these.",
+        "start": 67.476,
+        "end": 86.939
+      },
+      {
+        "text": "I'm not taking one away, but I'm just",
+        "start": 89.124,
+        "end": 90.687
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so we have 9 equals, there you go, that's 4 equals 9 minus 2. So 4 equals 9 minus 2. Could it be 4 equals 9 equals 2 plus 2? Oh, I think I got that one. Because you're doing 2 equals, you take one away to make it 2, and then you add that to make it a plus 2. I was so confident on that one. Because that would be it. Take one of these away and make it two. I have no clue. So we have four equals, if I take that and make it six, I'm just moving that to make it six, minus two, because I'm moving these. I'm not taking one away, but I'm just"
+  }
+}

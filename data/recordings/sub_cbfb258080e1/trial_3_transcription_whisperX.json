@@ -1,0 +1,116 @@
+{
+  "file": "data/recordings/sub_cbfb258080e1/trial_3.wav",
+  "with_timestamps": {
+    "text": " All right, let's see, number three.Already disappointed I didn't get number two, but let's try to refocus here.So we got seven is equal to 12 plus six.So it's close, but it is not.So if I move that from that side, that makes that a six, which doesn't help.It doesn't seem like, well, I could make it a minus. Oh, there we go.That's easy this time.OK.So 7 is equal to 13 minus 6.So I took one of the i's from the 12.No, I didn't do anything.What did I do there?7 equals 12 plus 6. Wait, what if I move the vertical one off of the equal sign?So then I have 12 and a 6 and a minus.That would make that have to be 7, which I can't do.Because then that would be 7 equals 12 minus 6.So where do I put that?I need to make that a 13.Right, 7 equals 13 minus 6.",
+    "segments": [
+      {
+        "text": " All right, let's see, number three.",
+        "start": 0.031,
+        "end": 2.374
+      },
+      {
+        "text": "Already disappointed I didn't get number two, but let's try to refocus here.",
+        "start": 2.554,
+        "end": 6.019
+      },
+      {
+        "text": "So we got seven is equal to 12 plus six.",
+        "start": 7.26,
+        "end": 11.926
+      },
+      {
+        "text": "So it's close, but it is not.",
+        "start": 11.947,
+        "end": 15.111
+      },
+      {
+        "text": "So if I move that from that side, that makes that a six, which doesn't help.",
+        "start": 18.095,
+        "end": 23.261
+      },
+      {
+        "text": "It doesn't seem like, well, I could make it a minus.",
+        "start": 25.224,
+        "end": 28.468
+      },
+      {
+        "text": " Oh, there we go.",
+        "start": 30.541,
+        "end": 31.482
+      },
+      {
+        "text": "That's easy this time.",
+        "start": 31.502,
+        "end": 32.524
+      },
+      {
+        "text": "OK.",
+        "start": 33.045,
+        "end": 33.465
+      },
+      {
+        "text": "So 7 is equal to 13 minus 6.",
+        "start": 34.487,
+        "end": 42.64
+      },
+      {
+        "text": "So I took one of the i's from the 12.",
+        "start": 44.542,
+        "end": 47.247
+      },
+      {
+        "text": "No, I didn't do anything.",
+        "start": 47.287,
+        "end": 51.473
+      },
+      {
+        "text": "What did I do there?",
+        "start": 51.493,
+        "end": 52.114
+      },
+      {
+        "text": "7 equals 12 plus 6.",
+        "start": 52.134,
+        "end": 59.265
+      },
+      {
+        "text": " Wait, what if I move the vertical one off of the equal sign?",
+        "start": 67.902,
+        "end": 72.431
+      },
+      {
+        "text": "So then I have 12 and a 6 and a minus.",
+        "start": 73.213,
+        "end": 76.639
+      },
+      {
+        "text": "That would make that have to be 7, which I can't do.",
+        "start": 76.679,
+        "end": 83.353
+      },
+      {
+        "text": "Because then that would be 7 equals 12 minus 6.",
+        "start": 83.393,
+        "end": 88.523
+      },
+      {
+        "text": "So where do I put that?",
+        "start": 88.563,
+        "end": 91.329
+      },
+      {
+        "text": "I need to make that a 13.",
+        "start": 91.349,
+        "end": 92.611
+      },
+      {
+        "text": "Right, 7 equals 13 minus 6.",
+        "start": 94.796,
+        "end": 96.559
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, let's see, number three. Already disappointed I didn't get number two, but let's try to refocus here. So we got seven is equal to 12 plus six. So it's close, but it is not. So if I move that from that side, that makes that a six, which doesn't help. It doesn't seem like, well, I could make it a minus. Oh, there we go. That's easy this time. OK. So 7 is equal to 13 minus 6. So I took one of the i's from the 12. No, I didn't do anything. What did I do there? 7 equals 12 plus 6. Wait, what if I move the vertical one off of the equal sign? So then I have 12 and a 6 and a minus. That would make that have to be 7, which I can't do. Because then that would be 7 equals 12 minus 6. So where do I put that? I need to make that a 13. Right, 7 equals 13 minus 6."
+  }
+}

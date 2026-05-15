@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_d1b9242fdda8/trial_4.wav",
+  "with_timestamps": {
+    "text": " I understand now.All right, so what do we got here?Now we've got 11 equals four plus two.And so four plus two is six.So it's not 11.And so yeah, here, this is easy.We're gonna just switch this to be six.Then we'll do that by, moving the 1 there, the x, and making it a v. And then what we'll have is we will have 6 equals 4 plus 2.OK.",
+    "segments": [
+      {
+        "text": " I understand now.",
+        "start": 1.06,
+        "end": 2.242
+      },
+      {
+        "text": "All right, so what do we got here?",
+        "start": 2.282,
+        "end": 4.044
+      },
+      {
+        "text": "Now we've got 11 equals four plus two.",
+        "start": 4.084,
+        "end": 10.132
+      },
+      {
+        "text": "And so four plus two is six.",
+        "start": 10.833,
+        "end": 12.836
+      },
+      {
+        "text": "So it's not 11.",
+        "start": 13.256,
+        "end": 15.099
+      },
+      {
+        "text": "And so yeah, here, this is easy.",
+        "start": 16.28,
+        "end": 19.144
+      },
+      {
+        "text": "We're gonna just switch this to be six.",
+        "start": 19.224,
+        "end": 22.789
+      },
+      {
+        "text": "Then we'll do that by,",
+        "start": 23.31,
+        "end": 24.992
+      },
+      {
+        "text": " moving the 1 there, the x, and making it a v. And then what we'll have is we will have 6 equals 4 plus 2.",
+        "start": 25.833,
+        "end": 41.207
+      },
+      {
+        "text": "OK.",
+        "start": 42.069,
+        "end": 42.289
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " I understand now. All right, so what do we got here? Now we've got 11 equals four plus two. And so four plus two is six. So it's not 11. And so yeah, here, this is easy. We're gonna just switch this to be six. Then we'll do that by, moving the 1 there, the x, and making it a v. And then what we'll have is we will have 6 equals 4 plus 2. OK."
+  }
+}

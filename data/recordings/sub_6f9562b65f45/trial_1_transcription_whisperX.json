@@ -1,0 +1,146 @@
+{
+  "file": "data/recordings/sub_6f9562b65f45/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, it says 13 equals 7 minus 6, but it's supposed to say 7 to report the correct version of the problem.Wait, wait, wait, wait, what?Wait a minute, these two buttons. Oh, okay.It's supposed to say 13 equals seven plus six, right?What? What?You can only move one matchstick to make this equation correct.Huh?12, six, 13, something.This ain't right. 11.What?I'm lost.I don't know what to do. Remember to say what you're thinking out loud, like I am talking.Okay.13 equals seven minus six.What about, Six plus six.I don't get it.This is stupid.Everything's incorrect.So what is the fucking answer? This don't even make sense.It don't make sense.I want to see the fucking answer.",
+    "segments": [
+      {
+        "text": " Okay, it says 13 equals 7 minus 6, but it's supposed to say 7 to report the correct version of the problem.",
+        "start": 0.031,
+        "end": 24.101
+      },
+      {
+        "text": "Wait, wait, wait, wait, what?",
+        "start": 24.121,
+        "end": 25.783
+      },
+      {
+        "text": "Wait a minute, these two buttons.",
+        "start": 27.285,
+        "end": 28.907
+      },
+      {
+        "text": " Oh, okay.",
+        "start": 31.098,
+        "end": 32.519
+      },
+      {
+        "text": "It's supposed to say 13 equals seven plus six, right?",
+        "start": 33.641,
+        "end": 55.022
+      },
+      {
+        "text": "What?",
+        "start": 55.042,
+        "end": 55.603
+      },
+      {
+        "text": " What?",
+        "start": 78.854,
+        "end": 79.455
+      },
+      {
+        "text": "You can only move one matchstick to make this equation correct.",
+        "start": 84.599,
+        "end": 88.622
+      },
+      {
+        "text": "Huh?",
+        "start": 93.807,
+        "end": 95.769
+      },
+      {
+        "text": "12, six, 13, something.",
+        "start": 95.789,
+        "end": 104.997
+      },
+      {
+        "text": "This ain't right.",
+        "start": 107.759,
+        "end": 108.76
+      },
+      {
+        "text": " 11.",
+        "start": 114.41,
+        "end": 114.911
+      },
+      {
+        "text": "What?",
+        "start": 115.291,
+        "end": 115.691
+      },
+      {
+        "text": "I'm lost.",
+        "start": 120.396,
+        "end": 135.251
+      },
+      {
+        "text": "I don't know what to do.",
+        "start": 139.596,
+        "end": 140.637
+      },
+      {
+        "text": " Remember to say what you're thinking out loud, like I am talking.",
+        "start": 142.642,
+        "end": 147.047
+      },
+      {
+        "text": "Okay.",
+        "start": 147.067,
+        "end": 148.869
+      },
+      {
+        "text": "13 equals seven minus six.",
+        "start": 148.889,
+        "end": 158.44
+      },
+      {
+        "text": "What about,",
+        "start": 167.011,
+        "end": 168.312
+      },
+      {
+        "text": " Six plus six.",
+        "start": 183.614,
+        "end": 185.377
+      },
+      {
+        "text": "I don't get it.",
+        "start": 187.461,
+        "end": 188.342
+      },
+      {
+        "text": "This is stupid.",
+        "start": 188.402,
+        "end": 189.905
+      },
+      {
+        "text": "Everything's incorrect.",
+        "start": 202.246,
+        "end": 203.468
+      },
+      {
+        "text": "So what is the fucking answer?",
+        "start": 204.59,
+        "end": 206.213
+      },
+      {
+        "text": " This don't even make sense.",
+        "start": 223.253,
+        "end": 224.76
+      },
+      {
+        "text": "It don't make sense.",
+        "start": 227.632,
+        "end": 228.697
+      },
+      {
+        "text": "I want to see the fucking answer.",
+        "start": 231.69,
+        "end": 233.297
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, it says 13 equals 7 minus 6, but it's supposed to say 7 to report the correct version of the problem. Wait, wait, wait, wait, what? Wait a minute, these two buttons. Oh, okay. It's supposed to say 13 equals seven plus six, right? What? What? You can only move one matchstick to make this equation correct. Huh? 12, six, 13, something. This ain't right. 11. What? I'm lost. I don't know what to do. Remember to say what you're thinking out loud, like I am talking. Okay. 13 equals seven minus six. What about, Six plus six. I don't get it. This is stupid. Everything's incorrect. So what is the fucking answer? This don't even make sense. It don't make sense. I want to see the fucking answer."
+  }
+}

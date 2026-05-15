@@ -1,0 +1,51 @@
+{
+  "file": "data/recordings/sub_c825be9c6344/trial_4.wav",
+  "with_timestamps": {
+    "text": " All right, for this equation, we have two equals nine minus two.So saying two equals seven, which is incorrect.What if we had this to change the X to a V. That would work.So we'd have two equals four minus two, which is two equals two.All right.Oops.I equals IV minus II.",
+    "segments": [
+      {
+        "text": " All right, for this equation, we have two equals nine minus two.",
+        "start": 1.415,
+        "end": 6.025
+      },
+      {
+        "text": "So saying two equals seven, which is incorrect.",
+        "start": 6.065,
+        "end": 13.402
+      },
+      {
+        "text": "What if we had this",
+        "start": 17.892,
+        "end": 18.934
+      },
+      {
+        "text": " to change the X to a V. That would work.",
+        "start": 20.703,
+        "end": 23.917
+      },
+      {
+        "text": "So we'd have two equals four minus two, which is two equals two.",
+        "start": 24.198,
+        "end": 27.914
+      },
+      {
+        "text": "All right.",
+        "start": 28.175,
+        "end": 28.557
+      },
+      {
+        "text": "Oops.",
+        "start": 29.099,
+        "end": 29.32
+      },
+      {
+        "text": "I equals IV minus II.",
+        "start": 30.023,
+        "end": 35.185
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, for this equation, we have two equals nine minus two. So saying two equals seven, which is incorrect. What if we had this to change the X to a V. That would work. So we'd have two equals four minus two, which is two equals two. All right. Oops. I equals IV minus II."
+  }
+}

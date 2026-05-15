@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_c99e3feff124/trial_5.wav",
+  "with_timestamps": {
+    "text": " So if we would go and match the equals to the other side, we'd get six minus four equals two.So six minus four equals two.So that's all we got.Six minus four equals two.",
+    "segments": [
+      {
+        "text": " So if we would go and match the equals to the other side, we'd get six minus four equals two.",
+        "start": 7.979,
+        "end": 21.524
+      },
+      {
+        "text": "So six minus four equals two.",
+        "start": 21.985,
+        "end": 23.889
+      },
+      {
+        "text": "So that's all we got.",
+        "start": 23.969,
+        "end": 24.67
+      },
+      {
+        "text": "Six minus four equals two.",
+        "start": 24.71,
+        "end": 30.882
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So if we would go and match the equals to the other side, we'd get six minus four equals two. So six minus four equals two. So that's all we got. Six minus four equals two."
+  }
+}

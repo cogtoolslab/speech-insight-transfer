@@ -1,0 +1,181 @@
+{
+  "file": "data/recordings/sub_b153474cd583/trial_2.wav",
+  "with_timestamps": {
+    "text": " All right, so this is four equals seven plus four.So four minus... So four minus five, six, seven is three.Nope, that wouldn't work.So... What is that?That'll be five, four, three, plus, no, because you can't do that.So that'll be five, six, seven, plus four, four, seven, plus six is 13.These are hard. I'm trying to think if it'll be four minus seven equals four.No, okay.So maybe it's six equals, 5, 6, 7.Oh, 6 equals 5, 6, 7.Wait. Um, that's four.So four equals five, seven minus four, seven, six, five, four, three.Um, no.Okay.So six equals six equals five, six, seven minus 4 equals 5 or 3 plus no 4 equals no 10 One plus four, is that it?Nope, okay.Do I move one to the other side?Or do I multiply it?I'm trying to figure it out.Let's see, do I make that equal? Um, four minus or four, uh, four plus five, six, four plus seven is 11.Ah, so can I do that?Four plus seven is 11.Does that work?No.Oh, come on.Um, It could be 5, 6, 7, 8, 9.",
+    "segments": [
+      {
+        "text": " All right, so this is four equals seven plus four.",
+        "start": 1.533,
+        "end": 9.766
+      },
+      {
+        "text": "So four minus... So four minus five, six, seven is three.",
+        "start": 13.271,
+        "end": 26.111
+      },
+      {
+        "text": "Nope, that wouldn't work.",
+        "start": 26.151,
+        "end": 26.993
+      },
+      {
+        "text": "So...",
+        "start": 27.994,
+        "end": 29.076
+      },
+      {
+        "text": " What is that?",
+        "start": 33.393,
+        "end": 33.994
+      },
+      {
+        "text": "That'll be five, four, three, plus, no, because you can't do that.",
+        "start": 35.135,
+        "end": 43.363
+      },
+      {
+        "text": "So that'll be five, six, seven, plus four, four, seven, plus six is 13.",
+        "start": 43.383,
+        "end": 54.575
+      },
+      {
+        "text": "These are hard.",
+        "start": 54.655,
+        "end": 62.843
+      },
+      {
+        "text": " I'm trying to think if it'll be four minus seven equals four.",
+        "start": 67.497,
+        "end": 85.203
+      },
+      {
+        "text": "No, okay.",
+        "start": 85.223,
+        "end": 89.489
+      },
+      {
+        "text": "So maybe it's six equals,",
+        "start": 91.932,
+        "end": 97.2
+      },
+      {
+        "text": " 5, 6, 7.",
+        "start": 99.07,
+        "end": 101.617
+      },
+      {
+        "text": "Oh, 6 equals 5, 6, 7.",
+        "start": 102.038,
+        "end": 106.088
+      },
+      {
+        "text": "Wait.",
+        "start": 111.703,
+        "end": 113.788
+      },
+      {
+        "text": " Um, that's four.",
+        "start": 113.988,
+        "end": 115.61
+      },
+      {
+        "text": "So four equals five, seven minus four, seven, six, five, four, three.",
+        "start": 116.672,
+        "end": 126.646
+      },
+      {
+        "text": "Um, no.",
+        "start": 128.048,
+        "end": 128.689
+      },
+      {
+        "text": "Okay.",
+        "start": 128.709,
+        "end": 128.829
+      },
+      {
+        "text": "So six equals six equals five, six, seven minus",
+        "start": 128.849,
+        "end": 141.447
+      },
+      {
+        "text": " 4 equals 5 or 3 plus no 4 equals no 10",
+        "start": 143.857,
+        "end": 173.762
+      },
+      {
+        "text": " One plus four, is that it?",
+        "start": 176.358,
+        "end": 181.044
+      },
+      {
+        "text": "Nope, okay.",
+        "start": 181.064,
+        "end": 182.485
+      },
+      {
+        "text": "Do I move one to the other side?",
+        "start": 186.77,
+        "end": 189.213
+      },
+      {
+        "text": "Or do I multiply it?",
+        "start": 189.233,
+        "end": 195.06
+      },
+      {
+        "text": "I'm trying to figure it out.",
+        "start": 195.08,
+        "end": 198.544
+      },
+      {
+        "text": "Let's see, do I make that equal?",
+        "start": 200.506,
+        "end": 202.669
+      },
+      {
+        "text": " Um, four minus or four, uh, four plus five, six, four plus seven is 11.",
+        "start": 205.889,
+        "end": 214.217
+      },
+      {
+        "text": "Ah, so can I do that?",
+        "start": 214.237,
+        "end": 217.54
+      },
+      {
+        "text": "Four plus seven is 11.",
+        "start": 218.421,
+        "end": 227.57
+      },
+      {
+        "text": "Does that work?",
+        "start": 227.65,
+        "end": 228.451
+      },
+      {
+        "text": "No.",
+        "start": 229.031,
+        "end": 229.552
+      },
+      {
+        "text": "Oh, come on.",
+        "start": 229.572,
+        "end": 230.433
+      },
+      {
+        "text": "Um,",
+        "start": 232.515,
+        "end": 232.875
+      },
+      {
+        "text": " It could be 5, 6, 7, 8, 9.",
+        "start": 234.661,
+        "end": 239.49
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, so this is four equals seven plus four. So four minus... So four minus five, six, seven is three. Nope, that wouldn't work. So... What is that? That'll be five, four, three, plus, no, because you can't do that. So that'll be five, six, seven, plus four, four, seven, plus six is 13. These are hard. I'm trying to think if it'll be four minus seven equals four. No, okay. So maybe it's six equals, 5, 6, 7. Oh, 6 equals 5, 6, 7. Wait. Um, that's four. So four equals five, seven minus four, seven, six, five, four, three. Um, no. Okay. So six equals six equals five, six, seven minus 4 equals 5 or 3 plus no 4 equals no 10 One plus four, is that it? Nope, okay. Do I move one to the other side? Or do I multiply it? I'm trying to figure it out. Let's see, do I make that equal? Um, four minus or four, uh, four plus five, six, four plus seven is 11. Ah, so can I do that? Four plus seven is 11. Does that work? No. Oh, come on. Um, It could be 5, 6, 7, 8, 9."
+  }
+}

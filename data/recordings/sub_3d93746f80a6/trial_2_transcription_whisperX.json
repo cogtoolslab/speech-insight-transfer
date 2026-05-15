@@ -1,0 +1,171 @@
+{
+  "file": "data/recordings/sub_3d93746f80a6/trial_2.wav",
+  "with_timestamps": {
+    "text": " 9 minus 4.9 minus 4. X, 3, 13, X, 13, X, 9, 9 plus ix, OK, 4, plus 9, 9, 9 plus ix, 3.13, so I can't make that a plus.OK. at 1, 2, 3 equals 1 x plus 1 v.1 x plus 1 v, I think.Maybe. Mm-hmm.Okay.Thirteen equals.That's nine.Eleven.Eleven minus four.No.Mm-mm.That's not even.That's fourteen. 8, 8, 8, 6.Not X.15.Nope.Nope.That's 3 equals.13 equals.That's 1. 11, nope.11 plus, 11 plus IV.IV, four.Nope.X, R.",
+    "segments": [
+      {
+        "text": " 9 minus 4.",
+        "start": 14.223,
+        "end": 23.572
+      },
+      {
+        "text": "9 minus 4.",
+        "start": 23.592,
+        "end": 41.749
+      },
+      {
+        "text": " X, 3, 13, X, 13, X,",
+        "start": 43.265,
+        "end": 68.952
+      },
+      {
+        "text": " 9, 9 plus ix, OK, 4, plus 9, 9, 9 plus ix, 3.",
+        "start": 81.858,
+        "end": 96.499
+      },
+      {
+        "text": "13, so I can't make that a plus.",
+        "start": 98.782,
+        "end": 100.344
+      },
+      {
+        "text": "OK.",
+        "start": 111.259,
+        "end": 111.78
+      },
+      {
+        "text": " at 1, 2, 3 equals 1 x plus 1 v.",
+        "start": 122.037,
+        "end": 141.168
+      },
+      {
+        "text": "1 x plus 1 v, I think.",
+        "start": 141.188,
+        "end": 144.714
+      },
+      {
+        "text": "Maybe.",
+        "start": 145.936,
+        "end": 146.256
+      },
+      {
+        "text": " Mm-hmm.",
+        "start": 154.673,
+        "end": 155.854
+      },
+      {
+        "text": "Okay.",
+        "start": 155.974,
+        "end": 160.359
+      },
+      {
+        "text": "Thirteen equals.",
+        "start": 160.379,
+        "end": 161.661
+      },
+      {
+        "text": "That's nine.",
+        "start": 167.107,
+        "end": 170.451
+      },
+      {
+        "text": "Eleven.",
+        "start": 176.958,
+        "end": 177.098
+      },
+      {
+        "text": "Eleven minus four.",
+        "start": 177.118,
+        "end": 177.939
+      },
+      {
+        "text": "No.",
+        "start": 177.959,
+        "end": 178.019
+      },
+      {
+        "text": "Mm-mm.",
+        "start": 178.039,
+        "end": 179.721
+      },
+      {
+        "text": "That's not even.",
+        "start": 179.741,
+        "end": 180.862
+      },
+      {
+        "text": "That's fourteen.",
+        "start": 180.882,
+        "end": 181.643
+      },
+      {
+        "text": " 8, 8, 8, 6.",
+        "start": 182.888,
+        "end": 187.375
+      },
+      {
+        "text": "Not X.",
+        "start": 189.338,
+        "end": 194.346
+      },
+      {
+        "text": "15.",
+        "start": 195.668,
+        "end": 198.572
+      },
+      {
+        "text": "Nope.",
+        "start": 198.592,
+        "end": 198.973
+      },
+      {
+        "text": "Nope.",
+        "start": 200.295,
+        "end": 200.415
+      },
+      {
+        "text": "That's 3 equals.",
+        "start": 200.435,
+        "end": 201.617
+      },
+      {
+        "text": "13 equals.",
+        "start": 201.637,
+        "end": 206.284
+      },
+      {
+        "text": "That's 1.",
+        "start": 209.109,
+        "end": 210.01
+      },
+      {
+        "text": " 11, nope.",
+        "start": 211.424,
+        "end": 219.734
+      },
+      {
+        "text": "11 plus, 11 plus IV.",
+        "start": 220.355,
+        "end": 227.263
+      },
+      {
+        "text": "IV, four.",
+        "start": 229.926,
+        "end": 232.389
+      },
+      {
+        "text": "Nope.",
+        "start": 234.111,
+        "end": 237.075
+      },
+      {
+        "text": "X, R.",
+        "start": 237.095,
+        "end": 237.195
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 9 minus 4. 9 minus 4. X, 3, 13, X, 13, X, 9, 9 plus ix, OK, 4, plus 9, 9, 9 plus ix, 3. 13, so I can't make that a plus. OK. at 1, 2, 3 equals 1 x plus 1 v. 1 x plus 1 v, I think. Maybe. Mm-hmm. Okay. Thirteen equals. That's nine. Eleven. Eleven minus four. No. Mm-mm. That's not even. That's fourteen. 8, 8, 8, 6. Not X. 15. Nope. Nope. That's 3 equals. 13 equals. That's 1. 11, nope. 11 plus, 11 plus IV. IV, four. Nope. X, R."
+  }
+}

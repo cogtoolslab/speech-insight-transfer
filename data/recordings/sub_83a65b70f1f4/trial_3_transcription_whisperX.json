@@ -1,0 +1,66 @@
+{
+  "file": "data/recordings/sub_83a65b70f1f4/trial_3.wav",
+  "with_timestamps": {
+    "text": " So on this one we have IX, which is nine, right?10 minus one is nine equals VII, which is seven plus five minus one is four.So that would equal 11, so that's wrong, right?So then we're gonna do, what if we moved, let's try seven plus five plus one is six, that's not gonna work. What if we did, what if we moved the X and the I?So if I do X, I, we'd have 11 equals, so we need to move, there we go, 11, 7 plus 4.Yep, okay, so we need to move the, on the left-hand side of the equation, the X and the I. So you have 10 plus 1 is 11, equals 5, 6, 7 plus, 5, 6, V, I. Oh, crap.Nope.Plus I, V. So if we write that out, we have 10, 11 equals 5, 6, 7 plus 4.Yeah, that works.",
+    "segments": [
+      {
+        "text": " So on this one we have IX, which is nine, right?",
+        "start": 0.267,
+        "end": 5.472
+      },
+      {
+        "text": "10 minus one is nine equals VII, which is seven plus five minus one is four.",
+        "start": 5.492,
+        "end": 13.819
+      },
+      {
+        "text": "So that would equal 11, so that's wrong, right?",
+        "start": 13.899,
+        "end": 18.203
+      },
+      {
+        "text": "So then we're gonna do, what if we moved, let's try seven plus five plus one is six, that's not gonna work.",
+        "start": 18.983,
+        "end": 28.992
+      },
+      {
+        "text": " What if we did, what if we moved the X and the I?",
+        "start": 31.165,
+        "end": 34.73
+      },
+      {
+        "text": "So if I do X, I, we'd have 11 equals, so we need to move, there we go, 11, 7 plus 4.",
+        "start": 34.87,
+        "end": 43.381
+      },
+      {
+        "text": "Yep, okay, so we need to move the, on the left-hand side of the equation, the X and the I. So you have 10 plus 1 is 11, equals 5, 6, 7 plus,",
+        "start": 46.165,
+        "end": 59.282
+      },
+      {
+        "text": " 5, 6, V, I. Oh, crap.",
+        "start": 60.072,
+        "end": 64.96
+      },
+      {
+        "text": "Nope.",
+        "start": 64.98,
+        "end": 66.863
+      },
+      {
+        "text": "Plus I, V. So if we write that out, we have 10, 11 equals 5, 6, 7 plus 4.",
+        "start": 66.883,
+        "end": 75.577
+      },
+      {
+        "text": "Yeah, that works.",
+        "start": 75.738,
+        "end": 76.579
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So on this one we have IX, which is nine, right? 10 minus one is nine equals VII, which is seven plus five minus one is four. So that would equal 11, so that's wrong, right? So then we're gonna do, what if we moved, let's try seven plus five plus one is six, that's not gonna work. What if we did, what if we moved the X and the I? So if I do X, I, we'd have 11 equals, so we need to move, there we go, 11, 7 plus 4. Yep, okay, so we need to move the, on the left-hand side of the equation, the X and the I. So you have 10 plus 1 is 11, equals 5, 6, 7 plus, 5, 6, V, I. Oh, crap. Nope. Plus I, V. So if we write that out, we have 10, 11 equals 5, 6, 7 plus 4. Yeah, that works."
+  }
+}

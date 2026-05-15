@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_b1253f2df8d5/trial_3.wav",
+  "with_timestamps": {
+    "text": " So you have 6 equals 6 plus 1.So I think this is going to follow everything else.6 equals 7 minus 1 and get rid of that plus sign.",
+    "segments": [
+      {
+        "text": " So you have 6 equals 6 plus 1.",
+        "start": 2.461,
+        "end": 5.446
+      },
+      {
+        "text": "So I think this is going to follow everything else.",
+        "start": 10.835,
+        "end": 12.758
+      },
+      {
+        "text": "6 equals 7 minus 1 and get rid of that plus sign.",
+        "start": 12.778,
+        "end": 18.748
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So you have 6 equals 6 plus 1. So I think this is going to follow everything else. 6 equals 7 minus 1 and get rid of that plus sign."
+  }
+}

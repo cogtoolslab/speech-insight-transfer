@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_a3e279103ed5/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one magic stick to make this equation correct.What is the final correct equation?All right, so we have seven minus three equals four, so get it equal to 10.I think I'm going to have to, let's see. If this is, if I turn this into a V, I can get six and that one is seven.So I need, I need, I wonder if I, I need a plus sign. let's see if that's a plus sign that would be two and you can only move one matchstick to this Can you turn one into a V?That's my question.I would think that you would probably be able to move the equal sign to the other side.That would be... I would move the small, I would use the minus to where the equal is and then the equal to where the minus is and that should work.So in other words it would be like this, X minus 7, so 10 minus 7 equals 3.",
+    "segments": [
+      {
+        "text": " You can only move one magic stick to make this equation correct.",
+        "start": 1.55,
+        "end": 4.973
+      },
+      {
+        "text": "What is the final correct equation?",
+        "start": 4.993,
+        "end": 8.997
+      },
+      {
+        "text": "All right, so we have seven minus three equals four, so get it equal to 10.",
+        "start": 9.018,
+        "end": 20.309
+      },
+      {
+        "text": "I think I'm going to have to, let's see.",
+        "start": 20.329,
+        "end": 27.456
+      },
+      {
+        "text": " If this is, if I turn this into a V, I can get six and that one is seven.",
+        "start": 28.162,
+        "end": 41.841
+      },
+      {
+        "text": "So I need, I need, I wonder if I, I need a plus sign.",
+        "start": 41.881,
+        "end": 50.052
+      },
+      {
+        "text": " let's see if that's a plus sign that would be two and you can only move one matchstick to this",
+        "start": 63.177,
+        "end": 88.408
+      },
+      {
+        "text": " Can you turn one into a V?",
+        "start": 93.518,
+        "end": 95.3
+      },
+      {
+        "text": "That's my question.",
+        "start": 95.32,
+        "end": 97.642
+      },
+      {
+        "text": "I would think that you would probably be able to move the equal sign to the other side.",
+        "start": 99.824,
+        "end": 118.042
+      },
+      {
+        "text": "That would be...",
+        "start": 118.102,
+        "end": 123.087
+      },
+      {
+        "text": " I would move the small, I would use the minus to where the equal is and then the equal to where the minus is and that should work.",
+        "start": 123.32,
+        "end": 132.943
+      },
+      {
+        "text": "So in other words it would be like this, X minus 7, so 10 minus 7 equals 3.",
+        "start": 132.963,
+        "end": 153.09
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one magic stick to make this equation correct. What is the final correct equation? All right, so we have seven minus three equals four, so get it equal to 10. I think I'm going to have to, let's see. If this is, if I turn this into a V, I can get six and that one is seven. So I need, I need, I wonder if I, I need a plus sign. let's see if that's a plus sign that would be two and you can only move one matchstick to this Can you turn one into a V? That's my question. I would think that you would probably be able to move the equal sign to the other side. That would be... I would move the small, I would use the minus to where the equal is and then the equal to where the minus is and that should work. So in other words it would be like this, X minus 7, so 10 minus 7 equals 3."
+  }
+}

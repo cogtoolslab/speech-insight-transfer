@@ -1,0 +1,206 @@
+{
+  "file": "data/recordings/sub_dd6c62471e84/trial_1.wav",
+  "with_timestamps": {
+    "text": " OK, so what is this equation telling me?So it's 6 minus 7.6 minus 7 obviously equals 1.But then it's telling me 13.So 6 plus 7.So if I do a plus. That will give me 13.So how do I do this?Let's report the current version of the equation.OK.So V1 plus V11 equals X111.OK. I have to do it the other way.OK.So it's x111 equal to V11 plus V1 should be correct.To make this equation correct, move one matchstick.Let's see.So If I move this, I guess not.OK, so I know 6 plus 7 equals 13.So how do I move that over?Usability report to query version of the equation.OK, so let me try this again. 13 equals 5, 6, 7 plus 6.I don't get that.Why is that not working?Because if I add the plus symbol, that is 13.Let me try a different way. x, be able to report the correct version of the equation.I am trying to move on to make the equation correct.If I move it, so if I move that to 4 minus 7, no, that doesn't work.So 3. So if I do 3, if I move 1, if I take away the, that doesn't make sense.If I take away the x, I am sort of boggled as to how this could work. Yeah, it's not making sense to me right now.Let's see.What if I tried?No, that's not working.",
+    "segments": [
+      {
+        "text": " OK, so what is this equation telling me?",
+        "start": 0.031,
+        "end": 5.678
+      },
+      {
+        "text": "So it's 6 minus 7.",
+        "start": 5.698,
+        "end": 10.163
+      },
+      {
+        "text": "6 minus 7 obviously equals 1.",
+        "start": 10.183,
+        "end": 15.189
+      },
+      {
+        "text": "But then it's telling me 13.",
+        "start": 15.99,
+        "end": 18.974
+      },
+      {
+        "text": "So 6 plus 7.",
+        "start": 20.676,
+        "end": 22.679
+      },
+      {
+        "text": "So if I do a plus.",
+        "start": 27.204,
+        "end": 29.667
+      },
+      {
+        "text": " That will give me 13.",
+        "start": 30.305,
+        "end": 31.928
+      },
+      {
+        "text": "So how do I do this?",
+        "start": 33.39,
+        "end": 35.073
+      },
+      {
+        "text": "Let's report the current version of the equation.",
+        "start": 35.293,
+        "end": 38.398
+      },
+      {
+        "text": "OK.",
+        "start": 38.658,
+        "end": 38.899
+      },
+      {
+        "text": "So V1 plus V11 equals X111.",
+        "start": 39.399,
+        "end": 50.517
+      },
+      {
+        "text": "OK.",
+        "start": 50.637,
+        "end": 54.844
+      },
+      {
+        "text": " I have to do it the other way.",
+        "start": 56.427,
+        "end": 58.474
+      },
+      {
+        "text": "OK.",
+        "start": 58.514,
+        "end": 59.056
+      },
+      {
+        "text": "So it's x111 equal to",
+        "start": 59.698,
+        "end": 66.319
+      },
+      {
+        "text": " V11 plus V1 should be correct.",
+        "start": 67.885,
+        "end": 75.296
+      },
+      {
+        "text": "To make this equation correct, move one matchstick.",
+        "start": 81.065,
+        "end": 86.834
+      },
+      {
+        "text": "Let's see.",
+        "start": 90.7,
+        "end": 91.281
+      },
+      {
+        "text": "So",
+        "start": 95.828,
+        "end": 96.289
+      },
+      {
+        "text": " If I move this, I guess not.",
+        "start": 98.294,
+        "end": 104.762
+      },
+      {
+        "text": "OK, so I know 6 plus 7 equals 13.",
+        "start": 105.183,
+        "end": 115.896
+      },
+      {
+        "text": "So how do I move that over?",
+        "start": 116.998,
+        "end": 119.781
+      },
+      {
+        "text": "Usability report to query version of the equation.",
+        "start": 120.502,
+        "end": 122.645
+      },
+      {
+        "text": "OK, so let me try this again.",
+        "start": 122.745,
+        "end": 125.989
+      },
+      {
+        "text": " 13 equals 5, 6, 7 plus 6.",
+        "start": 127.218,
+        "end": 137.968
+      },
+      {
+        "text": "I don't get that.",
+        "start": 139.77,
+        "end": 140.611
+      },
+      {
+        "text": "Why is that not working?",
+        "start": 140.991,
+        "end": 142.452
+      },
+      {
+        "text": "Because if I add the plus symbol, that is 13.",
+        "start": 142.512,
+        "end": 146.676
+      },
+      {
+        "text": "Let me try a different way.",
+        "start": 146.696,
+        "end": 154.744
+      },
+      {
+        "text": " x, be able to report the correct version of the equation.",
+        "start": 157.458,
+        "end": 162.324
+      },
+      {
+        "text": "I am trying to move on to make the equation correct.",
+        "start": 163.465,
+        "end": 167.01
+      },
+      {
+        "text": "If I move it, so if I move that to 4 minus 7, no, that doesn't work.",
+        "start": 167.03,
+        "end": 181.488
+      },
+      {
+        "text": "So 3.",
+        "start": 182.949,
+        "end": 184.191
+      },
+      {
+        "text": " So if I do 3, if I move 1, if I take away the, that doesn't make sense.",
+        "start": 186.382,
+        "end": 195.195
+      },
+      {
+        "text": "If I take away the x, I am sort of boggled as to how this could work.",
+        "start": 197.379,
+        "end": 215.005
+      },
+      {
+        "text": " Yeah, it's not making sense to me right now.",
+        "start": 217.567,
+        "end": 223.443
+      },
+      {
+        "text": "Let's see.",
+        "start": 227.735,
+        "end": 228.276
+      },
+      {
+        "text": "What if I tried?",
+        "start": 235.897,
+        "end": 236.679
+      },
+      {
+        "text": "No, that's not working.",
+        "start": 236.739,
+        "end": 239.727
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " OK, so what is this equation telling me? So it's 6 minus 7. 6 minus 7 obviously equals 1. But then it's telling me 13. So 6 plus 7. So if I do a plus. That will give me 13. So how do I do this? Let's report the current version of the equation. OK. So V1 plus V11 equals X111. OK. I have to do it the other way. OK. So it's x111 equal to V11 plus V1 should be correct. To make this equation correct, move one matchstick. Let's see. So If I move this, I guess not. OK, so I know 6 plus 7 equals 13. So how do I move that over? Usability report to query version of the equation. OK, so let me try this again. 13 equals 5, 6, 7 plus 6. I don't get that. Why is that not working? Because if I add the plus symbol, that is 13. Let me try a different way. x, be able to report the correct version of the equation. I am trying to move on to make the equation correct. If I move it, so if I move that to 4 minus 7, no, that doesn't work. So 3. So if I do 3, if I move 1, if I take away the, that doesn't make sense. If I take away the x, I am sort of boggled as to how this could work. Yeah, it's not making sense to me right now. Let's see. What if I tried? No, that's not working."
+  }
+}

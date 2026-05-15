@@ -1,0 +1,61 @@
+{
+  "file": "data/recordings/sub_91054a8a7eed/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right.Um, we've got eight equals two plus four.Well, two plus four is actually six.Now we have eight here.So let's say, okay.So interesting enough, if I take one of these, put it over here, it would be like, I take one from the answer side, put it to the other side.I'll have seven. equals 3 plus 4, which is correct.Okay, so I'm just going to take one from the answer side.So that's going to be 7 now equals 3 plus 4.",
+    "segments": [
+      {
+        "text": " All right.",
+        "start": 0.807,
+        "end": 1.128
+      },
+      {
+        "text": "Um, we've got eight equals two plus four.",
+        "start": 1.989,
+        "end": 4.694
+      },
+      {
+        "text": "Well, two plus four is actually six.",
+        "start": 4.935,
+        "end": 6.838
+      },
+      {
+        "text": "Now we have eight here.",
+        "start": 6.898,
+        "end": 7.86
+      },
+      {
+        "text": "So let's say, okay.",
+        "start": 7.9,
+        "end": 8.902
+      },
+      {
+        "text": "So interesting enough, if I take one of these, put it over here, it would be like, I take one from the answer side, put it to the other side.",
+        "start": 12.007,
+        "end": 17.437
+      },
+      {
+        "text": "I'll have seven.",
+        "start": 17.477,
+        "end": 18.9
+      },
+      {
+        "text": " equals 3 plus 4, which is correct.",
+        "start": 20.821,
+        "end": 24.278
+      },
+      {
+        "text": "Okay, so I'm just going to take one from the answer side.",
+        "start": 24.52,
+        "end": 26.811
+      },
+      {
+        "text": "So that's going to be 7 now equals 3 plus 4.",
+        "start": 27.032,
+        "end": 33.987
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right. Um, we've got eight equals two plus four. Well, two plus four is actually six. Now we have eight here. So let's say, okay. So interesting enough, if I take one of these, put it over here, it would be like, I take one from the answer side, put it to the other side. I'll have seven. equals 3 plus 4, which is correct. Okay, so I'm just going to take one from the answer side. So that's going to be 7 now equals 3 plus 4."
+  }
+}

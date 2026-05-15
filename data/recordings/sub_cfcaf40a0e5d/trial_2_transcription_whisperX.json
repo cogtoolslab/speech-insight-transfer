@@ -1,0 +1,26 @@
+{
+  "file": "data/recordings/sub_cfcaf40a0e5d/trial_2.wav",
+  "with_timestamps": {
+    "text": " IV equals to VII plus that will interpret to 4 is equals to 7 plus 4 4 is equals to 7 plus 4 so how do we do this if I take if I take well let's go if i take i can only move one more stick if i take i here that will be 8 8 minus 4 i think this will work 8 minus 4 yes i'm getting it i v is equal to v i i i minus i no no no wrong wrong wrong wrong yes minus i u yes this is it",
+    "segments": [
+      {
+        "text": " IV equals to VII plus that will interpret to 4 is equals to 7 plus 4 4 is equals to 7 plus 4 so how do we do this if I take if I take",
+        "start": 0.031,
+        "end": 26.528
+      },
+      {
+        "text": " well let's go if i take i can only move one more stick if i take i here that will be 8 8 minus 4 i think this will work 8 minus 4 yes i'm getting it i v is equal to",
+        "start": 28.229,
+        "end": 55.401
+      },
+      {
+        "text": " v i i i minus i no no no wrong wrong wrong wrong yes minus i u yes this is it",
+        "start": 56.849,
+        "end": 72.343
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " IV equals to VII plus that will interpret to 4 is equals to 7 plus 4 4 is equals to 7 plus 4 so how do we do this if I take if I take well let's go if i take i can only move one more stick if i take i here that will be 8 8 minus 4 i think this will work 8 minus 4 yes i'm getting it i v is equal to v i i i minus i no no no wrong wrong wrong wrong yes minus i u yes this is it"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "file": "data/recordings/sub_eb09173c30ac/trial_2.wav",
+  "with_timestamps": {
+    "text": " Alright, so this one is 10, 11, 12, 13.So we have 13 is equal to 5, 6, 7 minus 5, 6.So that's incorrect because that equals 1. We want it to equal 13.Am I able to make it a plus?Let's see, five, if I do six plus six, now that's 12.Let's see, if I do six, five, six, wait, five, six, seven, eight.Let's see, eight, Plus 5, 9, 10, 11, 12, 13.I want to say 8 plus 5, but then that would bring 8, 9, 10, 11, 12.That would be moving.I'm going to try it, but I think that would be incorrect because I would have to move two matchsticks, I think.But let's try it.Let's see if they say that's wrong. I knew it.Okay, let's see.So if we want to move one matchstick... Hmm... This one is tricky.Let's see... 5, 6... I mean, there's like no way I can do... 5, 6 plus... 6 is 12.It's not 13.Because this is 13.Um... Hmm. uh can i make this 10 let's see 10 11 12 minus what is this 6 12 minus 6 is 6 so it can't be that okay i can't do that um let's see i can't change the angle um This one is really tricky.I have no idea.Um, let's just try this equals two, two plus okay that's incorrect still so i really do not know for this one i really really really do not know i don't know let me see okay uh i feel like i need to change it to addition but like that won't work if i do addition 5 6 plus 6 is 12 so what can i do 5 6 7 wait no wait 5 6 7 Plus 6, shouldn't that work?5, 6, 7, 8, 9, 10, 11.No, is that not?Wait, 7, 8, 9, 10, 11, 12, 13.Wouldn't that work?Okay, let's see.1, 2, 3 is equal to 1, 2, 5.Wait, no, sorry.5, 6, 7 plus 5, How is that incorrect?I don't get it.I move one matchstick to make a plus sign.I don't know.Okay, let's see.I don't know if I'm gonna get this one. Unless I can do, no, I can't change the angle.Yeah, this one, I don't know.Don't know about this one at all.Five, six, seven, minus six.I don't know, I don't know, I don't know.",
+    "segments": [
+      {
+        "text": " Alright, so this one is 10, 11, 12, 13.",
+        "start": 0.942,
+        "end": 5.49
+      },
+      {
+        "text": "So we have 13 is equal to 5, 6, 7 minus 5, 6.",
+        "start": 5.51,
+        "end": 10.64
+      },
+      {
+        "text": "So that's incorrect because that equals 1.",
+        "start": 13.405,
+        "end": 19.035
+      },
+      {
+        "text": " We want it to equal 13.",
+        "start": 19.133,
+        "end": 20.856
+      },
+      {
+        "text": "Am I able to make it a plus?",
+        "start": 20.876,
+        "end": 23.961
+      },
+      {
+        "text": "Let's see, five, if I do six plus six, now that's 12.",
+        "start": 24.101,
+        "end": 30.191
+      },
+      {
+        "text": "Let's see, if I do six, five, six, wait, five, six, seven, eight.",
+        "start": 32.155,
+        "end": 39.166
+      },
+      {
+        "text": "Let's see, eight,",
+        "start": 42.011,
+        "end": 43.774
+      },
+      {
+        "text": " Plus 5, 9, 10, 11, 12, 13.",
+        "start": 45.256,
+        "end": 48.32
+      },
+      {
+        "text": "I want to say 8 plus 5, but then that would bring 8, 9, 10, 11, 12.",
+        "start": 49.081,
+        "end": 55.008
+      },
+      {
+        "text": "That would be moving.",
+        "start": 55.869,
+        "end": 56.79
+      },
+      {
+        "text": "I'm going to try it, but I think that would be incorrect because I would have to move two matchsticks, I think.",
+        "start": 56.85,
+        "end": 64.319
+      },
+      {
+        "text": "But let's try it.",
+        "start": 64.88,
+        "end": 65.821
+      },
+      {
+        "text": "Let's see if they say that's wrong.",
+        "start": 67.263,
+        "end": 69.205
+      },
+      {
+        "text": " I knew it.",
+        "start": 69.792,
+        "end": 71.414
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 71.434,
+        "end": 72.075
+      },
+      {
+        "text": "So if we want to move one matchstick... Hmm... This one is tricky.",
+        "start": 72.115,
+        "end": 78.983
+      },
+      {
+        "text": "Let's see... 5, 6... I mean, there's like no way I can do... 5, 6 plus... 6 is 12.",
+        "start": 79.003,
+        "end": 92.859
+      },
+      {
+        "text": "It's not 13.",
+        "start": 93.46,
+        "end": 94.621
+      },
+      {
+        "text": "Because this is 13.",
+        "start": 96.283,
+        "end": 97.385
+      },
+      {
+        "text": "Um... Hmm.",
+        "start": 98.406,
+        "end": 99.327
+      },
+      {
+        "text": " uh can i make this 10 let's see 10 11 12 minus what is this 6 12 minus 6 is 6 so it can't be that okay i can't do that um let's see i can't change the angle um",
+        "start": 101.635,
+        "end": 126.31
+      },
+      {
+        "text": " This one is really tricky.",
+        "start": 127.707,
+        "end": 128.952
+      },
+      {
+        "text": "I have no idea.",
+        "start": 128.972,
+        "end": 130.096
+      },
+      {
+        "text": "Um, let's just try this equals two, two plus",
+        "start": 130.116,
+        "end": 138.308
+      },
+      {
+        "text": " okay that's incorrect still so i really do not know for this one i really really really do not know i don't know let me see okay uh i feel like i need to change it to addition but like that won't work if i do addition 5 6 plus 6 is 12 so what can i do 5 6 7 wait no wait 5 6 7",
+        "start": 141.629,
+        "end": 171.13
+      },
+      {
+        "text": " Plus 6, shouldn't that work?",
+        "start": 172.325,
+        "end": 175.228
+      },
+      {
+        "text": "5, 6, 7, 8, 9, 10, 11.",
+        "start": 175.248,
+        "end": 178.691
+      },
+      {
+        "text": "No, is that not?",
+        "start": 178.711,
+        "end": 180.633
+      },
+      {
+        "text": "Wait, 7, 8, 9, 10, 11, 12, 13.",
+        "start": 180.653,
+        "end": 185.838
+      },
+      {
+        "text": "Wouldn't that work?",
+        "start": 185.858,
+        "end": 186.659
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 186.759,
+        "end": 188.741
+      },
+      {
+        "text": "1, 2, 3 is equal to 1, 2, 5.",
+        "start": 188.761,
+        "end": 192.064
+      },
+      {
+        "text": "Wait, no, sorry.",
+        "start": 193.726,
+        "end": 196.168
+      },
+      {
+        "text": "5, 6, 7 plus 5,",
+        "start": 196.188,
+        "end": 201.353
+      },
+      {
+        "text": " How is that incorrect?",
+        "start": 202.396,
+        "end": 203.439
+      },
+      {
+        "text": "I don't get it.",
+        "start": 203.639,
+        "end": 204.081
+      },
+      {
+        "text": "I move one matchstick to make a plus sign.",
+        "start": 204.101,
+        "end": 207.41
+      },
+      {
+        "text": "I don't know.",
+        "start": 207.43,
+        "end": 210.278
+      },
+      {
+        "text": "Okay, let's see.",
+        "start": 210.318,
+        "end": 211.842
+      },
+      {
+        "text": "I don't know if I'm gonna get this one.",
+        "start": 211.862,
+        "end": 217.317
+      },
+      {
+        "text": " Unless I can do, no, I can't change the angle.",
+        "start": 218.107,
+        "end": 221.555
+      },
+      {
+        "text": "Yeah, this one, I don't know.",
+        "start": 221.575,
+        "end": 228.171
+      },
+      {
+        "text": "Don't know about this one at all.",
+        "start": 228.231,
+        "end": 231.359
+      },
+      {
+        "text": "Five, six, seven, minus six.",
+        "start": 231.419,
+        "end": 234.827
+      },
+      {
+        "text": "I don't know, I don't know, I don't know.",
+        "start": 235.75,
+        "end": 239.659
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright, so this one is 10, 11, 12, 13. So we have 13 is equal to 5, 6, 7 minus 5, 6. So that's incorrect because that equals 1. We want it to equal 13. Am I able to make it a plus? Let's see, five, if I do six plus six, now that's 12. Let's see, if I do six, five, six, wait, five, six, seven, eight. Let's see, eight, Plus 5, 9, 10, 11, 12, 13. I want to say 8 plus 5, but then that would bring 8, 9, 10, 11, 12. That would be moving. I'm going to try it, but I think that would be incorrect because I would have to move two matchsticks, I think. But let's try it. Let's see if they say that's wrong. I knew it. Okay, let's see. So if we want to move one matchstick... Hmm... This one is tricky. Let's see... 5, 6... I mean, there's like no way I can do... 5, 6 plus... 6 is 12. It's not 13. Because this is 13. Um... Hmm. uh can i make this 10 let's see 10 11 12 minus what is this 6 12 minus 6 is 6 so it can't be that okay i can't do that um let's see i can't change the angle um This one is really tricky. I have no idea. Um, let's just try this equals two, two plus okay that's incorrect still so i really do not know for this one i really really really do not know i don't know let me see okay uh i feel like i need to change it to addition but like that won't work if i do addition 5 6 plus 6 is 12 so what can i do 5 6 7 wait no wait 5 6 7 Plus 6, shouldn't that work? 5, 6, 7, 8, 9, 10, 11. No, is that not? Wait, 7, 8, 9, 10, 11, 12, 13. Wouldn't that work? Okay, let's see. 1, 2, 3 is equal to 1, 2, 5. Wait, no, sorry. 5, 6, 7 plus 5, How is that incorrect? I don't get it. I move one matchstick to make a plus sign. I don't know. Okay, let's see. I don't know if I'm gonna get this one. Unless I can do, no, I can't change the angle. Yeah, this one, I don't know. Don't know about this one at all. Five, six, seven, minus six. I don't know, I don't know, I don't know."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "file": "data/recordings/sub_7b1a31a79a42/trial_2.wav",
+  "with_timestamps": {
+    "text": " four is equals to four plus four so four is equals to eight okay one matchstick only move one matchstick four is equals to eight what's the total 4 plus 8, 12 So each side needs to have 6 What do I need to make sure that each side has 6?4 is equal to 8 What do I need to make sure that each side has 6?6, 6 Six of V, I. So... It'll be 3, 3.Oh no!So confused. i don't know i don't know four plus four five six six is v i v i is equals to I've already moved my one matchstick IV 4 is equals to 4 plus 4 god why is this so hard oh wait is there an X okay I think I should be using the patterns provided in the answer instead of looking at the equation itself.Hopefully I'll be able to solve the third puzzle.",
+    "segments": [
+      {
+        "text": " four is equals to four plus four so four is equals to eight okay one matchstick only move one matchstick four is equals to eight what's the total",
+        "start": 3.338,
+        "end": 29.093
+      },
+      {
+        "text": " 4 plus 8, 12 So each side needs to have 6 What do I need to make sure that each side has 6?",
+        "start": 30.558,
+        "end": 42.735
+      },
+      {
+        "text": "4 is equal to 8 What do I need to make sure that each side has 6?",
+        "start": 42.755,
+        "end": 51.408
+      },
+      {
+        "text": "6, 6",
+        "start": 51.428,
+        "end": 58.658
+      },
+      {
+        "text": " Six of V, I. So... It'll be 3, 3.",
+        "start": 59.92,
+        "end": 77.782
+      },
+      {
+        "text": "Oh no!",
+        "start": 79.724,
+        "end": 84.59
+      },
+      {
+        "text": "So confused.",
+        "start": 84.61,
+        "end": 86.012
+      },
+      {
+        "text": " i don't know i don't know four plus four five six six is v i v i",
+        "start": 105.601,
+        "end": 130.478
+      },
+      {
+        "text": " is equals to I've already moved my one matchstick",
+        "start": 135.385,
+        "end": 149.142
+      },
+      {
+        "text": " IV 4 is equals to 4 plus 4 god why is this so hard oh wait is there an X okay I think",
+        "start": 201.198,
+        "end": 223.442
+      },
+      {
+        "text": " I should be using the patterns provided in the answer instead of looking at the equation itself.",
+        "start": 225.43,
+        "end": 235.242
+      },
+      {
+        "text": "Hopefully I'll be able to solve the third puzzle.",
+        "start": 236.767,
+        "end": 239.777
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " four is equals to four plus four so four is equals to eight okay one matchstick only move one matchstick four is equals to eight what's the total 4 plus 8, 12 So each side needs to have 6 What do I need to make sure that each side has 6? 4 is equal to 8 What do I need to make sure that each side has 6? 6, 6 Six of V, I. So... It'll be 3, 3. Oh no! So confused. i don't know i don't know four plus four five six six is v i v i is equals to I've already moved my one matchstick IV 4 is equals to 4 plus 4 god why is this so hard oh wait is there an X okay I think I should be using the patterns provided in the answer instead of looking at the equation itself. Hopefully I'll be able to solve the third puzzle."
+  }
+}

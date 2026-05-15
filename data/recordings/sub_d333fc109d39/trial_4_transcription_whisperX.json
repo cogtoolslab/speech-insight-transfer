@@ -1,0 +1,91 @@
+{
+  "file": "data/recordings/sub_d333fc109d39/trial_4.wav",
+  "with_timestamps": {
+    "text": " Alright.Puzzle number 4.9 equals 9 minus 2.So we could have 9... No, 4 minus 2.4 minus 2 is 3.4 minus 2 is 3.So we can just... 1, 2, 3. IV minus two.Let's see if this works.Incorrect.So, I can only move one match stick.Let's see.If we change the IV to six, No, I can only move one.Yeah, so 6.So it would be IV equals VI minus 2.",
+    "segments": [
+      {
+        "text": " Alright.",
+        "start": 0.453,
+        "end": 1.574
+      },
+      {
+        "text": "Puzzle number 4.",
+        "start": 1.594,
+        "end": 2.915
+      },
+      {
+        "text": "9 equals 9 minus 2.",
+        "start": 2.935,
+        "end": 7.48
+      },
+      {
+        "text": "So we could have 9... No, 4 minus 2.",
+        "start": 9.722,
+        "end": 13.105
+      },
+      {
+        "text": "4 minus 2 is 3.",
+        "start": 13.125,
+        "end": 16.949
+      },
+      {
+        "text": "4 minus 2 is 3.",
+        "start": 16.969,
+        "end": 21.093
+      },
+      {
+        "text": "So we can just... 1, 2, 3.",
+        "start": 22.214,
+        "end": 27.439
+      },
+      {
+        "text": " IV minus two.",
+        "start": 29.393,
+        "end": 31.937
+      },
+      {
+        "text": "Let's see if this works.",
+        "start": 31.957,
+        "end": 36.583
+      },
+      {
+        "text": "Incorrect.",
+        "start": 37.645,
+        "end": 38.345
+      },
+      {
+        "text": "So, I can only move one match stick.",
+        "start": 38.866,
+        "end": 43.813
+      },
+      {
+        "text": "Let's see.",
+        "start": 52.365,
+        "end": 52.846
+      },
+      {
+        "text": "If we change the IV to six,",
+        "start": 52.886,
+        "end": 57.392
+      },
+      {
+        "text": " No, I can only move one.",
+        "start": 60.14,
+        "end": 68.52
+      },
+      {
+        "text": "Yeah, so 6.",
+        "start": 68.54,
+        "end": 69.482
+      },
+      {
+        "text": "So it would be IV equals VI minus 2.",
+        "start": 70.525,
+        "end": 76.9
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Alright. Puzzle number 4. 9 equals 9 minus 2. So we could have 9... No, 4 minus 2. 4 minus 2 is 3. 4 minus 2 is 3. So we can just... 1, 2, 3. IV minus two. Let's see if this works. Incorrect. So, I can only move one match stick. Let's see. If we change the IV to six, No, I can only move one. Yeah, so 6. So it would be IV equals VI minus 2."
+  }
+}

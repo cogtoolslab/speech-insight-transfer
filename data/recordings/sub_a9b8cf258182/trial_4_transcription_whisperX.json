@@ -1,0 +1,211 @@
+{
+  "file": "data/recordings/sub_a9b8cf258182/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, for this one, I see that there is 9 to the left.9 is equal to 12 plus 4.12 plus 4 is 16, which is not equal to 9.So I need to see how I can move this around.So I need to get the left.Let me see here. If I were to take one of the eyes away, I'm just going to play around and see if I can get some different combinations.So what if I do x i, which is 11, is equal to, let's see here, Let's see, x plus 1.Let me see here.OK, x plus 1, 1 plus 1v.So there'll be 9.So this would be 11 is equal to 12 plus 4, which is 16.So that's still not correct.I'm going to change this back to 9. Or actually, yeah, I'm going to change this back to nine.I don't want to do too many steps at one time.Now, what if I change?No, because this is going to make this number higher.I need to make the left side larger.So what if I switched? The X moved one matchstick to the front of the X and then borrowed another matchstick from the right side.And let's try X1 plus 4. So that would give me 11 plus 4, which is 15, which is not equal to 12.What if we reverse the x and y on the right side plus 4. So that would give me 12 is equal to 9 plus 4, that's 13.So that's still not going to be balanced.What if I move one more matchstick over to the left? And let's try 9 plus 4.Let's look at me.No, I did this wrong.Let's see here.I have 1 here.And I borrow.OK.Yeah, I did that wrong.Let's just try x plus. Four.13 is equal to 10 plus four.That wouldn't give me the right, that's not balanced either.",
+    "segments": [
+      {
+        "text": " Okay, for this one, I see that there is 9 to the left.",
+        "start": 2.056,
+        "end": 7.043
+      },
+      {
+        "text": "9 is equal to 12 plus 4.",
+        "start": 8.465,
+        "end": 13.092
+      },
+      {
+        "text": "12 plus 4 is 16, which is not equal to 9.",
+        "start": 13.112,
+        "end": 17.438
+      },
+      {
+        "text": "So I need to see how I can move this around.",
+        "start": 19.0,
+        "end": 21.584
+      },
+      {
+        "text": "So I need to get the left.",
+        "start": 22.606,
+        "end": 26.531
+      },
+      {
+        "text": "Let me see here.",
+        "start": 26.571,
+        "end": 30.477
+      },
+      {
+        "text": " If I were to take one of the eyes away, I'm just going to play around and see if I can get some different combinations.",
+        "start": 33.359,
+        "end": 40.908
+      },
+      {
+        "text": "So what if I do x i, which is 11, is equal to, let's see here,",
+        "start": 41.949,
+        "end": 56.447
+      },
+      {
+        "text": " Let's see, x plus 1.",
+        "start": 57.862,
+        "end": 61.425
+      },
+      {
+        "text": "Let me see here.",
+        "start": 63.187,
+        "end": 63.767
+      },
+      {
+        "text": "OK, x plus 1, 1 plus 1v.",
+        "start": 66.79,
+        "end": 73.276
+      },
+      {
+        "text": "So there'll be 9.",
+        "start": 74.517,
+        "end": 75.538
+      },
+      {
+        "text": "So this would be 11 is equal to 12 plus 4, which is 16.",
+        "start": 75.858,
+        "end": 81.003
+      },
+      {
+        "text": "So that's still not correct.",
+        "start": 81.023,
+        "end": 83.525
+      },
+      {
+        "text": "I'm going to change this back to 9.",
+        "start": 84.326,
+        "end": 86.788
+      },
+      {
+        "text": " Or actually, yeah, I'm going to change this back to nine.",
+        "start": 89.165,
+        "end": 91.369
+      },
+      {
+        "text": "I don't want to do too many steps at one time.",
+        "start": 91.89,
+        "end": 93.873
+      },
+      {
+        "text": "Now, what if I change?",
+        "start": 96.658,
+        "end": 97.78
+      },
+      {
+        "text": "No, because this is going to make this number higher.",
+        "start": 98.461,
+        "end": 101.586
+      },
+      {
+        "text": "I need to make the left side larger.",
+        "start": 102.147,
+        "end": 104.271
+      },
+      {
+        "text": "So what if I switched?",
+        "start": 104.331,
+        "end": 111.223
+      },
+      {
+        "text": " The X moved one matchstick to the front of the X and then borrowed another matchstick from the right side.",
+        "start": 113.718,
+        "end": 123.471
+      },
+      {
+        "text": "And let's try X1 plus 4.",
+        "start": 123.511,
+        "end": 136.148
+      },
+      {
+        "text": " So that would give me 11 plus 4, which is 15, which is not equal to 12.",
+        "start": 138.575,
+        "end": 144.181
+      },
+      {
+        "text": "What if we reverse the x and y on the right side plus 4.",
+        "start": 148.786,
+        "end": 165.223
+      },
+      {
+        "text": " So that would give me 12 is equal to 9 plus 4, that's 13.",
+        "start": 166.334,
+        "end": 174.285
+      },
+      {
+        "text": "So that's still not going to be balanced.",
+        "start": 175.327,
+        "end": 177.269
+      },
+      {
+        "text": "What if I move one more matchstick over to the left?",
+        "start": 185.18,
+        "end": 195.615
+      },
+      {
+        "text": " And let's try 9 plus 4.",
+        "start": 196.962,
+        "end": 202.308
+      },
+      {
+        "text": "Let's look at me.",
+        "start": 202.349,
+        "end": 206.233
+      },
+      {
+        "text": "No, I did this wrong.",
+        "start": 212.461,
+        "end": 213.542
+      },
+      {
+        "text": "Let's see here.",
+        "start": 215.745,
+        "end": 216.385
+      },
+      {
+        "text": "I have 1 here.",
+        "start": 216.406,
+        "end": 217.206
+      },
+      {
+        "text": "And I borrow.",
+        "start": 217.227,
+        "end": 219.189
+      },
+      {
+        "text": "OK.",
+        "start": 219.409,
+        "end": 219.83
+      },
+      {
+        "text": "Yeah, I did that wrong.",
+        "start": 221.231,
+        "end": 222.052
+      },
+      {
+        "text": "Let's just try x plus.",
+        "start": 222.713,
+        "end": 225.096
+      },
+      {
+        "text": " Four.",
+        "start": 226.662,
+        "end": 227.184
+      },
+      {
+        "text": "13 is equal to 10 plus four.",
+        "start": 227.204,
+        "end": 235.088
+      },
+      {
+        "text": "That wouldn't give me the right, that's not balanced either.",
+        "start": 236.211,
+        "end": 239.22
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, for this one, I see that there is 9 to the left. 9 is equal to 12 plus 4. 12 plus 4 is 16, which is not equal to 9. So I need to see how I can move this around. So I need to get the left. Let me see here. If I were to take one of the eyes away, I'm just going to play around and see if I can get some different combinations. So what if I do x i, which is 11, is equal to, let's see here, Let's see, x plus 1. Let me see here. OK, x plus 1, 1 plus 1v. So there'll be 9. So this would be 11 is equal to 12 plus 4, which is 16. So that's still not correct. I'm going to change this back to 9. Or actually, yeah, I'm going to change this back to nine. I don't want to do too many steps at one time. Now, what if I change? No, because this is going to make this number higher. I need to make the left side larger. So what if I switched? The X moved one matchstick to the front of the X and then borrowed another matchstick from the right side. And let's try X1 plus 4. So that would give me 11 plus 4, which is 15, which is not equal to 12. What if we reverse the x and y on the right side plus 4. So that would give me 12 is equal to 9 plus 4, that's 13. So that's still not going to be balanced. What if I move one more matchstick over to the left? And let's try 9 plus 4. Let's look at me. No, I did this wrong. Let's see here. I have 1 here. And I borrow. OK. Yeah, I did that wrong. Let's just try x plus. Four. 13 is equal to 10 plus four. That wouldn't give me the right, that's not balanced either."
+  }
+}

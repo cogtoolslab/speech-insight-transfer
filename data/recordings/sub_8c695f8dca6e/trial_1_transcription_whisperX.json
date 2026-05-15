@@ -1,0 +1,231 @@
+{
+  "file": "data/recordings/sub_8c695f8dca6e/trial_1.wav",
+  "with_timestamps": {
+    "text": " Use the buttons below to report the correct version of the equation.We have 4.What the hell?Oh, OK.So 10, 14 minus plus equals.What the heck is this?Oh, that's OK.Try this again. 4 equals.So we have 6 equals 4 minus 2.So that's not right.5 equals... Okay.Let's see.We have 6 I am thinking out loud.Quit giving me reminders.We have, I just don't talk constantly because my mind is going blank.Six equals.So four minus two is two.So if we have only one matchstick we can move, five minus three is two.That's not right. What if we do 6 plus 2?Nope.5 equals 4.6 equals... Nope.That doesn't... We got 6 equals... So if we do this, that's not right.6 equals 4 minus 2.Well, 4 minus 2 is not right.Equals is not right.Plus... 6 equals 4 plus 2.So if it's the plus, 6 equals 4 plus 2.It's a mid-answer.That's not correct.OK.So 6 equals, oh, I think I have to put it in here. VI equals 6 equals IV plus 2.Submit.That's incorrect.OK, so that's not right.I have no idea what it would be.I've got 30 seconds left. have no clue so five what if we take six minus one equals five that's not right I need paper it would be easier to figure",
+    "segments": [
+      {
+        "text": " Use the buttons below to report the correct version of the equation.",
+        "start": 1.702,
+        "end": 6.688
+      },
+      {
+        "text": "We have 4.",
+        "start": 6.869,
+        "end": 8.11
+      },
+      {
+        "text": "What the hell?",
+        "start": 13.918,
+        "end": 14.879
+      },
+      {
+        "text": "Oh, OK.",
+        "start": 16.621,
+        "end": 17.502
+      },
+      {
+        "text": "So 10, 14 minus plus equals.",
+        "start": 17.602,
+        "end": 24.651
+      },
+      {
+        "text": "What the heck is this?",
+        "start": 25.773,
+        "end": 27.835
+      },
+      {
+        "text": "Oh, that's OK.",
+        "start": 29.417,
+        "end": 30.439
+      },
+      {
+        "text": "Try this again.",
+        "start": 30.959,
+        "end": 31.54
+      },
+      {
+        "text": " 4 equals.",
+        "start": 32.127,
+        "end": 33.269
+      },
+      {
+        "text": "So we have 6 equals 4 minus 2.",
+        "start": 35.392,
+        "end": 40.359
+      },
+      {
+        "text": "So that's not right.",
+        "start": 40.84,
+        "end": 42.081
+      },
+      {
+        "text": "5 equals... Okay.",
+        "start": 45.066,
+        "end": 54.78
+      },
+      {
+        "text": "Let's see.",
+        "start": 54.8,
+        "end": 56.122
+      },
+      {
+        "text": "We have 6",
+        "start": 58.225,
+        "end": 60.328
+      },
+      {
+        "text": " I am thinking out loud.",
+        "start": 63.278,
+        "end": 64.719
+      },
+      {
+        "text": "Quit giving me reminders.",
+        "start": 64.939,
+        "end": 66.261
+      },
+      {
+        "text": "We have, I just don't talk constantly because my mind is going blank.",
+        "start": 66.341,
+        "end": 75.809
+      },
+      {
+        "text": "Six equals.",
+        "start": 75.829,
+        "end": 78.091
+      },
+      {
+        "text": "So four minus two is two.",
+        "start": 78.111,
+        "end": 79.813
+      },
+      {
+        "text": "So if we have only one matchstick we can move, five minus three is two.",
+        "start": 79.853,
+        "end": 91.924
+      },
+      {
+        "text": "That's not right.",
+        "start": 91.984,
+        "end": 93.285
+      },
+      {
+        "text": " What if we do 6 plus 2?",
+        "start": 94.683,
+        "end": 104.094
+      },
+      {
+        "text": "Nope.",
+        "start": 107.639,
+        "end": 109.741
+      },
+      {
+        "text": "5 equals 4.",
+        "start": 109.761,
+        "end": 114.147
+      },
+      {
+        "text": "6 equals... Nope.",
+        "start": 114.167,
+        "end": 121.375
+      },
+      {
+        "text": "That doesn't...",
+        "start": 121.756,
+        "end": 122.817
+      },
+      {
+        "text": " We got 6 equals... So if we do this, that's not right.",
+        "start": 123.826,
+        "end": 133.279
+      },
+      {
+        "text": "6 equals 4 minus 2.",
+        "start": 133.299,
+        "end": 139.648
+      },
+      {
+        "text": "Well, 4 minus 2 is not right.",
+        "start": 139.948,
+        "end": 142.071
+      },
+      {
+        "text": "Equals is not right.",
+        "start": 144.054,
+        "end": 145.516
+      },
+      {
+        "text": "Plus...",
+        "start": 148.72,
+        "end": 150.222
+      },
+      {
+        "text": " 6 equals 4 plus 2.",
+        "start": 152.648,
+        "end": 156.031
+      },
+      {
+        "text": "So if it's the plus, 6 equals 4 plus 2.",
+        "start": 156.131,
+        "end": 167.561
+      },
+      {
+        "text": "It's a mid-answer.",
+        "start": 170.524,
+        "end": 171.384
+      },
+      {
+        "text": "That's not correct.",
+        "start": 171.845,
+        "end": 172.846
+      },
+      {
+        "text": "OK.",
+        "start": 173.086,
+        "end": 173.466
+      },
+      {
+        "text": "So 6 equals, oh, I think I have to put it in here.",
+        "start": 174.247,
+        "end": 181.373
+      },
+      {
+        "text": " VI equals 6 equals IV plus 2.",
+        "start": 183.445,
+        "end": 200.525
+      },
+      {
+        "text": "Submit.",
+        "start": 202.527,
+        "end": 203.609
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 203.629,
+        "end": 204.45
+      },
+      {
+        "text": "OK, so that's not right.",
+        "start": 204.99,
+        "end": 206.452
+      },
+      {
+        "text": "I have no idea what it would be.",
+        "start": 207.433,
+        "end": 210.397
+      },
+      {
+        "text": "I've got 30 seconds left.",
+        "start": 211.518,
+        "end": 213.3
+      },
+      {
+        "text": " have no clue so five what if we take six minus one equals five that's not right I need paper it would be easier to figure",
+        "start": 213.449,
+        "end": 239.895
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Use the buttons below to report the correct version of the equation. We have 4. What the hell? Oh, OK. So 10, 14 minus plus equals. What the heck is this? Oh, that's OK. Try this again. 4 equals. So we have 6 equals 4 minus 2. So that's not right. 5 equals... Okay. Let's see. We have 6 I am thinking out loud. Quit giving me reminders. We have, I just don't talk constantly because my mind is going blank. Six equals. So four minus two is two. So if we have only one matchstick we can move, five minus three is two. That's not right. What if we do 6 plus 2? Nope. 5 equals 4. 6 equals... Nope. That doesn't... We got 6 equals... So if we do this, that's not right. 6 equals 4 minus 2. Well, 4 minus 2 is not right. Equals is not right. Plus... 6 equals 4 plus 2. So if it's the plus, 6 equals 4 plus 2. It's a mid-answer. That's not correct. OK. So 6 equals, oh, I think I have to put it in here. VI equals 6 equals IV plus 2. Submit. That's incorrect. OK, so that's not right. I have no idea what it would be. I've got 30 seconds left. have no clue so five what if we take six minus one equals five that's not right I need paper it would be easier to figure"
+  }
+}

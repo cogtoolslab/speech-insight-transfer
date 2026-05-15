@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_2bb26305655f/trial_3.wav",
+  "with_timestamps": {
+    "text": " Okay, 3 equals 11 plus 9.So 11 plus 9 is 20.Sorry, that's my cats. So... Somehow I have to make the 3 into a 20.Um... What if I moved the i before the x?So it would be 11 plus 10.So that would be 21.And then... I was thinking I could move it over to the thing, but that would be 22. 22 does not equal 21.If I moved the 1 after the X, it would be 10 plus 9, 19, which I can't make. I could do 11 minus 9, and that would be 2, but I can't make it into a 2. So I'm out of ideas.I'm wondering if... No, I can't turn it into an axe. Um... So... Eleven... Minus nine equals two... 11 plus 10 is 21, which I can't make.I have no idea.",
+    "segments": [
+      {
+        "text": " Okay, 3 equals 11 plus 9.",
+        "start": 1.533,
+        "end": 6.363
+      },
+      {
+        "text": "So 11 plus 9 is 20.",
+        "start": 6.383,
+        "end": 11.072
+      },
+      {
+        "text": "Sorry, that's my cats.",
+        "start": 11.092,
+        "end": 22.815
+      },
+      {
+        "text": " So... Somehow I have to make the 3 into a 20.",
+        "start": 32.836,
+        "end": 41.099
+      },
+      {
+        "text": "Um...",
+        "start": 46.995,
+        "end": 47.757
+      },
+      {
+        "text": " What if I moved the i before the x?",
+        "start": 58.992,
+        "end": 67.564
+      },
+      {
+        "text": "So it would be 11 plus 10.",
+        "start": 68.485,
+        "end": 72.35
+      },
+      {
+        "text": "So that would be 21.",
+        "start": 75.314,
+        "end": 77.017
+      },
+      {
+        "text": "And then... I was thinking I could move it over to the thing, but that would be 22.",
+        "start": 77.037,
+        "end": 84.527
+      },
+      {
+        "text": " 22 does not equal 21.",
+        "start": 85.064,
+        "end": 86.667
+      },
+      {
+        "text": "If I moved the 1 after the X, it would be 10 plus 9, 19, which I can't make.",
+        "start": 86.707,
+        "end": 108.085
+      },
+      {
+        "text": " I could do 11 minus 9, and that would be 2, but I can't make it into a 2.",
+        "start": 116.738,
+        "end": 139.725
+      },
+      {
+        "text": " So I'm out of ideas.",
+        "start": 148.666,
+        "end": 162.264
+      },
+      {
+        "text": "I'm wondering if... No, I can't turn it into an axe.",
+        "start": 171.336,
+        "end": 176.783
+      },
+      {
+        "text": " Um... So... Eleven... Minus nine equals two...",
+        "start": 179.952,
+        "end": 209.065
+      },
+      {
+        "text": " 11 plus 10 is 21, which I can't make.",
+        "start": 221.212,
+        "end": 231.857
+      },
+      {
+        "text": "I have no idea.",
+        "start": 236.267,
+        "end": 237.229
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, 3 equals 11 plus 9. So 11 plus 9 is 20. Sorry, that's my cats. So... Somehow I have to make the 3 into a 20. Um... What if I moved the i before the x? So it would be 11 plus 10. So that would be 21. And then... I was thinking I could move it over to the thing, but that would be 22. 22 does not equal 21. If I moved the 1 after the X, it would be 10 plus 9, 19, which I can't make. I could do 11 minus 9, and that would be 2, but I can't make it into a 2. So I'm out of ideas. I'm wondering if... No, I can't turn it into an axe. Um... So... Eleven... Minus nine equals two... 11 plus 10 is 21, which I can't make. I have no idea."
+  }
+}

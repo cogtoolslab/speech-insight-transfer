@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_83928208bd4f/trial_4.wav",
+  "with_timestamps": {
+    "text": " Okay, we're moving on to the next puzzle.This is puzzle four of five.On the left-hand side, we have a sentence behind us.Six equals six plus one.So right away we know that there is a difference of one.Let's see if we could move 1, 2, let's see, let's think.So I feel like we have to leave, we could remove the 1, but that doesn't make any sense because it's going to make one of these bigger.And we'll still have the plus sign.Making it a minus sign, we could maybe move the minus match over and have this be 7 minus 1.I think that might be it.Let's try it. equals Vii minus 1.",
+    "segments": [
+      {
+        "text": " Okay, we're moving on to the next puzzle.",
+        "start": 0.233,
+        "end": 1.975
+      },
+      {
+        "text": "This is puzzle four of five.",
+        "start": 2.015,
+        "end": 3.357
+      },
+      {
+        "text": "On the left-hand side, we have a sentence behind us.",
+        "start": 3.877,
+        "end": 10.865
+      },
+      {
+        "text": "Six equals six plus one.",
+        "start": 11.126,
+        "end": 13.969
+      },
+      {
+        "text": "So right away we know that there is a difference of one.",
+        "start": 14.029,
+        "end": 17.453
+      },
+      {
+        "text": "Let's see if we could move",
+        "start": 20.456,
+        "end": 23.76
+      },
+      {
+        "text": " 1, 2, let's see, let's think.",
+        "start": 28.516,
+        "end": 32.02
+      },
+      {
+        "text": "So I feel like we have to leave, we could remove the 1, but that doesn't make any sense because it's going to make one of these bigger.",
+        "start": 32.801,
+        "end": 40.169
+      },
+      {
+        "text": "And we'll still have the plus sign.",
+        "start": 41.21,
+        "end": 42.512
+      },
+      {
+        "text": "Making it a minus sign, we could maybe move the minus match over and have this be 7 minus 1.",
+        "start": 42.572,
+        "end": 52.563
+      },
+      {
+        "text": "I think that might be it.",
+        "start": 52.583,
+        "end": 54.045
+      },
+      {
+        "text": "Let's try it.",
+        "start": 54.485,
+        "end": 55.266
+      },
+      {
+        "text": " equals Vii minus 1.",
+        "start": 56.461,
+        "end": 62.134
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, we're moving on to the next puzzle. This is puzzle four of five. On the left-hand side, we have a sentence behind us. Six equals six plus one. So right away we know that there is a difference of one. Let's see if we could move 1, 2, let's see, let's think. So I feel like we have to leave, we could remove the 1, but that doesn't make any sense because it's going to make one of these bigger. And we'll still have the plus sign. Making it a minus sign, we could maybe move the minus match over and have this be 7 minus 1. I think that might be it. Let's try it. equals Vii minus 1."
+  }
+}

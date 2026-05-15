@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_805570755bc1/trial_5.wav",
+  "with_timestamps": {
+    "text": " Following the same theme, it'd be 13 minus 9 equals 4.Got it.OK, now it makes sense.13 minus 4 equals 9.",
+    "segments": [
+      {
+        "text": " Following the same theme, it'd be 13 minus 9 equals 4.",
+        "start": 1.87,
+        "end": 7.258
+      },
+      {
+        "text": "Got it.",
+        "start": 8.36,
+        "end": 8.74
+      },
+      {
+        "text": "OK, now it makes sense.",
+        "start": 9.521,
+        "end": 10.443
+      },
+      {
+        "text": "13 minus 4 equals 9.",
+        "start": 10.503,
+        "end": 21.499
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Following the same theme, it'd be 13 minus 9 equals 4. Got it. OK, now it makes sense. 13 minus 4 equals 9."
+  }
+}

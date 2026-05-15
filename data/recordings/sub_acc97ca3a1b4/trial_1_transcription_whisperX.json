@@ -1,0 +1,136 @@
+{
+  "file": "data/recordings/sub_acc97ca3a1b4/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, first I would interpret what I see.So I say 3 equals 10, 11 minus 3.So I think I want it to be 6 minus 3. okay 10 minus 4 so what I would do is I'm talking what I would do is use the button for the correct version so it would be 3 equals I need to put a space there.Ten, I'm sorry, 3 equals 10 minus 1, 2, 3, 4.Submit.That's incorrect.How is that incorrect?Oh, 3.I'm sorry. So it's not, okay, I'm sorry.So three equals one X. So that's nine minus, that's not right either.Okay, I'm confused.Three, that's not right either.I thought you said, Oh, I see.Okay.1, 2, 3.I didn't know I could change what's there.So, okay.I got it.I got it.1, 2, 3 equals V1 minus 1, 2, 3.So, I can change one that's already there.",
+    "segments": [
+      {
+        "text": " Okay, first I would interpret what I see.",
+        "start": 1.381,
+        "end": 3.583
+      },
+      {
+        "text": "So I say 3 equals 10, 11 minus 3.",
+        "start": 4.144,
+        "end": 11.17
+      },
+      {
+        "text": "So I think I want it to be 6 minus 3.",
+        "start": 13.172,
+        "end": 28.806
+      },
+      {
+        "text": " okay 10 minus 4 so what I would do is I'm talking what I would do is use the button for the correct version so it would be 3 equals",
+        "start": 37.325,
+        "end": 60.649
+      },
+      {
+        "text": " I need to put a space there.",
+        "start": 64.19,
+        "end": 66.192
+      },
+      {
+        "text": "Ten, I'm sorry, 3 equals 10 minus 1, 2, 3, 4.",
+        "start": 66.753,
+        "end": 78.807
+      },
+      {
+        "text": "Submit.",
+        "start": 82.192,
+        "end": 82.652
+      },
+      {
+        "text": "That's incorrect.",
+        "start": 84.254,
+        "end": 85.415
+      },
+      {
+        "text": "How is that incorrect?",
+        "start": 86.797,
+        "end": 88.319
+      },
+      {
+        "text": "Oh, 3.",
+        "start": 90.862,
+        "end": 91.523
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 91.943,
+        "end": 92.644
+      },
+      {
+        "text": " So it's not, okay, I'm sorry.",
+        "start": 94.413,
+        "end": 96.295
+      },
+      {
+        "text": "So three equals one X. So that's nine minus, that's not right either.",
+        "start": 96.795,
+        "end": 115.494
+      },
+      {
+        "text": "Okay, I'm confused.",
+        "start": 115.514,
+        "end": 116.835
+      },
+      {
+        "text": "Three, that's not right either.",
+        "start": 117.036,
+        "end": 120.459
+      },
+      {
+        "text": "I thought you said,",
+        "start": 122.481,
+        "end": 123.542
+      },
+      {
+        "text": " Oh, I see.",
+        "start": 126.239,
+        "end": 127.5
+      },
+      {
+        "text": "Okay.",
+        "start": 128.081,
+        "end": 128.481
+      },
+      {
+        "text": "1, 2, 3.",
+        "start": 128.501,
+        "end": 130.764
+      },
+      {
+        "text": "I didn't know I could change what's there.",
+        "start": 131.264,
+        "end": 134.528
+      },
+      {
+        "text": "So, okay.",
+        "start": 134.648,
+        "end": 135.369
+      },
+      {
+        "text": "I got it.",
+        "start": 135.489,
+        "end": 135.869
+      },
+      {
+        "text": "I got it.",
+        "start": 135.929,
+        "end": 136.31
+      },
+      {
+        "text": "1, 2, 3 equals V1 minus 1, 2, 3.",
+        "start": 136.33,
+        "end": 149.004
+      },
+      {
+        "text": "So, I can change one that's already there.",
+        "start": 149.124,
+        "end": 152.247
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, first I would interpret what I see. So I say 3 equals 10, 11 minus 3. So I think I want it to be 6 minus 3. okay 10 minus 4 so what I would do is I'm talking what I would do is use the button for the correct version so it would be 3 equals I need to put a space there. Ten, I'm sorry, 3 equals 10 minus 1, 2, 3, 4. Submit. That's incorrect. How is that incorrect? Oh, 3. I'm sorry. So it's not, okay, I'm sorry. So three equals one X. So that's nine minus, that's not right either. Okay, I'm confused. Three, that's not right either. I thought you said, Oh, I see. Okay. 1, 2, 3. I didn't know I could change what's there. So, okay. I got it. I got it. 1, 2, 3 equals V1 minus 1, 2, 3. So, I can change one that's already there."
+  }
+}

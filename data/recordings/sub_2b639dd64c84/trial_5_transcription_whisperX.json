@@ -1,0 +1,106 @@
+{
+  "file": "data/recordings/sub_2b639dd64c84/trial_5.wav",
+  "with_timestamps": {
+    "text": " Nine. Let's see, 2 plus 4.6, 7, 8.2 minus, oh wait, 2. plus four equals six.Okay.Two equals six. 5 plus 2 equals 8.7 equals 2 plus 5 7 equals 2 plus Seven.Five plus two or something plus something.Maybe speak a little loud.I don't like to think loud.So distracting. 7 plus 5 equals 12.Nope.Of course not. 7 plus 5, 7 plus 4, 7.",
+    "segments": [
+      {
+        "text": " Nine.",
+        "start": 11.557,
+        "end": 14.142
+      },
+      {
+        "text": " Let's see, 2 plus 4.",
+        "start": 46.471,
+        "end": 48.353
+      },
+      {
+        "text": "6, 7, 8.",
+        "start": 48.373,
+        "end": 59.486
+      },
+      {
+        "text": "2 minus, oh wait, 2.",
+        "start": 59.506,
+        "end": 72.681
+      },
+      {
+        "text": " plus four equals six.",
+        "start": 79.276,
+        "end": 87.145
+      },
+      {
+        "text": "Okay.",
+        "start": 95.974,
+        "end": 102.281
+      },
+      {
+        "text": "Two equals six.",
+        "start": 102.301,
+        "end": 105.705
+      },
+      {
+        "text": " 5 plus 2 equals 8.",
+        "start": 108.52,
+        "end": 123.635
+      },
+      {
+        "text": "7 equals 2 plus",
+        "start": 129.02,
+        "end": 138.409
+      },
+      {
+        "text": " 5 7 equals 2 plus",
+        "start": 142.625,
+        "end": 167.265
+      },
+      {
+        "text": " Seven.",
+        "start": 173.422,
+        "end": 174.063
+      },
+      {
+        "text": "Five plus two or something plus something.",
+        "start": 174.083,
+        "end": 186.74
+      },
+      {
+        "text": "Maybe speak a little loud.",
+        "start": 186.78,
+        "end": 192.468
+      },
+      {
+        "text": "I don't like to think loud.",
+        "start": 192.488,
+        "end": 193.59
+      },
+      {
+        "text": "So distracting.",
+        "start": 193.63,
+        "end": 198.096
+      },
+      {
+        "text": " 7 plus 5 equals 12.",
+        "start": 203.307,
+        "end": 214.063
+      },
+      {
+        "text": "Nope.",
+        "start": 214.083,
+        "end": 217.588
+      },
+      {
+        "text": "Of course not.",
+        "start": 217.608,
+        "end": 229.045
+      },
+      {
+        "text": " 7 plus 5, 7 plus 4, 7.",
+        "start": 229.97,
+        "end": 243.338
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Nine. Let's see, 2 plus 4. 6, 7, 8. 2 minus, oh wait, 2. plus four equals six. Okay. Two equals six. 5 plus 2 equals 8. 7 equals 2 plus 5 7 equals 2 plus Seven. Five plus two or something plus something. Maybe speak a little loud. I don't like to think loud. So distracting. 7 plus 5 equals 12. Nope. Of course not. 7 plus 5, 7 plus 4, 7."
+  }
+}

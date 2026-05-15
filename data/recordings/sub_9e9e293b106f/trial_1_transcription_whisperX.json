@@ -1,0 +1,76 @@
+{
+  "file": "data/recordings/sub_9e9e293b106f/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so I can only move one.So right now it says 3 equals 4 minus, wait, 3 equals 9 minus 4.So that's obviously not right.So I would need to, if I change it, if I go and change one, So would I need to, hmm.So if I move the, that would be 11 minus four.That wouldn't be right if I moved those.But what if I moved this to here? That would be six, nine minus six.So yes, that would work.So I'm going to, I gotta write it out the same.So we're gonna leave these the same.And then we're just gonna switch this.",
+    "segments": [
+      {
+        "text": " Okay, so I can only move one.",
+        "start": 2.36,
+        "end": 4.523
+      },
+      {
+        "text": "So right now it says 3 equals 4 minus, wait, 3 equals 9 minus 4.",
+        "start": 4.963,
+        "end": 21.984
+      },
+      {
+        "text": "So that's obviously not right.",
+        "start": 22.645,
+        "end": 24.207
+      },
+      {
+        "text": "So I would need to, if I change it, if I go and change one,",
+        "start": 25.448,
+        "end": 31.776
+      },
+      {
+        "text": " So would I need to, hmm.",
+        "start": 34.0,
+        "end": 35.602
+      },
+      {
+        "text": "So if I move the, that would be 11 minus four.",
+        "start": 35.622,
+        "end": 51.658
+      },
+      {
+        "text": "That wouldn't be right if I moved those.",
+        "start": 51.698,
+        "end": 53.62
+      },
+      {
+        "text": "But what if I moved this to here?",
+        "start": 53.7,
+        "end": 60.447
+      },
+      {
+        "text": " That would be six, nine minus six.",
+        "start": 62.941,
+        "end": 68.073
+      },
+      {
+        "text": "So yes, that would work.",
+        "start": 68.093,
+        "end": 69.335
+      },
+      {
+        "text": "So I'm going to, I gotta write it out the same.",
+        "start": 69.997,
+        "end": 75.57
+      },
+      {
+        "text": "So we're gonna leave these the same.",
+        "start": 75.63,
+        "end": 85.171
+      },
+      {
+        "text": "And then we're just gonna switch this.",
+        "start": 85.191,
+        "end": 90.383
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so I can only move one. So right now it says 3 equals 4 minus, wait, 3 equals 9 minus 4. So that's obviously not right. So I would need to, if I change it, if I go and change one, So would I need to, hmm. So if I move the, that would be 11 minus four. That wouldn't be right if I moved those. But what if I moved this to here? That would be six, nine minus six. So yes, that would work. So I'm going to, I gotta write it out the same. So we're gonna leave these the same. And then we're just gonna switch this."
+  }
+}

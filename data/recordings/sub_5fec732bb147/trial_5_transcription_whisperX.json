@@ -1,0 +1,21 @@
+{
+  "file": "data/recordings/sub_5fec732bb147/trial_5.wav",
+  "with_timestamps": {
+    "text": " 2 equals 11 minus 7, that's 4.Okay, change it to 9 minus 7.",
+    "segments": [
+      {
+        "text": " 2 equals 11 minus 7, that's 4.",
+        "start": 1.482,
+        "end": 5.718
+      },
+      {
+        "text": "Okay, change it to 9 minus 7.",
+        "start": 5.738,
+        "end": 11.34
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 2 equals 11 minus 7, that's 4. Okay, change it to 9 minus 7."
+  }
+}

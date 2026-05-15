@@ -1,0 +1,141 @@
+{
+  "file": "data/recordings/sub_a99f3e5979de/trial_1.wav",
+  "with_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct.What is the final equation?Hmm.So what, let me move some things around for a sec.Okay.Hmm.So it's saying two equals 11 minus Seven?Yeah, that's definitely not right.How would I move that around?How would I move that around?Hmm.Hmm. Use the buttons below to report the correct version of the equation.Well, I could, because right now it's incorrect, I could do 2 equals 10 minus 8, right?I think.I'm taking the 1 from the xi, and I'm moving it to the end of And that makes it 8.And 2 equals 10 minus 8 can be reduced to 2 equals 2, which is correct.I think that's correct.Yeah, that's correct.I think, yeah.So what I did is I took the 1 from x, and I moved it to the end of 7, made it 8.And that is 2 equals 10 minus 8 equals.And in the end, that reduces down to 2 equals 2, which is correct.",
+    "segments": [
+      {
+        "text": " You can only move one matchstick to make this equation correct.",
+        "start": 2.242,
+        "end": 5.706
+      },
+      {
+        "text": "What is the final equation?",
+        "start": 6.607,
+        "end": 8.93
+      },
+      {
+        "text": "Hmm.",
+        "start": 9.991,
+        "end": 10.192
+      },
+      {
+        "text": "So what, let me move some things around for a sec.",
+        "start": 12.514,
+        "end": 15.077
+      },
+      {
+        "text": "Okay.",
+        "start": 17.821,
+        "end": 18.882
+      },
+      {
+        "text": "Hmm.",
+        "start": 20.824,
+        "end": 21.004
+      },
+      {
+        "text": "So it's saying two equals 11 minus",
+        "start": 23.247,
+        "end": 29.835
+      },
+      {
+        "text": " Seven?",
+        "start": 33.494,
+        "end": 33.934
+      },
+      {
+        "text": "Yeah, that's definitely not right.",
+        "start": 36.778,
+        "end": 38.78
+      },
+      {
+        "text": "How would I move that around?",
+        "start": 41.323,
+        "end": 42.644
+      },
+      {
+        "text": "How would I move that around?",
+        "start": 44.826,
+        "end": 46.768
+      },
+      {
+        "text": "Hmm.",
+        "start": 46.808,
+        "end": 60.043
+      },
+      {
+        "text": "Hmm.",
+        "start": 60.063,
+        "end": 60.143
+      },
+      {
+        "text": " Use the buttons below to report the correct version of the equation.",
+        "start": 77.74,
+        "end": 80.985
+      },
+      {
+        "text": "Well, I could, because right now it's incorrect, I could do",
+        "start": 87.476,
+        "end": 102.702
+      },
+      {
+        "text": " 2 equals 10 minus 8, right?",
+        "start": 104.352,
+        "end": 118.89
+      },
+      {
+        "text": "I think.",
+        "start": 119.651,
+        "end": 121.574
+      },
+      {
+        "text": "I'm taking the 1 from the xi, and I'm moving it to the end of",
+        "start": 121.614,
+        "end": 132.267
+      },
+      {
+        "text": " And that makes it 8.",
+        "start": 132.787,
+        "end": 134.431
+      },
+      {
+        "text": "And 2 equals 10 minus 8 can be reduced to 2 equals 2, which is correct.",
+        "start": 135.894,
+        "end": 140.944
+      },
+      {
+        "text": "I think that's correct.",
+        "start": 145.534,
+        "end": 147.739
+      },
+      {
+        "text": "Yeah, that's correct.",
+        "start": 147.759,
+        "end": 148.28
+      },
+      {
+        "text": "I think, yeah.",
+        "start": 148.4,
+        "end": 149.322
+      },
+      {
+        "text": "So what I did is I took the 1 from x, and I moved it to the end of 7, made it 8.",
+        "start": 149.342,
+        "end": 154.333
+      },
+      {
+        "text": "And that is 2 equals 10 minus 8 equals.",
+        "start": 155.075,
+        "end": 159.504
+      },
+      {
+        "text": "And in the end, that reduces down to 2 equals 2, which is correct.",
+        "start": 159.664,
+        "end": 162.27
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " You can only move one matchstick to make this equation correct. What is the final equation? Hmm. So what, let me move some things around for a sec. Okay. Hmm. So it's saying two equals 11 minus Seven? Yeah, that's definitely not right. How would I move that around? How would I move that around? Hmm. Hmm. Use the buttons below to report the correct version of the equation. Well, I could, because right now it's incorrect, I could do 2 equals 10 minus 8, right? I think. I'm taking the 1 from the xi, and I'm moving it to the end of And that makes it 8. And 2 equals 10 minus 8 can be reduced to 2 equals 2, which is correct. I think that's correct. Yeah, that's correct. I think, yeah. So what I did is I took the 1 from x, and I moved it to the end of 7, made it 8. And that is 2 equals 10 minus 8 equals. And in the end, that reduces down to 2 equals 2, which is correct."
+  }
+}

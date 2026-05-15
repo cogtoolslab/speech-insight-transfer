@@ -1,0 +1,96 @@
+{
+  "file": "data/recordings/sub_2da66fc4fcdb/trial_2.wav",
+  "with_timestamps": {
+    "text": " Okay, so 6, 7 is equal to 10, 11, 12 plus 6.5, 6, 7 is equal to 10, 11, 12 minus. 12 minus 6, 7.10, 11, 12.Plus 5, 6.6 is 18. Minus 6.12 minus 6.No.I didn't read.10.10.11.Plus 5. 11 plus 5 11 plus 6 I have no idea 7 is equal to 11 plus 5 ok so if I could 5, 6, 7 2 x would be 8 minus x 10 12 6 minus 8 oh shit hmm 7 is equal to 1112 minus 1e",
+    "segments": [
+      {
+        "text": " Okay, so 6, 7 is equal to 10, 11, 12 plus 6.",
+        "start": 0.031,
+        "end": 7.259
+      },
+      {
+        "text": "5, 6, 7 is equal to 10, 11, 12 minus.",
+        "start": 7.279,
+        "end": 27.321
+      },
+      {
+        "text": " 12 minus 6, 7.",
+        "start": 41.527,
+        "end": 44.913
+      },
+      {
+        "text": "10, 11, 12.",
+        "start": 44.933,
+        "end": 50.642
+      },
+      {
+        "text": "Plus 5, 6.",
+        "start": 55.971,
+        "end": 61.981
+      },
+      {
+        "text": "6 is 18.",
+        "start": 62.001,
+        "end": 65.307
+      },
+      {
+        "text": " Minus 6.",
+        "start": 74.348,
+        "end": 78.274
+      },
+      {
+        "text": "12 minus 6.",
+        "start": 78.294,
+        "end": 84.384
+      },
+      {
+        "text": "No.",
+        "start": 84.404,
+        "end": 86.407
+      },
+      {
+        "text": "I didn't read.",
+        "start": 86.427,
+        "end": 87.068
+      },
+      {
+        "text": "10.",
+        "start": 87.088,
+        "end": 89.892
+      },
+      {
+        "text": "10.",
+        "start": 89.912,
+        "end": 95.501
+      },
+      {
+        "text": "11.",
+        "start": 96.182,
+        "end": 96.763
+      },
+      {
+        "text": "Plus 5.",
+        "start": 98.225,
+        "end": 101.47
+      },
+      {
+        "text": " 11 plus 5 11 plus 6 I have no idea 7 is equal to 11 plus 5 ok so if I could 5, 6, 7",
+        "start": 138.372,
+        "end": 167.991
+      },
+      {
+        "text": " 2 x would be 8 minus x 10 12 6 minus 8 oh shit hmm",
+        "start": 169.658,
+        "end": 199.328
+      },
+      {
+        "text": " 7 is equal to 1112 minus 1e",
+        "start": 212.453,
+        "end": 230.749
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so 6, 7 is equal to 10, 11, 12 plus 6. 5, 6, 7 is equal to 10, 11, 12 minus. 12 minus 6, 7. 10, 11, 12. Plus 5, 6. 6 is 18. Minus 6. 12 minus 6. No. I didn't read. 10. 10. 11. Plus 5. 11 plus 5 11 plus 6 I have no idea 7 is equal to 11 plus 5 ok so if I could 5, 6, 7 2 x would be 8 minus x 10 12 6 minus 8 oh shit hmm 7 is equal to 1112 minus 1e"
+  }
+}

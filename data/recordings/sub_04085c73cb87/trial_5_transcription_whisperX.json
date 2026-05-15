@@ -1,0 +1,126 @@
+{
+  "file": "data/recordings/sub_04085c73cb87/trial_5.wav",
+  "with_timestamps": {
+    "text": " All right, last one.We have four equals 11 minus two.11 plus two. We can only move one match to make this equation correct.So we have 10 plus 2 equals 4.No.9 minus 2 equals 7.No. 11 minus 10 equals what?Equals 1.11 plus 2 equals 2.11 minus 10. 5, 11, minus 9, 2.So 2 equals 11 minus 9. incorrect 2 equals 11 minus 2 9 11 minus 9 I said incorrect so you have 11 minus 9 equals 2.That's also correct.What do we have?We have 9, 11, minus 2 equals 9.All right.9. 11.Minus two.",
+    "segments": [
+      {
+        "text": " All right, last one.",
+        "start": 0.352,
+        "end": 1.414
+      },
+      {
+        "text": "We have four equals 11 minus two.",
+        "start": 2.496,
+        "end": 8.185
+      },
+      {
+        "text": "11 plus two.",
+        "start": 8.205,
+        "end": 19.103
+      },
+      {
+        "text": " We can only move one match to make this equation correct.",
+        "start": 29.647,
+        "end": 38.538
+      },
+      {
+        "text": "So we have 10 plus 2 equals 4.",
+        "start": 38.558,
+        "end": 43.804
+      },
+      {
+        "text": "No.",
+        "start": 43.985,
+        "end": 44.305
+      },
+      {
+        "text": "9 minus 2 equals 7.",
+        "start": 48.49,
+        "end": 52.535
+      },
+      {
+        "text": "No.",
+        "start": 53.296,
+        "end": 54.237
+      },
+      {
+        "text": " 11 minus 10 equals what?",
+        "start": 57.203,
+        "end": 64.974
+      },
+      {
+        "text": "Equals 1.",
+        "start": 66.236,
+        "end": 66.737
+      },
+      {
+        "text": "11 plus 2 equals 2.",
+        "start": 66.757,
+        "end": 76.991
+      },
+      {
+        "text": "11 minus 10.",
+        "start": 77.011,
+        "end": 84.342
+      },
+      {
+        "text": " 5, 11, minus 9, 2.",
+        "start": 89.283,
+        "end": 106.007
+      },
+      {
+        "text": "So 2 equals 11 minus 9.",
+        "start": 109.412,
+        "end": 117.383
+      },
+      {
+        "text": " incorrect 2 equals 11 minus 2 9 11 minus 9 I said incorrect so you have 11",
+        "start": 120.502,
+        "end": 148.669
+      },
+      {
+        "text": " minus 9 equals 2.",
+        "start": 149.847,
+        "end": 155.696
+      },
+      {
+        "text": "That's also correct.",
+        "start": 160.243,
+        "end": 162.086
+      },
+      {
+        "text": "What do we have?",
+        "start": 162.687,
+        "end": 163.929
+      },
+      {
+        "text": "We have 9, 11, minus 2 equals 9.",
+        "start": 163.949,
+        "end": 172.502
+      },
+      {
+        "text": "All right.",
+        "start": 172.522,
+        "end": 172.722
+      },
+      {
+        "text": "9.",
+        "start": 175.687,
+        "end": 176.007
+      },
+      {
+        "text": " 11.",
+        "start": 182.905,
+        "end": 204.398
+      },
+      {
+        "text": "Minus two.",
+        "start": 204.418,
+        "end": 207.445
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " All right, last one. We have four equals 11 minus two. 11 plus two. We can only move one match to make this equation correct. So we have 10 plus 2 equals 4. No. 9 minus 2 equals 7. No. 11 minus 10 equals what? Equals 1. 11 plus 2 equals 2. 11 minus 10. 5, 11, minus 9, 2. So 2 equals 11 minus 9. incorrect 2 equals 11 minus 2 9 11 minus 9 I said incorrect so you have 11 minus 9 equals 2. That's also correct. What do we have? We have 9, 11, minus 2 equals 9. All right. 9. 11. Minus two."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "file": "data/recordings/sub_c952a2e899e0/trial_2.wav",
+  "with_timestamps": {
+    "text": " So puzzle 2 of 5 can only move one matchstick.So the equation shows 4 equals 4 minus 2.So if we change that to from the second 4, we change that to 6. minus 2 that would equal 4 so let's write in the equation 4 equals we're going to move this matchstick over so instead of 4 it's 6 minus 2 equals equals 4 so 4 equals 6 minus 2",
+    "segments": [
+      {
+        "text": " So puzzle 2 of 5 can only move one matchstick.",
+        "start": 2.14,
+        "end": 5.425
+      },
+      {
+        "text": "So the equation shows 4 equals 4 minus 2.",
+        "start": 6.367,
+        "end": 13.879
+      },
+      {
+        "text": "So if we change that to from the second 4, we change that to 6.",
+        "start": 16.803,
+        "end": 26.038
+      },
+      {
+        "text": " minus 2 that would equal 4 so let's write in the equation 4 equals we're going to move this matchstick over so instead of 4 it's 6 minus 2 equals equals 4 so 4 equals 6 minus 2",
+        "start": 28.769,
+        "end": 54.591
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " So puzzle 2 of 5 can only move one matchstick. So the equation shows 4 equals 4 minus 2. So if we change that to from the second 4, we change that to 6. minus 2 that would equal 4 so let's write in the equation 4 equals we're going to move this matchstick over so instead of 4 it's 6 minus 2 equals equals 4 so 4 equals 6 minus 2"
+  }
+}

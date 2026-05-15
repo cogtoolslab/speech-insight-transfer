@@ -1,0 +1,236 @@
+{
+  "file": "data/recordings/sub_aee5b49a860d/trial_3.wav",
+  "with_timestamps": {
+    "text": " 3 equals 10.11 minus 3?No.That's not it.So 13 equals 1 minus 3?No.11. What the fuck?2 equals 11 minus 3.What?13 equals 11 plus 3?Wait, wait, wait.3 minus 11, 8, 5.3 minus 11 equals 3.OK, no.1, 2, 13 equals 1. Minus three.No, dude.God damn it.Negative three.What the fuck?This is crazy.Jesus Christ, man.What the fuck?I don't know what to do, dude.Twelve.I cannot figure this out.I'm sorry.I can't.I don't know what to do. This is fucking sad.I can't believe I can't do this.This is fucking sad.This is really sad, dude.4 equals 10 minus 3?No, fuck.Goddamn, I don't know. T-plus?This is impossible!What?What the fuck? oh wait wait wait wait four equals wait wait wait wait minus wait wait wait three equals God damn it.God damn it What this is hard",
+    "segments": [
+      {
+        "text": " 3 equals 10.",
+        "start": 4.874,
+        "end": 6.877
+      },
+      {
+        "text": "11 minus 3?",
+        "start": 6.897,
+        "end": 10.243
+      },
+      {
+        "text": "No.",
+        "start": 10.884,
+        "end": 11.144
+      },
+      {
+        "text": "That's not it.",
+        "start": 13.127,
+        "end": 19.317
+      },
+      {
+        "text": "So 13 equals 1 minus 3?",
+        "start": 19.337,
+        "end": 23.644
+      },
+      {
+        "text": "No.",
+        "start": 24.225,
+        "end": 24.586
+      },
+      {
+        "text": "11.",
+        "start": 24.606,
+        "end": 31.557
+      },
+      {
+        "text": " What the fuck?",
+        "start": 36.616,
+        "end": 41.644
+      },
+      {
+        "text": "2 equals 11 minus 3.",
+        "start": 41.664,
+        "end": 46.071
+      },
+      {
+        "text": "What?",
+        "start": 48.575,
+        "end": 48.956
+      },
+      {
+        "text": "13 equals 11 plus 3?",
+        "start": 48.976,
+        "end": 54.345
+      },
+      {
+        "text": "Wait, wait, wait.",
+        "start": 54.785,
+        "end": 55.526
+      },
+      {
+        "text": "3 minus",
+        "start": 55.547,
+        "end": 63.94
+      },
+      {
+        "text": " 11, 8, 5.",
+        "start": 69.59,
+        "end": 75.338
+      },
+      {
+        "text": "3 minus 11 equals 3.",
+        "start": 75.358,
+        "end": 83.008
+      },
+      {
+        "text": "OK, no.",
+        "start": 86.153,
+        "end": 86.954
+      },
+      {
+        "text": "1, 2, 13 equals 1.",
+        "start": 86.974,
+        "end": 97.909
+      },
+      {
+        "text": " Minus three.",
+        "start": 99.138,
+        "end": 100.98
+      },
+      {
+        "text": "No, dude.",
+        "start": 101.381,
+        "end": 102.041
+      },
+      {
+        "text": "God damn it.",
+        "start": 104.885,
+        "end": 105.566
+      },
+      {
+        "text": "Negative three.",
+        "start": 107.788,
+        "end": 109.61
+      },
+      {
+        "text": "What the fuck?",
+        "start": 109.71,
+        "end": 110.692
+      },
+      {
+        "text": "This is crazy.",
+        "start": 110.772,
+        "end": 111.733
+      },
+      {
+        "text": "Jesus Christ, man.",
+        "start": 113.835,
+        "end": 114.997
+      },
+      {
+        "text": "What the fuck?",
+        "start": 115.017,
+        "end": 117.62
+      },
+      {
+        "text": "I don't know what to do, dude.",
+        "start": 118.16,
+        "end": 119.362
+      },
+      {
+        "text": "Twelve.",
+        "start": 119.402,
+        "end": 120.844
+      },
+      {
+        "text": "I cannot figure this out.",
+        "start": 122.466,
+        "end": 123.987
+      },
+      {
+        "text": "I'm sorry.",
+        "start": 124.488,
+        "end": 124.989
+      },
+      {
+        "text": "I can't.",
+        "start": 127.051,
+        "end": 127.512
+      },
+      {
+        "text": "I don't know what to do.",
+        "start": 127.952,
+        "end": 128.773
+      },
+      {
+        "text": " This is fucking sad.",
+        "start": 131.825,
+        "end": 132.966
+      },
+      {
+        "text": "I can't believe I can't do this.",
+        "start": 134.068,
+        "end": 135.529
+      },
+      {
+        "text": "This is fucking sad.",
+        "start": 136.01,
+        "end": 136.911
+      },
+      {
+        "text": "This is really sad, dude.",
+        "start": 138.073,
+        "end": 139.134
+      },
+      {
+        "text": "4 equals 10 minus 3?",
+        "start": 139.154,
+        "end": 147.063
+      },
+      {
+        "text": "No, fuck.",
+        "start": 147.083,
+        "end": 153.311
+      },
+      {
+        "text": "Goddamn, I don't know.",
+        "start": 159.018,
+        "end": 160.92
+      },
+      {
+        "text": " T-plus?",
+        "start": 162.385,
+        "end": 164.312
+      },
+      {
+        "text": "This is impossible!",
+        "start": 164.332,
+        "end": 165.516
+      },
+      {
+        "text": "What?",
+        "start": 165.536,
+        "end": 165.636
+      },
+      {
+        "text": "What the fuck?",
+        "start": 166.72,
+        "end": 170.995
+      },
+      {
+        "text": " oh wait wait wait wait four equals wait wait wait wait minus wait wait wait three equals",
+        "start": 195.224,
+        "end": 221.367
+      },
+      {
+        "text": " God damn it.",
+        "start": 229.717,
+        "end": 230.603
+      },
+      {
+        "text": "God damn it What this is hard",
+        "start": 231.912,
+        "end": 239.845
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " 3 equals 10. 11 minus 3? No. That's not it. So 13 equals 1 minus 3? No. 11. What the fuck? 2 equals 11 minus 3. What? 13 equals 11 plus 3? Wait, wait, wait. 3 minus 11, 8, 5. 3 minus 11 equals 3. OK, no. 1, 2, 13 equals 1. Minus three. No, dude. God damn it. Negative three. What the fuck? This is crazy. Jesus Christ, man. What the fuck? I don't know what to do, dude. Twelve. I cannot figure this out. I'm sorry. I can't. I don't know what to do. This is fucking sad. I can't believe I can't do this. This is fucking sad. This is really sad, dude. 4 equals 10 minus 3? No, fuck. Goddamn, I don't know. T-plus? This is impossible! What? What the fuck? oh wait wait wait wait four equals wait wait wait wait minus wait wait wait three equals God damn it. God damn it What this is hard"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "file": "data/recordings/sub_91054a8a7eed/trial_1.wav",
+  "with_timestamps": {
+    "text": " Okay, so let's see, I have 9 equals 7 plus 4.Okay, so 9 equals 7 plus 4, so let me see what I can do. I move one of those over there, nine equals seven plus three.That's not correct.Or sorry, nine equals six plus three.So that is correct.Okay.So I'm going to move this match stick over here.So, um, we're going to go with nine, oops, equals six plus, um, Actually, I lied because I can't write that like that.I don't believe.Okay, let's see what else I can do. 8 plus 4?No, 11 equals 7 plus 4.That is correct.Okay, so actually makes more sense.11 equals 7 plus 4.There we go.",
+    "segments": [
+      {
+        "text": " Okay, so let's see, I have 9 equals 7 plus 4.",
+        "start": 1.263,
+        "end": 8.067
+      },
+      {
+        "text": "Okay, so 9 equals 7 plus 4, so let me see what I can do.",
+        "start": 9.752,
+        "end": 13.686
+      },
+      {
+        "text": " I move one of those over there, nine equals seven plus three.",
+        "start": 15.303,
+        "end": 21.671
+      },
+      {
+        "text": "That's not correct.",
+        "start": 21.751,
+        "end": 22.632
+      },
+      {
+        "text": "Or sorry, nine equals six plus three.",
+        "start": 23.053,
+        "end": 27.018
+      },
+      {
+        "text": "So that is correct.",
+        "start": 27.338,
+        "end": 28.039
+      },
+      {
+        "text": "Okay.",
+        "start": 28.059,
+        "end": 28.179
+      },
+      {
+        "text": "So I'm going to move this match stick over here.",
+        "start": 28.219,
+        "end": 29.981
+      },
+      {
+        "text": "So, um, we're going to go with nine, oops, equals six plus, um,",
+        "start": 30.042,
+        "end": 42.357
+      },
+      {
+        "text": " Actually, I lied because I can't write that like that.",
+        "start": 46.522,
+        "end": 49.671
+      },
+      {
+        "text": "I don't believe.",
+        "start": 50.233,
+        "end": 50.855
+      },
+      {
+        "text": "Okay, let's see what else I can do.",
+        "start": 51.617,
+        "end": 58.337
+      },
+      {
+        "text": " 8 plus 4?",
+        "start": 60.629,
+        "end": 64.197
+      },
+      {
+        "text": "No, 11 equals 7 plus 4.",
+        "start": 64.377,
+        "end": 69.789
+      },
+      {
+        "text": "That is correct.",
+        "start": 69.889,
+        "end": 70.451
+      },
+      {
+        "text": "Okay, so actually makes more sense.",
+        "start": 70.471,
+        "end": 73.998
+      },
+      {
+        "text": "11 equals 7 plus 4.",
+        "start": 74.018,
+        "end": 79.029
+      },
+      {
+        "text": "There we go.",
+        "start": 79.069,
+        "end": 80.713
+      }
+    ]
+  },
+  "without_timestamps": {
+    "text": " Okay, so let's see, I have 9 equals 7 plus 4. Okay, so 9 equals 7 plus 4, so let me see what I can do. I move one of those over there, nine equals seven plus three. That's not correct. Or sorry, nine equals six plus three. So that is correct. Okay. So I'm going to move this match stick over here. So, um, we're going to go with nine, oops, equals six plus, um, Actually, I lied because I can't write that like that. I don't believe. Okay, let's see what else I can do. 8 plus 4? No, 11 equals 7 plus 4. That is correct. Okay, so actually makes more sense. 11 equals 7 plus 4. There we go."
+  }
+}
