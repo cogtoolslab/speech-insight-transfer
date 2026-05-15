@@ -1,0 +1,184 @@
+[
+{
+    "type": "value-loose-chunk",
+    "input": "III = IX - IV",
+    "true_outputs": [
+        "III = IX - VI"
+    ]
+},
+{
+    "type": "value-loose-chunk",
+    "input": "IV = IV - II",
+    "true_outputs": [
+        "IV = VI - II"
+    ]
+},
+{
+    "type": "value-loose-chunk",
+    "input": "VIII = II + IV",
+    "true_outputs": [
+        "VIII = II + VI",
+        "VIII = III + V",
+        "VII = III + IV"
+    ]
+},
+{
+    "type": "value-loose-chunk",
+    "input": "II = XI - VII",
+    "true_outputs": [
+        "III = X - VII",
+        "II = IX - VII",
+        "II = X - VIII"
+    ]
+},
+{
+    "type": "value-loose-chunk",
+    "input": "IX = VII + IV",
+    "true_outputs": [
+        "XI = VII + IV"
+    ]
+},
+{
+    "type": "value-tight-chunk",
+    "input": "VII = IX + III",
+    "true_outputs": [
+        "XII = IX + III",
+        "VII = IV + III"
+    ]
+},
+{
+    "type": "value-tight-chunk",
+    "input": "XI = IV + II",
+    "true_outputs": [
+        "VI = IV + II",
+        "XI = IX + II"
+    ]
+},
+{
+    "type": "value-tight-chunk",
+    "input": "II = IX - II",
+    "true_outputs": [
+        "II = IV - II"
+    ]
+},
+{
+    "type": "value-tight-chunk",
+    "input": "III = XI - III",
+    "true_outputs": [
+        "III = VI - III"
+    ]
+},
+{
+    "type": "value-tight-chunk",
+    "input": "IV = XI - II",
+    "true_outputs": [
+        "IX = XI - II",
+        "IV = VI - II"
+    ]
+},
+{
+    "type": "hybrid",
+    "input": "VI = VI + I",
+    "true_outputs": [
+        "VI = VII - I"
+    ]
+},
+{
+    "type": "hybrid",
+    "input": "IV = VII + IV",
+    "true_outputs": [
+        "IV = VIII - IV"
+    ]
+},
+{
+    "type": "hybrid",
+    "input": "VII = XII + VI",
+    "true_outputs": [
+        "VII = XIII - VI"
+    ]
+},
+{
+    "type": "hybrid",
+    "input": "III = XI + IX",
+    "true_outputs": [
+        "III = XII - IX"
+    ]
+},
+{
+    "type": "hybrid",
+    "input": "IX = XII + IV",
+    "true_outputs": [
+        "IX = XIII - IV"
+    ]
+},
+{
+    "type": "tautological",
+    "input": "VIII = VIII + VIII",
+    "true_outputs": [
+        "VIII = VIII = VIII"
+    ]
+},
+{
+    "type": "tautological",
+    "input": "XII = XII + XII",
+    "true_outputs": [
+        "XII = XII = XII"
+    ]
+},
+{
+    "type": "tautological",
+    "input": "IX = IX + IX",
+    "true_outputs": [
+        "IX = IX = IX"
+    ]
+},
+{
+    "type": "tautological",
+    "input": "III = III + III",
+    "true_outputs": [
+        "III = III = III"
+    ]
+},
+{
+    "type": "tautological",
+    "input": "IV = IV + IV",
+    "true_outputs": [
+        "IV = IV = IV"
+    ]
+},
+{
+    "type": "operator",
+    "input": "X = VII - III",
+    "true_outputs": [
+        "X - VII = III"
+    ]
+},
+{
+    "type": "operator",
+    "input": "VII = III - IV",
+    "true_outputs": [
+        "VII - III = IV"
+    ]
+},
+{
+    "type": "operator",
+    "input": "VI = IV - II",
+    "true_outputs": [
+        "VI - IV = II"
+    ]
+},
+{
+    "type": "operator",
+    "input": "XIII = IX - IV",
+    "true_outputs": [
+        "XIII - IX = IV"
+    ]
+},
+{
+    "type": "operator",
+    "input": "XIII = VII - VI",
+    "true_outputs": [
+        "XIII - VII = VI"
+    ]
+}
+]

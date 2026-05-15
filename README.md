@@ -2,8 +2,7 @@
 
 Code and anonymized data for:
 
-[**Leveraging Speech to Identify Signatures of Insight and Transfer in Problem Solving**](https://arxiv.org/abs/2605.12970)  
-Linas Nasvytis and Judith E. Fan
+[**Linas Nasvytis, Judith E. Fan, "Leveraging Speech to Identify Signatures of Insight and Transfer in Problem Solving" (2026)**](https://arxiv.org/abs/2605.12970)
 
 To be presented at CogSci 2026.
 

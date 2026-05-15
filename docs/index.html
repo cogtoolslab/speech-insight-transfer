@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Leveraging Speech to Identify Signatures of Insight and Transfer</title>
+    <meta
+      name="description"
+      content="Project page for a CogSci 2026 paper using think-aloud speech and natural language processing to study signatures of insight and transfer."
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="brand" href="#">Speech, Insight, Transfer</a>
+        <div class="nav-links">
+          <a href="#task">Task</a>
+          <a href="#examples">Examples</a>
+          <a href="#findings">Findings</a>
+          <a href="#resources">Links</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">CogSci 2026</p>
+          <h1 id="page-title">Leveraging Speech to Identify Signatures of Insight and Transfer in Problem Solving</h1>
+          <p class="lede">
+            We use think-aloud speech and state-of-the-art natural language processing tools to study observable signatures of insight and transfer in problem solving.
+          </p>
+          <p class="authors">Linas Nasvytis and Judith E. Fan</p>
+          <div class="actions" aria-label="Project links">
+            <a class="button button-primary" href="https://arxiv.org/pdf/2605.12970" target="_blank" rel="noreferrer">Read Paper</a>
+            <a class="button button-secondary" href="https://github.com/cogtoolslab/speech-insight-transfer" target="_blank" rel="noreferrer">View Code</a>
+          </div>
+        </div>
+        <figure class="hero-media">
+          <p class="media-label">Example Problem</p>
+          <img src="assets/loose_chunk.png" alt="Matchstick equation IV equals IV minus II.">
+        </figure>
+      </section>
+
+      <section class="section-band" id="task" aria-labelledby="task-title">
+        <div class="section-header">
+          <p class="eyebrow">Task Design</p>
+          <h2 id="task-title">Using Speech to Study Signatures of Insight and Transfer</h2>
+        </div>
+        <div class="two-column">
+          <p>
+            Insight problems often require people to change how they represent the task. Because that shift is hard to observe directly, we use the first correct solution as a proxy for a candidate restructuring event.
+          </p>
+          <p>
+            Building on classic matchstick-arithmetic tasks, participants solved five problems while thinking aloud. Some saw the same solution structure repeat, while others saw a new structure on each trial, letting us ask whether speech changes when a solution structure can be reused.
+          </p>
+        </div>
+      </section>
+
+      <section class="examples" id="examples" aria-labelledby="examples-title">
+        <div class="section-header">
+          <p class="eyebrow">Examples</p>
+          <h2 id="examples-title">Move One Matchstick</h2>
+        </div>
+
+        <div class="example-grid">
+          <article class="example-card" data-example>
+            <figure class="problem-frame">
+              <img class="problem-image" src="assets/loose_chunk.png" alt="Easy matchstick equation: IV equals IV minus II.">
+              <img class="solution-image" src="assets/loose_chunk.gif" alt="Animated solution showing the right side becoming VI minus II." hidden>
+              <figcaption>Warm-up: a quick value-changing move.</figcaption>
+            </figure>
+            <div class="example-body">
+              <h3>Warm-Up Problem</h3>
+              <p>One matchstick move turns the right side into the correct value.</p>
+              <button class="reveal-button" type="button" aria-expanded="false">Show Solution</button>
+            </div>
+          </article>
+
+          <article class="example-card" data-example>
+            <figure class="problem-frame">
+              <img class="problem-image" src="assets/tautological.png" alt="Hard matchstick equation: III equals III plus III.">
+              <img class="solution-image" src="assets/tautological.gif" alt="Animated solution showing the plus sign becoming an equals sign." hidden>
+              <figcaption>Harder: the operator itself changes role.</figcaption>
+            </figure>
+            <div class="example-body">
+              <h3>Harder Problem</h3>
+              <p>The solution comes from changing the relation between the terms, not the numerals.</p>
+              <button class="reveal-button" type="button" aria-expanded="false">Show Solution</button>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section-band findings" id="findings" aria-labelledby="findings-title">
+        <div class="section-header">
+          <p class="eyebrow">Main Idea</p>
+          <h2 id="findings-title">Speech Tracks More Than Whether People Are Right</h2>
+          <p class="section-summary">
+            Very briefly: signatures of insight appeared around the first correct solution, and signatures of transfer appeared in how speech patterns continued afterward.
+          </p>
+        </div>
+        <div class="finding-list">
+          <article>
+            <h3>Insight Signatures</h3>
+            <p>Around the first correct solution, participants spoke more, said different things, and considered fewer distinct candidate moves.</p>
+          </article>
+          <article>
+            <h3>Transfer Signatures</h3>
+            <p>When the same problem type repeated, participants kept changing how much, how fast, and what they said after success.</p>
+          </article>
+          <article>
+            <h3>NLP Evidence</h3>
+            <p>Embedding-based classifiers distinguished speech from different problem-solving phases, showing that what participants said varied around first success.</p>
+          </article>
+          <article>
+            <h3>Recognizing Type</h3>
+            <p>Only when structure repeated did participants increasingly name or categorize the problem type, consistent with transfer.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="resources" id="resources" aria-labelledby="resources-title">
+        <div class="resource-copy">
+          <p class="eyebrow">Resources</p>
+          <h2 id="resources-title">Paper and Code</h2>
+          <p>
+            The paper describes the experiment, speech analyses, NLP classifiers, and reasoning-move annotations. The repository contains anonymized data, analysis notebooks, and helper scripts for speech processing.
+          </p>
+        </div>
+        <div class="resource-links">
+          <a class="button button-primary" href="https://arxiv.org/pdf/2605.12970" target="_blank" rel="noreferrer">Paper PDF</a>
+          <a class="button button-secondary" href="https://github.com/cogtoolslab/speech-insight-transfer" target="_blank" rel="noreferrer">GitHub Repository</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Leveraging Speech to Identify Signatures of Insight and Transfer in Problem Solving. To be presented at CogSci 2026.</p>
+    </footer>
+
+    <script src="site.js"></script>
+  </body>
+</html>
