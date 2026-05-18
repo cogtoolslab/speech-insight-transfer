@@ -5,3 +5,7 @@ videos/
 __pycache__/
 *.pyc
 *__pycache__
+analysis/results/
+.virtual_documents
+anaconda_projects
+figures/
